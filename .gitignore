@@ -5,3 +5,4 @@ node_modules/
 .vercel/
 dist-scripts/
 data/pending-analysis.json
+.vercel
