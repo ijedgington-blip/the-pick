@@ -6,7 +6,6 @@ import { updateYesterdaysResult } from './update-result'
 config({ path: path.join(process.cwd(), '.env.local') })
 
 const ODDS_API_KEY = process.env.ODDS_API_KEY!
-const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY!
 
 const SPORTS = [
   'soccer_epl',
@@ -34,12 +33,7 @@ interface OddsFixture {
   }>
 }
 
-interface FormData {
-  last5: string[]
-  h2h: string[]
-}
-
-export interface FixtureWithForm {
+export interface Fixture {
   match: string
   league: string
   kickoff: string
@@ -51,8 +45,6 @@ export interface FixtureWithForm {
   homeImplied: number
   drawImplied: number
   awayImplied: number
-  homeForm: FormData
-  awayForm: FormData
 }
 
 async function fetchTodaysFixtures(): Promise<OddsFixture[]> {
@@ -86,81 +78,6 @@ function extractLadbrokesOdds(fixture: OddsFixture): { home: number; draw: numbe
   return { home: homeOutcome.price, draw: drawOutcome.price, away: awayOutcome.price }
 }
 
-async function fetchTeamForm(teamName: string): Promise<FormData> {
-  try {
-    const searchRes = await fetch(
-      `https://v3.football.api-sports.io/teams?search=${encodeURIComponent(teamName)}`,
-      { headers: { 'x-apisports-key': API_FOOTBALL_KEY } }
-    )
-    const searchData = await searchRes.json() as { response: Array<{ team: { id: number } }> }
-    if (!searchData.response.length) return { last5: [], h2h: [] }
-
-    const teamId = searchData.response[0].team.id
-    const fixturesRes = await fetch(
-      `https://v3.football.api-sports.io/fixtures?team=${teamId}&last=5&status=FT`,
-      { headers: { 'x-apisports-key': API_FOOTBALL_KEY } }
-    )
-    const fixturesData = await fixturesRes.json() as {
-      response: Array<{
-        teams: { home: { id: number }; away: { id: number } }
-        goals: { home: number | null; away: number | null }
-      }>
-    }
-
-    const last5 = fixturesData.response.map(f => {
-      const isHome = f.teams.home.id === teamId
-      const homeGoals = f.goals.home ?? 0
-      const awayGoals = f.goals.away ?? 0
-      if (homeGoals === awayGoals) return 'D'
-      if (isHome) return homeGoals > awayGoals ? 'W' : 'L'
-      return awayGoals > homeGoals ? 'W' : 'L'
-    })
-
-    return { last5, h2h: [] }
-  } catch {
-    return { last5: [], h2h: [] }
-  }
-}
-
-async function fetchH2H(homeTeam: string, awayTeam: string): Promise<string[]> {
-  try {
-    const [homeSearch, awaySearch] = await Promise.all([
-      fetch(`https://v3.football.api-sports.io/teams?search=${encodeURIComponent(homeTeam)}`, {
-        headers: { 'x-apisports-key': API_FOOTBALL_KEY },
-      }).then(r => r.json()) as Promise<{ response: Array<{ team: { id: number } }> }>,
-      fetch(`https://v3.football.api-sports.io/teams?search=${encodeURIComponent(awayTeam)}`, {
-        headers: { 'x-apisports-key': API_FOOTBALL_KEY },
-      }).then(r => r.json()) as Promise<{ response: Array<{ team: { id: number } }> }>,
-    ])
-
-    if (!homeSearch.response.length || !awaySearch.response.length) return []
-    const homeId = homeSearch.response[0].team.id
-    const awayId = awaySearch.response[0].team.id
-
-    const h2hRes = await fetch(
-      `https://v3.football.api-sports.io/fixtures/headtohead?h2h=${homeId}-${awayId}&last=5`,
-      { headers: { 'x-apisports-key': API_FOOTBALL_KEY } }
-    )
-    const h2hData = await h2hRes.json() as {
-      response: Array<{
-        teams: { home: { id: number } }
-        goals: { home: number | null; away: number | null }
-      }>
-    }
-
-    return h2hData.response.map(f => {
-      const homeGoals = f.goals.home ?? 0
-      const awayGoals = f.goals.away ?? 0
-      if (homeGoals === awayGoals) return 'D'
-      return f.teams.home.id === homeId
-        ? homeGoals > awayGoals ? 'H' : 'A'
-        : awayGoals > homeGoals ? 'H' : 'A'
-    })
-  } catch {
-    return []
-  }
-}
-
 async function main(): Promise<void> {
   const today = new Date().toISOString().split('T')[0]
 
@@ -172,15 +89,27 @@ async function main(): Promise<void> {
   console.log("Fetching today's fixtures from The Odds API...")
   const rawFixtures = await fetchTodaysFixtures()
 
-  const fixturesWithOdds = rawFixtures
+  const fixtures: Fixture[] = rawFixtures
     .map(f => {
       const odds = extractLadbrokesOdds(f)
       if (!odds) return null
-      return { fixture: f, odds }
+      return {
+        match: `${f.home_team} vs ${f.away_team}`,
+        league: f.sport_title,
+        kickoff: f.commence_time,
+        homeTeam: f.home_team,
+        awayTeam: f.away_team,
+        homeOdds: odds.home,
+        drawOdds: odds.draw,
+        awayOdds: odds.away,
+        homeImplied: Math.round((1 / odds.home) * 1000) / 10,
+        drawImplied: Math.round((1 / odds.draw) * 1000) / 10,
+        awayImplied: Math.round((1 / odds.away) * 1000) / 10,
+      }
     })
-    .filter((x): x is NonNullable<typeof x> => x !== null)
+    .filter((x): x is Fixture => x !== null)
 
-  if (!fixturesWithOdds.length) {
+  if (!fixtures.length) {
     console.log('No Ladbrokes fixtures today.')
     fs.writeFileSync(
       path.join(process.cwd(), 'data', 'pending-analysis.json'),
@@ -190,40 +119,13 @@ async function main(): Promise<void> {
     return
   }
 
-  console.log(`Fetching form data for ${fixturesWithOdds.length} fixtures...`)
-  const fixturesWithForm: FixtureWithForm[] = await Promise.all(
-    fixturesWithOdds.map(async ({ fixture, odds }) => {
-      const [homeForm, awayForm, h2h] = await Promise.all([
-        fetchTeamForm(fixture.home_team),
-        fetchTeamForm(fixture.away_team),
-        fetchH2H(fixture.home_team, fixture.away_team),
-      ])
-      homeForm.h2h = h2h
-      return {
-        match: `${fixture.home_team} vs ${fixture.away_team}`,
-        league: fixture.sport_title,
-        kickoff: fixture.commence_time,
-        homeTeam: fixture.home_team,
-        awayTeam: fixture.away_team,
-        homeOdds: odds.home,
-        drawOdds: odds.draw,
-        awayOdds: odds.away,
-        homeImplied: Math.round((1 / odds.home) * 1000) / 10,
-        drawImplied: Math.round((1 / odds.draw) * 1000) / 10,
-        awayImplied: Math.round((1 / odds.away) * 1000) / 10,
-        homeForm,
-        awayForm,
-      }
-    })
-  )
-
-  const output = { date: today, fixtures: fixturesWithForm }
+  const output = { date: today, fixtures }
   fs.writeFileSync(
     path.join(process.cwd(), 'data', 'pending-analysis.json'),
     JSON.stringify(output, null, 2)
   )
-  console.log(`Written: data/pending-analysis.json (${fixturesWithForm.length} fixtures)`)
-  console.log('Now ask Claude Code to analyse and generate the pick.')
+  console.log(`Written: data/pending-analysis.json (${fixtures.length} fixtures)`)
+  console.log('Now ask Claude Code to analyse and generate the picks.')
 }
 
 main().catch(err => {
