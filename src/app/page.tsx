@@ -42,9 +42,7 @@ function PickCard({ pick, featured }: { pick: Pick; featured: boolean }) {
           </span>
         )}
       </div>
-      {featured && (
-        <p className="text-neutral-300 leading-relaxed text-sm mt-3">{pick.reasoning}</p>
-      )}
+      <p className={`leading-relaxed mt-3 ${featured ? 'text-neutral-300 text-sm' : 'text-neutral-500 text-xs'}`}>{pick.reasoning}</p>
     </div>
   )
 }
