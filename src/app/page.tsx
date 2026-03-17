@@ -2,6 +2,22 @@ import { readTodaysBrief } from '@/lib/picks'
 import Link from 'next/link'
 import type { Pick } from '@/types/pick'
 
+function toFractional(decimal: number): string {
+  const value = decimal - 1
+  // Try denominators 1–20 to find a clean fraction
+  for (let d = 1; d <= 20; d++) {
+    const n = Math.round(value * d)
+    if (Math.abs(n / d - value) < 0.01) {
+      const gcd = (a: number, b: number): number => b === 0 ? a : gcd(b, a % b)
+      const g = gcd(n, d)
+      const num = n / g, den = d / g
+      return den === 1 ? `${num}/1` : `${num}/${den}`
+    }
+  }
+  // Fallback: round to nearest whole fraction
+  return `${Math.round(value)}/1`
+}
+
 function ConfidenceBadge({ level }: { level: 'high' | 'medium' | 'low' }) {
   const styles = {
     high: 'bg-accent/10 text-accent border-accent/30',
@@ -30,7 +46,8 @@ function PickCard({ pick, featured }: { pick: Pick; featured: boolean }) {
         {pick.pick_label}
       </p>
       <div className="flex items-baseline gap-3 mb-3">
-        <span className={`font-mono font-bold text-accent ${featured ? 'text-2xl' : 'text-xl'}`}>{pick.odds}</span>
+        <span className={`font-mono font-bold text-accent ${featured ? 'text-2xl' : 'text-xl'}`}>{toFractional(pick.odds)}</span>
+        <span className="font-mono text-xs text-neutral-600">({pick.odds})</span>
         <span className="font-mono text-xs text-neutral-500">Ladbrokes</span>
         <span className="font-mono text-xs text-neutral-500">edge +{pick.edge.toFixed(1)}%</span>
       </div>
@@ -85,7 +102,8 @@ export default function HomePage() {
             <div className="rounded border border-border bg-surface p-4">
               <p className="font-mono text-xs text-neutral-500 uppercase tracking-widest mb-2">Accumulator</p>
               <div className="flex items-baseline gap-3">
-                <span className="font-mono text-2xl font-bold text-accent">{brief.acca_odds.toFixed(2)}</span>
+                <span className="font-mono text-2xl font-bold text-accent">{toFractional(brief.acca_odds)}</span>
+                <span className="font-mono text-xs text-neutral-600">({brief.acca_odds.toFixed(2)})</span>
                 <span className="font-mono text-sm text-neutral-500">combined odds</span>
               </div>
               <p className="font-mono text-xs text-neutral-600 mt-1">
