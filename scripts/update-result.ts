@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import type { Pick } from '../src/types/pick'
+import type { Pick, DailyBrief } from '../src/types/pick'
 
 const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY!
 const BASE_URL = 'https://v3.football.api-sports.io'
@@ -46,7 +46,7 @@ async function getFixtureResult(fixtureId: number): Promise<{ home: number; away
 export async function updateResult(pick: Pick): Promise<Pick> {
   if (pick.settled) return pick
 
-  const fixtureId = await searchFixture(pick.match, pick.date)
+  const fixtureId = await searchFixture(pick.match, pick.kickoff.split('T')[0])
   if (!fixtureId) {
     console.log(`Could not find fixture for: ${pick.match}`)
     return pick
@@ -77,6 +77,32 @@ export async function updateResult(pick: Pick): Promise<Pick> {
   }
 }
 
+export async function updateBriefResult(brief: DailyBrief): Promise<DailyBrief> {
+  if (brief.picks.every(p => p.settled)) return brief
+
+  // Settle each pick
+  const updatedPicks = await Promise.all(brief.picks.map(p => updateResult(p)))
+
+  // Derive acca result: win only if all picks win
+  const allSettled = updatedPicks.every(p => p.settled)
+  let accaResult: 'win' | 'loss' | null = null
+  let accaReturn: number | null = null
+
+  if (allSettled && brief.acca_available) {
+    accaResult = updatedPicks.every(p => p.result === 'win') ? 'win' : 'loss'
+    accaReturn = accaResult === 'win' && brief.acca_odds !== null
+      ? Math.round(10 * brief.acca_odds * 100) / 100
+      : 0
+  }
+
+  return {
+    ...brief,
+    picks: updatedPicks,
+    acca_result: accaResult,
+    acca_return: accaReturn,
+  }
+}
+
 export async function updateYesterdaysResult(): Promise<void> {
   const yesterday = new Date()
   yesterday.setDate(yesterday.getDate() - 1)
@@ -84,7 +110,7 @@ export async function updateYesterdaysResult(): Promise<void> {
   const filePath = path.join(process.cwd(), 'data', 'briefs', `${dateStr}.json`)
 
   if (!fs.existsSync(filePath)) {
-    console.log(`No pick file for ${dateStr}`)
+    console.log(`No brief file for ${dateStr}`)
     return
   }
 
@@ -94,14 +120,20 @@ export async function updateYesterdaysResult(): Promise<void> {
     return
   }
 
-  const pick = raw as Pick
-  if (pick.settled) {
-    console.log(`${dateStr} already settled, skipping`)
+  const brief = raw as DailyBrief
+  if (brief.picks.every(p => p.settled)) {
+    console.log(`${dateStr} already fully settled, skipping`)
     return
   }
 
-  console.log(`Updating result for ${dateStr}: ${pick.match}`)
-  const updated = await updateResult(pick)
+  console.log(`Updating results for ${dateStr}...`)
+  const updated = await updateBriefResult(brief)
   fs.writeFileSync(filePath, JSON.stringify(updated, null, 2))
-  console.log(`Result: ${updated.result ?? 'not yet available'} | Return: £${updated.return ?? '-'}`)
+
+  for (const p of updated.picks) {
+    console.log(`  Pick ${p.rank}: ${p.pick_label} @ ${p.odds} → ${p.result ?? 'pending'}`)
+  }
+  if (updated.acca_available) {
+    console.log(`  Acca (${updated.acca_odds}x): ${updated.acca_result ?? 'pending'} | Return: £${updated.acca_return ?? '-'}`)
+  }
 }
