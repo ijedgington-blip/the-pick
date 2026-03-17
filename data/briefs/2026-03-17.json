@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-17",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Arsenal vs Bayer Leverkusen",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-03-17T20:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw — Arsenal vs Leverkusen",
+      "odds": 5.75,
+      "implied_prob": 17.4,
+      "our_prob": 23.0,
+      "edge": 5.6,
+      "kelly_fraction": 0.006,
+      "reasoning": "Ladbrokes are pricing Arsenal at 1.28 — a 78% win probability that looks aggressive for a UCL knockout against Leverkusen, the reigning Bundesliga champions and one of Europe's most consistent teams over the past two seasons. In high-stakes knockout football at this level, draws are structurally underpriced. We estimate true draw probability around 23% vs 17.4% implied, giving 5.6% edge at 5.75.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Manchester City vs Real Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-03-17T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Real Madrid to win",
+      "odds": 5.75,
+      "implied_prob": 17.4,
+      "our_prob": 22.0,
+      "edge": 4.6,
+      "kelly_fraction": 0.005,
+      "reasoning": "Real Madrid's UCL pedigree is routinely undervalued by domestic bookmakers. With 15 European Cups and a history of winning away at the biggest clubs, 17.4% implied understates their chances in a single-leg contest. Man City are formidable at home but Real Madrid in Europe at 5.75 offers genuine value.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Chelsea vs Paris Saint Germain",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-03-17T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "PSG to win",
+      "odds": 3.0,
+      "implied_prob": 33.3,
+      "our_prob": 37.0,
+      "edge": 3.7,
+      "kelly_fraction": 0.009,
+      "reasoning": "PSG consistently outperform their English-market odds in UCL away fixtures. Chelsea at home at 2.05 may reflect recency bias more than true UCL quality differential at this stage. We estimate PSG's true win probability closer to 37%, giving 3.7% edge at 3.0.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 99.19,
+  "acca_result": null,
+  "acca_return": null
+}

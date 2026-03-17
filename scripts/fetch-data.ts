@@ -1,6 +1,9 @@
 import fs from 'fs'
 import path from 'path'
+import { config } from 'dotenv'
 import { updateYesterdaysResult } from './update-result'
+
+config({ path: path.join(process.cwd(), '.env.local') })
 
 const ODDS_API_KEY = process.env.ODDS_API_KEY!
 const API_FOOTBALL_KEY = process.env.API_FOOTBALL_KEY!
@@ -57,7 +60,7 @@ async function fetchTodaysFixtures(): Promise<OddsFixture[]> {
   const allFixtures: OddsFixture[] = []
 
   for (const sport of SPORTS) {
-    const url = `https://api.the-odds-api.com/v4/sports/${sport}/odds/?apiKey=${ODDS_API_KEY}&regions=uk&markets=h2h&bookmakers=ladbrokes`
+    const url = `https://api.the-odds-api.com/v4/sports/${sport}/odds/?apiKey=${ODDS_API_KEY}&regions=uk&markets=h2h&bookmakers=ladbrokes_uk`
     const res = await fetch(url)
     if (!res.ok) {
       console.log(`Failed to fetch ${sport}: ${res.status}`)
@@ -72,7 +75,7 @@ async function fetchTodaysFixtures(): Promise<OddsFixture[]> {
 }
 
 function extractLadbrokesOdds(fixture: OddsFixture): { home: number; draw: number; away: number } | null {
-  const ladbrokes = fixture.bookmakers.find(b => b.key === 'ladbrokes')
+  const ladbrokes = fixture.bookmakers.find(b => b.key === 'ladbrokes_uk')
   if (!ladbrokes) return null
   const h2h = ladbrokes.markets.find(m => m.key === 'h2h')
   if (!h2h) return null
