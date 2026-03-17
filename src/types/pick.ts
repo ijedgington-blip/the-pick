@@ -1,20 +1,29 @@
 export interface Pick {
-  date: string           // YYYY-MM-DD
-  match: string          // "Arsenal vs Chelsea"
+  rank: number              // 1, 2, or 3
+  match: string
   league: string
-  kickoff: string        // ISO timestamp
+  kickoff: string           // ISO timestamp
   pick: 'Home' | 'Draw' | 'Away'
-  pick_label: string     // "Arsenal to win"
+  pick_label: string
   odds: number
-  implied_prob: number   // percentage e.g. 47.6
-  our_prob: number       // percentage
-  edge: number           // our_prob - implied_prob
-  kelly_fraction: number // capped at 0.25
+  implied_prob: number
+  our_prob: number
+  edge: number
+  kelly_fraction: number
   reasoning: string
   confidence: 'high' | 'medium' | 'low'
   result: 'win' | 'loss' | null
-  return: number | null  // pounds returned on £10 stake
+  return: number | null     // £ returned on £10 stake for this pick
   settled: boolean
+}
+
+export interface DailyBrief {
+  date: string
+  picks: Pick[]             // 1–3 items, sorted by edge desc
+  acca_available: boolean   // picks.length >= 2
+  acca_odds: number | null  // product of all pick odds; null if not available
+  acca_result: 'win' | 'loss' | null
+  acca_return: number | null  // £10 * acca_odds on win, 0 on loss
   no_pick?: false
 }
 
@@ -24,13 +33,13 @@ export interface NoPick {
   reason: string
 }
 
-export type PickFile = Pick | NoPick
+export type BriefFile = DailyBrief | NoPick
 
 export interface PotStats {
-  currentPot: number    // current pot value in £
-  totalPicks: number    // number of picks made (excludes no-pick days)
+  currentPot: number
+  totalBets: number
   wins: number
   losses: number
-  winRate: number       // percentage
-  roi: number           // percentage
+  winRate: number   // percentage
+  roi: number       // percentage
 }
