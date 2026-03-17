@@ -1,55 +1,87 @@
 import fs from 'fs'
 import path from 'path'
-import type { Pick, NoPick, PickFile, PotStats } from '@/types/pick'
+import type { DailyBrief, NoPick, BriefFile, PotStats } from '@/types/pick'
 
 const BRIEFS_DIR = path.join(process.cwd(), 'data', 'briefs')
 const STAKE = 10
 
-export function readAllPicks(): PickFile[] {
+export function readAllBriefs(): BriefFile[] {
   if (!fs.existsSync(BRIEFS_DIR)) return []
   const files = fs.readdirSync(BRIEFS_DIR).filter(f => f.endsWith('.json'))
-  return files.map(f => JSON.parse(fs.readFileSync(path.join(BRIEFS_DIR, f), 'utf-8')) as PickFile)
+  return files.map(f => JSON.parse(fs.readFileSync(path.join(BRIEFS_DIR, f), 'utf-8')) as BriefFile)
 }
 
-export function readTodaysPick(date: string): PickFile | null {
+export function readTodaysBrief(date: string): BriefFile | null {
   const filePath = path.join(BRIEFS_DIR, `${date}.json`)
   if (!fs.existsSync(filePath)) return null
-  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as PickFile
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as BriefFile
 }
 
-export function sortPicksNewestFirst(picks: PickFile[]): PickFile[] {
-  return [...picks].sort((a, b) => b.date.localeCompare(a.date))
+export function sortBriefsNewestFirst(briefs: BriefFile[]): BriefFile[] {
+  return [...briefs].sort((a, b) => b.date.localeCompare(a.date))
 }
 
-export function computePotStats(picks: PickFile[]): PotStats {
-  const realPicks = picks.filter((p): p is Pick => !('no_pick' in p && p.no_pick))
+function isDailyBrief(b: BriefFile): b is DailyBrief {
+  return !('no_pick' in b && b.no_pick)
+}
+
+export function computeSinglePotStats(briefs: BriefFile[]): PotStats {
+  const realBriefs = briefs.filter(isDailyBrief)
   let pot = STAKE
   let wins = 0
   let losses = 0
   let totalStaked = 0
 
-  for (const pick of realPicks) {
-    if (!pick.settled) continue
+  for (const brief of realBriefs) {
+    const top = brief.picks[0]
+    if (!top || !top.settled) continue
     totalStaked += STAKE
-    if (pick.result === 'win') {
-      pot += (pick.odds - 1) * STAKE
+    if (top.result === 'win') {
+      pot += (top.odds - 1) * STAKE
       wins++
-    } else if (pick.result === 'loss') {
+    } else if (top.result === 'loss') {
       pot -= STAKE
       losses++
     }
   }
 
-  const totalPicks = realPicks.length
-  const settledPicks = wins + losses
-  const roi = totalStaked > 0 ? ((pot - STAKE) / totalStaked) * 100 : 0
-
+  const settledBets = wins + losses
   return {
     currentPot: Math.round(pot * 100) / 100,
-    totalPicks,
+    totalBets: realBriefs.length,
     wins,
     losses,
-    winRate: settledPicks > 0 ? Math.round((wins / settledPicks) * 100) : 0,
-    roi: Math.round(roi * 10) / 10,
+    winRate: settledBets > 0 ? Math.round((wins / settledBets) * 100) : 0,
+    roi: totalStaked > 0 ? Math.round(((pot - STAKE) / totalStaked) * 1000) / 10 : 0,
+  }
+}
+
+export function computeAccaPotStats(briefs: BriefFile[]): PotStats {
+  const accaBriefs = briefs.filter(isDailyBrief).filter(b => b.acca_available)
+  let pot = STAKE
+  let wins = 0
+  let losses = 0
+  let totalStaked = 0
+
+  for (const brief of accaBriefs) {
+    if (brief.acca_result === null || brief.acca_odds === null) continue
+    totalStaked += STAKE
+    if (brief.acca_result === 'win') {
+      pot += (brief.acca_odds - 1) * STAKE
+      wins++
+    } else {
+      pot -= STAKE
+      losses++
+    }
+  }
+
+  const settledBets = wins + losses
+  return {
+    currentPot: Math.round(pot * 100) / 100,
+    totalBets: accaBriefs.length,
+    wins,
+    losses,
+    winRate: settledBets > 0 ? Math.round((wins / settledBets) * 100) : 0,
+    roi: totalStaked > 0 ? Math.round(((pot - STAKE) / totalStaked) * 1000) / 10 : 0,
   }
 }
