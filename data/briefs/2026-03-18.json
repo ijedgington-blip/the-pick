@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-18",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Barcelona vs Newcastle United",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-03-18T17:45:00Z",
+      "pick": "Home",
+      "pick_label": "Barcelona to win",
+      "odds": 1.57,
+      "implied_prob": 63.7,
+      "our_prob": 68.0,
+      "edge": 4.3,
+      "kelly_fraction": 0.038,
+      "reasoning": "Barcelona have won every single home game this season — all 12 of them — and Camp Nou remains a fortress. Ladbrokes have this at 1.57 to account for the first-leg drama, but the aggregate is level at 1-1 and Barca equalised with a 96th-minute penalty last week. Newcastle have 10,000 fans travelling but only 3,000 with tickets — that's chaos outside the ground, not inspiration inside. Tonali is a doubt and Howe's side are being asked to do something they haven't managed all season: win away from home in the Champions League.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Liverpool vs Galatasaray",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-03-18T20:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw — Liverpool vs Galatasaray",
+      "odds": 6.0,
+      "implied_prob": 16.7,
+      "our_prob": 21.0,
+      "edge": 4.3,
+      "kelly_fraction": 0.004,
+      "reasoning": "Ladbrokes have Liverpool at 1.22 like this is a training exercise, but they've won once in their last four games and just stuttered to a 1-1 draw with Tottenham at Anfield. Galatasaray won the first leg 1-0 and are on a five-game winning streak — Osimhen has seven Champions League goals this season and will be perfectly content to absorb pressure and threaten on the counter. A draw suits Galatasaray just fine and eliminates Liverpool; at 6/1, that outcome is being criminally underpriced.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Southampton vs Norwich City",
+      "league": "Championship",
+      "kickoff": "2026-03-18T19:45:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 54.0,
+      "edge": 2.7,
+      "kelly_fraction": 0.014,
+      "reasoning": "Southampton are on a 12-game unbeaten run, sit six points clear of Norwich in the table, and have kept clean sheets in three of their last four home wins. Yes, Norwich nicked the reverse fixture in December, but the Canaries are coming to a side that has found another gear entirely since then. Ladbrokes treating this as a coin flip is generous to the visitors.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 18.37,
+  "acca_result": null,
+  "acca_return": null
+}
