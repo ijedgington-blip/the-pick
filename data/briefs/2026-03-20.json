@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-20",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "RB Leipzig vs TSG Hoffenheim",
+      "league": "Bundesliga",
+      "kickoff": "2026-03-20T19:30:00Z",
+      "pick": "Home",
+      "pick_label": "RB Leipzig to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 57.0,
+      "edge": 4.6,
+      "kelly_fraction": 0.025,
+      "reasoning": "Leipzig need this win to stay in the Champions League conversation and they know it — fifth place doesn't get you into the big show. Hoffenheim arrive in a proper mess: Machida's cruciate injury takes out their defensive anchor, Gendrey is missing at right back, and Hlozek's calf rules out the striker. Ladbrokes have Leipzig at 52% but with home advantage, CL desperation, and Hoffenheim shipping bodies like it's transfer deadline day, we're backing the home side.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Villarreal vs Real Sociedad",
+      "league": "La Liga",
+      "kickoff": "2026-03-20T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Villarreal to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 55.0,
+      "edge": 3.7,
+      "kelly_fraction": 0.020,
+      "reasoning": "Real Sociedad are making the trip to Castellon without Kubo (injured), Turrientes (suspended), Odriozola, Munoz, and Ruperez — that's most of their good players. Villarreal are fourth in La Liga and chasing European qualification with genuine urgency, while Sociedad are sitting seventh with nothing more than pride on the line. Ladbrokes are acting like this is 50-50. It isn't.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Bournemouth vs Manchester United",
+      "league": "Premier League",
+      "kickoff": "2026-03-20T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Manchester United to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 52.0,
+      "edge": 3.2,
+      "kelly_fraction": 0.015,
+      "reasoning": "Carrick's United are the form team in England right now — 7 wins from 9 since mid-January, nobody has picked up more Premier League points in that time. Bournemouth are unbeaten but they haven't actually won in four games, and they're without Adams, Cook, Soler, and Kluivert. The Vitality will be bouncing, but United at 48.8% implied is soft value we'll take.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.64,
+  "acca_result": null,
+  "acca_return": null
+}
