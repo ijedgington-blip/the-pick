@@ -27,7 +27,7 @@ function isDailyBrief(b: BriefFile): b is DailyBrief {
 
 export function computeSinglePotStats(briefs: BriefFile[]): PotStats {
   const realBriefs = briefs.filter(isDailyBrief)
-  let pot = STAKE
+  let pot = 0
   let wins = 0
   let losses = 0
   let totalStaked = 0
@@ -52,13 +52,13 @@ export function computeSinglePotStats(briefs: BriefFile[]): PotStats {
     wins,
     losses,
     winRate: settledBets > 0 ? Math.round((wins / settledBets) * 100) : 0,
-    roi: totalStaked > 0 ? Math.round(((pot - STAKE) / totalStaked) * 1000) / 10 : 0,
+    roi: totalStaked > 0 ? Math.round((pot / totalStaked) * 1000) / 10 : 0,
   }
 }
 
 export function computeAccaPotStats(briefs: BriefFile[]): PotStats {
   const accaBriefs = briefs.filter(isDailyBrief).filter(b => b.acca_available)
-  let pot = STAKE
+  let pot = 0
   let wins = 0
   let losses = 0
   let totalStaked = 0
@@ -82,6 +82,6 @@ export function computeAccaPotStats(briefs: BriefFile[]): PotStats {
     wins,
     losses,
     winRate: settledBets > 0 ? Math.round((wins / settledBets) * 100) : 0,
-    roi: totalStaked > 0 ? Math.round(((pot - STAKE) / totalStaked) * 1000) / 10 : 0,
+    roi: totalStaked > 0 ? Math.round((pot / totalStaked) * 1000) / 10 : 0,
   }
 }

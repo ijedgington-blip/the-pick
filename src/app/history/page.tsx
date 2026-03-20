@@ -11,7 +11,7 @@ function PotCard({ label, stats, subtitle }: { label: string; stats: PotStats; s
       <div className="grid grid-cols-2 gap-3">
         <div>
           <p className="font-mono text-xs text-neutral-500 mb-1">Pot</p>
-          <p className={`font-mono text-xl font-bold ${stats.currentPot >= 10 ? 'text-accent' : 'text-red-400'}`}>
+          <p className={`font-mono text-xl font-bold ${stats.currentPot >= 0 ? 'text-accent' : 'text-red-400'}`}>
             £{stats.currentPot.toFixed(2)}
           </p>
         </div>
