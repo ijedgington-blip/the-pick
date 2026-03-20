@@ -1,6 +1,7 @@
 import { readAllBriefs, sortBriefsNewestFirst, computeSinglePotStats, computeAccaPotStats } from '@/lib/picks'
 import type { DailyBrief, PotStats } from '@/types/pick'
 import Link from 'next/link'
+import { unstable_noStore as noStore } from 'next/cache'
 
 function PotCard({ label, stats, subtitle }: { label: string; stats: PotStats; subtitle: string }) {
   return (
@@ -92,26 +93,38 @@ export default function HistoryPage() {
                 const rowBg = singleWin ? 'bg-green-950/20' : singleLoss ? 'bg-red-950/20' : ''
 
                 return (
-                  <tr key={brief.date} className={`border-b border-border last:border-0 ${rowBg} hover:bg-white/[0.02] transition-colors`}>
-                    <td className="font-mono text-xs text-neutral-400 px-4 py-3 whitespace-nowrap">{brief.date}</td>
-                    <td className="px-4 py-3">
-                      <span className="text-neutral-200 text-xs block">{top?.pick_label ?? '—'}</span>
-                      <span className="font-mono text-xs text-neutral-500">{top?.match}</span>
+                  <tr key={brief.date} className={`border-b border-border last:border-0 ${rowBg} hover:bg-white/[0.04] transition-colors cursor-pointer`}>
+                    <td className="font-mono text-xs text-neutral-400 px-4 py-3 whitespace-nowrap">
+                      <Link href={`/history/${brief.date}`} className="block w-full h-full">{brief.date}</Link>
                     </td>
-                    <td className="font-mono text-sm font-bold text-accent text-right px-4 py-3">{top?.odds}</td>
+                    <td className="px-4 py-3">
+                      <Link href={`/history/${brief.date}`} className="block">
+                        <span className="text-neutral-200 text-xs block hover:text-white transition-colors">{top?.pick_label ?? '—'}</span>
+                        <span className="font-mono text-xs text-neutral-500">{top?.match}</span>
+                      </Link>
+                    </td>
+                    <td className="font-mono text-sm font-bold text-accent text-right px-4 py-3">
+                      <Link href={`/history/${brief.date}`} className="block">{top?.odds}</Link>
+                    </td>
                     <td className="font-mono text-xs text-right px-4 py-3">
-                      {singleWin ? <span className="text-green-400 font-bold">WIN</span>
-                        : singleLoss ? <span className="text-red-400 font-bold">LOSS</span>
-                        : <span className="text-neutral-500">PENDING</span>}
+                      <Link href={`/history/${brief.date}`} className="block">
+                        {singleWin ? <span className="text-green-400 font-bold">WIN</span>
+                          : singleLoss ? <span className="text-red-400 font-bold">LOSS</span>
+                          : <span className="text-neutral-500">PENDING</span>}
+                      </Link>
                     </td>
                     <td className="font-mono text-xs text-right px-4 py-3 hidden sm:table-cell">
-                      {!brief.acca_available ? <span className="text-neutral-600">N/A</span>
-                        : accaWin ? <span className="text-green-400 font-bold">WIN</span>
-                        : accaLoss ? <span className="text-red-400 font-bold">LOSS</span>
-                        : <span className="text-neutral-500">PENDING</span>}
+                      <Link href={`/history/${brief.date}`} className="block">
+                        {!brief.acca_available ? <span className="text-neutral-600">N/A</span>
+                          : accaWin ? <span className="text-green-400 font-bold">WIN</span>
+                          : accaLoss ? <span className="text-red-400 font-bold">LOSS</span>
+                          : <span className="text-neutral-500">PENDING</span>}
+                      </Link>
                     </td>
                     <td className="font-mono text-xs text-right px-4 py-3 hidden sm:table-cell text-neutral-400">
-                      {brief.acca_available && brief.acca_odds ? brief.acca_odds.toFixed(2) : '—'}
+                      <Link href={`/history/${brief.date}`} className="block">
+                        {brief.acca_available && brief.acca_odds ? brief.acca_odds.toFixed(2) : '—'}
+                      </Link>
                     </td>
                   </tr>
                 )
