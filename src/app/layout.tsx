@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import './globals.css'
+import HelpGuide from './components/HelpGuide'
 
 export const metadata: Metadata = {
   title: 'The Pick',
@@ -16,6 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         />
       </head>
       <body className="bg-bg text-white min-h-screen flex flex-col font-sans antialiased">
+        <HelpGuide />
         <main className="flex-1">{children}</main>
         <footer className="border-t border-border py-4 px-6 text-center text-xs text-neutral-500">
           For entertainment only. Gamble responsibly.{' '}
