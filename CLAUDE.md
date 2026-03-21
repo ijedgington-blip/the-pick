@@ -4,6 +4,70 @@ A football betting intelligence tool. Fetches today's EPL/European fixtures and 
 
 ---
 
+
+## hpg3 Setup — Read This First
+
+This is a **migrated copy** from another machine. The project and GitHub repo already exist. Do NOT create a new GitHub repo or a new Vercel project.
+
+### Current state on this machine
+- **GitHub repo**: `https://github.com/ijedgington-blip/the-pick.git` (already set as `origin`)
+- **Node.js**: v18.19.1 / npm 9.2.0
+- **`node_modules`**: not installed yet — run `npm install` first
+- **`.env.local`**: does not exist — must be created before running any scripts
+- **`.vercel/project.json`**: does not exist — Vercel setup required (see below)
+- **`ts-node`**: not installed globally — use `npx ts-node` (comes via `npm install` from devDependencies)
+
+### First-time setup on this machine
+
+1. **Create `.env.local`** — ask the user to provide all keys, then write them:
+   ```
+   ODDS_API_KEY=...
+   API_FOOTBALL_KEY=...
+   GITHUB_TOKEN=...          # PAT with repo write access
+   GITHUB_REPO=ijedgington-blip/the-pick
+   VERCEL_TOKEN=...
+   VERCEL_ORG_ID=...         # see below
+   VERCEL_PROJECT_ID=...     # see below
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Link to the existing Vercel project** (do NOT run `vercel --prod`, that creates a new project):
+   ```bash
+   vercel link --token=$VERCEL_TOKEN --yes
+   ```
+   This writes `.vercel/project.json`. Then extract the IDs and add to `.env.local`:
+   ```bash
+   cat .vercel/project.json
+   # orgId → VERCEL_ORG_ID, projectId → VERCEL_PROJECT_ID
+   ```
+   If the user doesn't know the Vercel project name, they can list their projects:
+   ```bash
+   vercel list --token=$VERCEL_TOKEN
+   ```
+
+4. **Verify git push works**:
+   ```bash
+   git push
+   ```
+   The GITHUB_TOKEN may need to be set as a credential. If push fails with auth error, configure:
+   ```bash
+   git remote set-url origin https://$GITHUB_TOKEN@github.com/ijedgington-blip/the-pick.git
+   ```
+
+5. **Test the daily script**:
+   ```bash
+   npx ts-node --compiler-options '{"module":"commonjs","moduleResolution":"node"}' scripts/fetch-data.ts
+   ```
+
+### Value analysis — no Anthropic API key needed
+
+The analysis step (Step 4 in the daily pick script) is performed **directly by Claude Code** in the conversation — not by calling the Anthropic API from the script. The script should gather all fixture/odds/form data and return it to Claude Code, which then does the analysis and writes the result. There is no `ANTHROPIC_API_KEY` required in `.env.local`.
+
+
 ## What This Project Does
 
 1. **Daily pick script** — fetches odds + form data, runs value analysis, selects one bet, writes a dated JSON file to the repo, pushes to GitHub
@@ -23,8 +87,8 @@ the-pick/
 │   └── briefs/
 │       └── YYYY-MM-DD.json  # One file per day's pick
 ├── scripts/
-│   ├── generate-pick.ts     # Main daily script
-│   └── update-result.ts     # Result checker (called by generate-pick)
+│   ├── fetch-data.ts        # Main daily script — fetches odds + Reddit context, writes pending-analysis.json
+│   └── update-result.ts     # Result checker (called by fetch-data)
 ├── src/
 │   └── app/
 │       ├── page.tsx         # Today's pick (home page)
@@ -96,7 +160,7 @@ Fetch all sports that have fixtures today and combine into one pool for analysis
 
 ---
 
-## Daily Pick Script (`scripts/generate-pick.ts`)
+## Daily Pick Script (`scripts/fetch-data.ts`)
 
 Run this script when the user wants today's pick. It should:
 
@@ -117,68 +181,55 @@ Run this script when the user wants today's pick. It should:
 - Fetch head-to-head record (last 5 meetings)
 - Note any significant absences if available
 
-### Step 4 — Value analysis via Claude
-Send all fixtures, odds, and form data to Claude (claude-sonnet-4-20250514) with this system prompt:
+### Step 4 — Value analysis via Claude Code
 
-```
-You are a sharp football betting analyst. You will be given today's fixtures with Ladbrokes odds and team form data.
+Claude Code (in the conversation) reads `data/pending-analysis.json` and performs value analysis directly. The script does NOT call the Anthropic API — it just writes the pending data file and instructs Claude to analyse it.
 
-Your job is to identify the single best value bet of the day.
-
-Value is defined as: the Ladbrokes implied probability being lower than your estimated true probability based on form, head-to-head, and context.
-
-For each fixture calculate:
+For each fixture, calculate:
 - Ladbrokes implied probability (already provided)
-- Your estimated true probability based on the data
-- Edge: estimated true prob minus implied prob (positive = value)
+- Estimated true probability based on form, context, and Reddit signals
+- Edge: true prob minus implied prob (positive = value)
 
-Select the one bet with the strongest positive edge that is also backed by clear reasoning.
+Eliminate bets with odds below 1.5. Select the top pick(s) with the strongest positive edge backed by clear reasoning.
 
-Apply the Kelly Criterion to recommend stake sizing:
-- Kelly fraction = (edge / (odds - 1))
-- Apply half-Kelly for safety: multiply result by 0.5
-- Express as a percentage of bankroll
-
-Return a JSON object only, no other text:
-{
-  "match": "Team A vs Team B",
-  "league": "Premier League",
-  "kickoff": "ISO timestamp",
-  "pick": "Home | Draw | Away",
-  "pick_label": "Team A to win",
-  "odds": 2.40,
-  "implied_prob": 41.7,
-  "our_prob": 52.0,
-  "edge": 10.3,
-  "kelly_fraction": 0.043,
-  "reasoning": "Two or three sentence plain-English explanation of why this bet has value",
-  "confidence": "high | medium | low"
-}
-```
+Apply the Kelly Criterion:
+- kelly_fraction = (edge / (odds - 1)) × 0.5  ← half-Kelly already applied
+- Cap at 0.25 maximum
 
 ### Step 5 — Write JSON file
-Write the result to `/data/briefs/YYYY-MM-DD.json`:
+Write the result to `/data/briefs/YYYY-MM-DD.json` using this exact format:
 
 ```json
 {
   "date": "2026-03-16",
-  "match": "Arsenal vs Chelsea",
-  "league": "Premier League",
-  "kickoff": "2026-03-16T15:00:00Z",
-  "pick": "Home",
-  "pick_label": "Arsenal to win",
-  "odds": 2.10,
-  "implied_prob": 47.6,
-  "our_prob": 58.0,
-  "edge": 10.4,
-  "kelly_fraction": 0.049,
-  "reasoning": "Arsenal have won 4 of their last 5 at home. Chelsea have kept one clean sheet in seven away games. Ladbrokes are underestimating the home advantage here.",
-  "confidence": "high",
-  "result": null,
-  "return": null,
-  "settled": false
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Arsenal vs Chelsea",
+      "league": "Premier League",
+      "kickoff": "2026-03-16T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Arsenal to win",
+      "odds": 2.10,
+      "implied_prob": 47.6,
+      "our_prob": 58.0,
+      "edge": 10.4,
+      "kelly_fraction": 0.049,
+      "reasoning": "Arsenal have won 4 of their last 5 at home. Chelsea have kept one clean sheet in seven away games. Ladbrokes are underestimating the home advantage here.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
 }
 ```
+
+**CRITICAL**: The JSON must use the `picks` array format above. A flat structure with `pick`/`odds` at the root level is wrong and will break the site. `acca_available` should be `true` only when there are 2+ picks and `acca_odds` is their product.
 
 ### Step 6 — Push to GitHub
 - Stage the new/updated JSON files
@@ -261,15 +312,25 @@ After initial setup, all future deploys happen automatically via `git push` — 
 When the user asks for today's pick, run:
 
 ```bash
-npx ts-node scripts/generate-pick.ts
+npx ts-node --compiler-options '{"module":"commonjs","moduleResolution":"node"}' scripts/fetch-data.ts
+```
+
+Or via the cron wrapper:
+```bash
+bash run-pick.sh
 ```
 
 This will:
 - Update yesterday's result automatically
-- Fetch today's odds and form data
-- Select the best value bet
-- Write the JSON file and push to GitHub
-- Vercel auto-deploys — site updates within ~30 seconds
+- Fetch today's fixtures, Ladbrokes odds, and Reddit context
+- Write `data/pending-analysis.json`
+- Claude Code then reads that file, performs value analysis, and writes the dated JSON brief
+
+After Claude writes the brief, commit and push:
+```bash
+git add data/briefs/YYYY-MM-DD.json && git commit -m "pick: YYYY-MM-DD" && git push
+```
+Vercel auto-deploys within ~30 seconds.
 
 ---
 
