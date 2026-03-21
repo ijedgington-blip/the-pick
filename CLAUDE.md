@@ -337,7 +337,7 @@ Vercel auto-deploys within ~30 seconds.
 ## Important Rules
 
 - **Always use Ladbrokes odds** — if Ladbrokes doesn't list a fixture, skip it. The user bets on Ladbrokes.
-- **One pick per day only** — do not generate multiple picks. Pick the single best value bet.
+- **Three picks per day** — always select the top 3 value bets ranked by edge descending (rank 1, 2, 3). Set `acca_available: true` and calculate `acca_odds` as the product of all three odds.
 - **Never overwrite a settled result** — if `settled: true`, do not modify that file.
 - **Kelly fractions above 0.25 should be capped at 0.25** — never suggest staking more than 25% of bankroll.
 - **Do not pick bets with odds below 1.5** — too little value upside even if edge exists.
