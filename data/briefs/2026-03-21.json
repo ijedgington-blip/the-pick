@@ -1,0 +1,18 @@
+{
+  "date": "2026-03-21",
+  "match": "Brighton and Hove Albion vs Liverpool",
+  "league": "Premier League",
+  "kickoff": "2026-03-21T12:30:00Z",
+  "pick": "Away",
+  "pick_label": "Liverpool to win",
+  "odds": 2.15,
+  "implied_prob": 46.5,
+  "our_prob": 54.0,
+  "edge": 7.5,
+  "kelly_fraction": 0.033,
+  "reasoning": "Liverpool remain one of the EPL's elite sides this season, and Brighton's recent form has been poor — they lost to Sunderland just a week ago. Ladbrokes have underpriced Liverpool's away win probability; at 2.15 with a true estimate of 54%, this is a clear 7.5% edge. Liverpool have the quality and motivation to take three points here.",
+  "confidence": "medium",
+  "result": null,
+  "return": null,
+  "settled": false
+}
