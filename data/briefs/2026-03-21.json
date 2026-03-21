@@ -3,6 +3,24 @@
   "picks": [
     {
       "rank": 1,
+      "match": "Queens Park Rangers vs Portsmouth",
+      "league": "Championship",
+      "kickoff": "2026-03-21T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "QPR to win",
+      "odds": 2.80,
+      "implied_prob": 35.7,
+      "our_prob": 44.0,
+      "edge": 8.3,
+      "kelly_fraction": 0.046,
+      "reasoning": "QPR just beat Leicester 3-1 at the King Power — that's the kind of result that tells you a team is in form and full of confidence. Back at home against a Portsmouth side sitting in the relegation zone, Ladbrokes are giving us 2.80 on the home side which implies only a 36% chance. We think QPR win this closer to 44% of the time. The value is clear.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
       "match": "Brighton and Hove Albion vs Liverpool",
       "league": "Premier League",
       "kickoff": "2026-03-21T12:30:00Z",
@@ -18,10 +36,28 @@
       "result": null,
       "return": null,
       "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Charlton Athletic vs Norwich City",
+      "league": "Championship",
+      "kickoff": "2026-03-21T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Norwich City to win",
+      "odds": 2.30,
+      "implied_prob": 43.5,
+      "our_prob": 50.0,
+      "edge": 6.5,
+      "kelly_fraction": 0.050,
+      "reasoning": "Norwich are one of the better-run clubs in the Championship with genuine promotion ambitions. Charlton have just filed accounts showing a £16.8m loss — financial pressure rarely helps team morale or squad depth. At 2.30 with Ladbrokes only pricing Norwich at 43.5% for an away win, there's 6.5% of edge available here from a team that should be winning this game more often than not.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
     }
   ],
-  "acca_available": false,
-  "acca_odds": null,
+  "acca_available": true,
+  "acca_odds": 13.85,
   "acca_result": null,
   "acca_return": null
 }
