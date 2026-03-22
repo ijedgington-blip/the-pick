@@ -15,9 +15,9 @@
       "kelly_fraction": 0.046,
       "reasoning": "QPR just beat Leicester 3-1 at the King Power — that's the kind of result that tells you a team is in form and full of confidence. Back at home against a Portsmouth side sitting in the relegation zone, Ladbrokes are giving us 2.80 on the home side which implies only a 36% chance. We think QPR win this closer to 44% of the time. The value is clear.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 28.00,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.033,
       "reasoning": "Liverpool remain one of the EPL's elite sides this season, and Brighton's recent form has been poor — they lost to Sunderland just a week ago. Ladbrokes have underpriced Liverpool's away win probability; at 2.15 with a true estimate of 54%, this is a clear 7.5% edge. Liverpool have the quality and motivation to take three points here.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.050,
       "reasoning": "Norwich are one of the better-run clubs in the Championship with genuine promotion ambitions. Charlton have just filed accounts showing a £16.8m loss — financial pressure rarely helps team morale or squad depth. At 2.30 with Ladbrokes only pricing Norwich at 43.5% for an away win, there's 6.5% of edge available here from a team that should be winning this game more often than not.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 23.00,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 13.85,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
