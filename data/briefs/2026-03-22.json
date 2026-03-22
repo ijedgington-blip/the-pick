@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-22",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Celta Vigo vs Alavés",
+      "league": "La Liga",
+      "kickoff": "2026-03-22T15:15:00Z",
+      "pick": "Home",
+      "pick_label": "Celta Vigo to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 60.0,
+      "edge": 7.6,
+      "kelly_fraction": 0.042,
+      "reasoning": "Celta Vigo are in red-hot form after eliminating Lyon 2-0 (3-1 on agg) in the Europa League this week. The market has been slow to reprice them for that momentum and quality. Alavés are a lower-half La Liga side with no comparable run of form. Ladbrokes' 1.91 implies just 52.4% — a significant underestimate of a team playing with European confidence at home.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Augsburg vs VfB Stuttgart",
+      "league": "Bundesliga",
+      "kickoff": "2026-03-22T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "Augsburg to win",
+      "odds": 3.25,
+      "implied_prob": 30.8,
+      "our_prob": 36.0,
+      "edge": 5.2,
+      "kelly_fraction": 0.012,
+      "reasoning": "Stuttgart were knocked out of the Europa League 4-1 on aggregate by Porto, a humbling exit that will weigh on morale. Yet Ladbrokes still price them as heavy favourites at 2.05 — a line that reflects league position more than current form. Augsburg at home are organised, hard to beat, and motivated. At 3.25, there is clear value on the upset.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "FC St. Pauli vs SC Freiburg",
+      "league": "Bundesliga",
+      "kickoff": "2026-03-22T16:30:00Z",
+      "pick": "Away",
+      "pick_label": "SC Freiburg to win",
+      "odds": 2.80,
+      "implied_prob": 35.7,
+      "our_prob": 40.0,
+      "edge": 4.3,
+      "kelly_fraction": 0.012,
+      "reasoning": "St. Pauli are a freshly promoted side scrapping for survival. Freiburg are a well-drilled, experienced Bundesliga outfit who consistently outperform expectations away from home. The 35.7% implied probability for Freiburg is too low against a side with limited top-flight quality. Expect Freiburg's superior squad depth to tell.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 17.38,
+  "acca_result": null,
+  "acca_return": null
+}
