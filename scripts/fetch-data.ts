@@ -223,6 +223,32 @@ async function main(): Promise<void> {
       JSON.stringify({ date: today, no_fixtures: true }, null, 2)
     )
     console.log('Written: data/pending-analysis.json (no fixtures)')
+
+    // Still need to settle yesterday's results even when there are no fixtures today
+    const settlePrompt = `## Step 1 — Settle yesterday's results
+
+Read data/briefs/${yesterday}.json. If any picks have settled: false, look up the actual match results using WebSearch (search for the match name + date). For each unsettled pick:
+- Set result: 'win' or 'loss'
+- Set return: stake * odds if win, 0 if loss (assume stake = 10)
+- Set settled: true
+Also update acca_result and acca_return if acca_available is true (win only if all picks won).
+Write the updated JSON back to data/briefs/${yesterday}.json.
+
+## Step 2 — Write today's no-pick brief
+
+Write data/briefs/${today}.json with this exact content:
+{"date":"${today}","no_pick":true,"reason":"No Ladbrokes fixtures today.","picks":[],"acca_available":false,"acca_odds":null,"acca_result":null,"acca_return":null}
+
+## Step 3 — Commit and push
+
+  git add data/briefs/${yesterday}.json data/briefs/${today}.json
+  git commit -m "settle ${yesterday}, no fixtures ${today}"
+  git push`
+
+    execSync(
+      `/home/edge/.local/bin/claude -p ${JSON.stringify(settlePrompt)} --dangerously-skip-permissions`,
+      { stdio: 'inherit', cwd: process.cwd() }
+    )
     return
   }
 
