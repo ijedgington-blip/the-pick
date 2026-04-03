@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-03",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "West Bromwich Albion vs Wrexham AFC",
+      "league": "Championship",
+      "kickoff": "2026-04-03T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "West Brom to win",
+      "odds": 2.10,
+      "implied_prob": 47.6,
+      "our_prob": 55.0,
+      "edge": 7.4,
+      "kelly_fraction": 0.034,
+      "reasoning": "West Brom are a well-established Championship club pushing for promotion, hosting Wrexham who are still adapting to Championship football after their rapid rise through the divisions. With gameweek 40 approaching and automatic promotion or a play-off place likely at stake, West Brom's home motivation is high. Wrexham's squad depth is a genuine concern at this level, and Ladbrokes at 2.10 underestimates the quality gap between these sides.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Leicester City vs Preston North End",
+      "league": "Championship",
+      "kickoff": "2026-04-03T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Leicester to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 58.0,
+      "edge": 6.7,
+      "kelly_fraction": 0.035,
+      "reasoning": "Leicester — a club of genuine Premier League pedigree relegated last season — are among the strongest squads in the Championship. Hosting Preston, a solid but limited mid-table side, at the King Power with promotion very much on the line, the Foxes should be winning this considerably more often than Ladbrokes' 51.3% implies. The market is underweighting the class differential here.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sheffield United vs Swansea City",
+      "league": "Championship",
+      "kickoff": "2026-04-03T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Sheffield United to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 60.0,
+      "edge": 5.9,
+      "kelly_fraction": 0.035,
+      "reasoning": "Sheffield United carry significant quality for this level following their Premier League relegation. Swansea are a steady Championship outfit but lack the attacking threat to trouble the Blades at Bramall Lane. Off-field ownership noise in the news may be a distraction but on-pitch quality should prevail in a must-win home game with end-of-season stakes. Ladbrokes at 1.85 offers a modest but real edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.58,
+  "acca_result": null,
+  "acca_return": null
+}
