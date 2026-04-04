@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-04",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Betis vs Espanyol",
+      "league": "La Liga",
+      "kickoff": "2026-04-04T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 1.70,
+      "implied_prob": 58.8,
+      "our_prob": 65.0,
+      "edge": 6.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "Real Betis are an established La Liga top-half side with strong home support at the Benito Villamarín. Espanyol, back in the top flight, have struggled for consistency away from home and lack the squad depth to match Betis over 90 minutes. Ladbrokes' 58.8% implied probability underestimates Betis' genuine home advantage and quality differential here — we estimate a true win probability closer to 65%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "TSG Hoffenheim vs FSV Mainz 05",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-04T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "Hoffenheim to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 63.0,
+      "edge": 5.9,
+      "kelly_fraction": 0.039,
+      "reasoning": "Mainz have been engulfed in a damaging legal saga this week, losing twice in Federal Labor Court over the Anwar El Ghazi case — a significant distraction for a club that relies on squad unity and tight organisational culture. Hoffenheim at home are the more settled side and should benefit from Mainz's off-pitch turbulence. Ladbrokes at 1.75 does not adequately price in the psychological toll on the visitors.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Werder Bremen vs RB Leipzig",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-04T13:30:00Z",
+      "pick": "Away",
+      "pick_label": "RB Leipzig to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 58.0,
+      "edge": 5.6,
+      "kelly_fraction": 0.031,
+      "reasoning": "RB Leipzig are pushing for European qualification and carry consistent quality throughout their squad. Werder Bremen are a solid mid-table side but their 18-year-old centre-back Karim Coulibaly is attracting interest from Newcastle and multiple European clubs — a potential distraction at a crucial point in the season. Leipzig's tactical discipline and depth away from home should see them over the line. An implied 52.4% feels too low for a side of their calibre.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.68,
+  "acca_result": null,
+  "acca_return": null
+}
