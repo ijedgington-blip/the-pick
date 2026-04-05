@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-05",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Eintracht Frankfurt vs 1. FC Köln",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-05T15:30:00Z",
+      "pick": "Home",
+      "pick_label": "Eintracht Frankfurt to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 62.0,
+      "edge": 10.7,
+      "kelly_fraction": 0.056,
+      "reasoning": "Frankfurt are a well-established Bundesliga top-half side with genuine European pedigree and strong home support at Deutsche Bank Park. Köln were promoted from the 2. Bundesliga this season and have found consistent results hard to come by away from home. The quality gap between these two sides is significant — Frankfurt's squad depth, tactical structure, and home advantage are all underestimated by Ladbrokes' 51.3% implied probability. We rate Frankfurt's win probability closer to 62%, giving a comfortable positive edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Union Berlin vs FC St. Pauli",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-05T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "Union Berlin to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 54.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.033,
+      "reasoning": "The Berlin derby adds intensity but Union Berlin have historically held a significant advantage at An der Alten Försterei — an intimidating, tight-knit atmosphere that troubles visiting sides. St. Pauli are a promoted side fighting for survival and have struggled for consistency away from home all season. Union, more settled and with greater quality in the squad, should impose themselves here. Ladbrokes at 2.15 implies just 46.5% — we believe Union's true win probability is around 54%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Oviedo vs Sevilla",
+      "league": "La Liga",
+      "kickoff": "2026-04-05T16:30:00Z",
+      "pick": "Away",
+      "pick_label": "Sevilla to win",
+      "odds": 2.90,
+      "implied_prob": 34.5,
+      "our_prob": 40.0,
+      "edge": 5.5,
+      "kelly_fraction": 0.014,
+      "reasoning": "Sevilla, despite a turbulent few seasons, remain a La Liga side with considerably more quality than Oviedo. Playing away in what is effectively a winnable fixture for a club of Sevilla's stature, Ladbrokes' near-three-way split pricing at 2.90 undervalues the gap in squad depth and experience. Oviedo are a mid-table side without the firepower to consistently beat top-flight opposition. We estimate Sevilla's true away win probability at around 40% versus the implied 34.5%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 12.16,
+  "acca_result": null,
+  "acca_return": null
+}
