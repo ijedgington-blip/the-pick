@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-07",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Madrid vs Bayern Munich",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-07T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Bayern Munich to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 50.0,
+      "edge": 6.5,
+      "kelly_fraction": 0.025,
+      "reasoning": "Bayern Munich's front three of Harry Kane, Luis Diaz and Michael Olise have combined for over 100 goals this season — a staggering achievement that places this team among the most lethal attacking units in European football history. Ladbrokes price Bayern at 2.3 (43.5% implied), but their current form warrants a true win probability closer to 50%. Real Madrid's home advantage is real, but at the Bernabeu against a Bayern side in this kind of form, we see clear value in the away win. The odds have not fully adjusted to how dominant Bayern have been this campaign.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Wrexham AFC vs Southampton",
+      "league": "Championship",
+      "kickoff": "2026-04-07T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Southampton to win",
+      "odds": 2.6,
+      "implied_prob": 38.5,
+      "our_prob": 44.0,
+      "edge": 5.5,
+      "kelly_fraction": 0.017,
+      "reasoning": "Southampton dropped into the Championship this season but carry genuine Premier League-quality across their squad. Ladbrokes price the away win at 2.6 — the same as the home side — which feels too generous given the calibre gap between the two clubs. Wrexham are a rising force but are still adapting to life in the Championship. With five games remaining and Southampton needing results to consolidate their position, we expect them to impose their quality on the road. True win probability: 44%, giving a solid edge over the 38.5% implied.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sporting Lisbon vs Arsenal",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-07T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 57.0,
+      "edge": 2.9,
+      "kelly_fraction": 0.017,
+      "reasoning": "Arsenal are the clear quality advantage in this UCL quarter-final. Mikel Arteta's comments about channelling frustration into motivation suggest a side with something to prove, which historically correlates with strong European performances. Sporting are dangerous at home — they beat Santa Clara 4-2 recently — but their form against top European opposition is a different matter. Ladbrokes' 54.1% implied for Arsenal is marginally low; we estimate their true win probability at 57%. The edge is modest but the reasoning is sound. Confidence is tempered by Sporting's home record in European competition.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.06,
+  "acca_result": null,
+  "acca_return": null
+}
