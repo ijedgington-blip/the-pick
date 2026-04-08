@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-08",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Barcelona vs Atlético Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-08T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 5.0,
+      "implied_prob": 20.0,
+      "our_prob": 25.0,
+      "edge": 5.0,
+      "kelly_fraction": 0.006,
+      "reasoning": "Barcelona at 1.5 — a 66.7% implied probability — is significantly overcooked for a UCL knockout tie against Atlético Madrid, arguably Europe's finest defensive unit. In Champions League eliminator football, Atlético are historically expert at neutralising La Liga superiority. A recent CTA controversy over a Gerard Martín red card that was never given confirms this fixture is bitterly contested and far from a Barcelona walkover. Add the first-leg dynamics — both sides cautious, neither wanting to concede away goals — and the draw at 5.0 (20% implied) is materially undervalued. True draw probability: 25%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Paris Saint Germain vs Liverpool",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-08T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 4.0,
+      "implied_prob": 25.0,
+      "our_prob": 29.0,
+      "edge": 4.0,
+      "kelly_fraction": 0.007,
+      "reasoning": "PSG are in excellent domestic form — Dembélé has been one of the players of the season in Europe — and home advantage at the Parc des Princes is real. But 25% implied for Liverpool feels marginally low for a club with their Champions League pedigree. Arne Slot's side have been resilient in European away fixtures this campaign and have the squad depth to punish PSG on the counter. In a two-legged tie where Liverpool will prioritise a clean sheet, their away win probability is closer to 29%. The edge is modest but the reasoning is sound for a pick at this price.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 20.0,
+  "acca_result": null,
+  "acca_return": null
+}
