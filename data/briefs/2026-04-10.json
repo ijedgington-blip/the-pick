@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-10",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "West Bromwich Albion vs Millwall",
+      "league": "Championship",
+      "kickoff": "2026-04-10T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Match to end in a draw",
+      "odds": 3.3,
+      "implied_prob": 30.3,
+      "our_prob": 38.0,
+      "edge": 7.7,
+      "kelly_fraction": 0.017,
+      "reasoning": "Millwall are unbeaten in nine consecutive meetings against West Brom, and every one of the last four Hawthorns fixtures has ended level. Millwall are in exceptional away form — five wins in their last six away matches, scoring in 17 consecutive games — yet WBA's own six-game unbeaten run keeps this tight and physical. The historical pattern at this ground is unmistakable. Ladbrokes' 3.3 significantly undervalues the draw.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Real Madrid vs Girona",
+      "league": "La Liga",
+      "kickoff": "2026-04-10T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Match to end in a draw",
+      "odds": 5.75,
+      "implied_prob": 17.4,
+      "our_prob": 22.0,
+      "edge": 4.6,
+      "kelly_fraction": 0.005,
+      "reasoning": "Real Madrid arrive at the Bernabéu having lost back-to-back matches — 2-1 at Mallorca in La Liga and then to Bayern Munich in the UCL — and now trail Barcelona by seven points. Girona drew 1-1 at the Bernabéu earlier this season and have lost just three of their last 13. With Madrid's momentum broken and pressure building, there is a realistic chance this ends level at a price the market significantly undervalues.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "West Ham United vs Wolverhampton Wanderers",
+      "league": "Premier League",
+      "kickoff": "2026-04-10T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "West Ham to win",
+      "odds": 1.8,
+      "implied_prob": 55.6,
+      "our_prob": 60.0,
+      "edge": 4.4,
+      "kelly_fraction": 0.028,
+      "reasoning": "Wolves are bottom of the Premier League with just three wins all season (3W-7D-20L) — one of the worst records the division has seen. West Ham, under Nuno Espirito Santo, have lost just twice in their last seven league games. Both clubs are in a relegation battle but the quality and form gap is stark. Wolves' H2H record from previous seasons is irrelevant given how catastrophically they have collapsed this year. Ladbrokes' 1.8 underprices the hosts.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 34.16,
+  "acca_result": null,
+  "acca_return": null
+}
