@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-11",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Southampton vs Derby County",
+      "league": "Championship",
+      "kickoff": "2026-04-11T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 1.7,
+      "implied_prob": 58.8,
+      "our_prob": 67.0,
+      "edge": 8.2,
+      "kelly_fraction": 0.059,
+      "reasoning": "Southampton's return to the Championship has been dominant at St Mary's. Derby County travel to the south coast having just confirmed that US international Patrick Agyemang has suffered a ruptured Achilles, ruling their best striker out for the remainder of the season. Without Agyemang's pace and direct running Derby lose their main attacking outlet, and they must now make do on the road against one of the division's better sides. Ladbrokes' 1.7 underestimates the home side's advantage here.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Middlesbrough vs Portsmouth",
+      "league": "Championship",
+      "kickoff": "2026-04-11T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Middlesbrough to win",
+      "odds": 1.53,
+      "implied_prob": 65.4,
+      "our_prob": 73.0,
+      "edge": 7.6,
+      "kelly_fraction": 0.072,
+      "reasoning": "Middlesbrough are firmly in the playoff picture — Reddit discussion of a potential neutral-venue playoff semi-final against Ipswich confirms they are in the top six with the season entering its final stages. They host Portsmouth at the Riverside, where their home record has been strong throughout the campaign. Portsmouth are deep in the relegation mix, struggling to score on the road, and arrive without the motivation or quality to trouble a Boro side with promotion on their minds. The 1.53 underestimates Boro's home dominance against a side fighting for survival.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "VfL Wolfsburg vs Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-11T13:30:00Z",
+      "pick": "Away",
+      "pick_label": "Eintracht Frankfurt to win",
+      "odds": 2.6,
+      "implied_prob": 38.5,
+      "our_prob": 46.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.023,
+      "reasoning": "VfL Wolfsburg were comprehensively dismantled 6-3 at home by Bayer Leverkusen last weekend. Conceding six goals at home is a serious confidence blow, and Eintracht Frankfurt — a consistent and organised Bundesliga side — are well placed to exploit a Wolfsburg team still recovering from that humiliation. Frankfurt have the squad depth and tactical discipline to contain Wolfsburg's attack and punish them on the counter. At 2.6 Ladbrokes price Frankfurt as roughly level with Wolfsburg despite the obvious form disparity.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.76,
+  "acca_result": null,
+  "acca_return": null
+}
