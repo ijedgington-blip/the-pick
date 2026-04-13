@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-13",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Levante vs Getafe",
+      "league": "La Liga",
+      "kickoff": "2026-04-13T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Getafe to win",
+      "odds": 3.0,
+      "implied_prob": 33.3,
+      "our_prob": 38.0,
+      "edge": 4.7,
+      "kelly_fraction": 0.012,
+      "reasoning": "Getafe have demonstrated strong away form in La Liga, including a recent result at Athletic Bilbao's San Mamés — one of the most intimidating away venues in Spanish football. Ladbrokes price this match as a three-way coin-flip (2.6/2.9/3.0), treating Getafe at 33.3% implied probability. Their current momentum and proven ability to grind out results on the road tips the true probability closer to 38%. Levante's home record does not justify the premium over Getafe at this price. A modest but genuine edge for the away side.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Manchester United vs Leeds United",
+      "league": "Premier League",
+      "kickoff": "2026-04-13T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Leeds United to win",
+      "odds": 5.25,
+      "implied_prob": 19.0,
+      "our_prob": 22.5,
+      "edge": 3.5,
+      "kelly_fraction": 0.004,
+      "reasoning": "Manchester United's structural fragility has been documented repeatedly — an absence of a top defensive midfielder for over 20 years leaves the team vulnerable even at Old Trafford. Ladbrokes price Leeds at 5.25 (implied 19%), but given United's current form concerns and Leeds' competitiveness at Premier League level, the true probability for a Leeds away win sits closer to 22-23%. A contrarian pick backed by United's well-publicised midfield weakness rather than any particular Leeds strength. Thin edge — proceed with minimum stake only.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 15.75,
+  "acca_result": null,
+  "acca_return": null
+}

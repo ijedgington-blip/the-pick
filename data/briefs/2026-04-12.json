@@ -15,9 +15,9 @@
       "kelly_fraction": 0.045,
       "reasoning": "Tottenham are officially in the Premier League relegation zone — a confirmed news story with enormous online traction. They travel to the Stadium of Light needing points but in the grip of a genuine survival crisis. Mohammed Kudus has suffered a fresh setback requiring specialist review and potentially surgery, stripping Spurs of their most dynamic attacker. Sunderland, a promoted side playing in front of a fervent home crowd with everything still to play for, are priced as almost dead even with Spurs at 2.60 vs 2.62. That is a significant mispricing: a relegated-zone side on the road, short of key personnel, against a motivated home team with the crowd behind them. Ladbrokes are not accounting for Spurs' dire current trajectory.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 26,
+      "settled": true
     },
     {
       "rank": 2,
@@ -31,11 +31,11 @@
       "our_prob": 47.0,
       "edge": 11.3,
       "kelly_fraction": 0.031,
-      "reasoning": "Crystal Palace demolished Fiorentina 3-0 at Selhurst Park in midweek — a performance that had the home crowd at fever pitch, complete with toilet rolls thrown in celebration before kick-off. Palace are riding a wave of momentum and confidence, and Selhurst Park is notoriously difficult for away sides when the crowd is up. Newcastle are a strong outfit but road form is always harder when the atmosphere is electric. Ladbrokes' implied probability of 35.7% for Palace at home fails to account for the significant home-ground advantage they currently enjoy off the back of a European statement win.",
+      "reasoning": "Crystal Palace demolished Fiorentina 3-0 at Selhurst Park in midweek — a performance that had the home crowd at fever pitch, complete with toilet rolls thrown in celebration before kick-off. Palace are riding a wave of momentum and confidence, and Selhurst Park is notoriously difficult for away sides when the atmosphere is electric. Newcastle are a strong outfit but road form is always harder when the atmosphere is electric. Ladbrokes' implied probability of 35.7% for Palace at home fails to account for the significant home-ground advantage they currently enjoy off the back of a European statement win.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 28,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.030,
       "reasoning": "San Mames is one of the most intimidating home fortresses in European football. Athletic Club's Basque-only identity creates a unique collective spirit that consistently elevates their home performances above what league position alone would suggest. Villarreal are a solid mid-table La Liga side but not equipped to silence the Bilbao crowd. At 2.05 Ladbrokes imply this is essentially a coin flip, which undersells Athletic's structural home advantage. The noise around Athletic losing to Getafe on the road is irrelevant here — their away form and home form are entirely different propositions.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 14.93,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
