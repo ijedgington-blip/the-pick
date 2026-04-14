@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-14",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Liverpool vs Paris Saint Germain",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-14T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Liverpool to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 52.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.033,
+      "reasoning": "Liverpool at Anfield in a Champions League knockout tie is one of the most reliable home advantages in European football. Ladbrokes have this priced as almost a coin-flip (43.5% implied) which significantly underestimates Liverpool's strength at home in high-stakes UCL fixtures. PSG are a formidable side but have a poor record in away legs at elite Premier League atmospheres. The true probability of a Liverpool home win sits closer to 52%. At 2.3 this is clear value.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Atlético Madrid vs Barcelona",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-14T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 3.6,
+      "implied_prob": 27.8,
+      "our_prob": 35.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.014,
+      "reasoning": "The defining context here is Simeone's home UCL knockout record: 17 games, 11 wins, 6 draws, 0 losses — he has never lost a home Champions League knockout match at the Metropolitano or Calderón. Ladbrokes price Barcelona as heavy away favorites at 1.8 (55.6% implied), essentially dismissing Atlético's home fortress status. The true probability for an Atlético win is closer to 35%. This is a significant market inefficiency driven by Barcelona's strong La Liga form obscuring Atlético's elite European home record.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Portsmouth vs Ipswich Town",
+      "league": "Championship",
+      "kickoff": "2026-04-14T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Portsmouth to win",
+      "odds": 3.5,
+      "implied_prob": 28.6,
+      "our_prob": 33.0,
+      "edge": 4.4,
+      "kelly_fraction": 0.009,
+      "reasoning": "Ipswich are priced as away favorites at 1.95 (51.3% implied) which seems excessive for a Championship away fixture at Fratton Park. Portsmouth's home support and the tight margins of Championship football make this more competitive than Ladbrokes suggest. The true probability for a Portsmouth home win is around 33% — a modest but genuine edge at 3.5. Minimum stake only.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 28.98,
+  "acca_result": null,
+  "acca_return": null
+}

@@ -15,9 +15,9 @@
       "kelly_fraction": 0.012,
       "reasoning": "Getafe have demonstrated strong away form in La Liga, including a recent result at Athletic Bilbao's San Mamés — one of the most intimidating away venues in Spanish football. Ladbrokes price this match as a three-way coin-flip (2.6/2.9/3.0), treating Getafe at 33.3% implied probability. Their current momentum and proven ability to grind out results on the road tips the true probability closer to 38%. Levante's home record does not justify the premium over Getafe at this price. A modest but genuine edge for the away side.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,13 +33,13 @@
       "kelly_fraction": 0.004,
       "reasoning": "Manchester United's structural fragility has been documented repeatedly — an absence of a top defensive midfielder for over 20 years leaves the team vulnerable even at Old Trafford. Ladbrokes price Leeds at 5.25 (implied 19%), but given United's current form concerns and Leeds' competitiveness at Premier League level, the true probability for a Leeds away win sits closer to 22-23%. A contrarian pick backed by United's well-publicised midfield weakness rather than any particular Leeds strength. Thin edge — proceed with minimum stake only.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 52.50,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 15.75,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
