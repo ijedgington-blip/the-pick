@@ -300,7 +300,8 @@ Read the file data/pending-analysis.json. It contains today's football fixtures 
 Perform value analysis following the rules in CLAUDE.md:
 - Calculate edge (our estimated true probability minus Ladbrokes implied probability) for every outcome (home/draw/away) of every fixture
 - Skip any bet with odds below 1.5
-- Select the top 3 picks by edge, ranked 1–3
+- IMPORTANT: Only one pick per match is allowed — if multiple outcomes of the same match have positive edge, keep only the single outcome with the highest edge for that match and discard the rest
+- Select the top 3 picks by edge from different matches, ranked 1–3
 - Apply half-Kelly: kelly_fraction = (edge / (odds - 1)) * 0.5, capped at 0.25
 - Set acca_available: true and acca_odds to the product of all three odds
 
