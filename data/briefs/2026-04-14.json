@@ -15,9 +15,9 @@
       "kelly_fraction": 0.033,
       "reasoning": "Liverpool at Anfield in a Champions League knockout tie is one of the most reliable home advantages in European football. Ladbrokes have this priced as almost a coin-flip (43.5% implied) which significantly underestimates Liverpool's strength at home in high-stakes UCL fixtures. PSG are a formidable side but have a poor record in away legs at elite Premier League atmospheres. The true probability of a Liverpool home win sits closer to 52%. At 2.3 this is clear value.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.014,
       "reasoning": "The defining context here is Simeone's home UCL knockout record: 17 games, 11 wins, 6 draws, 0 losses — he has never lost a home Champions League knockout match at the Metropolitano or Calderón. Ladbrokes price Barcelona as heavy away favorites at 1.8 (55.6% implied), essentially dismissing Atlético's home fortress status. The true probability for an Atlético win is closer to 35%. This is a significant market inefficiency driven by Barcelona's strong La Liga form obscuring Atlético's elite European home record.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.009,
       "reasoning": "Ipswich are priced as away favorites at 1.95 (51.3% implied) which seems excessive for a Championship away fixture at Fratton Park. Portsmouth's home support and the tight margins of Championship football make this more competitive than Ladbrokes suggest. The true probability for a Portsmouth home win is around 33% — a modest but genuine edge at 3.5. Minimum stake only.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 35,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 28.98,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

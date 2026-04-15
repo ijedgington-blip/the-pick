@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-15",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Arsenal vs Sporting Lisbon",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-15T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Sporting Lisbon to win",
+      "odds": 5.5,
+      "implied_prob": 18.2,
+      "our_prob": 22.0,
+      "edge": 3.8,
+      "kelly_fraction": 0.004,
+      "reasoning": "Arsenal are missing five key players for this second leg: Saka, Odegaard, Timber, and Calafiori are confirmed out, and Declan Rice was absent from training the day before. Ladbrokes still have Arsenal at 1.57 (63.7% implied) — pricing that looks set before the full injury extent was known. A depleted Arsenal side missing their best winger, their captain/playmaker, their first-choice DM, and two starting defenders is a fundamentally different proposition. Sporting CP are a well-organised, technically capable side who can exploit the spaces left by a makeshift Arsenal midfield. The true probability of a Sporting away win in this context is closer to 22%. At 5.5, this is the best value available today.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Arsenal vs Sporting Lisbon",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-15T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Arsenal vs Sporting Lisbon — Draw",
+      "odds": 4.2,
+      "implied_prob": 23.8,
+      "our_prob": 27.0,
+      "edge": 3.2,
+      "kelly_fraction": 0.005,
+      "reasoning": "With the same injury crisis as above — Saka, Odegaard, Rice, Timber, and Calafiori all absent — Arsenal are likely to adopt a pragmatic, low-risk approach even at the Emirates. A draw is a plausible outcome for a depleted home side. Ladbrokes have the draw at 4.2 (23.8% implied), but with five first-team regulars absent the true draw probability rises to approximately 27%. This is the secondary pick from this fixture — note picks 1 and 2 are contradictory outcomes of the same match and cannot be combined in an acca.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Bayern Munich vs Real Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-15T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Bayern Munich vs Real Madrid — Draw",
+      "odds": 5.25,
+      "implied_prob": 19.0,
+      "our_prob": 22.0,
+      "edge": 3.0,
+      "kelly_fraction": 0.004,
+      "reasoning": "Ladbrokes have Bayern as heavy home favorites at 1.53 (65.4% implied), which overstates their advantage in a single UCL knockout leg against Real Madrid. The 14-time European champions have an unmatched record of producing results in knockout ties away from home. UCL quarter-final second legs between elite sides frequently produce tight, tactical affairs. The draw at 5.25 (19% implied) undervalues the genuine chance of a stalemate in what should be a cautious, high-stakes encounter. True draw probability is closer to 22%.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
