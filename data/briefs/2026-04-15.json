@@ -15,9 +15,9 @@
       "kelly_fraction": 0.004,
       "reasoning": "Arsenal are missing five key players for this second leg: Saka, Odegaard, Timber, and Calafiori are confirmed out, and Declan Rice was absent from training the day before. Ladbrokes still have Arsenal at 1.57 (63.7% implied) — pricing that looks set before the full injury extent was known. A depleted Arsenal side missing their best winger, their captain/playmaker, their first-choice DM, and two starting defenders is a fundamentally different proposition. Sporting CP are a well-organised, technically capable side who can exploit the spaces left by a makeshift Arsenal midfield. The true probability of a Sporting away win in this context is closer to 22%. At 5.5, this is the best value available today.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,13 +33,13 @@
       "kelly_fraction": 0.004,
       "reasoning": "Ladbrokes have Bayern as heavy home favorites at 1.53 (65.4% implied), which overstates their advantage in a single UCL knockout leg against Real Madrid. The 14-time European champions have an unmatched record of producing results in knockout ties away from home. UCL quarter-final second legs between elite sides frequently produce tight, tactical affairs. The draw at 5.25 (19% implied) undervalues the genuine chance of a stalemate in what should be a cautious, high-stakes encounter. True draw probability is closer to 22%.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 28.88,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
