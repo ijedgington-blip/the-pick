@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-17",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Blackburn Rovers vs Coventry City",
+      "league": "Championship",
+      "kickoff": "2026-04-17T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Coventry City to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 53.0,
+      "edge": 4.2,
+      "kelly_fraction": 0.020,
+      "reasoning": "Frank Lampard's Coventry arrive as marginal away favourites and are backed by a strong run-in record. Blackburn's 3.75 home price reflects their inconsistent form — they're not a credible favourite at that price. Coventry's 2.05 still offers value over our estimated 53% true probability. Lampard sets up tactically disciplined sides for big late-season clashes and Coventry will be well-organised for this one.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "FC St. Pauli vs 1. FC Köln",
+      "league": "Bundesliga",
+      "kickoff": "2026-04-17T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "FC St. Pauli to win",
+      "odds": 2.87,
+      "implied_prob": 34.8,
+      "our_prob": 38.0,
+      "edge": 3.2,
+      "kelly_fraction": 0.009,
+      "reasoning": "St. Pauli at the Millerntor is one of the most hostile away venues in the Bundesliga. Their passionate support creates an intense atmosphere that historically lifts the team in late-season fixtures. Ladbrokes list Köln as marginal favourites at 2.40, but this underweights the home advantage effect. We estimate a 38% true win probability vs 34.8% implied — modest but positive edge.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.88,
+  "acca_result": null,
+  "acca_return": null
+}
