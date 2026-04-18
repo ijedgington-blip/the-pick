@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-18",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Newcastle United vs Bournemouth",
+      "league": "Premier League",
+      "kickoff": "2026-04-18T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Newcastle United to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 55.0,
+      "edge": 6.2,
+      "kelly_fraction": 0.030,
+      "reasoning": "St. James' Park is one of the most intimidating home venues in the Premier League and Newcastle consistently punish sides there. Crucially, Bournemouth are in transition: Marco Rose has just agreed a deal to replace Andoni Iraola, meaning the squad faces a significant managerial change at the end of a long season. That psychological distraction, combined with Newcastle's well-documented home strength, means Ladbrokes are underpricing the hosts. We estimate a true home win probability of 55% against an implied 48.8%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Sheffield Wednesday vs Charlton Athletic",
+      "league": "Championship",
+      "kickoff": "2026-04-18T14:00:00Z",
+      "pick": "Away",
+      "pick_label": "Charlton Athletic to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 63.0,
+      "edge": 5.9,
+      "kelly_fraction": 0.039,
+      "reasoning": "Sheffield Wednesday are in complete institutional disarray. Their preferred bidder has been told the club faces a 15-point penalty next season, they are subject to a transfer ban until January 2027, and ownership talks with Arise Capital Partners remain unresolved. The combination of financial crisis, point deductions looming, and recruitment restrictions creates a toxic morale environment. Charlton arrive as a well-organised side with nothing of the sort to worry about. Ladbrokes price Charlton at 57.1% implied — we estimate closer to 63% given how damaging Wednesday's off-pitch chaos is on performance.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Tottenham Hotspur vs Brighton and Hove Albion",
+      "league": "Premier League",
+      "kickoff": "2026-04-18T16:30:00Z",
+      "pick": "Away",
+      "pick_label": "Brighton and Hove Albion to win",
+      "odds": 2.25,
+      "implied_prob": 44.4,
+      "our_prob": 50.0,
+      "edge": 5.6,
+      "kelly_fraction": 0.022,
+      "reasoning": "Tottenham's entire transfer strategy is contingent on Premier League survival — the club are reportedly signing Marcos Senesi 'subject to maintaining their Premier League status.' That is a relegation-threatened side in all but name. Brighton, by contrast, are a tactically coherent mid-table outfit with no existential pressure. They have repeatedly beaten sides under pressure this season. Ladbrokes price Brighton at 44.4% implied — we see them closer to 50% as Spurs lack the belief and defensive stability to grind out home results right now.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 8.07,
+  "acca_result": null,
+  "acca_return": null
+}
