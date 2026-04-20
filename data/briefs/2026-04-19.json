@@ -15,9 +15,9 @@
       "kelly_fraction": 0.044,
       "reasoning": "Aston Villa are in the form of their lives — they just eliminated Sunderland in the UEFA competition's quarter-finals, with Sunderland's Lewis Ferguson conceding post-match that 'the best team won' and that Villa 'killed us off in the first half.' A side that has just humiliated these same opponents on the European stage are a very different proposition at Villa Park in the league. Sunderland are a newly promoted side carrying both physical and psychological baggage from that European exit. Ladbrokes imply 58.8% for Villa; we estimate closer to 65% given the form differential and home advantage. Excellent value at 1.70.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 17.0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.022,
       "reasoning": "Liverpool's structural quality advantage over Everton has been consistent for several seasons and doesn't disappear in derby games — it merely becomes harder to express. Everton at Goodison (now operating from their new ground) offer atmosphere but limited quality against a Liverpool side competing at the top of the table. The implied probability of 44.4% notably underprices Liverpool; a side of their calibre should convert this fixture at closer to 50%. Derby variance is real, but the price compensates adequately at 2.25.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 22.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.038,
       "reasoning": "SC Freiburg at the Europa-Park Stadion are one of the most consistent home sides in the Bundesliga — their compact, well-drilled structure under Christian Streich's successor makes them particularly difficult to beat on their own patch. Heidenheim are a plucky Bundesliga side but have historically struggled in away games against organised, mid-table opposition. Ladbrokes imply 59.9% for the home win; we estimate closer to 65% based on Freiburg's reliable home record and Heidenheim's away fragility late in the season.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.7,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 6.39,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "win",
+  "acca_return": 63.9
 }
