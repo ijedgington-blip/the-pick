@@ -15,9 +15,9 @@
       "kelly_fraction": 0.004,
       "reasoning": "Only one fixture is available with Ladbrokes pricing today, and the edge here is slim. West Ham are in the midst of a documented revival under Nuno Espírito Santo — the Athletic ran a piece this week on what has sparked their turnaround, and the table shows them at 32 points after 32 games, fighting for mid-table security with genuine momentum. Ladbrokes price them at 35.7% implied; we estimate closer to 37% given their improved form and motivation for points. Crystal Palace at home are solid but not commanding — the home implied of 40.8% overstates their advantage against a West Ham side that has been consistently improving. Edge is marginal at +1.3%; Kelly stake is minimal. Proceed with caution.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": false,

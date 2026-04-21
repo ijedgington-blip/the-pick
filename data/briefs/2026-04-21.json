@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-21",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Coventry City vs Portsmouth",
+      "league": "Championship",
+      "kickoff": "2026-04-21T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Coventry City to win",
+      "odds": 1.65,
+      "implied_prob": 60.6,
+      "our_prob": 70.0,
+      "edge": 9.4,
+      "kelly_fraction": 0.072,
+      "reasoning": "Coventry City are winning promotion back to the Premier League after 25 years — Frank Lampard has been crowned EFL Championship Manager of the Season. The Sky Blues went 12 games unbeaten to open the season and have occupied top spot for virtually the entire campaign. Portsmouth bring no meaningful threat; Coventry have every reason to perform at home with a huge season to celebrate. Ladbrokes price them at 60.6% implied — we estimate true probability closer to 70%. The 9.4% edge is the strongest on today's card.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Brighton and Hove Albion vs Chelsea",
+      "league": "Premier League",
+      "kickoff": "2026-04-21T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Brighton and Hove Albion to win",
+      "odds": 2.4,
+      "implied_prob": 41.7,
+      "our_prob": 48.0,
+      "edge": 6.3,
+      "kelly_fraction": 0.023,
+      "reasoning": "Brighton drew 2-2 at Tottenham in their most recent game, showing they can compete away from home, and are even stronger at the Amex. Chelsea, meanwhile, managed 645 passes and 1.29 xG against Manchester United yet lost 1-0 — a team that cannot convert dominance into results. Their xG-to-goal conversion has been poor and results reflect it. Brighton at home against this Chelsea side looks underpriced at 41.7% implied; we estimate closer to 48%. Edge of +6.3%.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Athletic Bilbao vs CA Osasuna",
+      "league": "La Liga",
+      "kickoff": "2026-04-21T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Athletic Bilbao to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 60.0,
+      "edge": 5.9,
+      "kelly_fraction": 0.035,
+      "reasoning": "Athletic Bilbao are one of the most formidable home sides in La Liga at San Mamés, with a deep culture of home fortress football. Osasuna are a serviceable mid-table outfit with no upside motivation this late in the season. Ladbrokes have Athletic at 54.1% implied — we see true probability closer to 60%. A 5.9% edge with solid odds at 1.85 makes this a clean third pick.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.33,
+  "acca_result": null,
+  "acca_return": null
+}
