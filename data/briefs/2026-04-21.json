@@ -15,9 +15,9 @@
       "kelly_fraction": 0.072,
       "reasoning": "Coventry City are winning promotion back to the Premier League after 25 years — Frank Lampard has been crowned EFL Championship Manager of the Season. The Sky Blues went 12 games unbeaten to open the season and have occupied top spot for virtually the entire campaign. Portsmouth bring no meaningful threat; Coventry have every reason to perform at home with a huge season to celebrate. Ladbrokes price them at 60.6% implied — we estimate true probability closer to 70%. The 9.4% edge is the strongest on today's card.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.50,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.023,
       "reasoning": "Brighton drew 2-2 at Tottenham in their most recent game, showing they can compete away from home, and are even stronger at the Amex. Chelsea, meanwhile, managed 645 passes and 1.29 xG against Manchester United yet lost 1-0 — a team that cannot convert dominance into results. Their xG-to-goal conversion has been poor and results reflect it. Brighton at home against this Chelsea side looks underpriced at 41.7% implied; we estimate closer to 48%. Edge of +6.3%.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 24.00,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.035,
       "reasoning": "Athletic Bilbao are one of the most formidable home sides in La Liga at San Mamés, with a deep culture of home fortress football. Osasuna are a serviceable mid-table outfit with no upside motivation this late in the season. Ladbrokes have Athletic at 54.1% implied — we see true probability closer to 60%. A 5.9% edge with solid odds at 1.85 makes this a clean third pick.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.50,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 7.33,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "win",
+  "acca_return": 73.30
 }
