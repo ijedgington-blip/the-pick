@@ -15,9 +15,9 @@
       "kelly_fraction": 0.047,
       "reasoning": "Real Sociedad just won the Copa del Rey, with players celebrating through the streets of San Sebastián and the president publicly celebrating their coach's vindication. They carry trophy momentum into this home fixture at a notoriously hostile Anoeta. Getafe are a defensive mid-table outfit with no European or relegation stakes — a team with nothing to play for away from home. Ladbrokes have Sociedad at 47.6% implied; we assess true probability closer to 58% given the form, confidence and occasion lift. At 2.1, this is the strongest value on today's card.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.033,
       "reasoning": "Atlético Madrid have won only once in their last seven matches — a dramatic collapse in form for a side normally renowned for grinding results. Their xG conversion and defensive solidity have both deserted them during this run. Elche at home at 2.3 (43.5% implied) look underpriced once Atlético's real current probability is assessed; we estimate closer to 52% for the home side. This is not a speculative upset — it reflects Atlético's measurable drop in quality over recent weeks.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 23,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.045,
       "reasoning": "Blackburn Rovers have just confirmed their Championship safety, sitting 21st with Leicester City confirmed relegated below them. An away trip to Sheffield United on matchday 44 of 46, with nothing left to play for, carries obvious motivational risk. Sheffield United at home, potentially pushing for playoff contention at this stage of the season, should be priced closer to 62% than the 54.6% Ladbrokes imply. A 7.4% edge at 1.83 makes this a solid third selection.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 8.84,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

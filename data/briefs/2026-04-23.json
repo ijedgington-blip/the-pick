@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-23",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Oviedo vs Villarreal",
+      "league": "La Liga",
+      "kickoff": "2026-04-23T19:30:00Z",
+      "pick": "Away",
+      "pick_label": "Villarreal to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 55.0,
+      "edge": 7.4,
+      "kelly_fraction": 0.034,
+      "reasoning": "Villarreal are locked in a battle for Spain's fifth Champions League spot, with Spain and Germany separated by just 0.192 UEFA coefficient points. Every point Villarreal drop costs Spain at the coefficient table — the motivation is tangible and directly financial for the club. Away at Oviedo, a mid-table side with nothing at stake in either direction, the motivational asymmetry is stark. Ladbrokes have Villarreal at 47.6% implied; we assess the true probability closer to 55% given this incentive and Villarreal's quality. This is the strongest value on today's card.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Rayo Vallecano vs Espanyol",
+      "league": "La Liga",
+      "kickoff": "2026-04-23T18:00:00Z",
+      "pick": "Away",
+      "pick_label": "Espanyol to win",
+      "odds": 3.7,
+      "implied_prob": 27.0,
+      "our_prob": 30.0,
+      "edge": 3.0,
+      "kelly_fraction": 0.006,
+      "reasoning": "Rayo Vallecano manager Iñigo Perez has been confirmed as the frontrunner for the Villarreal vacancy, with multiple sources naming him favourite. In a late-season fixture with nothing riding on it for Rayo, a coach widely reported to be leaving next season creates real motivational uncertainty — players with uncertain futures, preparations potentially disrupted. Rayo at 48.8% implied home win probability looks slightly inflated against this backdrop. Espanyol at 3.7 (27% implied) benefit from the opponent's distraction; we estimate their true probability at 30%, a 3% positive edge.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Levante vs Sevilla",
+      "league": "La Liga",
+      "kickoff": "2026-04-23T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Levante to win",
+      "odds": 2.37,
+      "implied_prob": 42.2,
+      "our_prob": 44.0,
+      "edge": 1.8,
+      "kelly_fraction": 0.007,
+      "reasoning": "Levante at home carry natural home advantage in what is expected to be a tightly contested La Liga fixture. Sevilla have been inconsistent away from home this season and carry no particular urgency into this fixture. At 2.37 (42.2% implied), the market marginally undervalues the home side; we assess Levante's true probability at 44%. This is the weakest selection on today's card — proceed with caution.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 18.42,
+  "acca_result": null,
+  "acca_return": null
+}
