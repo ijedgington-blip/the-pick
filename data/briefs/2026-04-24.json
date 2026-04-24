@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-24",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Betis vs Real Madrid",
+      "league": "La Liga",
+      "kickoff": "2026-04-24T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Real Madrid to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 62.0,
+      "edge": 9.6,
+      "kelly_fraction": 0.053,
+      "reasoning": "Real Madrid are one of Europe's elite clubs and travel as strong favourites even at Betis' Estadio Benito Villamarín. La Liga Matchday 34 sees both sides competing with genuine stakes, but Madrid's squad depth and consistent away form make them a clear underlay at 52.4% implied. We assess their true win probability at 62%, generating a 9.6% positive edge. Ladbrokes are being overly generous on a team of Madrid's quality in a fixture where they should be pricing them significantly shorter.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Leicester City vs Millwall",
+      "league": "Championship",
+      "kickoff": "2026-04-24T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Millwall to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 60.0,
+      "edge": 5.9,
+      "kelly_fraction": 0.035,
+      "reasoning": "Leicester's home odds of 3.9 are a clear signal: the market has very little faith in them at King Power Stadium, pointing to poor form and likely a relegation battle. Millwall as away favourites at 1.85 (54.1% implied) are being underestimated. A well-organised, physical Millwall side with potential promotion implications should handle a demoralised Leicester team. We estimate Millwall's true win probability at 60%, giving a 5.9% edge at these odds.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sunderland vs Nottingham Forest",
+      "league": "Premier League",
+      "kickoff": "2026-04-24T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Nottingham Forest to win",
+      "odds": 2.70,
+      "implied_prob": 37.0,
+      "our_prob": 40.0,
+      "edge": 3.0,
+      "kelly_fraction": 0.009,
+      "reasoning": "Sunderland, as a newly promoted Premier League side in their first season back at the top flight, face the quality gap that comes with promotion. Nottingham Forest have proven their Premier League credentials over multiple seasons and carry enough consistency to edge this away fixture. At 2.70 (37% implied) there is a modest 3% edge in Forest's favour. This is the weakest selection on today's card — proceed with caution.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 9.54,
+  "acca_result": null,
+  "acca_return": null
+}
