@@ -1,0 +1,54 @@
+{
+  "date": "2026-04-27",
+  "fixtures": [
+    {
+      "match": "Manchester United vs Brentford",
+      "league": "EPL",
+      "kickoff": "2026-04-27T19:00:00Z",
+      "homeTeam": "Manchester United",
+      "awayTeam": "Brentford",
+      "homeOdds": 1.85,
+      "drawOdds": 3.8,
+      "awayOdds": 3.7,
+      "homeImplied": 54.1,
+      "drawImplied": 26.3,
+      "awayImplied": 27,
+      "redditContext": [
+        {
+          "title": "Chelsea had 645 passes, 21 shots, and 1.29 xG against Manchester United on Saturday. They still lost 1-0. The pass networks actually show why.",
+          "score": 48,
+          "url": "https://reddit.com/r/PremierLeague/comments/1sqpzhg/chelsea_had_645_passes_21_shots_and_129_xg/",
+          "topComment": "Couldn't stop thinking about this match after the Arsenal-City breakdown yesterday. Chelsea had 58% possession, 21 shots, 645 passes, 1.29 xG. A few came back off the woodwork. And they still lost 1-0"
+        },
+        {
+          "title": "Free To Read — Manchester United transfers: Carlos Baleba, Micky van de Ven, Aurelien Tchouameni and more",
+          "score": 29,
+          "url": "https://reddit.com/r/PremierLeague/comments/1stcfzz/free_to_read_manchester_united_transfers_carlos/",
+          "topComment": "Manchester United are looking at the centre-back market.  \n  \nThere are people at United who believe Ayden Heaven and Leny Yoro will develop to be as good a partnership as Arsenal pair Gabriel and Wil"
+        },
+        {
+          "title": "Gameweek 20 in the WSL is done and dusted: title twists, top three drama, relegation panic and absolute chaos at both ends of the table",
+          "score": 6,
+          "url": "https://reddit.com/r/soccer/comments/1swzexm/gameweek_20_in_the_wsl_is_done_and_dusted_title/",
+          "topComment": "Well… *that* was a weekend.\n\nWith only two matchweeks left in the Women’s Super League season, you’d expect things to maybe calm down a little. Teams locking into position. The title race slowly windi"
+        },
+        {
+          "title": "Monday, April 27, 2026 - Soccer Briefing",
+          "score": 4,
+          "url": "https://reddit.com/r/soccer/comments/1swzfyl/monday_april_27_2026_soccer_briefing/",
+          "topComment": "Today's fixture list features four league matches across Europe's top divisions with Manchester United hosting Brentford emerging as the standout encounter. With the Premier League title race potentia"
+        },
+        {
+          "title": "April round-up - a Champions League exit, FA Cup progress, and major news off the pitch",
+          "score": 3,
+          "url": "https://reddit.com/r/chelsealadiesfc/comments/1sx1xnj/april_roundup_a_champions_league_exit_fa_cup/"
+        },
+        {
+          "title": "Man Mohammed Khalid, 55, arrested at Manchester Airport charged with 15 counts of rape | United Kingdom",
+          "score": 1,
+          "url": "https://reddit.com/r/EuropeNewsNoComments/comments/1sx27sv/man_mohammed_khalid_55_arrested_at_manchester/"
+        }
+      ]
+    }
+  ]
+}

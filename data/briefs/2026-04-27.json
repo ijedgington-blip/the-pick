@@ -1,0 +1,27 @@
+{
+  "date": "2026-04-27",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Manchester United vs Brentford",
+      "league": "Premier League",
+      "kickoff": "2026-04-27T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Manchester United to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 62.0,
+      "edge": 7.9,
+      "kelly_fraction": 0.046,
+      "reasoning": "Manchester United are in the thick of a Premier League title race and enter this fixture with high morale following a hard-fought 1-0 victory over Chelsea. Despite being outshot in that match, their defensive resilience and clinical nature are hallmarks of a title-contending side. Playing at Old Trafford, they are strong favourites against a Brentford side that, while capable, lacks the same high-stakes motivation. Ladbrokes have them at 54.1% implied; we assess their true probability at 62%, offering a solid 7.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
