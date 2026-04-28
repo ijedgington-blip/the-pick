@@ -6,7 +6,7 @@ export function calculateReturn(result: 'win' | 'loss', odds: number, stake: num
   return result === 'win' ? Math.round(stake * odds * 100) / 100 : 0
 }
 
-// Result settling is handled by Claude Code via WebSearch in the daily prompt.
+// Result settling is handled by Gemini CLI via WebSearch in the daily prompt.
 // This function is kept as a no-op so fetch-data.ts can still call it.
 export async function updateYesterdaysResult(): Promise<void> {
   const yesterday = new Date()
@@ -28,5 +28,5 @@ export async function updateYesterdaysResult(): Promise<void> {
     return
   }
 
-  console.log(`${dateStr} results not yet settled — Claude Code will handle via WebSearch`)
+  console.log(`${dateStr} results not yet settled — Gemini CLI will handle via WebSearch`)
 }

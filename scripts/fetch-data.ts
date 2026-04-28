@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import { execSync } from 'child_process'
+import { spawnSync } from 'child_process'
 import { config } from 'dotenv'
 import { updateYesterdaysResult } from './update-result'
 
@@ -245,8 +245,9 @@ Write data/briefs/${today}.json with this exact content:
   git commit -m "settle ${yesterday}, no fixtures ${today}"
   git push`
 
-    execSync(
-      `/home/edge/.local/bin/claude -p ${JSON.stringify(settlePrompt)} --dangerously-skip-permissions`,
+    spawnSync(
+      'npx',
+      ['gemini', '-p', settlePrompt, '--yolo'],
       { stdio: 'inherit', cwd: process.cwd() }
     )
     return
@@ -282,7 +283,7 @@ Write data/briefs/${today}.json with this exact content:
     JSON.stringify(output, null, 2)
   )
   console.log(`Written: data/pending-analysis.json (${fixtures.length} fixtures)`)
-  console.log('Running Claude Code analysis...')
+  console.log('Running Gemini CLI analysis...')
 
   const prompt = `## Step 1 — Settle yesterday's results
 
@@ -297,7 +298,7 @@ Write the updated JSON back to data/briefs/${yesterday}.json.
 
 Read the file data/pending-analysis.json. It contains today's football fixtures with Ladbrokes odds and Reddit context.
 
-Perform value analysis following the rules in CLAUDE.md:
+Perform value analysis following the rules in GEMINI.md:
 - Calculate edge (our estimated true probability minus Ladbrokes implied probability) for every outcome (home/draw/away) of every fixture
 - Skip any bet with odds below 1.5
 - IMPORTANT: Only one pick per match is allowed — if multiple outcomes of the same match have positive edge, keep only the single outcome with the highest edge for that match and discard the rest
@@ -305,7 +306,7 @@ Perform value analysis following the rules in CLAUDE.md:
 - Apply half-Kelly: kelly_fraction = (edge / (odds - 1)) * 0.5, capped at 0.25
 - Set acca_available: true and acca_odds to the product of all three odds
 
-Write the result to data/briefs/${today}.json using the exact picks array format from CLAUDE.md.
+Write the result to data/briefs/${today}.json using the exact picks array format from GEMINI.md.
 
 ## Step 3 — Commit and push both files
 
@@ -313,10 +314,16 @@ Write the result to data/briefs/${today}.json using the exact picks array format
   git commit -m "pick: ${today} (auto), settle ${yesterday}"
   git push`
 
-  execSync(
-    `/home/edge/.local/bin/claude -p ${JSON.stringify(prompt)} --dangerously-skip-permissions`,
+  const result = spawnSync(
+    'npx',
+    ['gemini', '-p', prompt, '--yolo'],
     { stdio: 'inherit', cwd: process.cwd() }
   )
+
+  if (result.error || result.status !== 0) {
+    console.error('Gemini CLI analysis failed')
+    process.exit(1)
+  }
 }
 
 main().catch(err => {
