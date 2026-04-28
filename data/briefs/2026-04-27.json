@@ -15,9 +15,9 @@
       "kelly_fraction": 0.046,
       "reasoning": "Manchester United are in the thick of a Premier League title race and enter this fixture with high morale following a hard-fought 1-0 victory over Chelsea. Despite being outshot in that match, their defensive resilience and clinical nature are hallmarks of a title-contending side. Playing at Old Trafford, they are strong favourites against a Brentford side that, while capable, lacks the same high-stakes motivation. Ladbrokes have them at 54.1% implied; we assess their true probability at 62%, offering a solid 7.9% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.5,
+      "settled": true
     }
   ],
   "acca_available": false,

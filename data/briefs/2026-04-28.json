@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-28",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Southampton vs Ipswich Town",
+      "league": "Championship",
+      "kickoff": "2026-04-28T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 52.0,
+      "edge": 6.5,
+      "kelly_fraction": 0.027,
+      "reasoning": "This is a pivotal 'six-pointer' in the Championship promotion race. With both teams fighting for the second automatic promotion spot, home advantage at St Mary's becomes the deciding factor. Southampton have been resilient at home, while the pressure of the final stretch may weigh more heavily on Ipswich. A 52% true probability gives us a significant 6.5% edge over Ladbrokes' price.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Paris Saint Germain vs Bayern Munich",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-28T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "PSG to win",
+      "odds": 2.4,
+      "implied_prob": 41.7,
+      "our_prob": 48.0,
+      "edge": 6.3,
+      "kelly_fraction": 0.0225,
+      "reasoning": "Luis Enrique has transformed PSG into a more cohesive and defensively sound unit. While Bayern remain a European powerhouse, their away form in high-stakes Champions League matches has been inconsistent. PSG's motivation to avenge their earlier defeat this season, combined with the Parc des Princes atmosphere, makes them undervalued at 2.4.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.28,
+  "acca_result": null,
+  "acca_return": null
+}
