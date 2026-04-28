@@ -1,52 +1,97 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "fixtures": [
     {
-      "match": "Manchester United vs Brentford",
-      "league": "EPL",
-      "kickoff": "2026-04-27T19:00:00Z",
-      "homeTeam": "Manchester United",
-      "awayTeam": "Brentford",
-      "homeOdds": 1.85,
-      "drawOdds": 3.8,
-      "awayOdds": 3.7,
-      "homeImplied": 54.1,
-      "drawImplied": 26.3,
-      "awayImplied": 27,
+      "match": "Southampton vs Ipswich Town",
+      "league": "Championship",
+      "kickoff": "2026-04-28T18:45:00Z",
+      "homeTeam": "Southampton",
+      "awayTeam": "Ipswich Town",
+      "homeOdds": 2.2,
+      "drawOdds": 3.4,
+      "awayOdds": 3.1,
+      "homeImplied": 45.5,
+      "drawImplied": 29.4,
+      "awayImplied": 32.3,
       "redditContext": [
         {
-          "title": "Chelsea had 645 passes, 21 shots, and 1.29 xG against Manchester United on Saturday. They still lost 1-0. The pass networks actually show why.",
-          "score": 48,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sqpzhg/chelsea_had_645_passes_21_shots_and_129_xg/",
-          "topComment": "Couldn't stop thinking about this match after the Arsenal-City breakdown yesterday. Chelsea had 58% possession, 21 shots, 645 passes, 1.29 xG. A few came back off the woodwork. And they still lost 1-0"
+          "title": "The Rise of the Circle Trigon - What if USA's worst post-war fears came to pass? Europe in 1965",
+          "score": 103,
+          "url": "https://reddit.com/r/imaginarymaps/comments/1sxyj8r/the_rise_of_the_circle_trigon_what_if_usas_worst/"
         },
         {
-          "title": "Free To Read — Manchester United transfers: Carlos Baleba, Micky van de Ven, Aurelien Tchouameni and more",
-          "score": 29,
-          "url": "https://reddit.com/r/PremierLeague/comments/1stcfzz/free_to_read_manchester_united_transfers_carlos/",
-          "topComment": "Manchester United are looking at the centre-back market.  \n  \nThere are people at United who believe Ayden Heaven and Leny Yoro will develop to be as good a partnership as Arsenal pair Gabriel and Wil"
+          "title": "With the title and the relegation places settled, all that remains to be confirmed in the EFL Championship's final week is who will finish 2nd and who will take the final play-off place",
+          "score": 88,
+          "url": "https://reddit.com/r/soccer/comments/1sw6y0f/with_the_title_and_the_relegation_places_settled/"
         },
         {
-          "title": "Gameweek 20 in the WSL is done and dusted: title twists, top three drama, relegation panic and absolute chaos at both ends of the table",
-          "score": 6,
-          "url": "https://reddit.com/r/soccer/comments/1swzexm/gameweek_20_in_the_wsl_is_done_and_dusted_title/",
-          "topComment": "Well… *that* was a weekend.\n\nWith only two matchweeks left in the Women’s Super League season, you’d expect things to maybe calm down a little. Teams locking into position. The title race slowly windi"
+          "title": "Potential exciting final day?",
+          "score": 12,
+          "url": "https://reddit.com/r/Championship/comments/1sxzlc0/potential_exciting_final_day/"
         },
         {
-          "title": "Monday, April 27, 2026 - Soccer Briefing",
+          "title": "Well, that was fun wasn’t it? WSL2’s penultimate weekend delivered chaos, heartbreak, survival, and a title race that now belongs to final-day madness",
+          "score": 9,
+          "url": "https://reddit.com/r/soccer/comments/1swzadk/well_that_was_fun_wasnt_it_wsl2s_penultimate/",
+          "topComment": "Just when it looked like the Women’s Super League 2 promotion race might be calming down… it did the exact opposite.\n\nThis penultimate weekend had *everything*.\n\nTitle contenders collapsing under pres"
+        },
+        {
+          "title": "Championship Promotion Watch (Final Stretch)",
           "score": 4,
-          "url": "https://reddit.com/r/soccer/comments/1swzfyl/monday_april_27_2026_soccer_briefing/",
-          "topComment": "Today's fixture list features four league matches across Europe's top divisions with Manchester United hosting Brentford emerging as the standout encounter. With the Premier League title race potentia"
+          "url": "https://reddit.com/r/soccer/comments/1sxc77e/championship_promotion_watch_final_stretch/",
+          "topComment": "# 👀 Championship Promotion Watch (Final Stretch)\n\nAll matches Saturday 7:30am EST (plus Ipswich/Southampton game in hand **TOMORROW**)\n\n---\n\n## 🏆 Current Table (Top 8)\n\n* **1. Coventry** → ✅ Promote"
         },
         {
-          "title": "April round-up - a Champions League exit, FA Cup progress, and major news off the pitch",
-          "score": 3,
-          "url": "https://reddit.com/r/chelsealadiesfc/comments/1sx1xnj/april_roundup_a_champions_league_exit_fa_cup/"
-        },
-        {
-          "title": "Man Mohammed Khalid, 55, arrested at Manchester Airport charged with 15 counts of rape | United Kingdom",
+          "title": "Southampton vs Ipswich Town, 2026-04-28 English League Championship, H2H &amp; Betting Tips",
           "score": 1,
-          "url": "https://reddit.com/r/EuropeNewsNoComments/comments/1sx27sv/man_mohammed_khalid_55_arrested_at_manchester/"
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1sxygu0/southampton_vs_ipswich_town_20260428_english/"
+        }
+      ]
+    },
+    {
+      "match": "Paris Saint Germain vs Bayern Munich",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-04-28T19:00:00Z",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "Bayern Munich",
+      "homeOdds": 2.4,
+      "drawOdds": 3.75,
+      "awayOdds": 2.6,
+      "homeImplied": 41.7,
+      "drawImplied": 26.7,
+      "awayImplied": 38.5,
+      "redditContext": [
+        {
+          "title": "Luis Enrique: “It’s not just about attacking. If you look at the defensive stats, these are the best teams in Europe. Arsenal have been doing an incredible job this season as well in terms of consistency. Bayern Munich are above us because they lost only two matches. But no team is better than us.\"",
+          "score": 337,
+          "url": "https://reddit.com/r/soccer/comments/1sx2gwv/luis_enrique_its_not_just_about_attacking_if_you/"
+        },
+        {
+          "title": "[Rummenigge] Bayern chief confirms Kane contract talks",
+          "score": 183,
+          "url": "https://reddit.com/r/soccer/comments/1sxam4g/rummenigge_bayern_chief_confirms_kane_contract/",
+          "topComment": "**Bayern Munich** will hold talks with **Harry Kane** about a new contract at the end of the season, Karl-Heinz Rummenigge has confirmed.\n\n*Sky Germany* reported earlier this year that Bayern were cal"
+        },
+        {
+          "title": "What To Watch This Week (27-3 May)",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1sw31jo/what_to_watch_this_week_273_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "GAMES OF THE DAY.",
+          "score": 1,
+          "url": "https://reddit.com/r/georgiostserlentakis2/comments/1sxzq5d/games_of_the_day/"
+        },
+        {
+          "title": "Champions League tonight I'm riding with Bayern Munich",
+          "score": 1,
+          "url": "https://reddit.com/r/SportsBettingPicks/comments/1sxzogt/champions_league_tonight_im_riding_with_bayern/"
+        },
+        {
+          "title": "PSG v Bayern Cheat Sheet",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBetting_/comments/1sxzai3/psg_v_bayern_cheat_sheet/"
         }
       ]
     }
