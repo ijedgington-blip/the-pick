@@ -1,97 +1,48 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "fixtures": [
     {
-      "match": "Southampton vs Ipswich Town",
-      "league": "Championship",
-      "kickoff": "2026-04-28T18:45:00Z",
-      "homeTeam": "Southampton",
-      "awayTeam": "Ipswich Town",
-      "homeOdds": 2.2,
-      "drawOdds": 3.4,
-      "awayOdds": 3.1,
-      "homeImplied": 45.5,
-      "drawImplied": 29.4,
-      "awayImplied": 32.3,
-      "redditContext": [
-        {
-          "title": "The Rise of the Circle Trigon - What if USA's worst post-war fears came to pass? Europe in 1965",
-          "score": 103,
-          "url": "https://reddit.com/r/imaginarymaps/comments/1sxyj8r/the_rise_of_the_circle_trigon_what_if_usas_worst/"
-        },
-        {
-          "title": "With the title and the relegation places settled, all that remains to be confirmed in the EFL Championship's final week is who will finish 2nd and who will take the final play-off place",
-          "score": 88,
-          "url": "https://reddit.com/r/soccer/comments/1sw6y0f/with_the_title_and_the_relegation_places_settled/"
-        },
-        {
-          "title": "Potential exciting final day?",
-          "score": 12,
-          "url": "https://reddit.com/r/Championship/comments/1sxzlc0/potential_exciting_final_day/"
-        },
-        {
-          "title": "Well, that was fun wasn’t it? WSL2’s penultimate weekend delivered chaos, heartbreak, survival, and a title race that now belongs to final-day madness",
-          "score": 9,
-          "url": "https://reddit.com/r/soccer/comments/1swzadk/well_that_was_fun_wasnt_it_wsl2s_penultimate/",
-          "topComment": "Just when it looked like the Women’s Super League 2 promotion race might be calming down… it did the exact opposite.\n\nThis penultimate weekend had *everything*.\n\nTitle contenders collapsing under pres"
-        },
-        {
-          "title": "Championship Promotion Watch (Final Stretch)",
-          "score": 4,
-          "url": "https://reddit.com/r/soccer/comments/1sxc77e/championship_promotion_watch_final_stretch/",
-          "topComment": "# 👀 Championship Promotion Watch (Final Stretch)\n\nAll matches Saturday 7:30am EST (plus Ipswich/Southampton game in hand **TOMORROW**)\n\n---\n\n## 🏆 Current Table (Top 8)\n\n* **1. Coventry** → ✅ Promote"
-        },
-        {
-          "title": "Southampton vs Ipswich Town, 2026-04-28 English League Championship, H2H &amp; Betting Tips",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1sxygu0/southampton_vs_ipswich_town_20260428_english/"
-        }
-      ]
-    },
-    {
-      "match": "Paris Saint Germain vs Bayern Munich",
+      "match": "Atlético Madrid vs Arsenal",
       "league": "UEFA Champions League",
-      "kickoff": "2026-04-28T19:00:00Z",
-      "homeTeam": "Paris Saint Germain",
-      "awayTeam": "Bayern Munich",
-      "homeOdds": 2.4,
-      "drawOdds": 3.75,
-      "awayOdds": 2.6,
-      "homeImplied": 41.7,
-      "drawImplied": 26.7,
-      "awayImplied": 38.5,
+      "kickoff": "2026-04-29T19:00:00Z",
+      "homeTeam": "Atlético Madrid",
+      "awayTeam": "Arsenal",
+      "homeOdds": 3.1,
+      "drawOdds": 3.2,
+      "awayOdds": 2.3,
+      "homeImplied": 32.3,
+      "drawImplied": 31.3,
+      "awayImplied": 43.5,
       "redditContext": [
         {
-          "title": "Luis Enrique: “It’s not just about attacking. If you look at the defensive stats, these are the best teams in Europe. Arsenal have been doing an incredible job this season as well in terms of consistency. Bayern Munich are above us because they lost only two matches. But no team is better than us.\"",
-          "score": 337,
-          "url": "https://reddit.com/r/soccer/comments/1sx2gwv/luis_enrique_its_not_just_about_attacking_if_you/"
+          "title": "Confirmed: Atletico Madrid without star midfielder Pablo Barrios for Arsenal tie",
+          "score": 225,
+          "url": "https://reddit.com/r/soccer/comments/1swk80k/confirmed_atletico_madrid_without_star_midfielder/"
         },
         {
-          "title": "[Rummenigge] Bayern chief confirms Kane contract talks",
-          "score": 183,
-          "url": "https://reddit.com/r/soccer/comments/1sxam4g/rummenigge_bayern_chief_confirms_kane_contract/",
-          "topComment": "**Bayern Munich** will hold talks with **Harry Kane** about a new contract at the end of the season, Karl-Heinz Rummenigge has confirmed.\n\n*Sky Germany* reported earlier this year that Bayern were cal"
+          "title": "Football’s biggest conspiracy theorist targets Arsenal. Atlético midfielder Marcos Llorente’s views have left Spanish health officials in despair.",
+          "score": 150,
+          "url": "https://reddit.com/r/soccer/comments/1syv2l6/footballs_biggest_conspiracy_theorist_targets/"
         },
         {
-          "title": "What To Watch This Week (27-3 May)",
-          "score": 8,
-          "url": "https://reddit.com/r/soccer/comments/1sw31jo/what_to_watch_this_week_273_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+          "title": "Ødegaard tells Arsenal to channel past lessons into ‘ Something special ’ at Atlético Madrid",
+          "score": 39,
+          "url": "https://reddit.com/r/soccer/comments/1sygkyh/ødegaard_tells_arsenal_to_channel_past_lessons/"
         },
         {
-          "title": "GAMES OF THE DAY.",
+          "title": "[Sports] - Atlético Madrid v Arsenal: Champions League semi-final, first leg – live",
           "score": 1,
-          "url": "https://reddit.com/r/georgiostserlentakis2/comments/1sxzq5d/games_of_the_day/"
+          "url": "https://reddit.com/r/GUARDIANauto/comments/1sz5qlo/sports_atlético_madrid_v_arsenal_champions_league/"
         },
         {
-          "title": "Champions League tonight I'm riding with Bayern Munich",
+          "title": "[ＶＩＶＯ/ＴＶ]*Atlético de Madrid contra Arsenal ＥＮ VIVO ＧＲＡＴＩＳ 29 Abril 2026",
           "score": 1,
-          "url": "https://reddit.com/r/SportsBettingPicks/comments/1sxzogt/champions_league_tonight_im_riding_with_bayern/"
+          "url": "https://reddit.com/r/KTMDuke/comments/1sz5pfs/ｖｉｖｏｔｖatlético_de_madrid_contra_arsenal_ｅｎ_vivo/"
         },
         {
-          "title": "PSG v Bayern Cheat Sheet",
+          "title": "[ＶＩＶＯ/ＴＶ]*Atlético Madrid contra Arsenal ＥＮ VIVO ＧＲＡＴＩＳ 29 Abril 2026",
           "score": 1,
-          "url": "https://reddit.com/r/FootballBetting_/comments/1sxzai3/psg_v_bayern_cheat_sheet/"
+          "url": "https://reddit.com/r/KTMDuke/comments/1sz5pen/ｖｉｖｏｔｖatlético_madrid_contra_arsenal_ｅｎ_vivo/"
         }
       ]
     }

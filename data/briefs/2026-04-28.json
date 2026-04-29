@@ -8,16 +8,16 @@
       "kickoff": "2026-04-28T18:45:00Z",
       "pick": "Home",
       "pick_label": "Southampton to win",
-      "odds": 2.20,
+      "odds": 2.2,
       "implied_prob": 45.5,
       "our_prob": 52.0,
       "edge": 6.5,
       "kelly_fraction": 0.027,
       "reasoning": "Southampton host Ipswich in a critical Championship encounter. With both teams vying for automatic promotion, home advantage at St Mary's is expected to be the deciding factor. The Saints' strong home record and the immense pressure on Ipswich suggest that the 2.20 price on a home win offers significant value, representing a 6.5% edge over the implied probability.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -26,20 +26,20 @@
       "kickoff": "2026-04-28T19:00:00Z",
       "pick": "Home",
       "pick_label": "PSG to win",
-      "odds": 2.40,
+      "odds": 2.4,
       "implied_prob": 41.7,
       "our_prob": 48.0,
       "edge": 6.3,
       "kelly_fraction": 0.0225,
       "reasoning": "PSG are traditionally formidable at home in the Champions League, and under Luis Enrique, they have developed a tactical discipline that matches their attacking flair. While Bayern are always a top-tier opponent, their recent away performances in Europe have been slightly inconsistent. A 48% probability for a PSG home win at 2.40 provides a solid 6.3% edge.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 24.0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 5.28,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
