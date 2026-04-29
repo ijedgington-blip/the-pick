@@ -246,8 +246,8 @@ Write data/briefs/${today}.json with this exact content:
   git push`
 
     spawnSync(
-      'npx',
-      ['gemini', '-p', settlePrompt, '--yolo'],
+      '/home/edge/.nvm/versions/node/v20.20.0/bin/gemini',
+      ['-p', settlePrompt, '--yolo'],
       { stdio: 'inherit', cwd: process.cwd() }
     )
     return
@@ -315,8 +315,8 @@ Write the result to data/briefs/${today}.json using the exact picks array format
   git push`
 
   const result = spawnSync(
-    'npx',
-    ['gemini', '-p', prompt, '--yolo'],
+    '/home/edge/.nvm/versions/node/v20.20.0/bin/gemini',
+    ['-p', prompt, '--yolo'],
     { stdio: 'inherit', cwd: process.cwd() }
   )
 
