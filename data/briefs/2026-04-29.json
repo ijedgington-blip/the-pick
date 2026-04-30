@@ -15,9 +15,9 @@
       "kelly_fraction": 0.015,
       "reasoning": "This Champions League semi-final first leg at the Metropolitano is set to be a cagey affair. Atlético's defensive solidity at home, combined with Arsenal's tactical discipline in big away games, points towards a stalemate. The loss of Pablo Barrios for Atlético may reduce their creative spark, further increasing the likelihood of a low-scoring draw. At 3.20, the draw offers substantial value with a 6.7% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 32.0,
+      "settled": true
     }
   ],
   "acca_available": false,
