@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-01",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Girona vs Mallorca",
+      "league": "La Liga",
+      "kickoff": "2026-05-01T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Girona to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 56.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.034,
+      "reasoning": "Girona have been formidable at home this season, boasting one of the best records in the league. Facing a Mallorca side that has struggled for consistency away from home, the 2.05 price on a home win represents significant value based on form and home advantage.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Leeds United vs Burnley",
+      "league": "Premier League",
+      "kickoff": "2026-05-01T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 4.8,
+      "implied_prob": 20.8,
+      "our_prob": 23.0,
+      "edge": 2.2,
+      "kelly_fraction": 0.003,
+      "reasoning": "Leeds are coming off a grueling FA Cup semi-final loss to Chelsea just four days ago and may suffer from both physical and emotional fatigue. Burnley are fighting for their lives at the bottom and have become harder to beat. The draw is overpriced at 4.8.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 9.84,
+  "acca_result": null,
+  "acca_return": null
+}

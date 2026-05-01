@@ -1,48 +1,97 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-05-01",
   "fixtures": [
     {
-      "match": "Atlético Madrid vs Arsenal",
-      "league": "UEFA Champions League",
-      "kickoff": "2026-04-29T19:00:00Z",
-      "homeTeam": "Atlético Madrid",
-      "awayTeam": "Arsenal",
-      "homeOdds": 3.1,
-      "drawOdds": 3.2,
-      "awayOdds": 2.3,
-      "homeImplied": 32.3,
-      "drawImplied": 31.3,
-      "awayImplied": 43.5,
+      "match": "Leeds United vs Burnley",
+      "league": "EPL",
+      "kickoff": "2026-05-01T19:00:00Z",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Burnley",
+      "homeOdds": 1.4,
+      "drawOdds": 4.8,
+      "awayOdds": 7.5,
+      "homeImplied": 71.4,
+      "drawImplied": 20.8,
+      "awayImplied": 13.3,
       "redditContext": [
         {
-          "title": "Confirmed: Atletico Madrid without star midfielder Pablo Barrios for Arsenal tie",
-          "score": 225,
-          "url": "https://reddit.com/r/soccer/comments/1swk80k/confirmed_atletico_madrid_without_star_midfielder/"
+          "title": "Premier League Table, following the conclusion of Matchday 34",
+          "score": 625,
+          "url": "https://reddit.com/r/soccer/comments/1sxgewk/premier_league_table_following_the_conclusion_of/"
         },
         {
-          "title": "Football’s biggest conspiracy theorist targets Arsenal. Atlético midfielder Marcos Llorente’s views have left Spanish health officials in despair.",
-          "score": 150,
-          "url": "https://reddit.com/r/soccer/comments/1syv2l6/footballs_biggest_conspiracy_theorist_targets/"
+          "title": "Post Match Thread: Chelsea vs Leeds United | FA Cup 2025-26 | Semifinals",
+          "score": 53,
+          "url": "https://reddit.com/r/soccer/comments/1swbico/post_match_thread_chelsea_vs_leeds_united_fa_cup/",
+          "topComment": "## FT: Chelsea 1-0 Leeds United\n\n| Info | Details |\n| --- | --- |\n| Competition | 2025-26 English FA Cup, Semifinals |\n| Date | Sun, April 26, 2026 |\n| Venue | Wembley Stadium, London, England |\n| Kic"
         },
         {
-          "title": "Ødegaard tells Arsenal to channel past lessons into ‘ Something special ’ at Atlético Madrid",
-          "score": 39,
-          "url": "https://reddit.com/r/soccer/comments/1sygkyh/ødegaard_tells_arsenal_to_channel_past_lessons/"
+          "title": "Match Thread: Chelsea vs Leeds United | FA Cup | Semi-finals | 26 Apr 14:00 UTC",
+          "score": 31,
+          "url": "https://reddit.com/r/PremierLeague/comments/1sw76yl/match_thread_chelsea_vs_leeds_united_fa_cup/",
+          "topComment": "Chelsea vs Leeds United — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1sw76yl"
         },
         {
-          "title": "[Sports] - Atlético Madrid v Arsenal: Champions League semi-final, first leg – live",
+          "title": "Derbyist for the week of Apr 27, 2026",
+          "score": 3,
+          "url": "https://reddit.com/r/soccer/comments/1sx4lrh/derbyist_for_the_week_of_apr_27_2026/",
+          "topComment": "This is a schedule of this week's derbies and rivalry matches from [Derbyist](https://derby.ist), where you can also find more upcoming derbies and historical results with video highlights.\n\n## Upcomi"
+        },
+        {
+          "title": "[Match HUB] Jogos do dia 1 de Maio",
+          "score": 2,
+          "url": "https://reddit.com/r/futebol/comments/1t0h9k7/match_hub_jogos_do_dia_1_de_maio/"
+        },
+        {
+          "title": "English Premier League - Round 35",
           "score": 1,
-          "url": "https://reddit.com/r/GUARDIANauto/comments/1sz5qlo/sports_atlético_madrid_v_arsenal_champions_league/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t0mno3/english_premier_league_round_35/"
+        }
+      ]
+    },
+    {
+      "match": "Girona vs Mallorca",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-01T19:00:00Z",
+      "homeTeam": "Girona",
+      "awayTeam": "Mallorca",
+      "homeOdds": 2.05,
+      "drawOdds": 3.5,
+      "awayOdds": 3.5,
+      "homeImplied": 48.8,
+      "drawImplied": 28.6,
+      "awayImplied": 28.6,
+      "redditContext": [
+        {
+          "title": "Laliga teams with the most home wins so far",
+          "score": 283,
+          "url": "https://reddit.com/r/soccer/comments/1sveow3/laliga_teams_with_the_most_home_wins_so_far/"
         },
         {
-          "title": "[ＶＩＶＯ/ＴＶ]*Atlético de Madrid contra Arsenal ＥＮ VIVO ＧＲＡＴＩＳ 29 Abril 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/KTMDuke/comments/1sz5pfs/ｖｉｖｏｔｖatlético_de_madrid_contra_arsenal_ｅｎ_vivo/"
+          "title": "La Liga standings after matchweek 33",
+          "score": 119,
+          "url": "https://reddit.com/r/soccer/comments/1sxh6lt/la_liga_standings_after_matchweek_33/"
         },
         {
-          "title": "[ＶＩＶＯ/ＴＶ]*Atlético Madrid contra Arsenal ＥＮ VIVO ＧＲＡＴＩＳ 29 Abril 2026",
+          "title": "Today's games to watch April 25th",
+          "score": 4,
+          "url": "https://reddit.com/r/soccer/comments/1sv8p63/todays_games_to_watch_april_25th/",
+          "topComment": "\\*\\*Today's Soccer Schedule – Saturday, April 25\\*\\*\n\n\\*\\*Premier League\\*\\*\n\n\\- Fulham vs Aston Villa · 07:30 AM EDT\n\n\\- Liverpool vs Crystal Palace · 10:00 AM EDT\n\n\\- West Ham vs Everton · 10:00 AM "
+        },
+        {
+          "title": "AJUDA! Bicicleta familiar robada. RECOMPENSA SI LA TROBEN!",
+          "score": 3,
+          "url": "https://reddit.com/r/Girona/comments/1t0n6cr/ajuda_bicicleta_familiar_robada_recompensa_si_la/"
+        },
+        {
+          "title": "2026-05-01 Prediction: Leeds vs Burnley, Girona vs Mallorca, Pisa vs Lecce, Cercle Brugge vs Zulte-Waregem",
+          "score": 2,
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1t0m1i4/20260501_prediction_leeds_vs_burnley_girona_vs/"
+        },
+        {
+          "title": "Spanish La Liga - Round 34",
           "score": 1,
-          "url": "https://reddit.com/r/KTMDuke/comments/1sz5pen/ｖｉｖｏｔｖatlético_madrid_contra_arsenal_ｅｎ_vivo/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t0ms6f/spanish_la_liga_round_34/"
         }
       ]
     }
