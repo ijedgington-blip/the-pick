@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-02",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Valencia vs Atlético Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-02T14:15:00Z",
+      "pick": "Home",
+      "pick_label": "Valencia to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 65.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.049,
+      "reasoning": "Atlético Madrid are likely distracted and fatigued after a high-stakes Champions League semi-final against Arsenal just days ago. Valencia have a strong home record, and Ladbrokes are underestimating the impact of Atlético's European commitments.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Villarreal vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-02T12:00:00Z",
+      "pick": "Home",
+      "pick_label": "Villarreal to win",
+      "odds": 1.7,
+      "implied_prob": 58.8,
+      "our_prob": 65.0,
+      "edge": 6.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "Villarreal are among the most dominant home teams in La Liga this season. Levante have struggled to find consistency on the road. The edge here is clear given Villarreal's fortress-like form at the Ceramica.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Brentford vs West Ham United",
+      "league": "EPL",
+      "kickoff": "2026-05-02T14:00:00Z",
+      "pick": "Away",
+      "pick_label": "West Ham to win",
+      "odds": 3.8,
+      "implied_prob": 26.3,
+      "our_prob": 32.0,
+      "edge": 5.7,
+      "kelly_fraction": 0.01,
+      "reasoning": "West Ham have been in top-7 form since the start of 2026, picking up 22 points. Brentford are dealing with transfer distractions regarding Yoane Wissa. West Ham at 3.8 offers significant value for a team in such strong form.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.18,
+  "acca_result": null,
+  "acca_return": null
+}
