@@ -15,9 +15,9 @@
       "kelly_fraction": 0.049,
       "reasoning": "Atlético Madrid are likely distracted and fatigued after a high-stakes Champions League semi-final against Arsenal just days ago. Valencia have a strong home record, and Ladbrokes are underestimating the impact of Atlético's European commitments.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.044,
       "reasoning": "Villarreal are among the most dominant home teams in La Liga this season. Levante have struggled to find consistency on the road. The edge here is clear given Villarreal's fortress-like form at the Ceramica.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 17.0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.01,
       "reasoning": "West Ham have been in top-7 form since the start of 2026, picking up 22 points. Brentford are dealing with transfer distractions regarding Yoane Wissa. West Ham at 3.8 offers significant value for a team in such strong form.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 11.18,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

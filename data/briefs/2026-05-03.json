@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-03",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Getafe vs Rayo Vallecano",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-03T14:15:00Z",
+      "pick": "Home",
+      "pick_label": "Getafe to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 60.0,
+      "edge": 8.7,
+      "kelly_fraction": 0.046,
+      "reasoning": "Getafe are formidable at home, and Rayo Vallecano will be suffering from 'European hangover' after their hard-fought 1-0 win against Strasbourg in the Conference League semi-final on Thursday. The fatigue from travel and a high-intensity midweek match gives Getafe a significant edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Real Betis vs Oviedo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-03T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 1.57,
+      "implied_prob": 63.7,
+      "our_prob": 70.0,
+      "edge": 6.3,
+      "kelly_fraction": 0.055,
+      "reasoning": "Real Betis are chasing European spots and have a vastly superior squad to Oviedo. At home, they should dominate a team that is struggling for consistency. The market odds of 1.57 offer good value for what is effectively a home banker.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Aston Villa vs Tottenham Hotspur",
+      "league": "EPL",
+      "kickoff": "2026-05-03T18:00:00Z",
+      "pick": "Home",
+      "pick_label": "Aston Villa to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 52.0,
+      "edge": 4.4,
+      "kelly_fraction": 0.02,
+      "reasoning": "Villa Park has been a fortress this season. Spurs are prone to defensive lapses, and Villa's high press will likely exploit them. The implied probability of 47.6% underestimates the home advantage in this top-tier clash between two teams fighting for top-4 positioning.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.43,
+  "acca_result": null,
+  "acca_return": null
+}
