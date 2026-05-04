@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-04",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Chelsea vs Nottingham Forest",
+      "league": "EPL",
+      "kickoff": "2026-05-04T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Chelsea to win",
+      "odds": 1.7,
+      "implied_prob": 58.8,
+      "our_prob": 65.0,
+      "edge": 6.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "Chelsea have shown significant improvement in their underlying numbers and attacking output at Stamford Bridge. Nottingham Forest, while resilient, often struggle against high-possession teams away from home. The market is slightly underpricing Chelsea's home dominance as they push for a strong finish to the season.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Everton vs Manchester City",
+      "league": "EPL",
+      "kickoff": "2026-05-04T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Everton to win",
+      "odds": 5.75,
+      "implied_prob": 17.4,
+      "our_prob": 20.0,
+      "edge": 2.6,
+      "kelly_fraction": 0.003,
+      "reasoning": "This is a speculative value play. Manchester City are currently embroiled in a scheduling crisis, publicly pushing for postponements due to extreme fixture congestion. With Pep Guardiola likely to rotate heavily and players showing signs of fatigue, a fired-up Everton at Goodison Park under the lights presents a rare opportunity where the heavy underdog is undervalued.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sevilla vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-04T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Real Sociedad to win",
+      "odds": 2.8,
+      "implied_prob": 35.7,
+      "our_prob": 38.0,
+      "edge": 2.3,
+      "kelly_fraction": 0.006,
+      "reasoning": "Real Sociedad's tactical discipline and counter-attacking prowess make them a nightmare for inconsistent teams like Sevilla. Sevilla have struggled to maintain a solid defensive structure this season, and Sociedad's ability to control the midfield and exploit gaps should see them create enough chances to take all three points.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 27.37,
+  "acca_result": null,
+  "acca_return": null
+}

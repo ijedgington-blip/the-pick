@@ -15,9 +15,9 @@
       "kelly_fraction": 0.046,
       "reasoning": "Getafe are formidable at home, and Rayo Vallecano will be suffering from 'European hangover' after their hard-fought 1-0 win against Strasbourg in the Conference League semi-final on Thursday. The fatigue from travel and a high-intensity midweek match gives Getafe a significant edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.055,
       "reasoning": "Real Betis are chasing European spots and have a vastly superior squad to Oviedo. At home, they should dominate a team that is struggling for consistency. The market odds of 1.57 offer good value for what is effectively a home banker.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 15.7,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.02,
       "reasoning": "Villa Park has been a fortress this season. Spurs are prone to defensive lapses, and Villa's high press will likely exploit them. The implied probability of 47.6% underestimates the home advantage in this top-tier clash between two teams fighting for top-4 positioning.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 6.43,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

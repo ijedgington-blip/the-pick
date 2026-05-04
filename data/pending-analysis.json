@@ -1,18 +1,67 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "fixtures": [
     {
-      "match": "Bournemouth vs Crystal Palace",
+      "match": "Chelsea vs Nottingham Forest",
       "league": "EPL",
-      "kickoff": "2026-05-03T13:00:00Z",
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Crystal Palace",
-      "homeOdds": 1.61,
-      "drawOdds": 4,
-      "awayOdds": 5,
-      "homeImplied": 62.1,
-      "drawImplied": 25,
-      "awayImplied": 20,
+      "kickoff": "2026-05-04T14:00:00Z",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Nottingham Forest",
+      "homeOdds": 1.7,
+      "drawOdds": 3.8,
+      "awayOdds": 4.6,
+      "homeImplied": 58.8,
+      "drawImplied": 26.3,
+      "awayImplied": 21.7,
+      "redditContext": [
+        {
+          "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
+          "score": 93,
+          "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
+          "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
+        },
+        {
+          "title": "Potentially Many Managerial Changes before 2026/27 Season Starts?",
+          "score": 21,
+          "url": "https://reddit.com/r/PremierLeague/comments/1sx4v21/potentially_many_managerial_changes_before_202627/",
+          "topComment": "With Oliver Glasner and Andoni Iraola already confirmed to be leaving their posts end of the season with the latter being heavily linked to Chelsea.\n\nThere have been some bonkers rumours regarding\n\nRé"
+        },
+        {
+          "title": "[FM] After several meetings, Nottingham Forest technical director George Syrianos has rejected to join Marseille. The club were attracted to his data-driven approach. Marseille continue to explore several candidates, including Julien Fournier and Cristiano Giuntoli",
+          "score": 9,
+          "url": "https://reddit.com/r/soccer/comments/1t1qqeq/fm_after_several_meetings_nottingham_forest/"
+        },
+        {
+          "title": "Eighteen defeats, the same old mistakes. Liverpool and Arne Slot are stuck in a doom loop, and the statistics are damning | Only on 3 occasions since Liverpool were promoted to top-flight in 1962 have they suffered more than the current tally of 18 defeats in a season - &amp; there's 3 games still left",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1t3ci3z/eighteen_defeats_the_same_old_mistakes_liverpool/"
+        },
+        {
+          "title": "What To Watch This Week (4-10 May)",
+          "score": 7,
+          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "Final Day Chaos in Women’s Super League 2: Three Clubs, Two Promotion Places, One Last Afternoon to Decide Everything",
+          "score": 5,
+          "url": "https://reddit.com/r/soccer/comments/1t1n55u/final_day_chaos_in_womens_super_league_2_three/",
+          "topComment": "The 2025/26 Women’s Super League 2 season comes down to today, and it genuinely could not be set up much better.\n\nWe already know most of the picture for next season. **Bristol City, Newcastle United,"
+        }
+      ]
+    },
+    {
+      "match": "Everton vs Manchester City",
+      "league": "EPL",
+      "kickoff": "2026-05-04T19:00:00Z",
+      "homeTeam": "Everton",
+      "awayTeam": "Manchester City",
+      "homeOdds": 5.75,
+      "drawOdds": 4.4,
+      "awayOdds": 1.5,
+      "homeImplied": 17.4,
+      "drawImplied": 22.7,
+      "awayImplied": 66.7,
       "redditContext": [
         {
           "title": "Manchester City pushing the Premier League to reschedule their games against Crystal Palace and Bournemouth",
@@ -21,445 +70,77 @@
         },
         {
           "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
-          "score": 91,
+          "score": 93,
           "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
           "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
         },
         {
-          "title": "[Billy Meyers] Crystal Palace in talks to sign 2 more players from Wolves.",
-          "score": 28,
-          "url": "https://reddit.com/r/soccer/comments/1t0qzpj/billy_meyers_crystal_palace_in_talks_to_sign_2/"
+          "title": "Pep Guardiola on Manchester City’s fixture schedule across competitions and whether they could request a postponement like PSG in Ligue 1",
+          "score": 20,
+          "url": "https://reddit.com/r/soccer/comments/1t0rud2/pep_guardiola_on_manchester_citys_fixture/"
         },
         {
-          "title": "Final Day Fever in the Women's Super League 2: Title Race Chaos, Promotion Drama, Playoff Stakes, Free Worldwide Streams, and One Last 3pm Saturday Before It All Ends",
-          "score": 11,
-          "url": "https://reddit.com/r/soccer/comments/1t0vxis/final_day_fever_in_the_womens_super_league_2/",
-          "topComment": "r/soccer, this is it.\n\nThe final matchday of the Women’s Super League 2 season is almost here. Saturday 2nd May. Early May Bank Holiday Weekend in the UK. One final afternoon. One final 3pm kick-off b"
+          "title": "Remove 1 Football Team from the Top 5 Leagues Day 93",
+          "score": 9,
+          "url": "https://reddit.com/r/RemoveOneThingEachDay/comments/1t3cg2e/remove_1_football_team_from_the_top_5_leagues_day/"
         },
         {
-          "title": "Final Day Chaos in Women’s Super League 2: Three Clubs, Two Promotion Places, One Last Afternoon to Decide Everything",
-          "score": 2,
-          "url": "https://reddit.com/r/soccer/comments/1t1n55u/final_day_chaos_in_womens_super_league_2_three/",
-          "topComment": "The 2025/26 Women’s Super League 2 season comes down to today, and it genuinely could not be set up much better.\n\nWe already know most of the picture for next season. **Bristol City, Newcastle United,"
+          "title": "What To Watch This Week (4-10 May)",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "Old Christchurch Road is closed off today",
-          "score": 1,
-          "url": "https://reddit.com/r/bournemouth/comments/1t2gd8n/old_christchurch_road_is_closed_off_today/"
+          "title": "Tyler Dibling: The curious case of Everton's £40m youngster",
+          "score": 8,
+          "url": "https://reddit.com/r/PremierLeague/comments/1t3cb7l/tyler_dibling_the_curious_case_of_evertons_40m/"
         }
       ]
     },
     {
-      "match": "Manchester United vs Liverpool",
-      "league": "EPL",
-      "kickoff": "2026-05-03T14:30:00Z",
-      "homeTeam": "Manchester United",
-      "awayTeam": "Liverpool",
-      "homeOdds": 2.25,
-      "drawOdds": 3.75,
+      "match": "Sevilla vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-04T19:00:00Z",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Real Sociedad",
+      "homeOdds": 2.4,
+      "drawOdds": 3.3,
       "awayOdds": 2.8,
-      "homeImplied": 44.4,
-      "drawImplied": 26.7,
+      "homeImplied": 41.7,
+      "drawImplied": 30.3,
       "awayImplied": 35.7,
       "redditContext": [
         {
-          "title": "Manchester United fans planning tribute to Diogo Jota at the 20th minute mark of Sunday's fixture against Liverpool",
-          "score": 1656,
-          "url": "https://reddit.com/r/soccer/comments/1t1kms2/manchester_united_fans_planning_tribute_to_diogo/"
+          "title": "After this weeks La Liga matches, Barcelona know they will win the title in El Clásico if they avoid defeat",
+          "score": 311,
+          "url": "https://reddit.com/r/soccer/comments/1t2xcd0/after_this_weeks_la_liga_matches_barcelona_know/"
         },
         {
-          "title": "Official: Kobbie Mainoo commits future to Manchester United",
-          "score": 1112,
-          "url": "https://reddit.com/r/soccer/comments/1szsv04/official_kobbie_mainoo_commits_future_to/"
+          "title": "J37 - 5 Games Remaining - La Liga 2 (Segunda Division)",
+          "score": 19,
+          "url": "https://reddit.com/r/soccer/comments/1sxuc24/j37_5_games_remaining_la_liga_2_segunda_division/",
+          "topComment": "The punch seen around the world hasn't changed much for the bottom 4, though a 6th straight defeat from Cadiz means the tension will continue for the foreseeable future. \n\nEibar's victory brings them "
         },
         {
-          "title": "There’s a chance of something unprecedented happening on the final day of the season.",
-          "score": 723,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sxc58c/theres_a_chance_of_something_unprecedented/",
-          "topComment": "So it’s come to my attention that 6th place in the league can qualify for the Champions League, but only if Villa win the Europa League AND finish exactly 5th. Due to Liverpool playing Brentford in th"
-        },
-        {
-          "title": "50 years ago today; in one of the biggest shocks in FA Cup history, Second Division Southampton beat Manchester United thanks to a Bobby Stokes goal.",
-          "score": 116,
-          "url": "https://reddit.com/r/soccer/comments/1t0j4ql/50_years_ago_today_in_one_of_the_biggest_shocks/"
-        },
-        {
-          "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
-          "score": 94,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
-          "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
-        },
-        {
-          "title": "Match Thread: Manchester United vs Brentford | Premier League | 27 Apr 19:00 UTC",
-          "score": 56,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sxbsi1/match_thread_manchester_united_vs_brentford/",
-          "topComment": "This post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1sxbsi1)"
-        }
-      ]
-    },
-    {
-      "match": "Aston Villa vs Tottenham Hotspur",
-      "league": "EPL",
-      "kickoff": "2026-05-03T18:00:00Z",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Tottenham Hotspur",
-      "homeOdds": 2.1,
-      "drawOdds": 3.5,
-      "awayOdds": 3.3,
-      "homeImplied": 47.6,
-      "drawImplied": 28.6,
-      "awayImplied": 30.3,
-      "redditContext": [
-        {
-          "title": "45 years ago today - despite defeat at Arsenal, Aston Villa were crowned League champions after Ipswich lost at Middlesbrough. They did it with 7 ever-present and just 14 players used during all season",
-          "score": 241,
-          "url": "https://reddit.com/r/soccer/comments/1t1kcap/45_years_ago_today_despite_defeat_at_arsenal/"
-        },
-        {
-          "title": "On this day 10 years later, Looking back at how r/soccer reacted to Leicester City's historic season as it happened, GW 36: Chelsea 2-2 Tottenham Hotspur (Title Winning Match)",
-          "score": 205,
-          "url": "https://reddit.com/r/soccer/comments/1t1g9p4/on_this_day_10_years_later_looking_back_at_how/",
-          "topComment": "[Jamie Vardy’s having a party: Leicester players to watch Tottenham match at striker’s house](https://www.reddit.com/r/soccer/comments/4hi3ah/jamie_vardys_having_a_party_leicester_players_to/)\n\n[Pre M"
-        },
-        {
-          "title": "Unusual start of the ESPN Argentina coverage of the Nottingham Forest V Aston Villa match today, featuring Bambino Pons",
-          "score": 100,
-          "url": "https://reddit.com/r/soccer/comments/1t0cy6z/unusual_start_of_the_espn_argentina_coverage_of/"
-        },
-        {
-          "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
-          "score": 87,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
-          "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
-        },
-        {
-          "title": "Believe",
-          "score": 55,
-          "url": "https://reddit.com/r/avfc/comments/1t2fqfr/believe/"
-        },
-        {
-          "title": "MATCH THREAD | LIVE STREAMING | WSL - MANCHESTER CITY VS LIVERPOOL - 12:00 UK - 03/05/26",
-          "score": 3,
-          "url": "https://reddit.com/r/liverpoolwfc/comments/1t2ffbl/match_thread_live_streaming_wsl_manchester_city/"
-        }
-      ]
-    },
-    {
-      "match": "FC St. Pauli vs FSV Mainz 05",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-03T13:30:00Z",
-      "homeTeam": "FC St. Pauli",
-      "awayTeam": "FSV Mainz 05",
-      "homeOdds": 2.75,
-      "drawOdds": 3.25,
-      "awayOdds": 2.5,
-      "homeImplied": 36.4,
-      "drawImplied": 30.8,
-      "awayImplied": 40,
-      "redditContext": [
-        {
-          "title": "Thun has failed for the 2nd time to claim the Swiss title after the defeat at Basel and will need the help of Sion to not lose at St. Gallen tomorrow to win the league this week",
-          "score": 76,
-          "url": "https://reddit.com/r/soccer/comments/1t20t1z/thun_has_failed_for_the_2nd_time_to_claim_the/"
-        },
-        {
-          "title": "Post Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
-          "score": 22,
-          "url": "https://reddit.com/r/soccer/comments/1t1t4b0/post_match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "\n\n#FT: Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: "
-        },
-        {
-          "title": "Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
+          "title": "Seit 6 Wochen dabei ohne Hamburg zu verlassen",
           "score": 12,
-          "url": "https://reddit.com/r/soccer/comments/1t1pwqa/match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "#Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: Allian"
+          "url": "https://reddit.com/r/Kennzeichensammler/comments/1t3ay0q/seit_6_wochen_dabei_ohne_hamburg_zu_verlassen/"
         },
         {
-          "title": "2026-05-03 Prediction | German Bundesliga, Spanish LALIGA, French Ligue 1, Italian Serie A, English Premier League",
+          "title": "What To Watch This Week (4-10 May)",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "Playing for 100,to sevilla keeper or not to sevilla keeper?",
           "score": 2,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t2e4iv/20260503_prediction_german_bundesliga_spanish/"
+          "url": "https://reddit.com/r/Sorare/comments/1t39jeb/playing_for_100to_sevilla_keeper_or_not_to/"
         },
         {
-          "title": "Peak Haramball",
+          "title": "2026-05-04 Prediction: Chelsea vs Forest, Everton vs Man City, Sevilla vs Sociedad",
           "score": 2,
-          "url": "https://reddit.com/r/footballmanagergames/comments/1t1mtts/peak_haramball/"
-        },
-        {
-          "title": "Match Thread: FC St. Pauli vs FSV Mainz Live Score | Bundesliga 25/26 | May 3, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/AmigaBundesliga/comments/1t1pz2m/match_thread_fc_st_pauli_vs_fsv_mainz_live_score/"
-        }
-      ]
-    },
-    {
-      "match": "Borussia Monchengladbach vs Borussia Dortmund",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-03T15:30:00Z",
-      "homeTeam": "Borussia Monchengladbach",
-      "awayTeam": "Borussia Dortmund",
-      "homeOdds": 3.5,
-      "drawOdds": 3.75,
-      "awayOdds": 1.95,
-      "homeImplied": 28.6,
-      "drawImplied": 26.7,
-      "awayImplied": 51.3,
-      "redditContext": [
-        {
-          "title": "At today's match, Borussia Dortmund hosted and welcomed three Israeli hostage survivors: Omri Miran, and Ziv and Gali Berman!",
-          "score": 94,
-          "url": "https://reddit.com/r/soccer/comments/1swf8si/at_todays_match_borussia_dortmund_hosted_and/"
-        },
-        {
-          "title": "Post Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
-          "score": 26,
-          "url": "https://reddit.com/r/soccer/comments/1t1t4b0/post_match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "\n\n#FT: Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: "
-        },
-        {
-          "title": "Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
-          "score": 13,
-          "url": "https://reddit.com/r/soccer/comments/1t1pwqa/match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "#Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: Allian"
-        },
-        {
-          "title": "BMG Weekly - 28 April 2026",
-          "score": 4,
-          "url": "https://reddit.com/r/bmg/comments/1syji2y/bmg_weekly_28_april_2026/"
-        },
-        {
-          "title": "UCL",
-          "score": 2,
-          "url": "https://reddit.com/r/UCLforIndia2/comments/1sytytd/ucl/"
-        },
-        {
-          "title": "Match Thread: Borussia Monchengladbach vs Borussia Dortmund Live Score | Bundesliga 25/26 | May 3, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/AmigaBundesliga/comments/1t1t0ro/match_thread_borussia_monchengladbach_vs_borussia/"
-        }
-      ]
-    },
-    {
-      "match": "SC Freiburg vs VfL Wolfsburg",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-03T17:30:00Z",
-      "homeTeam": "SC Freiburg",
-      "awayTeam": "VfL Wolfsburg",
-      "homeOdds": 2.5,
-      "drawOdds": 3.5,
-      "awayOdds": 2.62,
-      "homeImplied": 40,
-      "drawImplied": 28.6,
-      "awayImplied": 38.2,
-      "redditContext": [
-        {
-          "title": "Post Match Thread: Braga vs SC Freiburg | UEFA Europa League 2025-26 | Semifinals, 1st Leg",
-          "score": 74,
-          "url": "https://reddit.com/r/soccer/comments/1t08t2u/post_match_thread_braga_vs_sc_freiburg_uefa/",
-          "topComment": "## FT: Braga 2-1 SC Freiburg\n\n| Info | Details |\n| --- | --- |\n| Competition | 2025-26 UEFA Europa League, Semifinals |\n| Date | Thu, April 30, 2026 |\n| Venue | Estádio Municipal de Braga, Braga, Port"
-        },
-        {
-          "title": "Post Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
-          "score": 24,
-          "url": "https://reddit.com/r/soccer/comments/1t1t4b0/post_match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "\n\n#FT: Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: "
-        },
-        {
-          "title": "Match Thread: Bundesliga Saturday Konferenz (Simulcast) - Round 32 | 2025/26",
-          "score": 12,
-          "url": "https://reddit.com/r/soccer/comments/1t1pwqa/match_thread_bundesliga_saturday_konferenz/",
-          "topComment": "#Bayern München [3-3](#bar-3-white) Heidenheim \n\n*Bayern scorers: Leon Goretzka (44', 57'), Diant Ramaj (OG 90+10')*\n\n*Heidenheim scorers: Budu Zivzivadze (22', 76'), Eren Dinkçi (31')*\n\nVenue: Allian"
-        },
-        {
-          "title": "Match Thread: SC Freiburg vs VFL Wolfsburg Live Score | Bundesliga 25/26 | May 3, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/VfLWolfsburg/comments/1t1w6cm/match_thread_sc_freiburg_vs_vfl_wolfsburg_live/"
-        },
-        {
-          "title": "Match Thread: SC Freiburg vs VfL Wolfsburg | Bundesliga | 03 May 19:30 CEST",
-          "score": 1,
-          "url": "https://reddit.com/r/GinomaniaTest/comments/1t1w35u/match_thread_sc_freiburg_vs_vfl_wolfsburg/"
-        }
-      ]
-    },
-    {
-      "match": "Celta Vigo vs Elche CF",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-03T12:00:00Z",
-      "homeTeam": "Celta Vigo",
-      "awayTeam": "Elche CF",
-      "homeOdds": 1.7,
-      "drawOdds": 3.9,
-      "awayOdds": 4.5,
-      "homeImplied": 58.8,
-      "drawImplied": 25.6,
-      "awayImplied": 22.2,
-      "redditContext": [
-        {
-          "title": "Barca has won 22 out of 24 matches since the 1-2 defeat at Madrid last October",
-          "score": 370,
-          "url": "https://reddit.com/r/Barca/comments/1t2882m/barca_has_won_22_out_of_24_matches_since_the_12/"
-        },
-        {
-          "title": "La Liga standings after matchweek 33",
-          "score": 115,
-          "url": "https://reddit.com/r/soccer/comments/1sxh6lt/la_liga_standings_after_matchweek_33/"
-        },
-        {
-          "title": "Villarreal 2-0 Celta Vigo - Nicolas Pepe 29'",
-          "score": 35,
-          "url": "https://reddit.com/r/soccer/comments/1swh6g8/villarreal_20_celta_vigo_nicolas_pepe_29/"
-        },
-        {
-          "title": "Villarreal 2-[1] Celta Vigo - Borja Iglesias penalty 73'",
-          "score": 10,
-          "url": "https://reddit.com/r/soccer/comments/1swixeh/villarreal_21_celta_vigo_borja_iglesias_penalty_73/"
-        },
-        {
-          "title": "🚨 AI found a value bet today⚽️",
-          "score": 1,
-          "url": "https://reddit.com/r/u_AIPickAnalitics/comments/1t2ez31/ai_found_a_value_bet_today/"
-        },
-        {
-          "title": "#Hoyhayfutbol #Futbol #Mexico #TV #Domingo",
-          "score": 1,
-          "url": "https://reddit.com/r/hoyhayfutbol/comments/1t2987i/hoyhayfutbol_futbol_mexico_tv_domingo/"
-        }
-      ]
-    },
-    {
-      "match": "Getafe vs Rayo Vallecano",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-03T14:15:00Z",
-      "homeTeam": "Getafe",
-      "awayTeam": "Rayo Vallecano",
-      "homeOdds": 1.95,
-      "drawOdds": 3.1,
-      "awayOdds": 4.33,
-      "homeImplied": 51.3,
-      "drawImplied": 32.3,
-      "awayImplied": 23.1,
-      "redditContext": [
-        {
-          "title": "Rayo Vallecano player, Ilias Akhomach, places a Palestinian flag given by fans, as the team celebrates a 1-0 victory over Strasbourg in the first leg of the Conference League semi-finales",
-          "score": 5873,
-          "url": "https://reddit.com/r/soccer/comments/1t0pomx/rayo_vallecano_player_ilias_akhomach_places_a/"
-        },
-        {
-          "title": "Rayo Vallecano 1-0 Strasbourg - Alemão 54'",
-          "score": 156,
-          "url": "https://reddit.com/r/soccer/comments/1t07t1h/rayo_vallecano_10_strasbourg_alemão_54/"
-        },
-        {
-          "title": "Post Match Thread: Rayo Vallecano vs Strasbourg | UEFA Conference League 2025-26 | Semifinals, 1st Leg",
-          "score": 58,
-          "url": "https://reddit.com/r/soccer/comments/1t090kq/post_match_thread_rayo_vallecano_vs_strasbourg/",
-          "topComment": "## FT: Rayo Vallecano 1-0 Strasbourg\n\n| Info | Details |\n| --- | --- |\n| Competition | 2025-26 UEFA Conference League, Semifinals |\n| Date | Thu, April 30, 2026 |\n| Venue | Estadio de Vallecas, Madrid"
-        },
-        {
-          "title": "2026-05-03 Prediction | German Bundesliga, Spanish LALIGA, French Ligue 1, Italian Serie A, English Premier League",
-          "score": 2,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t2e4iv/20260503_prediction_german_bundesliga_spanish/"
-        },
-        {
-          "title": "Spanish La Liga - Round 34",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t2f25u/spanish_la_liga_round_34/"
-        },
-        {
-          "title": "#Hoyhayfutbol #Futbol #Mexico #TV #Domingo",
-          "score": 1,
-          "url": "https://reddit.com/r/hoyhayfutbol/comments/1t2987i/hoyhayfutbol_futbol_mexico_tv_domingo/"
-        }
-      ]
-    },
-    {
-      "match": "Real Betis vs Oviedo",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-03T16:30:00Z",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Oviedo",
-      "homeOdds": 1.57,
-      "drawOdds": 4.2,
-      "awayOdds": 5.5,
-      "homeImplied": 63.7,
-      "drawImplied": 23.8,
-      "awayImplied": 18.2,
-      "redditContext": [
-        {
-          "title": "[Movistar +] Dani Carvajal mocks the lazy tracking back of Trent Alexander-Arnold against Real Betis.",
-          "score": 7889,
-          "url": "https://reddit.com/r/soccer/comments/1sxr7oz/movistar_dani_carvajal_mocks_the_lazy_tracking/",
-          "topComment": "[Source](https://xcancel.com/ElDiaDespues/status/2048847951506665626)"
-        },
-        {
-          "title": "Pedro Bigas (Elche) great goal vs Real Oviedo - better angle",
-          "score": 1638,
-          "url": "https://reddit.com/r/soccer/comments/1sw9bln/pedro_bigas_elche_great_goal_vs_real_oviedo/"
-        },
-        {
-          "title": "La Liga standings after matchweek 33",
-          "score": 118,
-          "url": "https://reddit.com/r/soccer/comments/1sxh6lt/la_liga_standings_after_matchweek_33/"
-        },
-        {
-          "title": "2026-05-03 Prediction | German Bundesliga, Spanish LALIGA, French Ligue 1, Italian Serie A, English Premier League",
-          "score": 2,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t2e4iv/20260503_prediction_german_bundesliga_spanish/"
-        },
-        {
-          "title": "Spanish La Liga - Round 34",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t2f25u/spanish_la_liga_round_34/"
-        },
-        {
-          "title": "Favourable fixtures tonight",
-          "score": 1,
-          "url": "https://reddit.com/r/me88official/comments/1t2ankq/favourable_fixtures_tonight/"
-        }
-      ]
-    },
-    {
-      "match": "Espanyol vs Real Madrid",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-03T19:00:00Z",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Real Madrid",
-      "homeOdds": 4.33,
-      "drawOdds": 3.9,
-      "awayOdds": 1.75,
-      "homeImplied": 23.1,
-      "drawImplied": 25.6,
-      "awayImplied": 57.1,
-      "redditContext": [
-        {
-          "title": "Real Madrid will not renew captain Dani Carvajal's contract. His return from injury is expected to coincide with the final match of the season against Athletic Bilbao at the Bernabéu, where he will be given a farewell ceremony. The 6-time UCL winner will say goodbye after 13 seasons with the club",
-          "score": 3691,
-          "url": "https://reddit.com/r/soccer/comments/1t1ssuq/real_madrid_will_not_renew_captain_dani_carvajals/"
-        },
-        {
-          "title": "José Mourinho: \"No one from Real Madrid spoke with me, I can guarantee that. I have already spent too many years in football, just as you have in journalism, and we are already used to these things, but there is nothing from Real Madrid.\"",
-          "score": 245,
-          "url": "https://reddit.com/r/soccer/comments/1t0s2pv/josé_mourinho_no_one_from_real_madrid_spoke_with/"
-        },
-        {
-          "title": "Florentino Perez's candidates for the next Real Madrid manager: Didier Deschamps, Massimiliano Allegri, Lionel Scaloni, Mauricio Pochettino, José Mourinho",
-          "score": 20,
-          "url": "https://reddit.com/r/soccer/comments/1t1t15t/florentino_perezs_candidates_for_the_next_real/"
-        },
-        {
-          "title": "All of Barça last three league title wins have come down to Espanyol",
-          "score": 7,
-          "url": "https://reddit.com/r/LaLiga/comments/1t2enkv/all_of_barça_last_three_league_title_wins_have/"
-        },
-        {
-          "title": "Which of these dilemmas would you prefer?",
-          "score": 2,
-          "url": "https://reddit.com/r/realmadrid/comments/1t2g5kz/which_of_these_dilemmas_would_you_prefer/"
-        },
-        {
-          "title": "Spanish La Liga - Round 34",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t2f25u/spanish_la_liga_round_34/"
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1t396rs/20260504_prediction_chelsea_vs_forest_everton_vs/"
         }
       ]
     }
