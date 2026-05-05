@@ -1,146 +1,50 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "fixtures": [
     {
-      "match": "Chelsea vs Nottingham Forest",
-      "league": "EPL",
-      "kickoff": "2026-05-04T14:00:00Z",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Nottingham Forest",
-      "homeOdds": 1.7,
-      "drawOdds": 3.8,
-      "awayOdds": 4.6,
-      "homeImplied": 58.8,
-      "drawImplied": 26.3,
-      "awayImplied": 21.7,
+      "match": "Arsenal vs Atlético Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-05-05T19:00:00Z",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Atlético Madrid",
+      "homeOdds": 1.6,
+      "drawOdds": 4,
+      "awayOdds": 5.5,
+      "homeImplied": 62.5,
+      "drawImplied": 25,
+      "awayImplied": 18.2,
       "redditContext": [
         {
-          "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
-          "score": 93,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
-          "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
+          "title": "Run in fixtures of City and Arsenal",
+          "score": 1215,
+          "url": "https://reddit.com/r/soccer/comments/1t3uwak/run_in_fixtures_of_city_and_arsenal/",
+          "topComment": "Think Arsenal do it now City needed to be perfect "
         },
         {
-          "title": "Potentially Many Managerial Changes before 2026/27 Season Starts?",
-          "score": 21,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sx4v21/potentially_many_managerial_changes_before_202627/",
-          "topComment": "With Oliver Glasner and Andoni Iraola already confirmed to be leaving their posts end of the season with the latter being heavily linked to Chelsea.\n\nThere have been some bonkers rumours regarding\n\nRé"
+          "title": "[Matteo Moretto] Atlético Madrid are accelerating its efforts to renew Julian Alvarez's contract as soon as the season concludes. I'm told he is very happy and settled in Madrid, it's unlikely that he would ask to leave. Atleti believe that he will stay.\"",
+          "score": 46,
+          "url": "https://reddit.com/r/soccer/comments/1t2l0rz/matteo_moretto_atlético_madrid_are_accelerating/"
         },
         {
-          "title": "[FM] After several meetings, Nottingham Forest technical director George Syrianos has rejected to join Marseille. The club were attracted to his data-driven approach. Marseille continue to explore several candidates, including Julien Fournier and Cristiano Giuntoli",
-          "score": 9,
-          "url": "https://reddit.com/r/soccer/comments/1t1qqeq/fm_after_several_meetings_nottingham_forest/"
-        },
-        {
-          "title": "Eighteen defeats, the same old mistakes. Liverpool and Arne Slot are stuck in a doom loop, and the statistics are damning | Only on 3 occasions since Liverpool were promoted to top-flight in 1962 have they suffered more than the current tally of 18 defeats in a season - &amp; there's 3 games still left",
-          "score": 8,
-          "url": "https://reddit.com/r/soccer/comments/1t3ci3z/eighteen_defeats_the_same_old_mistakes_liverpool/"
-        },
-        {
-          "title": "What To Watch This Week (4-10 May)",
-          "score": 7,
-          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        },
-        {
-          "title": "Final Day Chaos in Women’s Super League 2: Three Clubs, Two Promotion Places, One Last Afternoon to Decide Everything",
+          "title": "Derbyist for the week of May 4, 2026",
           "score": 5,
-          "url": "https://reddit.com/r/soccer/comments/1t1n55u/final_day_chaos_in_womens_super_league_2_three/",
-          "topComment": "The 2025/26 Women’s Super League 2 season comes down to today, and it genuinely could not be set up much better.\n\nWe already know most of the picture for next season. **Bristol City, Newcastle United,"
-        }
-      ]
-    },
-    {
-      "match": "Everton vs Manchester City",
-      "league": "EPL",
-      "kickoff": "2026-05-04T19:00:00Z",
-      "homeTeam": "Everton",
-      "awayTeam": "Manchester City",
-      "homeOdds": 5.75,
-      "drawOdds": 4.4,
-      "awayOdds": 1.5,
-      "homeImplied": 17.4,
-      "drawImplied": 22.7,
-      "awayImplied": 66.7,
-      "redditContext": [
-        {
-          "title": "Manchester City pushing the Premier League to reschedule their games against Crystal Palace and Bournemouth",
-          "score": 516,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sx4nt6/manchester_city_pushing_the_premier_league_to/"
+          "url": "https://reddit.com/r/soccer/comments/1t3im39/derbyist_for_the_week_of_may_4_2026/",
+          "topComment": "This is a schedule of this week's derbies and rivalry matches from [Derbyist](https://derby.ist), where you can also find more upcoming derbies and historical results with video highlights.\n\n## Upcomi"
         },
         {
-          "title": "Touches in the opposition penalty area per each penalty kick awarded, since the 2023/24 season",
-          "score": 93,
-          "url": "https://reddit.com/r/PremierLeague/comments/1sy9yat/touches_in_the_opposition_penalty_area_per_each/",
-          "topComment": "Tottenham's data obviously heavily skewed by 2023/24, when Ange Postecoglou had his defence constantly standing on the halfway line. \n\nCredits to @YidVids on twitter/X"
-        },
-        {
-          "title": "Pep Guardiola on Manchester City’s fixture schedule across competitions and whether they could request a postponement like PSG in Ligue 1",
-          "score": 20,
-          "url": "https://reddit.com/r/soccer/comments/1t0rud2/pep_guardiola_on_manchester_citys_fixture/"
-        },
-        {
-          "title": "Remove 1 Football Team from the Top 5 Leagues Day 93",
-          "score": 9,
-          "url": "https://reddit.com/r/RemoveOneThingEachDay/comments/1t3cg2e/remove_1_football_team_from_the_top_5_leagues_day/"
-        },
-        {
-          "title": "What To Watch This Week (4-10 May)",
-          "score": 8,
-          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        },
-        {
-          "title": "Tyler Dibling: The curious case of Everton's £40m youngster",
-          "score": 8,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t3cb7l/tyler_dibling_the_curious_case_of_evertons_40m/"
-        }
-      ]
-    },
-    {
-      "match": "Sevilla vs Real Sociedad",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-04T19:00:00Z",
-      "homeTeam": "Sevilla",
-      "awayTeam": "Real Sociedad",
-      "homeOdds": 2.4,
-      "drawOdds": 3.3,
-      "awayOdds": 2.8,
-      "homeImplied": 41.7,
-      "drawImplied": 30.3,
-      "awayImplied": 35.7,
-      "redditContext": [
-        {
-          "title": "After this weeks La Liga matches, Barcelona know they will win the title in El Clásico if they avoid defeat",
-          "score": 311,
-          "url": "https://reddit.com/r/soccer/comments/1t2xcd0/after_this_weeks_la_liga_matches_barcelona_know/"
-        },
-        {
-          "title": "J37 - 5 Games Remaining - La Liga 2 (Segunda Division)",
-          "score": 19,
-          "url": "https://reddit.com/r/soccer/comments/1sxuc24/j37_5_games_remaining_la_liga_2_segunda_division/",
-          "topComment": "The punch seen around the world hasn't changed much for the bottom 4, though a 6th straight defeat from Cadiz means the tension will continue for the foreseeable future. \n\nEibar's victory brings them "
-        },
-        {
-          "title": "Seit 6 Wochen dabei ohne Hamburg zu verlassen",
-          "score": 12,
-          "url": "https://reddit.com/r/Kennzeichensammler/comments/1t3ay0q/seit_6_wochen_dabei_ohne_hamburg_zu_verlassen/"
-        },
-        {
-          "title": "What To Watch This Week (4-10 May)",
-          "score": 8,
-          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        },
-        {
-          "title": "Playing for 100,to sevilla keeper or not to sevilla keeper?",
+          "title": "Remove 1 Football Team from the Top 5 Leagues Final Day",
           "score": 2,
-          "url": "https://reddit.com/r/Sorare/comments/1t39jeb/playing_for_100to_sevilla_keeper_or_not_to/"
+          "url": "https://reddit.com/r/RemoveOneThingEachDay/comments/1t4a9bq/remove_1_football_team_from_the_top_5_leagues/"
         },
         {
-          "title": "2026-05-04 Prediction: Chelsea vs Forest, Everton vs Man City, Sevilla vs Sociedad",
-          "score": 2,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t396rs/20260504_prediction_chelsea_vs_forest_everton_vs/"
+          "title": "Anyone else love seeing players become managers? Proper full-circle football moment ⚽➡️🧠 One of my favourite things in football (that I don’t think gets talked about enough) is when players go on to become managers.",
+          "score": 1,
+          "url": "https://reddit.com/r/starcutouts/comments/1t4a7b7/anyone_else_love_seeing_players_become_managers/"
+        },
+        {
+          "title": "Premier League - 05May2026 Update",
+          "score": 1,
+          "url": "https://reddit.com/r/PremierLeagueAnalysis/comments/1t4a6xb/premier_league_05may2026_update/"
         }
       ]
     }

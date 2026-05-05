@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-05",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Arsenal vs Atlético Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-05-05T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Arsenal to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.0,
+      "edge": 9.5,
+      "kelly_fraction": 0.079,
+      "reasoning": "Arsenal have been formidable at the Emirates this season. With the aggregate score at 1-1, they have the home advantage and the momentum after resting key players in their weekend fixture. Atlético are missing key defensive pillars Giménez and Barrios, which should allow Arsenal's creative midfield to dominate. A 9.5% edge represents significant value for a high-probability home win.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null,
+  "no_pick": false,
+  "explanation": "Only one high-value fixture identified for today. Arsenal vs Atlético Madrid presents a strong opportunity with a calculated 9.5% edge. Other markets did not meet the minimum value threshold."
+}
