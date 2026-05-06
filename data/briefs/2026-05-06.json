@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-06",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Bayern Munich vs Paris Saint Germain",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-05-06T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Bayern Munich to win",
+      "odds": 1.53,
+      "implied_prob": 65.4,
+      "our_prob": 71.0,
+      "edge": 5.6,
+      "kelly_fraction": 0.053,
+      "reasoning": "Bayern Munich are formidable at the Allianz Arena, and while PSG have shown resilience, the German side's experience and home advantage in European semi-finals should prevail. A calculated 5.6% edge on a home win presents the strongest value for today.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null,
+  "no_pick": false,
+  "explanation": "Today's analysis identified a single high-value opportunity in the Champions League clash between Bayern Munich and PSG. Other fixtures lacked the necessary edge to warrant inclusion."
+}

@@ -15,9 +15,9 @@
       "kelly_fraction": 0.079,
       "reasoning": "Arsenal have been formidable at the Emirates this season. With the aggregate score at 1-1, they have the home advantage and the momentum after resting key players in their weekend fixture. Atlético are missing key defensive pillars Giménez and Barrios, which should allow Arsenal's creative midfield to dominate. A 9.5% edge represents significant value for a high-probability home win.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.0,
+      "settled": true
     }
   ],
   "acca_available": false,

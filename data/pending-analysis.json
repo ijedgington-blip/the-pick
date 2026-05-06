@@ -1,50 +1,49 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "fixtures": [
     {
-      "match": "Arsenal vs Atlético Madrid",
+      "match": "Bayern Munich vs Paris Saint Germain",
       "league": "UEFA Champions League",
-      "kickoff": "2026-05-05T19:00:00Z",
-      "homeTeam": "Arsenal",
-      "awayTeam": "Atlético Madrid",
-      "homeOdds": 1.6,
-      "drawOdds": 4,
-      "awayOdds": 5.5,
-      "homeImplied": 62.5,
-      "drawImplied": 25,
-      "awayImplied": 18.2,
+      "kickoff": "2026-05-06T19:00:00Z",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Paris Saint Germain",
+      "homeOdds": 1.53,
+      "drawOdds": 4.8,
+      "awayOdds": 3.9,
+      "homeImplied": 65.4,
+      "drawImplied": 20.8,
+      "awayImplied": 25.6,
       "redditContext": [
         {
-          "title": "Run in fixtures of City and Arsenal",
-          "score": 1215,
-          "url": "https://reddit.com/r/soccer/comments/1t3uwak/run_in_fixtures_of_city_and_arsenal/",
-          "topComment": "Think Arsenal do it now City needed to be perfect "
+          "title": "Champions League Goals Conceded by Team",
+          "score": 6946,
+          "url": "https://reddit.com/r/soccer/comments/1t4smea/champions_league_goals_conceded_by_team/"
         },
         {
-          "title": "[Matteo Moretto] Atlético Madrid are accelerating its efforts to renew Julian Alvarez's contract as soon as the season concludes. I'm told he is very happy and settled in Madrid, it's unlikely that he would ask to leave. Atleti believe that he will stay.\"",
-          "score": 46,
-          "url": "https://reddit.com/r/soccer/comments/1t2l0rz/matteo_moretto_atlético_madrid_are_accelerating/"
+          "title": "Arteta says PSG &amp; Bayern are fresher due to their leagues, here are the stats!",
+          "score": 651,
+          "url": "https://reddit.com/r/soccer/comments/1t4n2fx/arteta_says_psg_bayern_are_fresher_due_to_their/",
+          "topComment": "Minutes played in league recorded from FBref. Percentage of league minutes available for respective team. Story would be different if accounting for injuries (but data not easy to standardise). Starti"
         },
         {
-          "title": "Derbyist for the week of May 4, 2026",
-          "score": 5,
-          "url": "https://reddit.com/r/soccer/comments/1t3im39/derbyist_for_the_week_of_may_4_2026/",
-          "topComment": "This is a schedule of this week's derbies and rivalry matches from [Derbyist](https://derby.ist), where you can also find more upcoming derbies and historical results with video highlights.\n\n## Upcomi"
+          "title": "[Craig Hope] Bayern Munich have made formal contact with Newcastle over potential deal for Anthony Gordon",
+          "score": 397,
+          "url": "https://reddit.com/r/soccer/comments/1t4q5ta/craig_hope_bayern_munich_have_made_formal_contact/"
         },
         {
-          "title": "Remove 1 Football Team from the Top 5 Leagues Final Day",
-          "score": 2,
-          "url": "https://reddit.com/r/RemoveOneThingEachDay/comments/1t4a9bq/remove_1_football_team_from_the_top_5_leagues/"
+          "title": "[FREE TO READ] Arsenal and a night of mad Champions League beauty",
+          "score": 19,
+          "url": "https://reddit.com/r/Gunners/comments/1t576v3/free_to_read_arsenal_and_a_night_of_mad_champions/"
         },
         {
-          "title": "Anyone else love seeing players become managers? Proper full-circle football moment ⚽➡️🧠 One of my favourite things in football (that I don’t think gets talked about enough) is when players go on to become managers.",
+          "title": "Who will win: Bayern Munich vs PSG",
           "score": 1,
-          "url": "https://reddit.com/r/starcutouts/comments/1t4a7b7/anyone_else_love_seeing_players_become_managers/"
+          "url": "https://reddit.com/r/championsleague/comments/1t57rt4/who_will_win_bayern_munich_vs_psg/"
         },
         {
-          "title": "Premier League - 05May2026 Update",
+          "title": "Prep talk for winning the war",
           "score": 1,
-          "url": "https://reddit.com/r/PremierLeagueAnalysis/comments/1t4a6xb/premier_league_05may2026_update/"
+          "url": "https://reddit.com/r/psg/comments/1t57hp0/prep_talk_for_winning_the_war/"
         }
       ]
     }
