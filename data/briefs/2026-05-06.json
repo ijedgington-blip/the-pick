@@ -15,9 +15,9 @@
       "kelly_fraction": 0.053,
       "reasoning": "Bayern Munich are formidable at the Allianz Arena, and while PSG have shown resilience, the German side's experience and home advantage in European semi-finals should prevail. A calculated 5.6% edge on a home win presents the strongest value for today.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": false,
