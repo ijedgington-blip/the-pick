@@ -1,49 +1,120 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-08",
   "fixtures": [
     {
-      "match": "Bayern Munich vs Paris Saint Germain",
-      "league": "UEFA Champions League",
-      "kickoff": "2026-05-06T19:00:00Z",
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Paris Saint Germain",
-      "homeOdds": 1.53,
-      "drawOdds": 4.8,
-      "awayOdds": 3.9,
-      "homeImplied": 65.4,
-      "drawImplied": 20.8,
-      "awayImplied": 25.6,
+      "match": "Hull City vs Millwall",
+      "league": "Championship",
+      "kickoff": "2026-05-08T19:00:00Z",
+      "homeTeam": "Hull City",
+      "awayTeam": "Millwall",
+      "homeOdds": 2.9,
+      "drawOdds": 3.2,
+      "awayOdds": 2.45,
+      "homeImplied": 34.5,
+      "drawImplied": 31.3,
+      "awayImplied": 40.8,
       "redditContext": [
         {
-          "title": "Champions League Goals Conceded by Team",
-          "score": 6946,
-          "url": "https://reddit.com/r/soccer/comments/1t4smea/champions_league_goals_conceded_by_team/"
+          "title": "2025/25 EFL Championship Final table",
+          "score": 1604,
+          "url": "https://reddit.com/r/soccer/comments/1t1q098/202525_efl_championship_final_table/"
         },
         {
-          "title": "Arteta says PSG &amp; Bayern are fresher due to their leagues, here are the stats!",
-          "score": 651,
-          "url": "https://reddit.com/r/soccer/comments/1t4n2fx/arteta_says_psg_bayern_are_fresher_due_to_their/",
-          "topComment": "Minutes played in league recorded from FBref. Percentage of league minutes available for respective team. Story would be different if accounting for injuries (but data not easy to standardise). Starti"
+          "title": "Fans invade the pitch as Hull City clinch the final Championship playoff spot!",
+          "score": 669,
+          "url": "https://reddit.com/r/soccer/comments/1t1qfhf/fans_invade_the_pitch_as_hull_city_clinch_the/"
         },
         {
-          "title": "[Craig Hope] Bayern Munich have made formal contact with Newcastle over potential deal for Anthony Gordon",
-          "score": 397,
-          "url": "https://reddit.com/r/soccer/comments/1t4q5ta/craig_hope_bayern_munich_have_made_formal_contact/"
+          "title": "Locam Election Results.",
+          "score": 18,
+          "url": "https://reddit.com/r/Hull/comments/1t6ynl9/locam_election_results/"
         },
         {
-          "title": "[FREE TO READ] Arsenal and a night of mad Champions League beauty",
-          "score": 19,
-          "url": "https://reddit.com/r/Gunners/comments/1t576v3/free_to_read_arsenal_and_a_night_of_mad_champions/"
+          "title": "The Final Voyage of Grunhild Eriksdottr",
+          "score": 11,
+          "url": "https://reddit.com/r/AoSLore/comments/1t6ykkj/the_final_voyage_of_grunhild_eriksdottr/"
         },
         {
-          "title": "Who will win: Bayern Munich vs PSG",
+          "title": "What To Watch This Week (4-10 May)",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1t2jthe/what_to_watch_this_week_410_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "moving to gatineau - how can I learn French in the city?",
+          "score": 4,
+          "url": "https://reddit.com/r/Gatineau/comments/1t6vvpz/moving_to_gatineau_how_can_i_learn_french_in_the/"
+        }
+      ]
+    },
+    {
+      "match": "Borussia Dortmund vs Eintracht Frankfurt",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-08T18:30:00Z",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Eintracht Frankfurt",
+      "homeOdds": 1.65,
+      "drawOdds": 4.5,
+      "awayOdds": 4.33,
+      "homeImplied": 60.6,
+      "drawImplied": 22.2,
+      "awayImplied": 23.1,
+      "redditContext": [
+        {
+          "title": "UEFA 2025/26 Country and Club Coefficient rankings | After Semifinals",
+          "score": 77,
+          "url": "https://reddit.com/r/soccer/comments/1t6ndzi/uefa_202526_country_and_club_coefficient_rankings/",
+          "topComment": "Source is [kassiesa.net](https://kassiesa.net/uefa/data/method5/ccoef2026.html)"
+        },
+        {
+          "title": "[SN] Borussia Dortmund are on the verge of signing Joane Gadou from Salzburg for €20 million.",
+          "score": 73,
+          "url": "https://reddit.com/r/soccer/comments/1t4imfl/sn_borussia_dortmund_are_on_the_verge_of_signing/"
+        },
+        {
+          "title": "[Florian Plettenberg] If nothing extraordinary happens, Eintracht Frankfurt and Albert Riera will part ways at the latest after the end of the season. Then a fresh start. Four candidates are on the shortlist - one of them is Matthias Jaissle.",
+          "score": 53,
+          "url": "https://reddit.com/r/soccer/comments/1t6gj35/florian_plettenberg_if_nothing_extraordinary/"
+        },
+        {
+          "title": "QQKKR Review - Dortmund 25/26 Special Kit!",
+          "score": 2,
+          "url": "https://reddit.com/r/JerseyReplica/comments/1t72d5z/qqkkr_review_dortmund_2526_special_kit/"
+        }
+      ]
+    },
+    {
+      "match": "Levante vs CA Osasuna",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-08T19:00:00Z",
+      "homeTeam": "Levante",
+      "awayTeam": "CA Osasuna",
+      "homeOdds": 2.5,
+      "drawOdds": 3.25,
+      "awayOdds": 2.8,
+      "homeImplied": 40,
+      "drawImplied": 30.8,
+      "awayImplied": 35.7,
+      "redditContext": [
+        {
+          "title": "Laliga standings after MW34",
+          "score": 181,
+          "url": "https://reddit.com/r/soccer/comments/1t3uo6r/laliga_standings_after_mw34/"
+        },
+        {
+          "title": "16k kms in a year on my V7 \"Nickole\"",
+          "score": 12,
+          "url": "https://reddit.com/r/MotoGuzzi/comments/1t720vg/16k_kms_in_a_year_on_my_v7_nickole/"
+        },
+        {
+          "title": "Iraqi Arab DNA!",
+          "score": 2,
+          "url": "https://reddit.com/r/FTDNA/comments/1t71g43/iraqi_arab_dna/"
+        },
+        {
+          "title": "[The Calling] Chapter 18",
           "score": 1,
-          "url": "https://reddit.com/r/championsleague/comments/1t57rt4/who_will_win_bayern_munich_vs_psg/"
-        },
-        {
-          "title": "Prep talk for winning the war",
-          "score": 1,
-          "url": "https://reddit.com/r/psg/comments/1t57hp0/prep_talk_for_winning_the_war/"
+          "url": "https://reddit.com/r/HFY/comments/1t72aim/the_calling_chapter_18/"
         }
       ]
     }

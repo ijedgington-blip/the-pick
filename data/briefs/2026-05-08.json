@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-08",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Hull City vs Millwall",
+      "league": "Championship",
+      "kickoff": "2026-05-08T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Hull City to win",
+      "odds": 2.9,
+      "implied_prob": 34.5,
+      "our_prob": 45.0,
+      "edge": 10.5,
+      "kelly_fraction": 0.0275,
+      "reasoning": "Hull City are in excellent spirits after clinching their playoff spot in dramatic fashion. Millwall have less to play for at this stage of the season, and the market is underestimating the home momentum here.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Borussia Dortmund vs Eintracht Frankfurt",
+      "league": "Bundesliga",
+      "kickoff": "2026-05-08T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "Borussia Dortmund to win",
+      "odds": 1.65,
+      "implied_prob": 60.6,
+      "our_prob": 70.0,
+      "edge": 9.4,
+      "kelly_fraction": 0.072,
+      "reasoning": "Eintracht Frankfurt are in a transitional phase with news that manager Albert Riera will depart. Dortmund remain formidable at the Signal Iduna Park and should capitalize on the visitors' lack of stability.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Levante vs CA Osasuna",
+      "league": "La Liga",
+      "kickoff": "2026-05-08T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Levante to win",
+      "odds": 2.5,
+      "implied_prob": 40.0,
+      "our_prob": 45.0,
+      "edge": 5.0,
+      "kelly_fraction": 0.0165,
+      "reasoning": "Levante have shown resilience at home recently. Osasuna's away form has been patchy, making the home win the value play in an otherwise balanced encounter.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.96,
+  "acca_result": null,
+  "acca_return": null
+}
