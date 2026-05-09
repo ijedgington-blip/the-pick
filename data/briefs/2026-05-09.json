@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-09",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Atlético Madrid vs Celta Vigo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-09T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 56.0,
+      "edge": 9.5,
+      "kelly_fraction": 0.041,
+      "reasoning": "Atlético Madrid are nearing a deal for João Gomes and remain focused on finishing the season strongly at the Metropolitano. Celta Vigo's away record is poor, and the home advantage is undervalued by Ladbrokes.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "VfB Stuttgart vs Bayer Leverkusen",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-09T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "VfB Stuttgart to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 54.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.035,
+      "reasoning": "Stuttgart have been formidable at home this season. With Leverkusen's unbeaten run long over and focus potentially shifting, Stuttgart's high-intensity home form offers significant value at these odds.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sevilla vs Espanyol",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-09T14:15:00Z",
+      "pick": "Home",
+      "pick_label": "Sevilla to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 55.0,
+      "edge": 7.4,
+      "kelly_fraction": 0.034,
+      "reasoning": "Sevilla are dominant at the Sánchez Pizjuán and face an Espanyol side struggling for consistency. The mathematics of the La Liga table suggest Sevilla will push hard to secure their position, making the home win likely.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 9.93,
+  "acca_result": null,
+  "acca_return": null
+}

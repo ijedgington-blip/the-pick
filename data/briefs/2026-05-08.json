@@ -15,9 +15,9 @@
       "kelly_fraction": 0.0275,
       "reasoning": "Hull City are in excellent spirits after clinching their playoff spot in dramatic fashion. Millwall have less to play for at this stage of the season, and the market is underestimating the home momentum here.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.072,
       "reasoning": "Eintracht Frankfurt are in a transitional phase with news that manager Albert Riera will depart. Dortmund remain formidable at the Signal Iduna Park and should capitalize on the visitors' lack of stability.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.0165,
       "reasoning": "Levante have shown resilience at home recently. Osasuna's away form has been patchy, making the home win the value play in an otherwise balanced encounter.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 25,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 11.96,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
