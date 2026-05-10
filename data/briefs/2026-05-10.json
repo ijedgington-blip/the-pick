@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-10",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "FSV Mainz 05 vs Union Berlin",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-10T17:30:00Z",
+      "pick": "Home",
+      "pick_label": "FSV Mainz 05 to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 68.0,
+      "edge": 8.1,
+      "kelly_fraction": 0.06,
+      "reasoning": "Mainz have been exceptionally strong at home in their fight against relegation. Union Berlin's away form remains brittle. The implied probability of 59.9% significantly underestimates Mainz's current momentum at the Mewa Arena.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "West Ham United vs Arsenal",
+      "league": "Premier League",
+      "kickoff": "2026-05-10T15:30:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 70.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.063,
+      "reasoning": "Arsenal are in a relentless title race and face a West Ham side that has struggled for defensive stability recently. With Declan Rice returning to his former club in peak form, the Gunners are heavily favored to secure all three points.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Nottingham Forest vs Newcastle United",
+      "league": "Premier League",
+      "kickoff": "2026-05-10T13:00:00Z",
+      "pick": "Away",
+      "pick_label": "Newcastle to win",
+      "odds": 2.45,
+      "implied_prob": 40.8,
+      "our_prob": 48.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.025,
+      "reasoning": "Newcastle's attack is finding its rhythm again, while Nottingham Forest have shown significant defensive lapses, recently losing 4-0 to Villa. The odds of 2.45 offer great value for a Newcastle side chasing European spots.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.55,
+  "acca_result": null,
+  "acca_return": null
+}
