@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-11",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Tottenham Hotspur vs Leeds United",
+      "league": "Premier League",
+      "kickoff": "2026-05-11T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Tottenham to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 66.0,
+      "edge": 8.9,
+      "kelly_fraction": 0.059,
+      "reasoning": "Tottenham are in the unthinkable position of a relegation battle and desperately need three points. Leeds United are mathematically safe, which often leads to a drop-off in intensity. Desperation and home advantage should see Spurs over the line.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Rayo Vallecano vs Girona",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-11T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Rayo Vallecano to win",
+      "odds": 2.45,
+      "implied_prob": 40.8,
+      "our_prob": 49.0,
+      "edge": 8.2,
+      "kelly_fraction": 0.028,
+      "reasoning": "La Liga is exceptionally tight this season, with very little separating the mid-table from the bottom. Rayo Vallecano's home form and the high stakes of this match make them strong favorites in our model compared to the 40.8% implied probability.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Millwall vs Hull City",
+      "league": "Championship",
+      "kickoff": "2026-05-11T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Millwall to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 64.0,
+      "edge": 6.9,
+      "kelly_fraction": 0.046,
+      "reasoning": "Millwall are notoriously difficult to play against at The Den. After a 0-0 draw at Hull recently, the home fixture provides Millwall with the perfect opportunity to use their physical style to secure a victory.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.5,
+  "acca_result": null,
+  "acca_return": null
+}

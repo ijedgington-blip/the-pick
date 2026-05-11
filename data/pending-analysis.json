@@ -1,491 +1,146 @@
 {
-  "date": "2026-05-10",
+  "date": "2026-05-11",
   "fixtures": [
     {
-      "match": "Burnley vs Aston Villa",
+      "match": "Tottenham Hotspur vs Leeds United",
       "league": "EPL",
-      "kickoff": "2026-05-10T13:00:00Z",
-      "homeTeam": "Burnley",
-      "awayTeam": "Aston Villa",
-      "homeOdds": 5.25,
-      "drawOdds": 3.9,
-      "awayOdds": 1.61,
-      "homeImplied": 19,
-      "drawImplied": 25.6,
-      "awayImplied": 62.1,
+      "kickoff": "2026-05-11T19:00:00Z",
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Leeds United",
+      "homeOdds": 1.75,
+      "drawOdds": 3.8,
+      "awayOdds": 4.2,
+      "homeImplied": 57.1,
+      "drawImplied": 26.3,
+      "awayImplied": 23.8,
       "redditContext": [
         {
-          "title": "Am I mistaken, or is there is a scenario where we have 10 Premier League teams in Europe next season?",
-          "score": 236,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t7cxpm/am_i_mistaken_or_is_there_is_a_scenario_where_we/",
-          "topComment": "\\-Aston Villa win Europa league, finish 5th -&gt; the 5th ''extra'' UCL spot goes to 6th, which bumps the Europa league spot down to 7th\n\n\\-Chelsea win FA-cup and finish 7th -&gt; bumps the Europa lea"
+          "title": "With Arsenal's win, Crystal Palace/Nottingham Forest/Leeds are mathematically safe, leaving Tottenham and West Ham in the relegation battle",
+          "score": 2374,
+          "url": "https://reddit.com/r/soccer/comments/1t9dbpv/with_arsenals_win_crystal_palacenottingham/"
         },
         {
-          "title": "Roberto De Zerbi slams critics downplaying Tottenham win over rotated Aston Villa",
-          "score": 187,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t6ijya/roberto_de_zerbi_slams_critics_downplaying/"
-        },
-        {
-          "title": "Aston Villa’s ownership group, V Sports, are advancing in talks to acquire a controlling stake in French second-division club, FC Annecy. This will include a continuation of young Villa players moving to France, either on loan or permanently, plus improvements to Annecy’s facilities.",
-          "score": 55,
-          "url": "https://reddit.com/r/soccer/comments/1t7z8rb/aston_villas_ownership_group_v_sports_are/"
-        },
-        {
-          "title": "Post Match Thread: Aston Villa 1-2 Tottenham Hotspur | English Premier League 2025-2026 (Three incredibly vital points for Spurs away at Aston Villa to pull them out of the bottom three.)",
-          "score": 46,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t2vvbp/post_match_thread_aston_villa_12_tottenham/",
-          "topComment": "#[](#sprite7-p327) English Premier League 2025-2026 \n\n# FULLTIME':  [](#sprite1-p19) Aston Villa 1-2 Tottenham Hotspur [](#sprite1-p5)\n\nAston Villa scorers: *⚽Emiliano Buendía - 90'+6'*\n\nTottenham Hot"
-        },
-        {
-          "title": "Aston Villa 0 - 2 Arsenal - Frida Maanum 35' (WSL)",
-          "score": 45,
-          "url": "https://reddit.com/r/soccer/comments/1t82ojx/aston_villa_0_2_arsenal_frida_maanum_35_wsl/"
-        },
-        {
-          "title": "Arsenal remaining matches result",
-          "score": 26,
-          "url": "https://reddit.com/r/soccercirclejerk/comments/1t90a2l/arsenal_remaining_matches_result/"
-        }
-      ]
-    },
-    {
-      "match": "Crystal Palace vs Everton",
-      "league": "EPL",
-      "kickoff": "2026-05-10T13:00:00Z",
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Everton",
-      "homeOdds": 2.9,
-      "drawOdds": 3.3,
-      "awayOdds": 2.37,
-      "homeImplied": 34.5,
-      "drawImplied": 30.3,
-      "awayImplied": 42.2,
-      "redditContext": [
-        {
-          "title": "[Ryan Taylor] Oliver Glasner admits he'll consider rotating Crystal Palace starting XI vs Man City &amp; Arsenal. \"I'm not responsible for Arsenal, I'm not responsible for Manchester City, I'm responsible for Crystal Palace and I get paid for doing the best thing for Crystal Palace",
-          "score": 4799,
-          "url": "https://reddit.com/r/soccer/comments/1t7dv9h/ryan_taylor_oliver_glasner_admits_hell_consider/"
-        },
-        {
-          "title": "Iraola is very attracted to Crystal Palace's sporting project. The English club's financial offer is considerable: the coach seems very willing to accept it",
-          "score": 397,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t7cgrp/iraola_is_very_attracted_to_crystal_palaces/",
-          "topComment": "[Mokbel](https://www.bbc.co.uk/sport/football/articles/c2d2eeknkjxo)"
-        },
-        {
-          "title": "Crystal Palace to target £12m Middlesbrough midfielder Hayden Hackney in summer window.",
-          "score": 49,
-          "url": "https://reddit.com/r/soccer/comments/1t8lx69/crystal_palace_to_target_12m_middlesbrough/"
-        },
-        {
-          "title": "Carrick's Man-Management Has Won Him The Job",
-          "score": 28,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t8100l/carricks_manmanagement_has_won_him_the_job/",
-          "topComment": "Been analysing Carrick closely.\n\nHave been writing about United for 20+ years.\n\nCarrick's absolute number one attribute is man-management. Making that dressing-room respect him and his coaching team. "
-        },
-        {
-          "title": "Match Thread: AFC Bournemouth vs Crystal Palace | Premier League | 03 May 13:00 UTC",
-          "score": 15,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t2js11/match_thread_afc_bournemouth_vs_crystal_palace/",
-          "topComment": "AFC Bournemouth vs Crystal Palace — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/commen"
+          "title": "Big 6 Head-to-Head Table So Far",
+          "score": 40,
+          "url": "https://reddit.com/r/PremierLeague/comments/1t9n9ca/big_6_headtohead_table_so_far/",
+          "topComment": "[What is the most surprising thing to you? ](https://preview.redd.it/p7dnhlg1he0h1.png?width=2266&amp;format=png&amp;auto=webp&amp;s=41428b41b2ab07280ff3e0de404feeb932ad7def)\n\n"
         },
         {
           "title": "What To Watch This Week (11-17 May)",
-          "score": 5,
-          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        }
-      ]
-    },
-    {
-      "match": "Nottingham Forest vs Newcastle United",
-      "league": "EPL",
-      "kickoff": "2026-05-10T13:00:00Z",
-      "homeTeam": "Nottingham Forest",
-      "awayTeam": "Newcastle United",
-      "homeOdds": 2.75,
-      "drawOdds": 3.5,
-      "awayOdds": 2.45,
-      "homeImplied": 36.4,
-      "drawImplied": 28.6,
-      "awayImplied": 40.8,
-      "redditContext": [
-        {
-          "title": "With their point against Liverpool, Chelsea have ended a run of six straight defeats in the Premier League and avoided equalling the club record of seven consecutive league losses set in 1952.",
-          "score": 456,
-          "url": "https://reddit.com/r/soccer/comments/1t85161/with_their_point_against_liverpool_chelsea_have/"
-        },
-        {
-          "title": "Match Thread: Chelsea vs Nottingham Forest | Premier League | 04 May 14:00 UTC",
-          "score": 182,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t3hc2y/match_thread_chelsea_vs_nottingham_forest_premier/",
-          "topComment": "Chelsea vs Nottingham Forest — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1t"
-        },
-        {
-          "title": "Post Match Thread: Aston Villa 4-0 [4-1 on agg.] Nottingham Forest",
-          "score": 133,
-          "url": "https://reddit.com/r/soccer/comments/1t6nkat/post_match_thread_aston_villa_40_41_on_agg/",
-          "topComment": "\n#**FT: Aston Villa  [4-0](#bar-3-white)  Nottingham Forest**\n\n\n\n\n\n--------\n\n**Venue:** Villa Park\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t6joh7)\n\n---------\n\n[]"
-        },
-        {
-          "title": "[Free to read] Eddie Howe set to remain Newcastle head coach beyond current season",
-          "score": 101,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t2kzru/free_to_read_eddie_howe_set_to_remain_newcastle/",
-          "topComment": "Eddie Howe is set to remain Newcastle United head coach beyond the current season.\n\nBarring an unexpected turn of events, the 48-year-old — who is keen to remain at St James’ Park and retains support "
-        },
-        {
-          "title": "Carrick's Man-Management Has Won Him The Job",
-          "score": 26,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t8100l/carricks_manmanagement_has_won_him_the_job/",
-          "topComment": "Been analysing Carrick closely.\n\nHave been writing about United for 20+ years.\n\nCarrick's absolute number one attribute is man-management. Making that dressing-room respect him and his coaching team. "
-        },
-        {
-          "title": "ON THIS DAY 1997: Newcastle United 5 - Nottingham Forest - Magpies qualify for Champion's League on final game of the season",
-          "score": 11,
-          "url": "https://reddit.com/r/NUFC/comments/1t90jr4/on_this_day_1997_newcastle_united_5_nottingham/"
-        }
-      ]
-    },
-    {
-      "match": "West Ham United vs Arsenal",
-      "league": "EPL",
-      "kickoff": "2026-05-10T15:30:00Z",
-      "homeTeam": "West Ham United",
-      "awayTeam": "Arsenal",
-      "homeOdds": 5.5,
-      "drawOdds": 4,
-      "awayOdds": 1.6,
-      "homeImplied": 18.2,
-      "drawImplied": 25,
-      "awayImplied": 62.5,
-      "redditContext": [
-        {
-          "title": "Declan Rice on facing struggling former club West Ham: 'It's not nice but I've got a job to do'",
-          "score": 1020,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t5cir4/declan_rice_on_facing_struggling_former_club_west/"
-        },
-        {
-          "title": "With their point against Liverpool, Chelsea have ended a run of six straight defeats in the Premier League and avoided equalling the club record of seven consecutive league losses set in 1952.",
-          "score": 456,
-          "url": "https://reddit.com/r/soccer/comments/1t85161/with_their_point_against_liverpool_chelsea_have/"
-        },
-        {
-          "title": "Carrick's Man-Management Has Won Him The Job",
-          "score": 30,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t8100l/carricks_manmanagement_has_won_him_the_job/",
-          "topComment": "Been analysing Carrick closely.\n\nHave been writing about United for 20+ years.\n\nCarrick's absolute number one attribute is man-management. Making that dressing-room respect him and his coaching team. "
-        },
-        {
-          "title": "What To Watch This Week (11-17 May)",
-          "score": 5,
+          "score": 9,
           "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "Premier League - Round 36",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t90onl/premier_league_round_36/"
+          "title": "What To Watch This Week (18-24 May)",
+          "score": 8,
+          "url": "https://reddit.com/r/soccer/comments/1t92b09/what_to_watch_this_week_1824_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "West Ham United vs Arsenal, 2026-05-10 English Premier League, H2H &amp; Betting Tips",
+          "title": "IPTV football",
           "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t8su2e/west_ham_united_vs_arsenal_20260510_english/"
+          "url": "https://reddit.com/r/iptv_strong/comments/1t9xzks/iptv_football/"
+        },
+        {
+          "title": "🔥 [Bet of the Day] Tottenham vs Leeds United | Premier League | 2026-05-11 19:00:00 | Analysis &amp; Prediction",
+          "score": 1,
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1t9woae/bet_of_the_day_tottenham_vs_leeds_united_premier/"
         }
       ]
     },
     {
-      "match": "Hamburger SV vs SC Freiburg",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-10T13:30:00Z",
-      "homeTeam": "Hamburger SV",
-      "awayTeam": "SC Freiburg",
-      "homeOdds": 2.7,
-      "drawOdds": 3.5,
-      "awayOdds": 2.45,
-      "homeImplied": 37,
-      "drawImplied": 28.6,
-      "awayImplied": 40.8,
+      "match": "Millwall vs Hull City",
+      "league": "Championship",
+      "kickoff": "2026-05-11T19:00:00Z",
+      "homeTeam": "Millwall",
+      "awayTeam": "Hull City",
+      "homeOdds": 1.75,
+      "drawOdds": 3.8,
+      "awayOdds": 4.4,
+      "homeImplied": 57.1,
+      "drawImplied": 26.3,
+      "awayImplied": 22.7,
       "redditContext": [
         {
-          "title": "After today's loss against Bayern (0-1), Wolfsburg will either get relegated or face play-off to remain in Bundesliga",
-          "score": 173,
-          "url": "https://reddit.com/r/soccer/comments/1t8csoa/after_todays_loss_against_bayern_01_wolfsburg/"
+          "title": "Match Thread: Hull City vs Millwall",
+          "score": 25,
+          "url": "https://reddit.com/r/soccer/comments/1t7h2y1/match_thread_hull_city_vs_millwall/",
+          "topComment": "#**FT: Hull City  [0-0](#bar-3-white)  Millwall**\n\n\n\n\n\n--------\n\n**Venue:** The MKM Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t7h2y1)\n\n---------\n\n[](#icon-"
         },
         {
-          "title": "Fun fact: We have currently conceded the fewest goals in the league",
-          "score": 150,
-          "url": "https://reddit.com/r/borussiadortmund/comments/1t8nya2/fun_fact_we_have_currently_conceded_the_fewest/"
-        },
-        {
-          "title": "St. Pauli will play Wolfsburg next week on the last matchday. Both teams will fight for another chance for safety as they battle for the relegation playoff spot",
-          "score": 136,
-          "url": "https://reddit.com/r/soccer/comments/1t8i97j/st_pauli_will_play_wolfsburg_next_week_on_the/"
+          "title": "Post Match Thread: Hull City 0-0 Millwall",
+          "score": 17,
+          "url": "https://reddit.com/r/soccer/comments/1t7kdy6/post_match_thread_hull_city_00_millwall/",
+          "topComment": "\n#**FT: Hull City  [0-0](#bar-3-white)  Millwall**\n\n\n\n\n\n--------\n\n**Venue:** The MKM Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t7h2y1)\n\n---------\n\n[](#icon"
         },
         {
           "title": "What To Watch This Week (11-17 May)",
-          "score": 5,
+          "score": 8,
           "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "Match Thread: Hamburger SV vs SC Freiburg Live Score | Bundesliga 25/26 | May 10, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/Semintzarii/comments/1t90754/match_thread_hamburger_sv_vs_sc_freiburg_live/"
-        },
-        {
-          "title": "2026-05-10 Prediction | German Bundesliga, Spanish LALIGA, French Ligue 1, Italian Serie A, English Premier League",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t8z4ew/20260510_prediction_german_bundesliga_spanish/"
-        }
-      ]
-    },
-    {
-      "match": "1. FC Köln vs 1. FC Heidenheim",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-10T15:30:00Z",
-      "homeTeam": "1. FC Köln",
-      "awayTeam": "1. FC Heidenheim",
-      "homeOdds": 2,
-      "drawOdds": 4,
-      "awayOdds": 3.1,
-      "homeImplied": 50,
-      "drawImplied": 25,
-      "awayImplied": 32.3,
-      "redditContext": [
-        {
-          "title": "St. Pauli will play Wolfsburg next week on the last matchday. Both teams will fight for another chance for safety as they battle for the relegation playoff spot",
-          "score": 137,
-          "url": "https://reddit.com/r/soccer/comments/1t8i97j/st_pauli_will_play_wolfsburg_next_week_on_the/"
-        },
-        {
-          "title": "Der 1. FC Köln und Werder Bremen spielen auch 2026/27 in der Bundesliga.",
-          "score": 118,
-          "url": "https://reddit.com/r/Bundesliga/comments/1t8ct74/der_1_fc_köln_und_werder_bremen_spielen_auch/"
-        },
-        {
-          "title": "FC Dallas [3] - 1 Real Salt Lake - Sam Sarver '90+2",
-          "score": 114,
-          "url": "https://reddit.com/r/soccer/comments/1t8uorg/fc_dallas_3_1_real_salt_lake_sam_sarver_902/"
-        },
-        {
-          "title": "Post Match Thread: Aston Villa 1-2 Tottenham Hotspur | English Premier League 2025-2026 (Three incredibly vital points for Spurs away at Aston Villa to pull them out of the bottom three.)",
-          "score": 46,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t2vvbp/post_match_thread_aston_villa_12_tottenham/",
-          "topComment": "#[](#sprite7-p327) English Premier League 2025-2026 \n\n# FULLTIME':  [](#sprite1-p19) Aston Villa 1-2 Tottenham Hotspur [](#sprite1-p5)\n\nAston Villa scorers: *⚽Emiliano Buendía - 90'+6'*\n\nTottenham Hot"
-        },
-        {
-          "title": "Jason Ponente Ramirez: 1. FC Köln verliert nächstes Talent",
-          "score": 18,
-          "url": "https://reddit.com/r/KarlsruherSC/comments/1t83fiw/jason_ponente_ramirez_1_fc_köln_verliert_nächstes/"
-        },
-        {
-          "title": "[3. Liga | 37. Spieltag] Alle Ergebnisse, Spielberichte und TV-Zusammenfassungen",
-          "score": 10,
-          "url": "https://reddit.com/r/Bundesliga/comments/1t90760/3_liga_37_spieltag_alle_ergebnisse_spielberichte/"
-        }
-      ]
-    },
-    {
-      "match": "FSV Mainz 05 vs Union Berlin",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-10T17:30:00Z",
-      "homeTeam": "FSV Mainz 05",
-      "awayTeam": "Union Berlin",
-      "homeOdds": 1.67,
-      "drawOdds": 4,
-      "awayOdds": 4.6,
-      "homeImplied": 59.9,
-      "drawImplied": 25,
-      "awayImplied": 21.7,
-      "redditContext": [
-        {
-          "title": "After today's loss against Bayern (0-1), Wolfsburg will either get relegated or face play-off to remain in Bundesliga",
-          "score": 170,
-          "url": "https://reddit.com/r/soccer/comments/1t8csoa/after_todays_loss_against_bayern_01_wolfsburg/"
-        },
-        {
-          "title": "Fun fact: We have currently conceded the fewest goals in the league",
-          "score": 151,
-          "url": "https://reddit.com/r/borussiadortmund/comments/1t8nya2/fun_fact_we_have_currently_conceded_the_fewest/"
-        },
-        {
-          "title": "St. Pauli will play Wolfsburg next week on the last matchday. Both teams will fight for another chance for safety as they battle for the relegation playoff spot",
-          "score": 138,
-          "url": "https://reddit.com/r/soccer/comments/1t8i97j/st_pauli_will_play_wolfsburg_next_week_on_the/"
-        },
-        {
-          "title": "FC26 Super League Career mode idea",
-          "score": 31,
-          "url": "https://reddit.com/r/seriousfifacareers/comments/1t7iuyc/fc26_super_league_career_mode_idea/"
-        },
-        {
-          "title": "What To Watch This Week (11-17 May)",
+          "title": "Any spares for Millwall (A) tonight?",
           "score": 5,
-          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+          "url": "https://reddit.com/r/HullCity/comments/1t9w9hs/any_spares_for_millwall_a_tonight/"
         },
         {
-          "title": "Match Thread: FSV Mainz 05 vs FC Union Berlin | Bundesliga | 10 May 19:30 CEST",
+          "title": "Guess who's back",
           "score": 1,
-          "url": "https://reddit.com/r/GinomaniaTest/comments/1t8b7at/match_thread_fsv_mainz_05_vs_fc_union_berlin/"
+          "url": "https://reddit.com/r/Soccermanager/comments/1t9y0bc/guess_whos_back/"
+        },
+        {
+          "title": "2026-05-11 Prediction: Tottenham vs Leeds, Vallecano vs Girona, Napoli vs Bologna",
+          "score": 1,
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1t9w3bz/20260511_prediction_tottenham_vs_leeds_vallecano/"
         }
       ]
     },
     {
-      "match": "Mallorca vs Villarreal",
+      "match": "Rayo Vallecano vs Girona",
       "league": "La Liga - Spain",
-      "kickoff": "2026-05-10T12:00:00Z",
-      "homeTeam": "Mallorca",
-      "awayTeam": "Villarreal",
-      "homeOdds": 2.4,
-      "drawOdds": 3.5,
-      "awayOdds": 2.75,
-      "homeImplied": 41.7,
-      "drawImplied": 28.6,
-      "awayImplied": 36.4,
-      "redditContext": [
-        {
-          "title": "Laliga standings after MW34",
-          "score": 188,
-          "url": "https://reddit.com/r/soccer/comments/1t3uo6r/laliga_standings_after_mw34/"
-        },
-        {
-          "title": "‘TAMIS NG UNANG KILIG’ 🩷 | WATCH: Screams filled the venue as P-pop powerhouse BINI took the ASAPXP stage to perform “Unang Kilig,” | Hannah Mallorca, Inquirer",
-          "score": 46,
-          "url": "https://reddit.com/r/bini_ph/comments/1t90s0o/tamis_ng_unang_kilig_watch_screams_filled_the/"
-        },
-        {
-          "title": "The Mallorca beach symptomatic of overcrowding is gradually disappearing",
-          "score": 4,
-          "url": "https://reddit.com/r/VisitingMallorca/comments/1t915vb/the_mallorca_beach_symptomatic_of_overcrowding_is/"
-        },
-        {
-          "title": "La Liga - Round 35",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t90uq6/la_liga_round_35/"
-        }
-      ]
-    },
-    {
-      "match": "Athletic Bilbao vs Valencia",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-10T14:15:00Z",
-      "homeTeam": "Athletic Bilbao",
-      "awayTeam": "Valencia",
-      "homeOdds": 1.7,
-      "drawOdds": 3.7,
-      "awayOdds": 5,
-      "homeImplied": 58.8,
-      "drawImplied": 27,
-      "awayImplied": 20,
-      "redditContext": [
-        {
-          "title": "Teams whose youth academy players played the most minutes in the top-25 european leagues in 2025/26",
-          "score": 335,
-          "url": "https://reddit.com/r/soccer/comments/1t811y3/teams_whose_youth_academy_players_played_the_most/"
-        },
-        {
-          "title": "With 3 or 4 games to go in La Liga, 8 points separate 7th and 19th place",
-          "score": 178,
-          "url": "https://reddit.com/r/soccer/comments/1t8b9sh/with_3_or_4_games_to_go_in_la_liga_8_points/"
-        },
-        {
-          "title": "What To Watch This Week (11-17 May)",
-          "score": 5,
-          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        },
-        {
-          "title": "Match Thread: Athletic Bilbao vs Valencia CF Live Score | LaLiga 25/26 | May 10, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/Semintzarii/comments/1t90zak/match_thread_athletic_bilbao_vs_valencia_cf_live/"
-        }
-      ]
-    },
-    {
-      "match": "Oviedo vs Getafe",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-10T16:30:00Z",
-      "homeTeam": "Oviedo",
-      "awayTeam": "Getafe",
-      "homeOdds": 2.75,
-      "drawOdds": 2.9,
+      "kickoff": "2026-05-11T19:00:00Z",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Girona",
+      "homeOdds": 2.45,
+      "drawOdds": 3.25,
       "awayOdds": 2.8,
-      "homeImplied": 36.4,
-      "drawImplied": 34.5,
+      "homeImplied": 40.8,
+      "drawImplied": 30.8,
       "awayImplied": 35.7,
       "redditContext": [
         {
-          "title": "Half of laliga is in relegation battle",
-          "score": 351,
-          "url": "https://reddit.com/r/soccercirclejerk/comments/1t8y19k/half_of_laliga_is_in_relegation_battle/"
-        },
-        {
-          "title": "Laliga standings after MW34",
-          "score": 181,
-          "url": "https://reddit.com/r/soccer/comments/1t3uo6r/laliga_standings_after_mw34/"
+          "title": "With Spain having 8 European spots, and only 8 points separating 7th from 18th with 4 games to go, the 7th-placed team can still be relegated, while the 18th-placed team can still qualify for the Europa League mathematically",
+          "score": 747,
+          "url": "https://reddit.com/r/soccer/comments/1t7lpjr/with_spain_having_8_european_spots_and_only_8/",
+          "topComment": "This is purely based on the mathematics of points difference and doesn’t factor in who plays who."
         },
         {
           "title": "With 3 or 4 games to go in La Liga, 8 points separate 7th and 19th place",
-          "score": 175,
+          "score": 187,
           "url": "https://reddit.com/r/soccer/comments/1t8b9sh/with_3_or_4_games_to_go_in_la_liga_8_points/"
         },
         {
-          "title": "La Liga - Round 35",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t90uq6/la_liga_round_35/"
-        },
-        {
-          "title": "2026-05-10 Prediction | German Bundesliga, Spanish LALIGA, French Ligue 1, Italian Serie A, English Premier League",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t8z4ew/20260510_prediction_german_bundesliga_spanish/"
-        }
-      ]
-    },
-    {
-      "match": "Barcelona vs Real Madrid",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-10T19:00:00Z",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Real Madrid",
-      "homeOdds": 1.61,
-      "drawOdds": 4.6,
-      "awayOdds": 4.33,
-      "homeImplied": 62.1,
-      "drawImplied": 21.7,
-      "awayImplied": 23.1,
-      "redditContext": [
-        {
-          "title": "Barcelona vs Real madrid all time head 2 head",
-          "score": 49,
-          "url": "https://reddit.com/r/soccer/comments/1t91px7/barcelona_vs_real_madrid_all_time_head_2_head/"
-        },
-        {
-          "title": "Figo: “I don’t think Madrid need a ‘tough-guy’ manager or at least what people mean by that label. You need to know how to deal with 25 different people, 25 different egos and right now, you need to understand how to manage those egos to be able to steer all those players in the same direction.”",
-          "score": 11,
-          "url": "https://reddit.com/r/soccer/comments/1t91s79/figo_i_dont_think_madrid_need_a_toughguy_manager/",
-          "topComment": "“I’ve known Mourinho a long time,” says his fellow Portuguese, “as a translator and an assistant coach [at Barcelona in the the 1990s], as a head coach [at Inter Milan in the late 2000s] and as a frie"
-        },
-        {
           "title": "What To Watch This Week (11-17 May)",
-          "score": 5,
+          "score": 7,
           "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "Die Rettung der Demokratie liegt im Kampf gegen die Ungleichheit",
+          "title": "🤑 [Weekly Brag Thread] 🚀 Show us YOUR wins!",
           "score": 1,
-          "url": "https://reddit.com/r/PolitikBRD/comments/1t927wv/die_rettung_der_demokratie_liegt_im_kampf_gegen/"
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1t9wo6e/weekly_brag_thread_show_us_your_wins/"
         },
         {
-          "title": "Where can watch El Classico today?",
+          "title": "La Liga - Round 35",
           "score": 1,
-          "url": "https://reddit.com/r/Tuebingen/comments/1t925po/where_can_watch_el_classico_today/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t9w0fb/la_liga_round_35/"
         },
         {
-          "title": "QC Adjersey Barcelona away 20/21",
+          "title": "Speiv Review - Raúl Vallecano 25/26",
           "score": 1,
-          "url": "https://reddit.com/r/repjerseyss/comments/1t925fh/qc_adjersey_barcelona_away_2021/"
+          "url": "https://reddit.com/r/JerseyReplica/comments/1t9u83k/speiv_review_raúl_vallecano_2526/"
         }
       ]
     }
