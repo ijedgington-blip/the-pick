@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-12",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Celta Vigo vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-12T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Celta Vigo to win",
+      "odds": 1.8,
+      "implied_prob": 55.6,
+      "our_prob": 66.0,
+      "edge": 10.4,
+      "kelly_fraction": 0.065,
+      "reasoning": "Celta Vigo are coming off a massive 1-0 win at Atlético Madrid, which will have confidence sky-high. Borja Iglesias is in clinical form. Levante struggle away from home and Celta's momentum should carry them to a comfortable home win.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Southampton vs Middlesbrough",
+      "league": "Championship",
+      "kickoff": "2026-05-12T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 2.4,
+      "implied_prob": 41.7,
+      "our_prob": 51.0,
+      "edge": 9.3,
+      "kelly_fraction": 0.033,
+      "reasoning": "A play-off semi-final 2nd leg. The 1st leg was 0-0, meaning Southampton's home advantage is now the deciding factor. They dominated large parts of the away leg (Harwood-Bellis chance at 84') and should secure the win at St Mary's.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Real Betis vs Elche CF",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-12T18:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 70.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.063,
+      "reasoning": "Betis were denied a win against Sociedad by a 90+1' penalty, but their performance was strong. Aitor Ruibal's suspension is a blow, but Elche are outclassed in this fixture. Betis will be eager to bounce back at home.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.91,
+  "acca_result": null,
+  "acca_return": null
+}

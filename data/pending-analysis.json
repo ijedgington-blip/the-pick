@@ -1,146 +1,189 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "fixtures": [
     {
-      "match": "Tottenham Hotspur vs Leeds United",
-      "league": "EPL",
-      "kickoff": "2026-05-11T19:00:00Z",
-      "homeTeam": "Tottenham Hotspur",
-      "awayTeam": "Leeds United",
-      "homeOdds": 1.75,
-      "drawOdds": 3.8,
-      "awayOdds": 4.2,
-      "homeImplied": 57.1,
-      "drawImplied": 26.3,
-      "awayImplied": 23.8,
+      "match": "Southampton vs Middlesbrough",
+      "league": "Championship",
+      "kickoff": "2026-05-12T19:00:00Z",
+      "homeTeam": "Southampton",
+      "awayTeam": "Middlesbrough",
+      "homeOdds": 2.4,
+      "drawOdds": 3.4,
+      "awayOdds": 2.8,
+      "homeImplied": 41.7,
+      "drawImplied": 29.4,
+      "awayImplied": 35.7,
       "redditContext": [
         {
-          "title": "With Arsenal's win, Crystal Palace/Nottingham Forest/Leeds are mathematically safe, leaving Tottenham and West Ham in the relegation battle",
-          "score": 2374,
-          "url": "https://reddit.com/r/soccer/comments/1t9dbpv/with_arsenals_win_crystal_palacenottingham/"
+          "title": "Post Match Thread: Middlesbrough 0-0 Southampton",
+          "score": 20,
+          "url": "https://reddit.com/r/soccer/comments/1t84ykz/post_match_thread_middlesbrough_00_southampton/",
+          "topComment": "\n\n#**FT: Middlesbrough  [0-0](#bar-3-white)  Southampton**\n\n\n\n\n\n--------\n\n**Venue:** Riverside Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t826km)\n\n---------"
         },
         {
-          "title": "Big 6 Head-to-Head Table So Far",
-          "score": 40,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t9n9ca/big_6_headtohead_table_so_far/",
-          "topComment": "[What is the most surprising thing to you? ](https://preview.redd.it/p7dnhlg1he0h1.png?width=2266&amp;format=png&amp;auto=webp&amp;s=41428b41b2ab07280ff3e0de404feeb932ad7def)\n\n"
+          "title": "Taylor Harwood-Bellis (Southampton) chance against Middlesbrough 84'",
+          "score": 13,
+          "url": "https://reddit.com/r/soccer/comments/1t84roe/taylor_harwoodbellis_southampton_chance_against/"
         },
         {
           "title": "What To Watch This Week (11-17 May)",
-          "score": 9,
+          "score": 11,
+          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "[Top Stories] - Southampton ask for more time over spying claims | BBC",
+          "score": 1,
+          "url": "https://reddit.com/r/AutoNewspaper/comments/1tawdky/top_stories_southampton_ask_for_more_time_over/"
+        },
+        {
+          "title": "Buffet restaurants in southampton?",
+          "score": 1,
+          "url": "https://reddit.com/r/Southampton/comments/1tawcww/buffet_restaurants_in_southampton/"
+        },
+        {
+          "title": "Summer Jobs",
+          "score": 1,
+          "url": "https://reddit.com/r/Southampton/comments/1tawazc/summer_jobs/"
+        }
+      ]
+    },
+    {
+      "match": "Celta Vigo vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-12T17:00:00Z",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Levante",
+      "homeOdds": 1.8,
+      "drawOdds": 3.7,
+      "awayOdds": 4.2,
+      "homeImplied": 55.6,
+      "drawImplied": 27,
+      "awayImplied": 23.8,
+      "redditContext": [
+        {
+          "title": "Atlético Madrid 0-1 Celta Vigo - Borja Iglesias 62'",
+          "score": 101,
+          "url": "https://reddit.com/r/soccer/comments/1t8c0v2/atlético_madrid_01_celta_vigo_borja_iglesias_62/"
+        },
+        {
+          "title": "What To Watch This Week (11-17 May)",
+          "score": 10,
           "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
           "title": "What To Watch This Week (18-24 May)",
-          "score": 8,
+          "score": 6,
           "url": "https://reddit.com/r/soccer/comments/1t92b09/what_to_watch_this_week_1824_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "IPTV football",
-          "score": 1,
-          "url": "https://reddit.com/r/iptv_strong/comments/1t9xzks/iptv_football/"
-        },
-        {
-          "title": "🔥 [Bet of the Day] Tottenham vs Leeds United | Premier League | 2026-05-11 19:00:00 | Analysis &amp; Prediction",
-          "score": 1,
-          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1t9woae/bet_of_the_day_tottenham_vs_leeds_united_premier/"
-        }
-      ]
-    },
-    {
-      "match": "Millwall vs Hull City",
-      "league": "Championship",
-      "kickoff": "2026-05-11T19:00:00Z",
-      "homeTeam": "Millwall",
-      "awayTeam": "Hull City",
-      "homeOdds": 1.75,
-      "drawOdds": 3.8,
-      "awayOdds": 4.4,
-      "homeImplied": 57.1,
-      "drawImplied": 26.3,
-      "awayImplied": 22.7,
-      "redditContext": [
-        {
-          "title": "Match Thread: Hull City vs Millwall",
-          "score": 25,
-          "url": "https://reddit.com/r/soccer/comments/1t7h2y1/match_thread_hull_city_vs_millwall/",
-          "topComment": "#**FT: Hull City  [0-0](#bar-3-white)  Millwall**\n\n\n\n\n\n--------\n\n**Venue:** The MKM Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t7h2y1)\n\n---------\n\n[](#icon-"
-        },
-        {
-          "title": "Post Match Thread: Hull City 0-0 Millwall",
-          "score": 17,
-          "url": "https://reddit.com/r/soccer/comments/1t7kdy6/post_match_thread_hull_city_00_millwall/",
-          "topComment": "\n#**FT: Hull City  [0-0](#bar-3-white)  Millwall**\n\n\n\n\n\n--------\n\n**Venue:** The MKM Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1t7h2y1)\n\n---------\n\n[](#icon"
-        },
-        {
-          "title": "What To Watch This Week (11-17 May)",
-          "score": 8,
-          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
-          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
-        },
-        {
-          "title": "Any spares for Millwall (A) tonight?",
+          "title": "Would Xabi have been able to halt the poor run of form if he was given more time? Or was failure inevitable by this point?",
           "score": 5,
-          "url": "https://reddit.com/r/HullCity/comments/1t9w9hs/any_spares_for_millwall_a_tonight/"
+          "url": "https://reddit.com/r/RealMadridFC/comments/1tae7yz/would_xabi_have_been_able_to_halt_the_poor_run_of/"
         },
         {
-          "title": "Guess who's back",
+          "title": "La Liga - Round 36",
           "score": 1,
-          "url": "https://reddit.com/r/Soccermanager/comments/1t9y0bc/guess_whos_back/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tatv52/la_liga_round_36/"
         },
         {
-          "title": "2026-05-11 Prediction: Tottenham vs Leeds, Vallecano vs Girona, Napoli vs Bologna",
+          "title": "#Hoyhayfutbol #Futbol #Mexico #TV #Martes",
           "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1t9w3bz/20260511_prediction_tottenham_vs_leeds_vallecano/"
+          "url": "https://reddit.com/r/hoyhayfutbol/comments/1tar1if/hoyhayfutbol_futbol_mexico_tv_martes/"
         }
       ]
     },
     {
-      "match": "Rayo Vallecano vs Girona",
+      "match": "Real Betis vs Elche CF",
       "league": "La Liga - Spain",
-      "kickoff": "2026-05-11T19:00:00Z",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Girona",
-      "homeOdds": 2.45,
-      "drawOdds": 3.25,
-      "awayOdds": 2.8,
-      "homeImplied": 40.8,
-      "drawImplied": 30.8,
-      "awayImplied": 35.7,
+      "kickoff": "2026-05-12T18:00:00Z",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Elche CF",
+      "homeOdds": 1.6,
+      "drawOdds": 4.2,
+      "awayOdds": 5,
+      "homeImplied": 62.5,
+      "drawImplied": 23.8,
+      "awayImplied": 20,
       "redditContext": [
         {
-          "title": "With Spain having 8 European spots, and only 8 points separating 7th from 18th with 4 games to go, the 7th-placed team can still be relegated, while the 18th-placed team can still qualify for the Europa League mathematically",
-          "score": 747,
-          "url": "https://reddit.com/r/soccer/comments/1t7lpjr/with_spain_having_8_european_spots_and_only_8/",
-          "topComment": "This is purely based on the mathematics of points difference and doesn’t factor in who plays who."
+          "title": "Real Sociedad [2]-2 Betis - Mikel Oyarzabal penalty 90'+1'",
+          "score": 53,
+          "url": "https://reddit.com/r/soccer/comments/1t8mko1/real_sociedad_22_betis_mikel_oyarzabal_penalty_901/"
         },
         {
-          "title": "With 3 or 4 games to go in La Liga, 8 points separate 7th and 19th place",
-          "score": 187,
-          "url": "https://reddit.com/r/soccer/comments/1t8b9sh/with_3_or_4_games_to_go_in_la_liga_8_points/"
+          "title": "Aitor Ruibal (Betis) second yellow card against Real Sociedad 90'+6'",
+          "score": 33,
+          "url": "https://reddit.com/r/soccer/comments/1t8n2xz/aitor_ruibal_betis_second_yellow_card_against/"
         },
         {
           "title": "What To Watch This Week (11-17 May)",
-          "score": 7,
+          "score": 11,
           "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
           "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
         },
         {
-          "title": "🤑 [Weekly Brag Thread] 🚀 Show us YOUR wins!",
-          "score": 1,
-          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1t9wo6e/weekly_brag_thread_show_us_your_wins/"
+          "title": "Santiago Castro is included in preliminary list for the World Cup by Argentina national team",
+          "score": 3,
+          "url": "https://reddit.com/r/bolognafc/comments/1taux1x/santiago_castro_is_included_in_preliminary_list/"
         },
         {
-          "title": "La Liga - Round 35",
+          "title": "🔥 [Bet of the Day] Real Betis vs Elche | LaLiga | 2026-05-12 18:00:00 | Analysis &amp; Prediction",
           "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1t9w0fb/la_liga_round_35/"
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1tauux4/bet_of_the_day_real_betis_vs_elche_laliga/"
         },
         {
-          "title": "Speiv Review - Raúl Vallecano 25/26",
+          "title": "La Liga - Round 36",
           "score": 1,
-          "url": "https://reddit.com/r/JerseyReplica/comments/1t9u83k/speiv_review_raúl_vallecano_2526/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tatv52/la_liga_round_36/"
+        }
+      ]
+    },
+    {
+      "match": "CA Osasuna vs Atlético Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-12T19:30:00Z",
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "Atlético Madrid",
+      "homeOdds": 2.5,
+      "drawOdds": 3.5,
+      "awayOdds": 2.62,
+      "homeImplied": 40,
+      "drawImplied": 28.6,
+      "awayImplied": 38.2,
+      "redditContext": [
+        {
+          "title": "[Cadena Ser] Atlético de Madrid believes Julián Álvarez wants to leave. His representatives have negotiated with Barca and there have been contacts with Arsenal &amp; PSG.",
+          "score": 1722,
+          "url": "https://reddit.com/r/soccer/comments/1t99uqd/cadena_ser_atlético_de_madrid_believes_julián/"
+        },
+        {
+          "title": "Atlético Madrid 0-1 Celta Vigo - Borja Iglesias 62'",
+          "score": 101,
+          "url": "https://reddit.com/r/soccer/comments/1t8c0v2/atlético_madrid_01_celta_vigo_borja_iglesias_62/"
+        },
+        {
+          "title": "What To Watch This Week (11-17 May)",
+          "score": 11,
+          "url": "https://reddit.com/r/soccer/comments/1t91x5l/what_to_watch_this_week_1117_may/",
+          "topComment": "These posts are as much for me as they are for you. So please feel free to reply with your suggestions for what to watch, and make a case for any game to be considered 'must watch', in which case I wi"
+        },
+        {
+          "title": "Pre-match thread: CA Osasuna - Atlético de Madrid",
+          "score": 8,
+          "url": "https://reddit.com/r/atletico/comments/1tas6z0/prematch_thread_ca_osasuna_atlético_de_madrid/"
+        },
+        {
+          "title": "La Liga - Round 36",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tatv52/la_liga_round_36/"
+        },
+        {
+          "title": "Match Thread: CA Osasuna vs Atletico Madrid Live Score | LaLiga 25/26 | May 12, 2026",
+          "score": 1,
+          "url": "https://reddit.com/r/futbol/comments/1tadrmc/match_thread_ca_osasuna_vs_atletico_madrid_live/"
         }
       ]
     }

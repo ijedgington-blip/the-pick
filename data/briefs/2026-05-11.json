@@ -15,9 +15,9 @@
       "kelly_fraction": 0.059,
       "reasoning": "Tottenham are in the unthinkable position of a relegation battle and desperately need three points. Leeds United are mathematically safe, which often leads to a drop-off in intensity. Desperation and home advantage should see Spurs over the line.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.028,
       "reasoning": "La Liga is exceptionally tight this season, with very little separating the mid-table from the bottom. Rayo Vallecano's home form and the high stakes of this match make them strong favorites in our model compared to the 40.8% implied probability.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.046,
       "reasoning": "Millwall are notoriously difficult to play against at The Den. After a 0-0 draw at Hull recently, the home fixture provides Millwall with the perfect opportunity to use their physical style to secure a victory.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 7.5,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
