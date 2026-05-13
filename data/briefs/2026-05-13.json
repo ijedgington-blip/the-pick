@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-13",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Getafe vs Mallorca",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-13T19:30:00Z",
+      "pick": "Home",
+      "pick_label": "Getafe to win",
+      "odds": 2.25,
+      "implied_prob": 44.4,
+      "our_prob": 55.0,
+      "edge": 10.6,
+      "kelly_fraction": 0.042,
+      "reasoning": "Getafe are notoriously difficult to beat at the Coliseum Alfonso Pérez. With the relegation battle tightening, their defensive solidity under Bordalás will be the key. Mallorca have struggled for goals away from home, and Getafe's grit should edge this one.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Villarreal vs Sevilla",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-13T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Villarreal to win",
+      "odds": 2.0,
+      "implied_prob": 50.0,
+      "our_prob": 60.0,
+      "edge": 10.0,
+      "kelly_fraction": 0.05,
+      "reasoning": "Villarreal have found their rhythm in the final stretch of the season. Sevilla's inconsistency continues to plague them, especially on the road. The Yellow Submarine's home form and superior attacking fluidity make them strong favorites at evens.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Espanyol vs Athletic Bilbao",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-13T17:00:00Z",
+      "pick": "Away",
+      "pick_label": "Athletic Bilbao to win",
+      "odds": 2.75,
+      "implied_prob": 36.4,
+      "our_prob": 46.0,
+      "edge": 9.6,
+      "kelly_fraction": 0.027,
+      "reasoning": "Athletic Bilbao are pushing for European qualification and possess a squad depth that Espanyol simply can't match. While Espanyol will fight hard in the relegation race, Athletic's counter-attacking prowess is perfectly suited to exploit the gaps Espanyol will leave as they push for a win.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 12.38,
+  "acca_result": null,
+  "acca_return": null
+}
