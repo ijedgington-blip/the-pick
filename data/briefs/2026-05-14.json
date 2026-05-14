@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-14",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Girona vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-14T18:00:00Z",
+      "pick": "Home",
+      "pick_label": "Girona to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 65.0,
+      "edge": 12.6,
+      "kelly_fraction": 0.069,
+      "reasoning": "Girona are fighting for their La Liga lives, currently sitting in the relegation zone on goal difference. Real Sociedad have little to play for in mid-table. The desperation of the home side, combined with Sociedad's lack of incentive, makes the home win at nearly evens a standout value play.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Valencia vs Rayo Vallecano",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-14T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Valencia to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 58.0,
+      "edge": 12.5,
+      "kelly_fraction": 0.052,
+      "reasoning": "A high-stakes relegation 'six-pointer' at the Mestalla. Valencia are only three points clear of the drop and their home form has been their primary source of points. Rayo are also in the mix but struggle in hostile away environments. Expect Valencia to edge this in a tight, nervous encounter.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Real Madrid vs Oviedo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-14T19:30:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 6.0,
+      "implied_prob": 16.7,
+      "our_prob": 27.0,
+      "edge": 10.3,
+      "kelly_fraction": 0.01,
+      "reasoning": "Real Madrid have conceded the title to Barcelona and are fully focused on their upcoming Champions League semi-final. With heavy rotation expected from Ancelotti, a demotivated Madrid could be held by an Oviedo side that, although relegated, will be playing for pride at the Bernabéu.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 25.21,
+  "acca_result": null,
+  "acca_return": null
+}
