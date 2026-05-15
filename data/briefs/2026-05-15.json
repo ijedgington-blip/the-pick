@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-15",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Aston Villa vs Liverpool",
+      "league": "Premier League",
+      "kickoff": "2026-05-15T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 2.45,
+      "implied_prob": 40.8,
+      "our_prob": 48.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.025,
+      "reasoning": "This is a direct shootout for Champions League qualification. Liverpool enter with significant fitness boosts as Salah, Wirtz, and Alisson return to the squad. While Villa have been excellent at home, their focus is split by the upcoming Europa League final, and they are missing key engine room players like Onana and Kamara. Liverpool's desperate need for a top-four finish and their superior depth should give them the edge at Villa Park.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}

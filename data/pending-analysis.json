@@ -1,139 +1,53 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "fixtures": [
     {
-      "match": "Valencia vs Rayo Vallecano",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-14T17:00:00Z",
-      "homeTeam": "Valencia",
-      "awayTeam": "Rayo Vallecano",
-      "homeOdds": 2.2,
-      "drawOdds": 3.1,
-      "awayOdds": 3.5,
-      "homeImplied": 45.5,
-      "drawImplied": 32.3,
-      "awayImplied": 28.6,
+      "match": "Aston Villa vs Liverpool",
+      "league": "EPL",
+      "kickoff": "2026-05-15T19:00:00Z",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Liverpool",
+      "homeOdds": 2.75,
+      "drawOdds": 3.4,
+      "awayOdds": 2.45,
+      "homeImplied": 36.4,
+      "drawImplied": 29.4,
+      "awayImplied": 40.8,
       "redditContext": [
         {
-          "title": "Sevilla, who just last week were in the bottom three , are now in the top half after three straight wins and could still theoretically be relegated or even qualify for Europe",
-          "score": 633,
-          "url": "https://reddit.com/r/soccer/comments/1tcay4t/sevilla_who_just_last_week_were_in_the_bottom/"
+          "title": "Premier League after 36 matchweeks",
+          "score": 740,
+          "url": "https://reddit.com/r/soccer/comments/1tccjzz/premier_league_after_36_matchweeks/"
         },
         {
-          "title": "La Liga relegation race",
-          "score": 84,
-          "url": "https://reddit.com/r/soccer/comments/1tbm5cz/la_liga_relegation_race/",
-          "topComment": "A crazy relegation race that seventh place team only two wins ahead of team in 18th place. "
+          "title": "Am I mistaken, or is there is a scenario where we have 10 Premier League teams in Europe next season?",
+          "score": 274,
+          "url": "https://reddit.com/r/PremierLeague/comments/1t7cxpm/am_i_mistaken_or_is_there_is_a_scenario_where_we/",
+          "topComment": "\\-Aston Villa win Europa league, finish 5th -&gt; the 5th ''extra'' UCL spot goes to 6th, which bumps the Europa league spot down to 7th\n\n\\-Chelsea win FA-cup and finish 7th -&gt; bumps the Europa lea"
         },
         {
-          "title": "LaLiga Relegation Battle with Matchday 36 Going On",
-          "score": 68,
-          "url": "https://reddit.com/r/soccer/comments/1tbfi3t/laliga_relegation_battle_with_matchday_36_going_on/",
-          "topComment": "https://preview.redd.it/1no28pxn4s0h1.png?width=629&amp;format=png&amp;auto=webp&amp;s=5531d2ccda22376af3d7a83438ddfd72f5ad9a9a\n\nMatchday 36 going on currently\n\nEdit: Based on comments extended it til"
+          "title": "Lyon are facing expulsion from Uefa competition next season over concerns that the French club have not complied with the terms of a settlement with the European governing body last summer.",
+          "score": 96,
+          "url": "https://reddit.com/r/soccer/comments/1tbqrjq/lyon_are_facing_expulsion_from_uefa_competition/",
+          "topComment": "Last July, Uefa’s Club Financial Control Body (CFCB) announced sanctions against Lyon, as well as Chelsea and Aston Villa, among others, for breaking financial sustainability regulations. The CFCB lai"
         },
         {
-          "title": "UPV school of building engineering",
-          "score": 1,
-          "url": "https://reddit.com/r/Erasmus/comments/1tcsziq/upv_school_of_building_engineering/"
+          "title": "Harvey Elliott, Liverpool and a looming summer of uncertainty",
+          "score": 96,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tcyt98/harvey_elliott_liverpool_and_a_looming_summer_of/",
+          "topComment": "Harvey Elliott was hailed as one of last summer’s shrewdest signings when he joined Aston Villa on loan.\n\nSince then, he has played just 277 minutes - and his career is in limbo. Unai Emery thinks the"
         },
         {
-          "title": "Any recommendations?",
-          "score": 1,
-          "url": "https://reddit.com/r/clay/comments/1tcrz5e/any_recommendations/"
-        }
-      ]
-    },
-    {
-      "match": "Girona vs Real Sociedad",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-14T18:00:00Z",
-      "homeTeam": "Girona",
-      "awayTeam": "Real Sociedad",
-      "homeOdds": 1.91,
-      "drawOdds": 3.7,
-      "awayOdds": 3.8,
-      "homeImplied": 52.4,
-      "drawImplied": 27,
-      "awayImplied": 26.3,
-      "redditContext": [
-        {
-          "title": "Sevilla, who just last week were in the bottom three , are now in the top half after three straight wins and could still theoretically be relegated or even qualify for Europe",
-          "score": 639,
-          "url": "https://reddit.com/r/soccer/comments/1tcay4t/sevilla_who_just_last_week_were_in_the_bottom/"
+          "title": "The end of an era: Final day of the 12-team WSL era preview",
+          "score": 21,
+          "url": "https://reddit.com/r/soccer/comments/1td0eqk/the_end_of_an_era_final_day_of_the_12team_wsl_era/",
+          "topComment": "Here we are. A random Thursday in May, staring down one final Women’s Super League matchweek before the league changes forever.\n\nSaturday’s final round of fixtures will officially bring the curtain do"
         },
         {
-          "title": "La Liga relegation race",
-          "score": 83,
-          "url": "https://reddit.com/r/soccer/comments/1tbm5cz/la_liga_relegation_race/",
-          "topComment": "A crazy relegation race that seventh place team only two wins ahead of team in 18th place. "
-        },
-        {
-          "title": "LaLiga Relegation Battle with Matchday 36 Going On",
-          "score": 65,
-          "url": "https://reddit.com/r/soccer/comments/1tbfi3t/laliga_relegation_battle_with_matchday_36_going_on/",
-          "topComment": "https://preview.redd.it/1no28pxn4s0h1.png?width=629&amp;format=png&amp;auto=webp&amp;s=5531d2ccda22376af3d7a83438ddfd72f5ad9a9a\n\nMatchday 36 going on currently\n\nEdit: Based on comments extended it til"
-        },
-        {
-          "title": "New Football Leagues available",
-          "score": 1,
-          "url": "https://reddit.com/r/SportsProjections/comments/1tcrrzd/new_football_leagues_available/"
-        },
-        {
-          "title": "La Liga - Round 36",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tcqkis/la_liga_round_36/"
-        },
-        {
-          "title": "2026-05-14 Low Energy Prediction | Saudi Pro League, Spanish LALIGA, Copa do Brasil",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1tcq49o/20260514_low_energy_prediction_saudi_pro_league/"
-        }
-      ]
-    },
-    {
-      "match": "Real Madrid vs Oviedo",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-14T19:30:00Z",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Oviedo",
-      "homeOdds": 1.28,
-      "drawOdds": 6,
-      "awayOdds": 9.5,
-      "homeImplied": 78.1,
-      "drawImplied": 16.7,
-      "awayImplied": 10.5,
-      "redditContext": [
-        {
-          "title": "[AS] Real Madrid offered €500,000 bonus to players to beat Bayern Munich and qualify for CL semi-final, It was an extraordinary incentive, especially considering that this type of match-by-match reward structure had largely disappeared at the club in recent years.",
-          "score": 2444,
-          "url": "https://reddit.com/r/soccer/comments/1tceu0f/as_real_madrid_offered_500000_bonus_to_players_to/"
-        },
-        {
-          "title": "Sevilla, who just last week were in the bottom three , are now in the top half after three straight wins and could still theoretically be relegated or even qualify for Europe",
-          "score": 640,
-          "url": "https://reddit.com/r/soccer/comments/1tcay4t/sevilla_who_just_last_week_were_in_the_bottom/"
-        },
-        {
-          "title": "[FREE TO READ/David Ornstein] Chelsea exploring deal to appoint Xabi Alonso as new head coach",
-          "score": 206,
-          "url": "https://reddit.com/r/PremierLeague/comments/1taaxkq/free_to_readdavid_ornstein_chelsea_exploring_deal/",
-          "topComment": "Chelsea are exploring a deal to appoint Xabi Alonso as the club’s new head coach.\n\nThe Spaniard is open to the possibility, but at this stage nothing is decided as the process to hire a permanent succ"
-        },
-        {
-          "title": "Liverpool call Real Madrid to inquire about… Xabi Alonso",
-          "score": 193,
-          "url": "https://reddit.com/r/PremierLeague/comments/1taokdo/liverpool_call_real_madrid_to_inquire_about_xabi/"
-        },
-        {
-          "title": "Benfica will target Fulham’s Marco Silva if they lose Mourinho to Real Madrid | Benfica",
-          "score": 91,
-          "url": "https://reddit.com/r/PremierLeague/comments/1tb4lte/benfica_will_target_fulhams_marco_silva_if_they/",
-          "topComment": "Is there to be a manager merry-go-round this summer? Iraola to Palace? Glasner to Fulham? Alonso to Chelsea?"
-        },
-        {
-          "title": "Rafa Yuste: “Florentino’s words are pathetic and full of lies” — Barça vice president slammed Florentino Pérez’s accusations against Barcelona as “pathetic” and “full of lies,” defending club’s recent La Liga titles while warning that Barça is considering legal action against Real Madrid president.",
-          "score": 52,
-          "url": "https://reddit.com/r/soccer/comments/1tc8gf6/rafa_yuste_florentinos_words_are_pathetic_and/"
+          "title": "Match Thread: Burnley vs Aston Villa | Premier League | 10 May 13:00 UTC",
+          "score": 16,
+          "url": "https://reddit.com/r/PremierLeague/comments/1t95am8/match_thread_burnley_vs_aston_villa_premier/",
+          "topComment": "Burnley vs Aston Villa — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1t95am8)"
         }
       ]
     }

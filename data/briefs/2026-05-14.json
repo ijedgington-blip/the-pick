@@ -15,9 +15,9 @@
       "kelly_fraction": 0.069,
       "reasoning": "Girona are fighting for their La Liga lives, currently sitting in the relegation zone on goal difference. Real Sociedad have little to play for in mid-table. The desperation of the home side, combined with Sociedad's lack of incentive, makes the home win at nearly evens a standout value play.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.052,
       "reasoning": "A high-stakes relegation 'six-pointer' at the Mestalla. Valencia are only three points clear of the drop and their home form has been their primary source of points. Rayo are also in the mix but struggle in hostile away environments. Expect Valencia to edge this in a tight, nervous encounter.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.01,
       "reasoning": "Real Madrid have conceded the title to Barcelona and are fully focused on their upcoming Champions League semi-final. With heavy rotation expected from Ancelotti, a demotivated Madrid could be held by an Oviedo side that, although relegated, will be playing for pride at the Bernabéu.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 25.21,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
