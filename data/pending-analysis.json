@@ -1,53 +1,358 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "fixtures": [
     {
-      "match": "Aston Villa vs Liverpool",
-      "league": "EPL",
-      "kickoff": "2026-05-15T19:00:00Z",
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Liverpool",
+      "match": "1. FC Heidenheim vs FSV Mainz 05",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "1. FC Heidenheim",
+      "awayTeam": "FSV Mainz 05",
+      "homeOdds": 1.91,
+      "drawOdds": 4,
+      "awayOdds": 3.4,
+      "homeImplied": 52.4,
+      "drawImplied": 25,
+      "awayImplied": 29.4,
+      "redditContext": [
+        {
+          "title": "Bundesliga table after matchday 33 (only one matchday left to go)",
+          "score": 47,
+          "url": "https://reddit.com/r/soccer/comments/1t9igfs/bundesliga_table_after_matchday_33_only_one/"
+        },
+        {
+          "title": "South Korea announced World Cup squad",
+          "score": 20,
+          "url": "https://reddit.com/r/soccer/comments/1ten214/south_korea_announced_world_cup_squad/"
+        },
+        {
+          "title": "Derbyist for the week of May 11, 2026",
+          "score": 3,
+          "url": "https://reddit.com/r/soccer/comments/1ta48e6/derbyist_for_the_week_of_may_11_2026/",
+          "topComment": "This is a schedule of this week's derbies and rivalry matches from [Derbyist](https://derby.ist), where you can also find more upcoming derbies and historical results with video highlights.\n\n## Upcomi"
+        },
+        {
+          "title": "Today's Football Predictions",
+          "score": 1,
+          "url": "https://reddit.com/r/SportsProjections/comments/1temzm1/todays_football_predictions/"
+        },
+        {
+          "title": "Match Thread: 1. FC Heidenheim vs FSV Mainz Live Score | Bundesliga 25/26 | May 16, 2026",
+          "score": 1,
+          "url": "https://reddit.com/r/Semintzarii/comments/1tempn3/match_thread_1_fc_heidenheim_vs_fsv_mainz_live/"
+        },
+        {
+          "title": "Bundesliga - Round 34",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1temd5r/bundesliga_round_34/"
+        }
+      ]
+    },
+    {
+      "match": "Bayern Munich vs 1. FC Köln",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "1. FC Köln",
+      "homeOdds": 1.18,
+      "drawOdds": 9,
+      "awayOdds": 11,
+      "homeImplied": 84.7,
+      "drawImplied": 11.1,
+      "awayImplied": 9.1,
+      "redditContext": [
+        {
+          "title": "Manuel Neuer signs one-year contract extension with Bayern Munich",
+          "score": 783,
+          "url": "https://reddit.com/r/soccer/comments/1tdzfzt/manuel_neuer_signs_oneyear_contract_extension/"
+        },
+        {
+          "title": "Carrick's Man-Management Has Won Him The Job",
+          "score": 65,
+          "url": "https://reddit.com/r/PremierLeague/comments/1t8100l/carricks_manmanagement_has_won_him_the_job/",
+          "topComment": "Been analysing Carrick closely.\n\nHave been writing about United for 20+ years.\n\nCarrick's absolute number one attribute is man-management. Making that dressing-room respect him and his coaching team. "
+        },
+        {
+          "title": "South Korea announced World Cup squad",
+          "score": 21,
+          "url": "https://reddit.com/r/soccer/comments/1ten214/south_korea_announced_world_cup_squad/"
+        },
+        {
+          "title": "Match Thread: FC Aarau vs. Yverdon Sport FC",
+          "score": 9,
+          "url": "https://reddit.com/r/soccer/comments/1te70bh/match_thread_fc_aarau_vs_yverdon_sport_fc/",
+          "topComment": "# FT: FC Aarau 2-2 Yverdon Sport FC\n\n**Venue:** Brügglifeld\n\n*FC Aarau scorers: David Acquah (4'), Leon Frokaj (42')*\n\n*Yverdon Sport FC scorers: Hélios Sessolo (45'+1), Antonio Marchesano (63')*"
+        },
+        {
+          "title": "Bayern Third Jersey 2025/2026 from Peterbot",
+          "score": 1,
+          "url": "https://reddit.com/r/KitReps/comments/1teoss8/bayern_third_jersey_20252026_from_peterbot/"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "Union Berlin vs Augsburg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "Augsburg",
+      "homeOdds": 2.5,
+      "drawOdds": 4,
+      "awayOdds": 2.4,
+      "homeImplied": 40,
+      "drawImplied": 25,
+      "awayImplied": 41.7,
+      "redditContext": [
+        {
+          "title": "Marie Louise Eta makes history as first ever female coach to win in the bundesliga after Union Berlin bet Mainz 1-3",
+          "score": 1906,
+          "url": "https://reddit.com/r/soccer/comments/1t9hopb/marie_louise_eta_makes_history_as_first_ever/"
+        },
+        {
+          "title": "Post Match Thread: Mainz 1-3 Union Berlin | German Bundesliga",
+          "score": 55,
+          "url": "https://reddit.com/r/soccer/comments/1t9gl6c/post_match_thread_mainz_13_union_berlin_german/",
+          "topComment": "\n\n#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** ME"
+        },
+        {
+          "title": "Bundesliga table after matchday 33 (only one matchday left to go)",
+          "score": 45,
+          "url": "https://reddit.com/r/soccer/comments/1t9igfs/bundesliga_table_after_matchday_33_only_one/"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "Bayer Leverkusen vs Hamburger SV",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Hamburger SV",
+      "homeOdds": 1.3,
+      "drawOdds": 6.5,
+      "awayOdds": 8,
+      "homeImplied": 76.9,
+      "drawImplied": 15.4,
+      "awayImplied": 12.5,
+      "redditContext": [
+        {
+          "title": "[Plettenberg/Ditter] Excl: Man City want to trigger the release clause of Hertha's 16 y/o Kennet Eichhorn and loan him to Bayer Leverkusen next season. Bayern, Dortmund, Leipzig still in the race",
+          "score": 181,
+          "url": "https://reddit.com/r/soccer/comments/1ta84ji/plettenbergditter_excl_man_city_want_to_trigger/"
+        },
+        {
+          "title": "Hamburger SV appoints Kathleen Krüger as new Board Member for sport",
+          "score": 54,
+          "url": "https://reddit.com/r/soccer/comments/1tb63ee/hamburger_sv_appoints_kathleen_krüger_as_new/"
+        },
+        {
+          "title": "[Kicker] Top clubs from both Germany and abroad are vying for Hertha’s top prospect, Kennet Eichhorn. Most recently, a deal with Manchester City—including a loan to Bayer 04 Leverkusen—was floated as a possibility. However, Leverkusen continues to seek a direct signing of the 16-year-old.",
+          "score": 28,
+          "url": "https://reddit.com/r/soccer/comments/1tdqllw/kicker_top_clubs_from_both_germany_and_abroad_are/"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "Werder Bremen vs Borussia Dortmund",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Borussia Dortmund",
+      "homeOdds": 3.2,
+      "drawOdds": 4,
+      "awayOdds": 2,
+      "homeImplied": 31.3,
+      "drawImplied": 25,
+      "awayImplied": 50,
+      "redditContext": [
+        {
+          "title": "Borussia Dortmund II win Premier League International Cup",
+          "score": 92,
+          "url": "https://reddit.com/r/soccer/comments/1tbddxl/borussia_dortmund_ii_win_premier_league/"
+        },
+        {
+          "title": "[Nuno Raposo] Borussia Dortmund is watching Francisco Trincão.\nGerman clubs join Arab clubs that have the Sporting striker on their radar. Meanwhile, the English press has linked the number 17 of the green and whites to Liverpool. A transfer fee of over €50 million could be generated.",
+          "score": 85,
+          "url": "https://reddit.com/r/soccer/comments/1tdy98e/nuno_raposo_borussia_dortmund_is_watching/"
+        },
+        {
+          "title": "Highly rated Borussia Dortmund talent Mussa Kaba(17) signs first professional contract",
+          "score": 46,
+          "url": "https://reddit.com/r/soccer/comments/1tcyc4o/highly_rated_borussia_dortmund_talent_mussa/"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "Borussia Monchengladbach vs TSG Hoffenheim",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Borussia Monchengladbach",
+      "awayTeam": "TSG Hoffenheim",
+      "homeOdds": 4.2,
+      "drawOdds": 4.33,
+      "awayOdds": 1.67,
+      "homeImplied": 23.8,
+      "drawImplied": 23.1,
+      "awayImplied": 59.9,
+      "redditContext": [
+        {
+          "title": "Post Match Thread: Mainz 1-3 Union Berlin | German Bundesliga",
+          "score": 52,
+          "url": "https://reddit.com/r/soccer/comments/1t9gl6c/post_match_thread_mainz_13_union_berlin_german/",
+          "topComment": "\n\n#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** ME"
+        },
+        {
+          "title": "[Niklas Niendorf] Brighton interested in signing TSG Hoffenheim winger Bazoumana Touré",
+          "score": 51,
+          "url": "https://reddit.com/r/soccer/comments/1tbxlzi/niklas_niendorf_brighton_interested_in_signing/"
+        },
+        {
+          "title": "Match Thread: Mainz vs Union Berlin | German Bundesliga",
+          "score": 6,
+          "url": "https://reddit.com/r/soccer/comments/1t9dhcm/match_thread_mainz_vs_union_berlin_german/",
+          "topComment": "#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** MEWA"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "Eintracht Frankfurt vs VfB Stuttgart",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "VfB Stuttgart",
+      "homeOdds": 3.3,
+      "drawOdds": 4.2,
+      "awayOdds": 1.91,
+      "homeImplied": 30.3,
+      "drawImplied": 23.8,
+      "awayImplied": 52.4,
+      "redditContext": [
+        {
+          "title": "Post Match Thread: Mainz 1-3 Union Berlin | German Bundesliga",
+          "score": 57,
+          "url": "https://reddit.com/r/soccer/comments/1t9gl6c/post_match_thread_mainz_13_union_berlin_german/",
+          "topComment": "\n\n#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** ME"
+        },
+        {
+          "title": "Bundesliga table after matchday 33 (only one matchday left to go)",
+          "score": 46,
+          "url": "https://reddit.com/r/soccer/comments/1t9igfs/bundesliga_table_after_matchday_33_only_one/"
+        },
+        {
+          "title": "Match Thread: Mainz vs Union Berlin | German Bundesliga",
+          "score": 6,
+          "url": "https://reddit.com/r/soccer/comments/1t9dhcm/match_thread_mainz_vs_union_berlin_german/",
+          "topComment": "#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** MEWA"
+        },
+        {
+          "title": "WM 2026 Kader von Tunesien mit Unions Rani Khedira",
+          "score": 1,
+          "url": "https://reddit.com/r/FussballWM2026News/comments/1teo3xx/wm_2026_kader_von_tunesien_mit_unions_rani_khedira/"
+        },
+        {
+          "title": "🔥 [Bet of the Day] Frankfurt vs Stuttgart | Bundesliga | 2026-05-16 13:30:00 | Analysis &amp; Prediction",
+          "score": 1,
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1ten8z9/bet_of_the_day_frankfurt_vs_stuttgart_bundesliga/"
+        },
+        {
+          "title": "Today's Football Predictions",
+          "score": 1,
+          "url": "https://reddit.com/r/SportsProjections/comments/1temzm1/todays_football_predictions/"
+        }
+      ]
+    },
+    {
+      "match": "FC St. Pauli vs VfL Wolfsburg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "FC St. Pauli",
+      "awayTeam": "VfL Wolfsburg",
       "homeOdds": 2.75,
-      "drawOdds": 3.4,
-      "awayOdds": 2.45,
+      "drawOdds": 3.5,
+      "awayOdds": 2.4,
       "homeImplied": 36.4,
-      "drawImplied": 29.4,
+      "drawImplied": 28.6,
+      "awayImplied": 41.7,
+      "redditContext": [
+        {
+          "title": "For the first time since 1998, neither Basel nor Young Boys will be representing Switzerland in Europe next season",
+          "score": 112,
+          "url": "https://reddit.com/r/soccer/comments/1tdy1yq/for_the_first_time_since_1998_neither_basel_nor/",
+          "topComment": "After yesterday's matchday, neither of them can reach 4th place, which potentially also qualifies for Europe if St. Gallen win the Swiss Cup (which is expected, as they play a 2nd division team in the"
+        },
+        {
+          "title": "[ONEFOOTBALL] \"A very difficult and sad situation” – Wolfsburg Legend Edin Džeko on his ex-club VfL Wolfsburg’s relegation threat",
+          "score": 58,
+          "url": "https://reddit.com/r/soccer/comments/1tdyp5q/onefootball_a_very_difficult_and_sad_situation/"
+        },
+        {
+          "title": "Bundesliga table after matchday 33 (only one matchday left to go)",
+          "score": 49,
+          "url": "https://reddit.com/r/soccer/comments/1t9igfs/bundesliga_table_after_matchday_33_only_one/"
+        },
+        {
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
+        }
+      ]
+    },
+    {
+      "match": "SC Freiburg vs RB Leipzig",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-16T13:30:00Z",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "RB Leipzig",
+      "homeOdds": 2.5,
+      "drawOdds": 3.75,
+      "awayOdds": 2.45,
+      "homeImplied": 40,
+      "drawImplied": 26.7,
       "awayImplied": 40.8,
       "redditContext": [
         {
-          "title": "Premier League after 36 matchweeks",
-          "score": 740,
-          "url": "https://reddit.com/r/soccer/comments/1tccjzz/premier_league_after_36_matchweeks/"
+          "title": "Post Match Thread: Mainz 1-3 Union Berlin | German Bundesliga",
+          "score": 56,
+          "url": "https://reddit.com/r/soccer/comments/1t9gl6c/post_match_thread_mainz_13_union_berlin_german/",
+          "topComment": "\n\n#**Mainz [1-3](#bar-3-white) Union Berlin**\n\n*Mainz scorers: Sheraldo Becker (48')*\n\n*Union Berlin scorers: Andrej Ilic (38'), Oliver Burke (88'), Josip Juranovic (90+1')*\n\n\n\n--------\n\n**Venue:** ME"
         },
         {
-          "title": "Am I mistaken, or is there is a scenario where we have 10 Premier League teams in Europe next season?",
-          "score": 274,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t7cxpm/am_i_mistaken_or_is_there_is_a_scenario_where_we/",
-          "topComment": "\\-Aston Villa win Europa league, finish 5th -&gt; the 5th ''extra'' UCL spot goes to 6th, which bumps the Europa league spot down to 7th\n\n\\-Chelsea win FA-cup and finish 7th -&gt; bumps the Europa lea"
+          "title": "Bundesliga table after matchday 33 (only one matchday left to go)",
+          "score": 43,
+          "url": "https://reddit.com/r/soccer/comments/1t9igfs/bundesliga_table_after_matchday_33_only_one/"
         },
         {
-          "title": "Lyon are facing expulsion from Uefa competition next season over concerns that the French club have not complied with the terms of a settlement with the European governing body last summer.",
-          "score": 96,
-          "url": "https://reddit.com/r/soccer/comments/1tbqrjq/lyon_are_facing_expulsion_from_uefa_competition/",
-          "topComment": "Last July, Uefa’s Club Financial Control Body (CFCB) announced sanctions against Lyon, as well as Chelsea and Aston Villa, among others, for breaking financial sustainability regulations. The CFCB lai"
+          "title": "[Yvonne Gabriel] According to information from BILD, RB Leipzig want to sign Brajan Gruda, with Harvey Elliot being discussed as an alternative",
+          "score": 36,
+          "url": "https://reddit.com/r/soccer/comments/1tdy21b/yvonne_gabriel_according_to_information_from_bild/"
         },
         {
-          "title": "Harvey Elliott, Liverpool and a looming summer of uncertainty",
-          "score": 96,
-          "url": "https://reddit.com/r/PremierLeague/comments/1tcyt98/harvey_elliott_liverpool_and_a_looming_summer_of/",
-          "topComment": "Harvey Elliott was hailed as one of last summer’s shrewdest signings when he joined Aston Villa on loan.\n\nSince then, he has played just 277 minutes - and his career is in limbo. Unai Emery thinks the"
-        },
-        {
-          "title": "The end of an era: Final day of the 12-team WSL era preview",
-          "score": 21,
-          "url": "https://reddit.com/r/soccer/comments/1td0eqk/the_end_of_an_era_final_day_of_the_12team_wsl_era/",
-          "topComment": "Here we are. A random Thursday in May, staring down one final Women’s Super League matchweek before the league changes forever.\n\nSaturday’s final round of fixtures will officially bring the curtain do"
-        },
-        {
-          "title": "Match Thread: Burnley vs Aston Villa | Premier League | 10 May 13:00 UTC",
-          "score": 16,
-          "url": "https://reddit.com/r/PremierLeague/comments/1t95am8/match_thread_burnley_vs_aston_villa_premier/",
-          "topComment": "Burnley vs Aston Villa — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1t95am8)"
+          "title": "Finish Strong 🇩🇪",
+          "score": 1,
+          "url": "https://reddit.com/r/FootballBettingTips/comments/1teop78/finish_strong/"
         }
       ]
     }
