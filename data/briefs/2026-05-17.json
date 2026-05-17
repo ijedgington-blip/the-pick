@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-17",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Atlético Madrid vs Girona",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-17T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 1.8,
+      "implied_prob": 55.6,
+      "our_prob": 65.0,
+      "edge": 9.4,
+      "kelly_fraction": 0.059,
+      "reasoning": "The Cívitas Metropolitano remains one of the toughest venues in Europe. While Girona have been the season's surprise package, Atlético's depth and Julian Alvarez's reported happiness and form provide a significant edge. Our estimated probability of 65% suggests strong value against Ladbrokes' 55.6%.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Newcastle United vs West Ham United",
+      "league": "Premier League",
+      "kickoff": "2026-05-17T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Newcastle United to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 55.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.037,
+      "reasoning": "Newcastle are dominant at St James' Park and are currently pushing hard for European qualification in these final matchweeks. West Ham's away form has been patchy, and they lack the defensive cohesion to withstand the intense pressing game Newcastle employs at home.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Real Sociedad vs Valencia",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-17T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Sociedad to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 54.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.033,
+      "reasoning": "Real Sociedad are notoriously disciplined at home and excel at controlling the tempo against mid-table sides like Valencia. With Valencia safe from relegation but out of European contention, Sociedad's motivation to secure their own continental spot will be the deciding factor.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 8.32,
+  "acca_result": null,
+  "acca_return": null
+}
