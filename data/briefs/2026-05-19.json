@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-19",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Genk vs Antwerp",
+      "league": "Belgian Pro League",
+      "kickoff": "2026-05-19T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "Genk to win",
+      "odds": 1.62,
+      "implied_prob": 61.7,
+      "our_prob": 75.0,
+      "edge": 13.3,
+      "kelly_fraction": 0.107,
+      "reasoning": "Genk are in strong form and chasing European qualification, while Antwerp are in a tailspin having lost their last three matches without scoring. At 1.62, Genk are significantly undervalued for a home win against a demoralised opponent.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Chelsea vs Tottenham Hotspur",
+      "league": "Premier League",
+      "kickoff": "2026-05-19T19:15:00Z",
+      "pick": "Away",
+      "pick_label": "Tottenham to win",
+      "odds": 3.80,
+      "implied_prob": 26.3,
+      "our_prob": 35.0,
+      "edge": 8.7,
+      "kelly_fraction": 0.016,
+      "reasoning": "Chelsea are winless in seven league games and suffering from a post-FA Cup final hangover. Tottenham have been rejuvenated under Roberto De Zerbi and are fighting for their lives to avoid relegation. The current price on Spurs is a massive overreaction to their historical record at Stamford Bridge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Bournemouth vs Manchester City",
+      "league": "Premier League",
+      "kickoff": "2026-05-19T18:30:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 4.33,
+      "implied_prob": 23.1,
+      "our_prob": 30.0,
+      "edge": 6.9,
+      "kelly_fraction": 0.01,
+      "reasoning": "Bournemouth are currently on a record 16-game unbeaten run and have made their home ground a fortress. With Manchester City potentially distracted by the shock news of Pep Guardiola's upcoming departure, a stalemate is the value play here.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 26.66,
+  "acca_result": null,
+  "acca_return": null
+}
