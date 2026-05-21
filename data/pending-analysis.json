@@ -1,97 +1,48 @@
 {
-  "date": "2026-05-19",
+  "date": "2026-05-21",
   "fixtures": [
     {
-      "match": "Bournemouth vs Manchester City",
-      "league": "EPL",
-      "kickoff": "2026-05-19T18:30:00Z",
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Manchester City",
-      "homeOdds": 4.2,
-      "drawOdds": 4.33,
-      "awayOdds": 1.7,
-      "homeImplied": 23.8,
-      "drawImplied": 23.1,
-      "awayImplied": 58.8,
+      "match": "VfL Wolfsburg vs SC Paderborn",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-21T18:30:00Z",
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "SC Paderborn",
+      "homeOdds": 1.73,
+      "drawOdds": 3.8,
+      "awayOdds": 4.5,
+      "homeImplied": 57.8,
+      "drawImplied": 26.3,
+      "awayImplied": 22.2,
       "redditContext": [
         {
-          "title": "[Ornstein] Guardiola to leave Manchester City this summer, Enzo Maresca expected as successor.",
-          "score": 7210,
-          "url": "https://reddit.com/r/soccer/comments/1tgztni/ornstein_guardiola_to_leave_manchester_city_this/"
+          "title": "2. Bundesliga 2025/26 - Final Standings",
+          "score": 96,
+          "url": "https://reddit.com/r/soccer/comments/1tfsseg/2_bundesliga_202526_final_standings/"
         },
         {
-          "title": "Arsenal have failed to score more than once in 11 of their last 12 games",
-          "score": 1482,
-          "url": "https://reddit.com/r/soccer/comments/1th17la/arsenal_have_failed_to_score_more_than_once_in_11/",
-          "topComment": "Defence wins championships I guess"
+          "title": "[SC Paderborn] have qualified for the Bundesliga Relegation Playoff and will face Wolfsburg. Hannover finish 4th and have successfully confirmed their position in the 2026/27 2. Bundesliga.",
+          "score": 76,
+          "url": "https://reddit.com/r/soccer/comments/1tfstgu/sc_paderborn_have_qualified_for_the_bundesliga/"
         },
         {
-          "title": "[Fabrizio Romano] Enzo Maresca has a total verbal agreement with Manchester City, here we go! The Italian manager has always been considered the ideal candidate to replace Pep Guardiola. Deal in place and Maresca will sign an initial three year deal at MCFC.",
-          "score": 1071,
-          "url": "https://reddit.com/r/soccer/comments/1thf9pu/fabrizio_romano_enzo_maresca_has_a_total_verbal/"
+          "title": "Bundesliga 2025/26 - Second round table",
+          "score": 62,
+          "url": "https://reddit.com/r/soccer/comments/1texput/bundesliga_202526_second_round_table/"
         },
         {
-          "title": "Pep Guardiola to leave Manchester City this summer, Enzo Maresca expected as successor",
-          "score": 530,
-          "url": "https://reddit.com/r/PremierLeague/comments/1th00rk/pep_guardiola_to_leave_manchester_city_this/"
-        },
-        {
-          "title": "Is Pep Guardiola an impossible act to follow? We are about to find out",
-          "score": 53,
-          "url": "https://reddit.com/r/PremierLeague/comments/1th1jsf/is_pep_guardiola_an_impossible_act_to_follow_we/",
-          "topComment": "Sir Alex Ferguson will probably always win the argument as the Premier League’s greatest manager thanks to that longevity and the extra silverware which came with it.  \n  \nBut Pep Guardiola is surely "
-        },
-        {
-          "title": "Finish with the treble for Pep",
+          "title": "VfL Wolfsburg vs SC Paderborn Relegation Prediction",
           "score": 1,
-          "url": "https://reddit.com/r/MCFC/comments/1thhese/finish_with_the_treble_for_pep/"
-        }
-      ]
-    },
-    {
-      "match": "Chelsea vs Tottenham Hotspur",
-      "league": "EPL",
-      "kickoff": "2026-05-19T19:15:00Z",
-      "homeTeam": "Chelsea",
-      "awayTeam": "Tottenham Hotspur",
-      "homeOdds": 1.91,
-      "drawOdds": 3.6,
-      "awayOdds": 3.8,
-      "homeImplied": 52.4,
-      "drawImplied": 27.8,
-      "awayImplied": 26.3,
-      "redditContext": [
-        {
-          "title": "Premier League Possible Final Positions",
-          "score": 1134,
-          "url": "https://reddit.com/r/soccer/comments/1tfq2lj/premier_league_possible_final_positions/"
+          "url": "https://reddit.com/r/SportsProjections/comments/1tjdw70/vfl_wolfsburg_vs_sc_paderborn_relegation/"
         },
         {
-          "title": "The end of an era: Final day of the 12-team WSL era preview",
-          "score": 23,
-          "url": "https://reddit.com/r/soccer/comments/1td0eqk/the_end_of_an_era_final_day_of_the_12team_wsl_era/",
-          "topComment": "Here we are. A random Thursday in May, staring down one final Women’s Super League matchweek before the league changes forever.\n\nSaturday’s final round of fixtures will officially bring the curtain do"
-        },
-        {
-          "title": "Derbyist for the week of May 18, 2026",
-          "score": 7,
-          "url": "https://reddit.com/r/soccer/comments/1tgnlfn/derbyist_for_the_week_of_may_18_2026/",
-          "topComment": "This is a schedule of this week's derbies and rivalry matches from [Derbyist](https://derby.ist), where you can also find more upcoming derbies and historical results with video highlights.\n\n## Upcomi"
-        },
-        {
-          "title": "Joao Pedro not being to the WC is good",
-          "score": 2,
-          "url": "https://reddit.com/r/Barca/comments/1thhjh5/joao_pedro_not_being_to_the_wc_is_good/"
-        },
-        {
-          "title": "r/Gunners is a better jerk sub than r/soccercirclejerk",
-          "score": 2,
-          "url": "https://reddit.com/r/soccercirclejerk/comments/1thhizi/rgunners_is_a_better_jerk_sub_than/"
-        },
-        {
-          "title": "Anyone else love seeing players become managers? Proper full-circle football moment ⚽➡️🧠 One of my favourite things in football (that I don’t think gets talked about enough) is when players go on to become managers.",
+          "title": "Bundesliga - Relegation Play-offs",
           "score": 1,
-          "url": "https://reddit.com/r/starcutouts/comments/1thhgs4/anyone_else_love_seeing_players_become_managers/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tjcmv9/bundesliga_relegation_playoffs/"
+        },
+        {
+          "title": "Match Thread: VFL Wolfsburg vs SC Paderborn 07 Live Score | Bundesliga 25/26 | May 21, 2026",
+          "score": 1,
+          "url": "https://reddit.com/r/VfLWolfsburg/comments/1tiuhnp/match_thread_vfl_wolfsburg_vs_sc_paderborn_07/"
         }
       ]
     }
