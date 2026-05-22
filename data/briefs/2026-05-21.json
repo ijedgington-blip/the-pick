@@ -15,9 +15,9 @@
       "kelly_fraction": 0.049,
       "reasoning": "Wolfsburg, the Bundesliga side, host 2. Bundesliga's Paderborn in the first leg of the relegation playoff. Bundesliga teams have a historically dominant record in these playoffs, especially at home in the first leg. Wolfsburg's squad quality is significantly higher, and 1.73 represents clear value against a side that finished 3rd in the second tier.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": false,
