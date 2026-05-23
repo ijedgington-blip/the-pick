@@ -1,48 +1,459 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-23",
   "fixtures": [
     {
-      "match": "VfL Wolfsburg vs SC Paderborn",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-21T18:30:00Z",
-      "homeTeam": "VfL Wolfsburg",
-      "awayTeam": "SC Paderborn",
-      "homeOdds": 1.73,
-      "drawOdds": 3.8,
-      "awayOdds": 4.5,
-      "homeImplied": 57.8,
-      "drawImplied": 26.3,
-      "awayImplied": 22.2,
+      "match": "Hull City vs Middlesbrough",
+      "league": "Championship",
+      "kickoff": "2026-05-23T14:30:00Z",
+      "homeTeam": "Hull City",
+      "awayTeam": "Middlesbrough",
+      "homeOdds": 4.2,
+      "drawOdds": 3.4,
+      "awayOdds": 1.91,
+      "homeImplied": 23.8,
+      "drawImplied": 29.4,
+      "awayImplied": 52.4,
       "redditContext": [
         {
-          "title": "2. Bundesliga 2025/26 - Final Standings",
-          "score": 96,
-          "url": "https://reddit.com/r/soccer/comments/1tfsseg/2_bundesliga_202526_final_standings/"
+          "title": "Hull City owner Acun Ilıcalı says lawyers are examining whether club should be promoted directly after Southampton disqualification",
+          "score": 1141,
+          "url": "https://reddit.com/r/soccer/comments/1tin08r/hull_city_owner_acun_ilıcalı_says_lawyers_are/"
         },
         {
-          "title": "[SC Paderborn] have qualified for the Bundesliga Relegation Playoff and will face Wolfsburg. Hannover finish 4th and have successfully confirmed their position in the 2026/27 2. Bundesliga.",
+          "title": "Hull City are exploring a case to be automatically promoted to the Premier League after Southampton’s “spygate” play-off final expulsion.",
+          "score": 563,
+          "url": "https://reddit.com/r/soccer/comments/1tixze7/hull_city_are_exploring_a_case_to_be/"
+        },
+        {
+          "title": "Croatia NT squad for the World Cup 2026",
+          "score": 259,
+          "url": "https://reddit.com/r/soccer/comments/1tgjrtw/croatia_nt_squad_for_the_world_cup_2026/"
+        },
+        {
+          "title": "It returns!",
+          "score": 69,
+          "url": "https://reddit.com/r/Championship/comments/1tlalii/it_returns/"
+        },
+        {
+          "title": "Here comes Hull down the motorway",
+          "score": 27,
+          "url": "https://reddit.com/r/TheOfficeUK/comments/1tlasgq/here_comes_hull_down_the_motorway/"
+        },
+        {
+          "title": "EFL Championship - Promotion - Playoff",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tla4px/efl_championship_promotion_playoff/"
+        }
+      ]
+    },
+    {
+      "match": "Alavés vs Rayo Vallecano",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Alavés",
+      "awayTeam": "Rayo Vallecano",
+      "homeOdds": 2.37,
+      "drawOdds": 3.25,
+      "awayOdds": 3,
+      "homeImplied": 42.2,
+      "drawImplied": 30.8,
+      "awayImplied": 33.3,
+      "redditContext": [
+        {
+          "title": "La Liga Week 37 Table",
+          "score": 165,
+          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+        },
+        {
+          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
           "score": 76,
-          "url": "https://reddit.com/r/soccer/comments/1tfstgu/sc_paderborn_have_qualified_for_the_bundesliga/"
+          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
+          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
         },
         {
-          "title": "Bundesliga 2025/26 - Second round table",
-          "score": 62,
-          "url": "https://reddit.com/r/soccer/comments/1texput/bundesliga_202526_second_round_table/"
+          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 30,
+          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
+          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
         },
         {
-          "title": "VfL Wolfsburg vs SC Paderborn Relegation Prediction",
+          "title": "La Liga - Round 38",
           "score": 1,
-          "url": "https://reddit.com/r/SportsProjections/comments/1tjdw70/vfl_wolfsburg_vs_sc_paderborn_relegation/"
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
         },
         {
-          "title": "Bundesliga - Relegation Play-offs",
+          "title": "El Alavés condiciona su mercado ante el Rayo: Koski, Diabaté y Guridi marcan los primeros movimientos",
           "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tjcmv9/bundesliga_relegation_playoffs/"
+          "url": "https://reddit.com/r/futbol/comments/1tihxr8/el_alavés_condiciona_su_mercado_ante_el_rayo/"
+        }
+      ]
+    },
+    {
+      "match": "Real Madrid vs Athletic Bilbao",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Athletic Bilbao",
+      "homeOdds": 1.48,
+      "drawOdds": 4.6,
+      "awayOdds": 5.75,
+      "homeImplied": 67.6,
+      "drawImplied": 21.7,
+      "awayImplied": 17.4,
+      "redditContext": [
+        {
+          "title": "[FREE TO READ] David Ornstein: Xabi Alonso reaches total agreement to become Chelsea manager",
+          "score": 932,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tezm42/free_to_read_david_ornstein_xabi_alonso_reaches/",
+          "topComment": "A total agreement has been reached for Xabi Alonso to become the new Chelsea manager.\n\nAlonso, 44, visited London early last week and has accepted the opportunity.\n\nA four-year contract is now in the "
         },
         {
-          "title": "Match Thread: VFL Wolfsburg vs SC Paderborn 07 Live Score | Bundesliga 25/26 | May 21, 2026",
+          "title": "[The Independent] Real Madrid will make a move to sign Enzo Fernandez, with sources close to the situation saying there is a very strong chance that Sunday’s clash with Sunderland is last game for Chelsea. Manchester City are also interested, but that may depend on the future of Rodri.",
+          "score": 286,
+          "url": "https://reddit.com/r/soccer/comments/1tkq3ns/the_independent_real_madrid_will_make_a_move_to/"
+        },
+        {
+          "title": "Patrick Vieira on any regrets in football: \"Just one. Not going to Real Madrid. They approached me for four years straight, when I was at Arsenal. In the last year I said yes, all the agreements were in place, but I thought better of it. I loved Arsenal too much.\"",
+          "score": 260,
+          "url": "https://reddit.com/r/soccer/comments/1tlalkb/patrick_vieira_on_any_regrets_in_football_just/",
+          "topComment": "&gt;\"When I went to Madrid as an ambassador for Manchester City, he brought me a front-page article from Marca about the deal. He said, 'You were the only player who turned down Real Madrid.'\" "
+        },
+        {
+          "title": "[EL_StatsLab] How many Final Fours has each team played?",
+          "score": 2,
+          "url": "https://reddit.com/r/Euroleague/comments/1tlaxtv/el_statslab_how_many_final_fours_has_each_team/"
+        },
+        {
+          "title": "Real Madrid Attackers - Who is leaving and staying?",
           "score": 1,
-          "url": "https://reddit.com/r/VfLWolfsburg/comments/1tiuhnp/match_thread_vfl_wolfsburg_vs_sc_paderborn_07/"
+          "url": "https://reddit.com/r/RealMadridFC/comments/1tlbr1l/real_madrid_attackers_who_is_leaving_and_staying/"
+        },
+        {
+          "title": "[The Athletic] European Men's Team of the Season",
+          "score": 0,
+          "url": "https://reddit.com/r/soccer/comments/1tks0r4/the_athletic_european_mens_team_of_the_season/"
+        }
+      ]
+    },
+    {
+      "match": "Valencia vs Barcelona",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Valencia",
+      "awayTeam": "Barcelona",
+      "homeOdds": 3.4,
+      "drawOdds": 3.8,
+      "awayOdds": 1.95,
+      "homeImplied": 29.4,
+      "drawImplied": 26.3,
+      "awayImplied": 51.3,
+      "redditContext": [
+        {
+          "title": "La Liga Week 37 Table",
+          "score": 163,
+          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+        },
+        {
+          "title": "Food for thought: In the entire modern history of the UCL, the eventual champion has NEVER been as inferior defensively to their opponent (by Goals Conceded per game) than PSG is currently inferior to Arsenal.",
+          "score": 95,
+          "url": "https://reddit.com/r/soccer/comments/1tjwwus/food_for_thought_in_the_entire_modern_history_of/",
+          "topComment": "Prior to the UCL final:\n\nArsenal have 0.4 goals conceded per game (6 goals in 14 matches)\n\nPSG have 1.4 goals conceded per game (22 goals in 16 matches)\n\nThe current defensive disparity between the te"
+        },
+        {
+          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 29,
+          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
+          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+        },
+        {
+          "title": "Ayuda!! 🥺 Consejos para compra de vivienda en Valencia? (25k ahorrados + piso en Zaragoza). Dudas con estrategia e hipotecas.",
+          "score": 2,
+          "url": "https://reddit.com/r/valencia/comments/1tlazm0/ayuda_consejos_para_compra_de_vivienda_en/"
+        },
+        {
+          "title": "Nunca pensei que os presentes de Natal dessem lições de liderança",
+          "score": 1,
+          "url": "https://reddit.com/r/jovemedinamica/comments/1tlbog7/nunca_pensei_que_os_presentes_de_natal_dessem/"
+        },
+        {
+          "title": "Valencia summer",
+          "score": 1,
+          "url": "https://reddit.com/r/GoingToSpain/comments/1tlbc3u/valencia_summer/"
+        }
+      ]
+    },
+    {
+      "match": "Getafe vs CA Osasuna",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Getafe",
+      "awayTeam": "CA Osasuna",
+      "homeOdds": 2.75,
+      "drawOdds": 2.62,
+      "awayOdds": 3.1,
+      "homeImplied": 36.4,
+      "drawImplied": 38.2,
+      "awayImplied": 32.3,
+      "redditContext": [
+        {
+          "title": "Cesar Azpilicueta announced his retirement at the end of the season at the age of 36 years.",
+          "score": 93,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tkpyxz/cesar_azpilicueta_announced_his_retirement_at_the/",
+          "topComment": "|Senior career\\*|\n|:-|\n|Years|**Team**|**Apps**|**(Gls)**|\n|2006–2007|Osasuna B|27|(1)|\n|2007–2010|Osasuna|99|(0)|\n|2010–2012|Marseille|47|(1)|\n|2012–2023|Chelsea|349|(10)|\n|2023–2025|Atlético Madrid|"
+        },
+        {
+          "title": "Osasuna fans cheer their team after the open training session at El Sadar before their decisive match at Getafe",
+          "score": 83,
+          "url": "https://reddit.com/r/soccer/comments/1tkvqjs/osasuna_fans_cheer_their_team_after_the_open/"
+        },
+        {
+          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 77,
+          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
+          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+        },
+        {
+          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 32,
+          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
+          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+        },
+        {
+          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
+          "score": 1,
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
+        }
+      ]
+    },
+    {
+      "match": "Celta Vigo vs Sevilla",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "Sevilla",
+      "homeOdds": 1.83,
+      "drawOdds": 3.5,
+      "awayOdds": 4.33,
+      "homeImplied": 54.6,
+      "drawImplied": 28.6,
+      "awayImplied": 23.1,
+      "redditContext": [
+        {
+          "title": "La Liga Week 37 Table",
+          "score": 162,
+          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+        },
+        {
+          "title": "[Football Meets Data] Aston Villa ends their European season securing €45.0m of UEFA prize money overall!",
+          "score": 106,
+          "url": "https://reddit.com/r/soccer/comments/1tjpa5r/football_meets_data_aston_villa_ends_their/"
+        },
+        {
+          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 32,
+          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
+          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+        },
+        {
+          "title": "DWT320: After all the Uselessness, we Hope Beyond Hope it's a Case of 'Vive España' 💃❤️‍🔥 (23th May 2026)",
+          "score": 1,
+          "url": "https://reddit.com/r/DadsWeeklyTreble/comments/1tlafk6/dwt320_after_all_the_uselessness_we_hope_beyond/"
+        },
+        {
+          "title": "🔥 [Bet of the Day] Celta Vigo vs Sevilla | LaLiga | 2026-05-23 19:00:00 | Analysis &amp; Prediction",
+          "score": 1,
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1tla6rc/bet_of_the_day_celta_vigo_vs_sevilla_laliga/"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+        }
+      ]
+    },
+    {
+      "match": "Girona vs Elche CF",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Girona",
+      "awayTeam": "Elche CF",
+      "homeOdds": 1.75,
+      "drawOdds": 4,
+      "awayOdds": 4,
+      "homeImplied": 57.1,
+      "drawImplied": 25,
+      "awayImplied": 25,
+      "redditContext": [
+        {
+          "title": "La Liga Week 37 Table",
+          "score": 168,
+          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+        },
+        {
+          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 75,
+          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
+          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+        },
+        {
+          "title": "[Alejandro Peris at Diari Valencia] Elche City Council announced on Wednesday that LaLiga has denied permission to install a giant screen in the Plaça de Baix to watch the match between Elche CF and Girona FC. Elche and Girona both play to decide who stays in Liga for next season.",
+          "score": 30,
+          "url": "https://reddit.com/r/soccer/comments/1tkhuhj/alejandro_peris_at_diari_valencia_elche_city/"
+        },
+        {
+          "title": "Looking for a ticket to Girona vs Elche",
+          "score": 1,
+          "url": "https://reddit.com/r/GironaFC/comments/1tla6gq/looking_for_a_ticket_to_girona_vs_elche/"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+        }
+      ]
+    },
+    {
+      "match": "Espanyol vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Espanyol",
+      "awayTeam": "Real Sociedad",
+      "homeOdds": 2.2,
+      "drawOdds": 3.5,
+      "awayOdds": 3.1,
+      "homeImplied": 45.5,
+      "drawImplied": 28.6,
+      "awayImplied": 32.3,
+      "redditContext": [
+        {
+          "title": "LaLiga 2 table after matchday 40",
+          "score": 94,
+          "url": "https://reddit.com/r/soccer/comments/1th03h0/laliga_2_table_after_matchday_40/"
+        },
+        {
+          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 77,
+          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
+          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+        },
+        {
+          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 28,
+          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
+          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+        },
+        {
+          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
+          "score": 1,
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
+        },
+        {
+          "title": "Match Thread: Espanyol Barcelona vs Real Sociedad San Sebastian Live Score | LaLiga 25/26 | May 23, 2026",
+          "score": 1,
+          "url": "https://reddit.com/r/futbol/comments/1tksg77/match_thread_espanyol_barcelona_vs_real_sociedad/"
+        }
+      ]
+    },
+    {
+      "match": "Real Betis vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Levante",
+      "homeOdds": 2.3,
+      "drawOdds": 3.3,
+      "awayOdds": 3.1,
+      "homeImplied": 43.5,
+      "drawImplied": 30.3,
+      "awayImplied": 32.3,
+      "redditContext": [
+        {
+          "title": "Jhon Durán was left out of Néstor Lorenzo's plans for the Colombian national team",
+          "score": 257,
+          "url": "https://reddit.com/r/soccer/comments/1tjt0fo/jhon_durán_was_left_out_of_néstor_lorenzos_plans/",
+          "topComment": "**\\[Translation\\]**\n\nIn recent call-ups, Luis Javier Suárez, Jhon Córdoba, and Rafael Santos Borré have been more consistent starters, relegating Durán to a secondary role. The change in the striker's"
+        },
+        {
+          "title": "[Football Meets Data] Aston Villa ends their European season securing €45.0m of UEFA prize money overall!",
+          "score": 106,
+          "url": "https://reddit.com/r/soccer/comments/1tjpa5r/football_meets_data_aston_villa_ends_their/"
+        },
+        {
+          "title": "Adrian (Real Betis GK) has retired from the beautiful game",
+          "score": 86,
+          "url": "https://reddit.com/r/soccer/comments/1tkt456/adrian_real_betis_gk_has_retired_from_the/",
+          "topComment": "(Translated from ChatGPT)\n\n“Hello, Betis fans.  \nIn my career I have won titles, competed against great players, and been teammates with even greater ones. I’ve saved penalties, scored goals, and been"
+        },
+        {
+          "title": "DWT320: After all the Uselessness, we Hope Beyond Hope it's a Case of 'Vive España' 💃❤️‍🔥 (23th May 2026)",
+          "score": 1,
+          "url": "https://reddit.com/r/DadsWeeklyTreble/comments/1tlafk6/dwt320_after_all_the_uselessness_we_hope_beyond/"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+        },
+        {
+          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
+          "score": 1,
+          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
+        }
+      ]
+    },
+    {
+      "match": "Mallorca vs Oviedo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "homeTeam": "Mallorca",
+      "awayTeam": "Oviedo",
+      "homeOdds": 1.44,
+      "drawOdds": 4.4,
+      "awayOdds": 6.5,
+      "homeImplied": 69.4,
+      "drawImplied": 22.7,
+      "awayImplied": 15.4,
+      "redditContext": [
+        {
+          "title": "FC Barcelona finish the 2025/26 LaLiga season with a perfect record at home, 19/19 games won",
+          "score": 6391,
+          "url": "https://reddit.com/r/soccer/comments/1tg22hk/fc_barcelona_finish_the_202526_laliga_season_with/"
+        },
+        {
+          "title": "La Liga Week 37 Table",
+          "score": 163,
+          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+        },
+        {
+          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
+          "score": 75,
+          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
+          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+        },
+        {
+          "title": "First Trio with XT30-III",
+          "score": 19,
+          "url": "https://reddit.com/r/fujifilm/comments/1tlb0xj/first_trio_with_xt30iii/"
+        },
+        {
+          "title": "🟢 Paid Tips Free 23.05.2026",
+          "score": 1,
+          "url": "https://reddit.com/r/u_wizibets/comments/1tlb5sy/paid_tips_free_23052026/"
+        },
+        {
+          "title": "La Liga - Round 38",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
         }
       ]
     }

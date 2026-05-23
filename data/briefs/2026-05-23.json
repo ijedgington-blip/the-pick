@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-23",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Girona vs Elche CF",
+      "league": "La Liga",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Girona to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 65.0,
+      "edge": 7.9,
+      "kelly_fraction": 0.053,
+      "reasoning": "A high-stakes survival match where Girona's home advantage and superior overall form this season should prevail against a struggling Elche side.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Real Betis vs Levante",
+      "league": "La Liga",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 50.0,
+      "edge": 6.5,
+      "kelly_fraction": 0.025,
+      "reasoning": "Emotional home farewell for several players including Adrian. Betis are the stronger side and have more to play for in front of a passionate home crowd.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Valencia vs Barcelona",
+      "league": "La Liga",
+      "kickoff": "2026-05-23T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 3.8,
+      "implied_prob": 26.3,
+      "our_prob": 30.0,
+      "edge": 3.7,
+      "kelly_fraction": 0.007,
+      "reasoning": "Mestalla is a difficult venue even for Barcelona. With the season winding down, a competitive draw is undervalued by the markets.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 15.3,
+  "acca_result": null,
+  "acca_return": null
+}
