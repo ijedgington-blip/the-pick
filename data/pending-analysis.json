@@ -1,252 +1,119 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "fixtures": [
     {
-      "match": "Hull City vs Middlesbrough",
-      "league": "Championship",
-      "kickoff": "2026-05-23T14:30:00Z",
-      "homeTeam": "Hull City",
-      "awayTeam": "Middlesbrough",
-      "homeOdds": 4.2,
-      "drawOdds": 3.4,
-      "awayOdds": 1.91,
-      "homeImplied": 23.8,
-      "drawImplied": 29.4,
-      "awayImplied": 52.4,
-      "redditContext": [
-        {
-          "title": "Hull City owner Acun Ilıcalı says lawyers are examining whether club should be promoted directly after Southampton disqualification",
-          "score": 1141,
-          "url": "https://reddit.com/r/soccer/comments/1tin08r/hull_city_owner_acun_ilıcalı_says_lawyers_are/"
-        },
-        {
-          "title": "Hull City are exploring a case to be automatically promoted to the Premier League after Southampton’s “spygate” play-off final expulsion.",
-          "score": 563,
-          "url": "https://reddit.com/r/soccer/comments/1tixze7/hull_city_are_exploring_a_case_to_be/"
-        },
-        {
-          "title": "Croatia NT squad for the World Cup 2026",
-          "score": 259,
-          "url": "https://reddit.com/r/soccer/comments/1tgjrtw/croatia_nt_squad_for_the_world_cup_2026/"
-        },
-        {
-          "title": "It returns!",
-          "score": 69,
-          "url": "https://reddit.com/r/Championship/comments/1tlalii/it_returns/"
-        },
-        {
-          "title": "Here comes Hull down the motorway",
-          "score": 27,
-          "url": "https://reddit.com/r/TheOfficeUK/comments/1tlasgq/here_comes_hull_down_the_motorway/"
-        },
-        {
-          "title": "EFL Championship - Promotion - Playoff",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tla4px/efl_championship_promotion_playoff/"
-        }
-      ]
-    },
-    {
-      "match": "Alavés vs Rayo Vallecano",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Alavés",
-      "awayTeam": "Rayo Vallecano",
-      "homeOdds": 2.37,
-      "drawOdds": 3.25,
-      "awayOdds": 3,
-      "homeImplied": 42.2,
-      "drawImplied": 30.8,
-      "awayImplied": 33.3,
-      "redditContext": [
-        {
-          "title": "La Liga Week 37 Table",
-          "score": 165,
-          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
-        },
-        {
-          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 76,
-          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
-          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
-        },
-        {
-          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 30,
-          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
-          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
-        },
-        {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
-        },
-        {
-          "title": "El Alavés condiciona su mercado ante el Rayo: Koski, Diabaté y Guridi marcan los primeros movimientos",
-          "score": 1,
-          "url": "https://reddit.com/r/futbol/comments/1tihxr8/el_alavés_condiciona_su_mercado_ante_el_rayo/"
-        }
-      ]
-    },
-    {
-      "match": "Real Madrid vs Athletic Bilbao",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Athletic Bilbao",
-      "homeOdds": 1.48,
-      "drawOdds": 4.6,
-      "awayOdds": 5.75,
-      "homeImplied": 67.6,
-      "drawImplied": 21.7,
-      "awayImplied": 17.4,
-      "redditContext": [
-        {
-          "title": "[FREE TO READ] David Ornstein: Xabi Alonso reaches total agreement to become Chelsea manager",
-          "score": 932,
-          "url": "https://reddit.com/r/PremierLeague/comments/1tezm42/free_to_read_david_ornstein_xabi_alonso_reaches/",
-          "topComment": "A total agreement has been reached for Xabi Alonso to become the new Chelsea manager.\n\nAlonso, 44, visited London early last week and has accepted the opportunity.\n\nA four-year contract is now in the "
-        },
-        {
-          "title": "[The Independent] Real Madrid will make a move to sign Enzo Fernandez, with sources close to the situation saying there is a very strong chance that Sunday’s clash with Sunderland is last game for Chelsea. Manchester City are also interested, but that may depend on the future of Rodri.",
-          "score": 286,
-          "url": "https://reddit.com/r/soccer/comments/1tkq3ns/the_independent_real_madrid_will_make_a_move_to/"
-        },
-        {
-          "title": "Patrick Vieira on any regrets in football: \"Just one. Not going to Real Madrid. They approached me for four years straight, when I was at Arsenal. In the last year I said yes, all the agreements were in place, but I thought better of it. I loved Arsenal too much.\"",
-          "score": 260,
-          "url": "https://reddit.com/r/soccer/comments/1tlalkb/patrick_vieira_on_any_regrets_in_football_just/",
-          "topComment": "&gt;\"When I went to Madrid as an ambassador for Manchester City, he brought me a front-page article from Marca about the deal. He said, 'You were the only player who turned down Real Madrid.'\" "
-        },
-        {
-          "title": "[EL_StatsLab] How many Final Fours has each team played?",
-          "score": 2,
-          "url": "https://reddit.com/r/Euroleague/comments/1tlaxtv/el_statslab_how_many_final_fours_has_each_team/"
-        },
-        {
-          "title": "Real Madrid Attackers - Who is leaving and staying?",
-          "score": 1,
-          "url": "https://reddit.com/r/RealMadridFC/comments/1tlbr1l/real_madrid_attackers_who_is_leaving_and_staying/"
-        },
-        {
-          "title": "[The Athletic] European Men's Team of the Season",
-          "score": 0,
-          "url": "https://reddit.com/r/soccer/comments/1tks0r4/the_athletic_european_mens_team_of_the_season/"
-        }
-      ]
-    },
-    {
-      "match": "Valencia vs Barcelona",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Valencia",
-      "awayTeam": "Barcelona",
-      "homeOdds": 3.4,
-      "drawOdds": 3.8,
-      "awayOdds": 1.95,
-      "homeImplied": 29.4,
-      "drawImplied": 26.3,
-      "awayImplied": 51.3,
-      "redditContext": [
-        {
-          "title": "La Liga Week 37 Table",
-          "score": 163,
-          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
-        },
-        {
-          "title": "Food for thought: In the entire modern history of the UCL, the eventual champion has NEVER been as inferior defensively to their opponent (by Goals Conceded per game) than PSG is currently inferior to Arsenal.",
-          "score": 95,
-          "url": "https://reddit.com/r/soccer/comments/1tjwwus/food_for_thought_in_the_entire_modern_history_of/",
-          "topComment": "Prior to the UCL final:\n\nArsenal have 0.4 goals conceded per game (6 goals in 14 matches)\n\nPSG have 1.4 goals conceded per game (22 goals in 16 matches)\n\nThe current defensive disparity between the te"
-        },
-        {
-          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 29,
-          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
-          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
-        },
-        {
-          "title": "Ayuda!! 🥺 Consejos para compra de vivienda en Valencia? (25k ahorrados + piso en Zaragoza). Dudas con estrategia e hipotecas.",
-          "score": 2,
-          "url": "https://reddit.com/r/valencia/comments/1tlazm0/ayuda_consejos_para_compra_de_vivienda_en/"
-        },
-        {
-          "title": "Nunca pensei que os presentes de Natal dessem lições de liderança",
-          "score": 1,
-          "url": "https://reddit.com/r/jovemedinamica/comments/1tlbog7/nunca_pensei_que_os_presentes_de_natal_dessem/"
-        },
-        {
-          "title": "Valencia summer",
-          "score": 1,
-          "url": "https://reddit.com/r/GoingToSpain/comments/1tlbc3u/valencia_summer/"
-        }
-      ]
-    },
-    {
-      "match": "Getafe vs CA Osasuna",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Getafe",
-      "awayTeam": "CA Osasuna",
-      "homeOdds": 2.75,
-      "drawOdds": 2.62,
-      "awayOdds": 3.1,
-      "homeImplied": 36.4,
-      "drawImplied": 38.2,
-      "awayImplied": 32.3,
-      "redditContext": [
-        {
-          "title": "Cesar Azpilicueta announced his retirement at the end of the season at the age of 36 years.",
-          "score": 93,
-          "url": "https://reddit.com/r/PremierLeague/comments/1tkpyxz/cesar_azpilicueta_announced_his_retirement_at_the/",
-          "topComment": "|Senior career\\*|\n|:-|\n|Years|**Team**|**Apps**|**(Gls)**|\n|2006–2007|Osasuna B|27|(1)|\n|2007–2010|Osasuna|99|(0)|\n|2010–2012|Marseille|47|(1)|\n|2012–2023|Chelsea|349|(10)|\n|2023–2025|Atlético Madrid|"
-        },
-        {
-          "title": "Osasuna fans cheer their team after the open training session at El Sadar before their decisive match at Getafe",
-          "score": 83,
-          "url": "https://reddit.com/r/soccer/comments/1tkvqjs/osasuna_fans_cheer_their_team_after_the_open/"
-        },
-        {
-          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 77,
-          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
-          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
-        },
-        {
-          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 32,
-          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
-          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
-        },
-        {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
-        },
-        {
-          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
-        }
-      ]
-    },
-    {
-      "match": "Celta Vigo vs Sevilla",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Celta Vigo",
-      "awayTeam": "Sevilla",
-      "homeOdds": 1.83,
+      "match": "Crystal Palace vs Arsenal",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Arsenal",
+      "homeOdds": 3.6,
       "drawOdds": 3.5,
-      "awayOdds": 4.33,
-      "homeImplied": 54.6,
+      "awayOdds": 2,
+      "homeImplied": 27.8,
       "drawImplied": 28.6,
-      "awayImplied": 23.1,
+      "awayImplied": 50,
       "redditContext": [
         {
-          "title": "La Liga Week 37 Table",
-          "score": 162,
-          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+          "title": "Premier League reject Crystal Palace request to move Arsenal match",
+          "score": 412,
+          "url": "https://reddit.com/r/soccer/comments/1tjxm6o/premier_league_reject_crystal_palace_request_to/"
+        },
+        {
+          "title": "Conference League final: Premier League deny Crystal Palace plea to move Arsenal clash",
+          "score": 249,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tkc78g/conference_league_final_premier_league_deny/",
+          "topComment": "Last match of the season is always set, no chance in moving that. "
+        },
+        {
+          "title": "[Mike McGrath] Bayer Leverkusen rival Crystal Palace for Andoni Iraola: Bundesliga side emerge as option for departing Bournemouth manager with Kasper Hjulmand tipped to leave BayArena",
+          "score": 106,
+          "url": "https://reddit.com/r/soccer/comments/1tkph2r/mike_mcgrath_bayer_leverkusen_rival_crystal/"
+        },
+        {
+          "title": "[Guardian] Club América winger Alejandro Zendejas is on the United States’ 26-man roster for this summer’s World Cup, while Lyon defensive midfielder Tanner Tessmann is not included (full squad in the body text).",
+          "score": 66,
+          "url": "https://reddit.com/r/soccer/comments/1tlmdbt/guardian_club_américa_winger_alejandro_zendejas/",
+          "topComment": "(First-time World Cup selections indicated with an asterisk, caps and goals listed in parentheses)\n\nGoalkeepers (3): Chris Brady* (Chicago Fire, 0 caps/0 goals), Matt Freese* (New York City, 14/0), Ma"
+        },
+        {
+          "title": "Where will you be watching our title coronation match against Crystal Palace from? 🏆",
+          "score": 17,
+          "url": "https://reddit.com/r/Gunners/comments/1tm76m4/where_will_you_be_watching_our_title_coronation/"
+        },
+        {
+          "title": "Match Thread: Brentford vs Crystal Palace | Premier League | 17 May 14:00 UTC",
+          "score": 11,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tfp6p6/match_thread_brentford_vs_crystal_palace_premier/",
+          "topComment": "Brentford vs Crystal Palace — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1tf"
+        }
+      ]
+    },
+    {
+      "match": "Manchester City vs Aston Villa",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Aston Villa",
+      "homeOdds": 1.3,
+      "drawOdds": 6,
+      "awayOdds": 7.5,
+      "homeImplied": 76.9,
+      "drawImplied": 16.7,
+      "awayImplied": 13.3,
+      "redditContext": [
+        {
+          "title": "[FREE TO READ] Phil Foden out of England World Cup squad, Noni Madueke and Kobbie Mainoo in",
+          "score": 863,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tjrrg5/free_to_read_phil_foden_out_of_england_world_cup/",
+          "topComment": "Manchester City’s Phil Foden has been left out of England’s World Cup squad.\n\nManchester United’s Kobbie Mainoo, Newcastle United defender Tino Livramento and Arsenal winger Noni Madueke are among the"
+        },
+        {
+          "title": "Pep Guardiola’s reaction when asked if he would return to Manchester City to speak about the 115 charges once a final verdict is reached",
+          "score": 338,
+          "url": "https://reddit.com/r/soccer/comments/1tlt24f/pep_guardiolas_reaction_when_asked_if_he_would/"
+        },
+        {
+          "title": "[FREE TO READ] Ornstein: Enzo Maresca working on transfer, pre-season plans ahead of Manchester City job",
+          "score": 240,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tirsmb/free_to_read_ornstein_enzo_maresca_working_on/",
+          "topComment": "Enzo Maresca has started working on summer transfer activity and pre-season planning before his impending appointment by Manchester City.\n\nThe Italian is set to replace Pep Guardiola at the Etihad Sta"
+        },
+        {
+          "title": "Inside Pep Guardiola’s Manchester City exit and their move for Enzo Maresca",
+          "score": 64,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tl8z60/inside_pep_guardiolas_manchester_city_exit_and/",
+          "topComment": "◾️ Manager and staff in tears during emotional lunch  \n◾️ Script for farewell video written by Guardiola himself  \n◾️ Xabi Alonso was one of the names considered as replacement  \n◾️ Chelsea remain fur"
+        },
+        {
+          "title": "They’re at it again. Not a “single reason” apparently?",
+          "score": 48,
+          "url": "https://reddit.com/r/ManchesterUnited/comments/1tm6hd9/theyre_at_it_again_not_a_single_reason_apparently/"
+        },
+        {
+          "title": "Matthias Ginter: \"We knew we were underdogs against Aston Villa and had to hope they had a bad day. In a final there must be a loser and unfortunately it was us. Two set piece goals before half-time was annoying... Aston Villa would definitely be second or third in the Bundesliga.\"",
+          "score": 35,
+          "url": "https://reddit.com/r/soccer/comments/1tm5z4k/matthias_ginter_we_knew_we_were_underdogs_against/"
+        }
+      ]
+    },
+    {
+      "match": "Nottingham Forest vs Bournemouth",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Bournemouth",
+      "homeOdds": 3.4,
+      "drawOdds": 3.7,
+      "awayOdds": 2,
+      "homeImplied": 29.4,
+      "drawImplied": 27,
+      "awayImplied": 50,
+      "redditContext": [
+        {
+          "title": "Premier League table after Matchday 37 (Arsenal crowned champions)",
+          "score": 2713,
+          "url": "https://reddit.com/r/soccer/comments/1ti0g3f/premier_league_table_after_matchday_37_arsenal/"
         },
         {
           "title": "[Football Meets Data] Aston Villa ends their European season securing €45.0m of UEFA prize money overall!",
@@ -254,206 +121,393 @@
           "url": "https://reddit.com/r/soccer/comments/1tjpa5r/football_meets_data_aston_villa_ends_their/"
         },
         {
-          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 32,
-          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
-          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+          "title": "Match Thread: Manchester United vs Nottingham Forest | Premier League | 17 May 11:30 UTC",
+          "score": 70,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tflza2/match_thread_manchester_united_vs_nottingham/",
+          "topComment": "Manchester United vs Nottingham Forest — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/c"
         },
         {
-          "title": "DWT320: After all the Uselessness, we Hope Beyond Hope it's a Case of 'Vive España' 💃❤️‍🔥 (23th May 2026)",
-          "score": 1,
-          "url": "https://reddit.com/r/DadsWeeklyTreble/comments/1tlafk6/dwt320_after_all_the_uselessness_we_hope_beyond/"
+          "title": "Premier League Race for European places",
+          "score": 66,
+          "url": "https://reddit.com/r/soccer/comments/1tj011s/premier_league_race_for_european_places/",
+          "topComment": "I've uploaded the section of the table with clubs who can still theoretically reach the European places as well as those clubs just outside.\n\n**Important note, now that Villa have won the Europa leagu"
         },
         {
-          "title": "🔥 [Bet of the Day] Celta Vigo vs Sevilla | LaLiga | 2026-05-23 19:00:00 | Analysis &amp; Prediction",
-          "score": 1,
-          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1tla6rc/bet_of_the_day_celta_vigo_vs_sevilla_laliga/"
+          "title": "Happy Match Day - here's my cheat sheet for today",
+          "score": 12,
+          "url": "https://reddit.com/r/BrightonHoveAlbion/comments/1tm66vj/happy_match_day_heres_my_cheat_sheet_for_today/"
         },
         {
-          "title": "La Liga - Round 38",
+          "title": "Match Thread: Nottingham Forest vs AFC Bournemouth Live Score | Premier League 25/26 | May 24, 2026",
           "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+          "url": "https://reddit.com/r/Semintzarii/comments/1tm6wx5/match_thread_nottingham_forest_vs_afc_bournemouth/"
         }
       ]
     },
     {
-      "match": "Girona vs Elche CF",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Girona",
-      "awayTeam": "Elche CF",
-      "homeOdds": 1.75,
+      "match": "Liverpool vs Brentford",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Brentford",
+      "homeOdds": 1.85,
       "drawOdds": 4,
-      "awayOdds": 4,
-      "homeImplied": 57.1,
+      "awayOdds": 3.6,
+      "homeImplied": 54.1,
       "drawImplied": 25,
-      "awayImplied": 25,
+      "awayImplied": 27.8,
       "redditContext": [
         {
-          "title": "La Liga Week 37 Table",
-          "score": 168,
-          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+          "title": "[ABOLA] If Man City beats Villa and Liverpool beats Brentford on the last matchday, the Premier League's 6th placed team - Bournemouth or Brighton - will qualify for the Champions League. If not, Sporting CP will get the direct qualification spot",
+          "score": 4546,
+          "url": "https://reddit.com/r/soccer/comments/1tizbuk/abola_if_man_city_beats_villa_and_liverpool_beats/"
         },
         {
-          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 75,
-          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
-          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+          "title": "Premier League table after Matchday 37 (Arsenal crowned champions)",
+          "score": 2722,
+          "url": "https://reddit.com/r/soccer/comments/1ti0g3f/premier_league_table_after_matchday_37_arsenal/"
         },
         {
-          "title": "[Alejandro Peris at Diari Valencia] Elche City Council announced on Wednesday that LaLiga has denied permission to install a giant screen in the Plaça de Baix to watch the match between Elche CF and Girona FC. Elche and Girona both play to decide who stays in Liga for next season.",
-          "score": 30,
-          "url": "https://reddit.com/r/soccer/comments/1tkhuhj/alejandro_peris_at_diari_valencia_elche_city/"
+          "title": "Premier League Race for European places",
+          "score": 64,
+          "url": "https://reddit.com/r/soccer/comments/1tj011s/premier_league_race_for_european_places/",
+          "topComment": "I've uploaded the section of the table with clubs who can still theoretically reach the European places as well as those clubs just outside.\n\n**Important note, now that Villa have won the Europa leagu"
         },
         {
-          "title": "Looking for a ticket to Girona vs Elche",
+          "title": "Arne Slot sends strong Liverpool message before critical transfer window - 'Hope nobody feels that'",
           "score": 1,
-          "url": "https://reddit.com/r/GironaFC/comments/1tla6gq/looking_for_a_ticket_to_girona_vs_elche/"
-        },
-        {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+          "url": "https://reddit.com/r/u_publishers_qa/comments/1tm7eaw/arne_slot_sends_strong_liverpool_message_before/"
         }
       ]
     },
     {
-      "match": "Espanyol vs Real Sociedad",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Espanyol",
-      "awayTeam": "Real Sociedad",
-      "homeOdds": 2.2,
-      "drawOdds": 3.5,
-      "awayOdds": 3.1,
-      "homeImplied": 45.5,
-      "drawImplied": 28.6,
-      "awayImplied": 32.3,
+      "match": "Brighton and Hove Albion vs Manchester United",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Brighton and Hove Albion",
+      "awayTeam": "Manchester United",
+      "homeOdds": 1.8,
+      "drawOdds": 4,
+      "awayOdds": 3.9,
+      "homeImplied": 55.6,
+      "drawImplied": 25,
+      "awayImplied": 25.6,
       "redditContext": [
         {
-          "title": "LaLiga 2 table after matchday 40",
-          "score": 94,
-          "url": "https://reddit.com/r/soccer/comments/1th03h0/laliga_2_table_after_matchday_40/"
+          "title": "James Rodríguez on if he regrets his move to Bayern: “Carlo (Ancelotti) called me, and I said, \"I think I'm going to Manchester.\" And he replied, 'What Manchester? Manchester are dead. You have to come here with me.'\n\nI think it was a good decision to go to Bayern Munich.\"",
+          "score": 2412,
+          "url": "https://reddit.com/r/soccer/comments/1tlbppl/james_rodríguez_on_if_he_regrets_his_move_to/",
+          "topComment": "\"I was going to join Manchester United, and Jorge (Mendes) said to me, \"Do you want to go to Bayern?\" And I said, \"Where am I going to play? there's Ribéry, Robben...\" He said, \"Carlo asked for you.\""
         },
         {
-          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 77,
-          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
-          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+          "title": "[FREE TO READ] Phil Foden out of England World Cup squad, Noni Madueke and Kobbie Mainoo in",
+          "score": 862,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tjrrg5/free_to_read_phil_foden_out_of_england_world_cup/",
+          "topComment": "Manchester City’s Phil Foden has been left out of England’s World Cup squad.\n\nManchester United’s Kobbie Mainoo, Newcastle United defender Tino Livramento and Arsenal winger Noni Madueke are among the"
         },
         {
-          "title": "[OC] All possible Europa League &amp; Conference League qualification scenarios for LaLiga Matchday 38, 2025/26",
-          "score": 28,
-          "url": "https://reddit.com/r/soccer/comments/1tjegmg/oc_all_possible_europa_league_conference_league/",
-          "topComment": "After [my post](https://www.reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/) 2 days ago covering all 10 different realistic options in which the LaLiga relegation"
+          "title": "[Michele Criscitiello] Exclusive: Manchester United and Atalanta about to close deal for Ederson after agreement on all fronts. The fee is €48 million plus €5 million in bonus",
+          "score": 169,
+          "url": "https://reddit.com/r/soccer/comments/1tkesgk/michele_criscitiello_exclusive_manchester_united/"
         },
         {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+          "title": "[Pre Match Thread] Premier League Game 38 | Brighton &amp; Hove Albion vs Manchester United",
+          "score": 57,
+          "url": "https://reddit.com/r/reddevils/comments/1tlekdq/pre_match_thread_premier_league_game_38_brighton/"
         },
         {
-          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
+          "title": "Football gossip: Kroupi, Wilson, Ederson, Tonali, Reijnders, Hall, Delap",
+          "score": 18,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tkqfzs/football_gossip_kroupi_wilson_ederson_tonali/",
+          "topComment": "Chelsea join Arsenal in the race for Eli Junior Kroupi, Fulham and Everton eye Harry Wilson, while Manchester United are confident of signing midfielders Sandro Tonali and Ederson."
         },
         {
-          "title": "Match Thread: Espanyol Barcelona vs Real Sociedad San Sebastian Live Score | LaLiga 25/26 | May 23, 2026",
-          "score": 1,
-          "url": "https://reddit.com/r/futbol/comments/1tksg77/match_thread_espanyol_barcelona_vs_real_sociedad/"
+          "title": "Remove one Team From the 92 (EFl) Day 70 DOUBLE ELIMINATION",
+          "score": 10,
+          "url": "https://reddit.com/r/RemoveOneThingEachDay/comments/1tlnpyb/remove_one_team_from_the_92_efl_day_70_double/"
         }
       ]
     },
     {
-      "match": "Real Betis vs Levante",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Real Betis",
-      "awayTeam": "Levante",
-      "homeOdds": 2.3,
-      "drawOdds": 3.3,
-      "awayOdds": 3.1,
-      "homeImplied": 43.5,
-      "drawImplied": 30.3,
-      "awayImplied": 32.3,
+      "match": "Burnley vs Wolverhampton Wanderers",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Burnley",
+      "awayTeam": "Wolverhampton Wanderers",
+      "homeOdds": 2.45,
+      "drawOdds": 3.4,
+      "awayOdds": 2.75,
+      "homeImplied": 40.8,
+      "drawImplied": 29.4,
+      "awayImplied": 36.4,
       "redditContext": [
+        {
+          "title": "Premier League table after Matchday 37 (Arsenal crowned champions)",
+          "score": 2716,
+          "url": "https://reddit.com/r/soccer/comments/1ti0g3f/premier_league_table_after_matchday_37_arsenal/"
+        },
         {
           "title": "Jhon Durán was left out of Néstor Lorenzo's plans for the Colombian national team",
-          "score": 257,
+          "score": 267,
           "url": "https://reddit.com/r/soccer/comments/1tjt0fo/jhon_durán_was_left_out_of_néstor_lorenzos_plans/",
           "topComment": "**\\[Translation\\]**\n\nIn recent call-ups, Luis Javier Suárez, Jhon Córdoba, and Rafael Santos Borré have been more consistent starters, relegating Durán to a secondary role. The change in the striker's"
         },
         {
-          "title": "[Football Meets Data] Aston Villa ends their European season securing €45.0m of UEFA prize money overall!",
-          "score": 106,
-          "url": "https://reddit.com/r/soccer/comments/1tjpa5r/football_meets_data_aston_villa_ends_their/"
+          "title": "Post Match Thread: Wolverhampton Wanderers 1-1 Fulham",
+          "score": 20,
+          "url": "https://reddit.com/r/soccer/comments/1tftl50/post_match_thread_wolverhampton_wanderers_11/",
+          "topComment": "\n\n#**FT: Wolverhampton Wanderers  [1-1](#bar-3-white)  Fulham**\n\n\n\n\n\n--------\n\n**Venue:** Molineux Stadium\n\n[Auto-refreshing reddit comments link](http://www.reddit-stream.com/comments/1tfqau8)\n\n-----"
         },
         {
-          "title": "Adrian (Real Betis GK) has retired from the beautiful game",
-          "score": 86,
-          "url": "https://reddit.com/r/soccer/comments/1tkt456/adrian_real_betis_gk_has_retired_from_the/",
-          "topComment": "(Translated from ChatGPT)\n\n“Hello, Betis fans.  \nIn my career I have won titles, competed against great players, and been teammates with even greater ones. I’ve saved penalties, scored goals, and been"
+          "title": "Match Thread: Wolverhampton Wanderers vs Fulham | Premier League | 17 May 14:00 UTC",
+          "score": 8,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tfp6na/match_thread_wolverhampton_wanderers_vs_fulham/",
+          "topComment": "Wolverhampton Wanderers vs Fulham — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/commen"
         },
         {
-          "title": "DWT320: After all the Uselessness, we Hope Beyond Hope it's a Case of 'Vive España' 💃❤️‍🔥 (23th May 2026)",
+          "title": "Arsenal fans, I could use your eyes on this before I finish it",
+          "score": 4,
+          "url": "https://reddit.com/r/ArsenalFC/comments/1tm5udl/arsenal_fans_i_could_use_your_eyes_on_this_before/"
+        },
+        {
+          "title": "Match Thread: Burnley FC vs Wolverhampton Wanderers Live Score | Premier League 25/26 | May 24, 2026",
           "score": 1,
-          "url": "https://reddit.com/r/DadsWeeklyTreble/comments/1tlafk6/dwt320_after_all_the_uselessness_we_hope_beyond/"
-        },
-        {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
-        },
-        {
-          "title": "2026-05-23 Prediction: Alaves vs Vallecano, Celta vs Sevilla, Espanyol vs Sociedad, Getafe vs Osasuna",
-          "score": 1,
-          "url": "https://reddit.com/r/simcupsPredictions/comments/1tl6po0/20260523_prediction_alaves_vs_vallecano_celta_vs/"
+          "url": "https://reddit.com/r/Semintzarii/comments/1tm6wx6/match_thread_burnley_fc_vs_wolverhampton/"
         }
       ]
     },
     {
-      "match": "Mallorca vs Oviedo",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-05-23T19:00:00Z",
-      "homeTeam": "Mallorca",
-      "awayTeam": "Oviedo",
-      "homeOdds": 1.44,
-      "drawOdds": 4.4,
-      "awayOdds": 6.5,
-      "homeImplied": 69.4,
-      "drawImplied": 22.7,
-      "awayImplied": 15.4,
+      "match": "Sunderland vs Chelsea",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Chelsea",
+      "homeOdds": 3.4,
+      "drawOdds": 3.5,
+      "awayOdds": 2.05,
+      "homeImplied": 29.4,
+      "drawImplied": 28.6,
+      "awayImplied": 48.8,
       "redditContext": [
         {
-          "title": "FC Barcelona finish the 2025/26 LaLiga season with a perfect record at home, 19/19 games won",
-          "score": 6391,
-          "url": "https://reddit.com/r/soccer/comments/1tg22hk/fc_barcelona_finish_the_202526_laliga_season_with/"
+          "title": "Premier League table after Matchday 37 (Arsenal crowned champions)",
+          "score": 2714,
+          "url": "https://reddit.com/r/soccer/comments/1ti0g3f/premier_league_table_after_matchday_37_arsenal/"
         },
         {
-          "title": "La Liga Week 37 Table",
-          "score": 163,
-          "url": "https://reddit.com/r/soccer/comments/1tg2e3i/la_liga_week_37_table/"
+          "title": "[The Independent] Real Madrid will make a move to sign Enzo Fernandez, with sources close to the situation saying there is a very strong chance that Sunday’s clash with Sunderland is last game for Chelsea. Manchester City are also interested, but that may depend on the future of Rodri.",
+          "score": 303,
+          "url": "https://reddit.com/r/soccer/comments/1tkq3ns/the_independent_real_madrid_will_make_a_move_to/"
         },
         {
-          "title": "[OC] All possible relegation scenarios for LaLiga Matchday 38, 2025/26",
+          "title": "Premier League Race for European places",
+          "score": 66,
+          "url": "https://reddit.com/r/soccer/comments/1tj011s/premier_league_race_for_european_places/",
+          "topComment": "I've uploaded the section of the table with clubs who can still theoretically reach the European places as well as those clubs just outside.\n\n**Important note, now that Villa have won the Europa leagu"
+        },
+        {
+          "title": "Match Thread: Sunderland AFC vs Chelsea FC Live Score | Premier League 25/26 | May 24, 2026",
+          "score": 2,
+          "url": "https://reddit.com/r/NortheastBlues/comments/1tm6x4g/match_thread_sunderland_afc_vs_chelsea_fc_live/"
+        },
+        {
+          "title": "BBC big radio one going solo",
+          "score": 0,
+          "url": "https://reddit.com/r/Sunderland/comments/1tm6uws/bbc_big_radio_one_going_solo/"
+        }
+      ]
+    },
+    {
+      "match": "Tottenham Hotspur vs Everton",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Tottenham Hotspur",
+      "awayTeam": "Everton",
+      "homeOdds": 1.85,
+      "drawOdds": 3.6,
+      "awayOdds": 4,
+      "homeImplied": 54.1,
+      "drawImplied": 27.8,
+      "awayImplied": 25,
+      "redditContext": [
+        {
+          "title": "Spurs captain Cristian Romero will be in Argentina on Sunday to watch River Plate play Belgrano instead of Tottenham's match against Everton that will decide their relegation fate",
+          "score": 4779,
+          "url": "https://reddit.com/r/soccer/comments/1tjr5gj/spurs_captain_cristian_romero_will_be_in/"
+        },
+        {
+          "title": "'I'd love to keep West Ham in the Premier League' - David Moyes vows his Everton side will go all out to beat Tottenham &amp; earn result that could relegate Spurs to Championship",
+          "score": 1530,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tli0d8/id_love_to_keep_west_ham_in_the_premier_league/"
+        },
+        {
+          "title": "Post-Match Thread: Chelsea FC 2- 1 Tottenham Hotspur | Premier League",
+          "score": 343,
+          "url": "https://reddit.com/r/soccer/comments/1ti0j93/postmatch_thread_chelsea_fc_2_1_tottenham_hotspur/",
+          "topComment": "FT: Chelsea 2-1 Tottenham Hotspur\n\nVenue: Stamford Bridge\n\nAuto-refreshing reddit comments link\n\nLINE-UPS\n\nChelsea\n\nRobert Sánchez, Jorrel Hato, Wesley Fofana (Mamadou Sarr), Marc Cucurella, Josh Ache"
+        },
+        {
+          "title": "Match Thread: Chelsea vs Tottenham Hotspur | Premier League | 19 May 19:15 UTC",
+          "score": 104,
+          "url": "https://reddit.com/r/PremierLeague/comments/1thvppf/match_thread_chelsea_vs_tottenham_hotspur_premier/",
+          "topComment": "Chelsea vs Tottenham Hotspur — MatchPal match thread\n\n* * *\nThis post contains content not supported on old Reddit. [Click here to view the full post](https://sh.reddit.com/r/PremierLeague/comments/1t"
+        },
+        {
+          "title": "Cristian Romero is back in London ahead of Tottenham's final match against Everton. He originally tried to continue his recovery in Argentina and watch Belgrano's game on Sunday, but this decision was not well received at the club so he quickly returned to England to support his teammates.",
+          "score": 99,
+          "url": "https://reddit.com/r/soccer/comments/1tm6puy/cristian_romero_is_back_in_london_ahead_of/"
+        },
+        {
+          "title": "Match Thread: Tottenham Hotspur vs Everton FC Live Score | Premier League 25/26 | May 24, 2026",
+          "score": 1,
+          "url": "https://reddit.com/r/Semintzarii/comments/1tm6wwz/match_thread_tottenham_hotspur_vs_everton_fc_live/"
+        }
+      ]
+    },
+    {
+      "match": "Fulham vs Newcastle United",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "Fulham",
+      "awayTeam": "Newcastle United",
+      "homeOdds": 2.6,
+      "drawOdds": 3.5,
+      "awayOdds": 2.5,
+      "homeImplied": 38.5,
+      "drawImplied": 28.6,
+      "awayImplied": 40,
+      "redditContext": [
+        {
+          "title": "[FREE TO READ] Phil Foden out of England World Cup squad, Noni Madueke and Kobbie Mainoo in",
+          "score": 861,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tjrrg5/free_to_read_phil_foden_out_of_england_world_cup/",
+          "topComment": "Manchester City’s Phil Foden has been left out of England’s World Cup squad.\n\nManchester United’s Kobbie Mainoo, Newcastle United defender Tino Livramento and Arsenal winger Noni Madueke are among the"
+        },
+        {
+          "title": "[Guardian] Club América winger Alejandro Zendejas is on the United States’ 26-man roster for this summer’s World Cup, while Lyon defensive midfielder Tanner Tessmann is not included (full squad in the body text).",
+          "score": 65,
+          "url": "https://reddit.com/r/soccer/comments/1tlmdbt/guardian_club_américa_winger_alejandro_zendejas/",
+          "topComment": "(First-time World Cup selections indicated with an asterisk, caps and goals listed in parentheses)\n\nGoalkeepers (3): Chris Brady* (Chicago Fire, 0 caps/0 goals), Matt Freese* (New York City, 14/0), Ma"
+        },
+        {
+          "title": "Premier League Race for European places",
+          "score": 61,
+          "url": "https://reddit.com/r/soccer/comments/1tj011s/premier_league_race_for_european_places/",
+          "topComment": "I've uploaded the section of the table with clubs who can still theoretically reach the European places as well as those clubs just outside.\n\n**Important note, now that Villa have won the Europa leagu"
+        },
+        {
+          "title": "Newcastle United owners PIF open to selling minority stake to help fund stadium plans",
+          "score": 53,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tho0e4/newcastle_united_owners_pif_open_to_selling/",
+          "topComment": "Newcastle United’s owners are open to selling a minority stake in the club in order to help fund significant infrastructure projects, including a potential replacement for St James’ Park and a purpose"
+        },
+        {
+          "title": "[ESPN NL] Allach is building a young FC Groningen squad: ‘It’s not a one-off, but about doing justice to their development’",
+          "score": 14,
+          "url": "https://reddit.com/r/soccer/comments/1tig0kx/espn_nl_allach_is_building_a_young_fc_groningen/",
+          "topComment": "FC Groningen are having an excellent season and face Ajax in the European play-offs this week. Manager Dick Lukkien guided his team to ninth place in the VriendenLoterij Eredivisie with a young squad,"
+        },
+        {
+          "title": "Football gossip: Kroupi, Wilson, Ederson, Tonali, Reijnders, Hall, Delap",
+          "score": 14,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tkqfzs/football_gossip_kroupi_wilson_ederson_tonali/",
+          "topComment": "Chelsea join Arsenal in the race for Eli Junior Kroupi, Fulham and Everton eye Harry Wilson, while Manchester United are confident of signing midfielders Sandro Tonali and Ederson."
+        }
+      ]
+    },
+    {
+      "match": "West Ham United vs Leeds United",
+      "league": "EPL",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "homeTeam": "West Ham United",
+      "awayTeam": "Leeds United",
+      "homeOdds": 1.75,
+      "drawOdds": 3.9,
+      "awayOdds": 4.2,
+      "homeImplied": 57.1,
+      "drawImplied": 25.6,
+      "awayImplied": 23.8,
+      "redditContext": [
+        {
+          "title": "'I'd love to keep West Ham in the Premier League' - David Moyes vows his Everton side will go all out to beat Tottenham &amp; earn result that could relegate Spurs to Championship",
+          "score": 1533,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tli0d8/id_love_to_keep_west_ham_in_the_premier_league/"
+        },
+        {
+          "title": "Bayern München and VfB Stuttgart supporters unite in an Anti-DFB protest during the cup final: a giant crossed out DFB logo is handed through the ranks",
+          "score": 1137,
+          "url": "https://reddit.com/r/soccer/comments/1tlpf2x/bayern_münchen_and_vfb_stuttgart_supporters_unite/"
+        },
+        {
+          "title": "[Guardian] Club América winger Alejandro Zendejas is on the United States’ 26-man roster for this summer’s World Cup, while Lyon defensive midfielder Tanner Tessmann is not included (full squad in the body text).",
+          "score": 71,
+          "url": "https://reddit.com/r/soccer/comments/1tlmdbt/guardian_club_américa_winger_alejandro_zendejas/",
+          "topComment": "(First-time World Cup selections indicated with an asterisk, caps and goals listed in parentheses)\n\nGoalkeepers (3): Chris Brady* (Chicago Fire, 0 caps/0 goals), Matt Freese* (New York City, 14/0), Ma"
+        },
+        {
+          "title": "Robertson to Hull (short theory?)",
+          "score": 32,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tluf7n/robertson_to_hull_short_theory/",
+          "topComment": "Good evening all.\n\nI have been thinking about this for some time. But do not seem to have came across any similar posts.\n\nI am definately not a Liverpool fan, however I am a Scotland fan, so want all "
+        },
+        {
+          "title": "On the occasion of Eid Al-Adha, His Majesty King Mohammed VI, has graciously granted a royal pardon, on humanitarian grounds, to the Senegalese fans convicted of misdemeanours and crimes committed during the 2025 AFCON Final.",
+          "score": 6,
+          "url": "https://reddit.com/r/soccer/comments/1tlo0x8/on_the_occasion_of_eid_aladha_his_majesty_king/",
+          "topComment": "\"In light of the historic fraternal ties between the Kingdom of Morocco and the Republic of Senegal, and on the occasion of Eid al-Adha, His Majesty King Mohammed VI, may God assist him, has graciousl"
+        },
+        {
+          "title": "Football gossip: Leao, Alisson, Bowen, Ibrahimovic, Greenwood, Osula, Barco",
+          "score": 1,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tm2c19/football_gossip_leao_alisson_bowen_ibrahimovic/",
+          "topComment": "AC Milan are ready to let Rafael Leao leave for a cut-price fee with Manchester United interested, Jarrod Bowen could also be heading to Old Trafford, while Chelsea have agreed a deal for a former Bri"
+        }
+      ]
+    },
+    {
+      "match": "Villarreal vs Atlético Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-05-24T19:00:00Z",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Atlético Madrid",
+      "homeOdds": 2.5,
+      "drawOdds": 3.7,
+      "awayOdds": 2.6,
+      "homeImplied": 40,
+      "drawImplied": 27,
+      "awayImplied": 38.5,
+      "redditContext": [
+        {
+          "title": "Jhon Durán was left out of Néstor Lorenzo's plans for the Colombian national team",
+          "score": 262,
+          "url": "https://reddit.com/r/soccer/comments/1tjt0fo/jhon_durán_was_left_out_of_néstor_lorenzos_plans/",
+          "topComment": "**\\[Translation\\]**\n\nIn recent call-ups, Luis Javier Suárez, Jhon Córdoba, and Rafael Santos Borré have been more consistent starters, relegating Durán to a secondary role. The change in the striker's"
+        },
+        {
+          "title": "Cesar Azpilicueta announced his retirement at the end of the season at the age of 36 years.",
+          "score": 118,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tkpyxz/cesar_azpilicueta_announced_his_retirement_at_the/",
+          "topComment": "|Senior career\\*|\n|:-|\n|Years|**Team**|**Apps**|**(Gls)**|\n|2006–2007|Osasuna B|27|(1)|\n|2007–2010|Osasuna|99|(0)|\n|2010–2012|Marseille|47|(1)|\n|2012–2023|Chelsea|349|(10)|\n|2023–2025|Atlético Madrid|"
+        },
+        {
+          "title": "[Patrick Berger] Atlético Madrid are indeed interested in Nicolo Tresoldi. He is highly appreciated internally after an impressive season with 19 goals &amp; 7 assists and expected to cost above €30M. Dortmund are also monitoring the situation in case Guirassy is sold",
           "score": 75,
-          "url": "https://reddit.com/r/soccer/comments/1thk385/oc_all_possible_relegation_scenarios_for_laliga/",
-          "topComment": "With LaLiga's 2nd tie-breaker rule after points being the head-to-head record of teams and not the goal difference like in many other leagues, the current standings allow for a lot of different scenar"
+          "url": "https://reddit.com/r/soccer/comments/1tiu33n/patrick_berger_atlético_madrid_are_indeed/"
         },
         {
-          "title": "First Trio with XT30-III",
-          "score": 19,
-          "url": "https://reddit.com/r/fujifilm/comments/1tlb0xj/first_trio_with_xt30iii/"
+          "title": "Atlético de Madrid enters the race for Bernardo Silva",
+          "score": 67,
+          "url": "https://reddit.com/r/soccer/comments/1tip9tx/atlético_de_madrid_enters_the_race_for_bernardo/"
         },
         {
-          "title": "🟢 Paid Tips Free 23.05.2026",
-          "score": 1,
-          "url": "https://reddit.com/r/u_wizibets/comments/1tlb5sy/paid_tips_free_23052026/"
+          "title": "Real Madrid Castilla road to promotion for LaLiga Hypermotion",
+          "score": 52,
+          "url": "https://reddit.com/r/realmadrid/comments/1tlsdej/real_madrid_castilla_road_to_promotion_for_laliga/"
         },
         {
-          "title": "La Liga - Round 38",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1tl9zkl/la_liga_round_38/"
+          "title": "Finalizada la ultima jornada de la liga española y se consagran los descensos del RCD Mallorca y del City Group digo del Girona FC",
+          "score": 12,
+          "url": "https://reddit.com/r/fulbo/comments/1tlti7f/finalizada_la_ultima_jornada_de_la_liga_española/"
         }
       ]
     }

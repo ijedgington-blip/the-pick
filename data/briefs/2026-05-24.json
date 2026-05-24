@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-24",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Liverpool vs Brentford",
+      "league": "Premier League",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Liverpool to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 65.0,
+      "edge": 10.9,
+      "kelly_fraction": 0.064,
+      "reasoning": "Liverpool at Anfield on the final day have a massive incentive: a win could secure a Champions League spot for the 6th-placed team, adding league-wide drama. Arne Slot will want to finish his debut season on a high.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Tottenham Hotspur vs Everton",
+      "league": "Premier League",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Tottenham to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 65.0,
+      "edge": 10.9,
+      "kelly_fraction": 0.064,
+      "reasoning": "In a shock final-day relegation scrap, Spurs have their captain Cristian Romero back from a controversial trip to Argentina. The home crowd will be electric, and the desperation for survival should see them overcome an Everton side with nothing but spoiler intent.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "West Ham United vs Leeds United",
+      "league": "Premier League",
+      "kickoff": "2026-05-24T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "West Ham to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 65.0,
+      "edge": 7.9,
+      "kelly_fraction": 0.053,
+      "reasoning": "West Ham are fighting to stay in the division. With their former manager David Moyes (now at Everton) rooting for them, and home advantage against a Leeds side, the Hammers are strong value to secure the points they need.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.99,
+  "acca_result": null,
+  "acca_return": null
+}

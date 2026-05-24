@@ -15,9 +15,9 @@
       "kelly_fraction": 0.053,
       "reasoning": "A high-stakes survival match where Girona's home advantage and superior overall form this season should prevail against a struggling Elche side.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.025,
       "reasoning": "Emotional home farewell for several players including Adrian. Betis are the stronger side and have more to play for in front of a passionate home crowd.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 23.0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.007,
       "reasoning": "Mestalla is a difficult venue even for Barcelona. With the season winding down, a competitive draw is undervalued by the markets.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 15.3,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
