@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-25",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "St Mirren vs Partick Thistle",
+      "league": "Premiership - Scotland",
+      "kickoff": "2026-05-25T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "St Mirren to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 68.0,
+      "edge": 10.9,
+      "kelly_fraction": 0.073,
+      "reasoning": "Premiership teams have historically dominated the Scottish play-off final. St Mirren have the superior squad and home advantage in the decisive second leg (or a crucial first leg if they are at home first). Their experience at a higher level should be enough to overcome Partick.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "SC Paderborn vs VfL Wolfsburg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-05-25T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "SC Paderborn to win",
+      "odds": 3.6,
+      "implied_prob": 27.8,
+      "our_prob": 35.0,
+      "edge": 7.2,
+      "kelly_fraction": 0.014,
+      "reasoning": "After a 0-0 draw in the first leg, the pressure is entirely on the top-flight side Wolfsburg. Paderborn are formidable at home and will be backed by a sell-out crowd. In a winner-takes-all scenario, the value is clearly with the underdog home side at these odds.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "KFUM vs Rosenborg",
+      "league": "Eliteserien - Norway",
+      "kickoff": "2026-05-25T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "KFUM to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 52.0,
+      "edge": 6.5,
+      "kelly_fraction": 0.027,
+      "reasoning": "Rosenborg continue to struggle with inconsistency and defensive frailties. KFUM have adapted well to the top flight and their cohesive team play often catches the 'bigger' clubs off guard. At home, they are well-placed to exploit Rosenborg's current slump.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 13.86,
+  "acca_result": null,
+  "acca_return": null
+}
