@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-30",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Paris Saint Germain vs Arsenal",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-05-30T16:00:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 3.0,
+      "implied_prob": 33.3,
+      "our_prob": 40.0,
+      "edge": 6.7,
+      "kelly_fraction": 0.017,
+      "reasoning": "Arsenal enter the Champions League final as the form team. With Kai Havertz's history of big-game goals and a squad that has matured significantly, they represent excellent value at odds of 3.0. PSG's erratic European form makes them risky favorites at 2.3. We see a clear edge in backing the Gunners to win in 90 minutes.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}

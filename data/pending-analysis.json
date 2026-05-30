@@ -1,95 +1,52 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-30",
   "fixtures": [
     {
-      "match": "SC Paderborn vs VfL Wolfsburg",
-      "league": "Bundesliga - Germany",
-      "kickoff": "2026-05-25T18:30:00Z",
-      "homeTeam": "SC Paderborn",
-      "awayTeam": "VfL Wolfsburg",
-      "homeOdds": 3.6,
-      "drawOdds": 3.4,
-      "awayOdds": 2.05,
-      "homeImplied": 27.8,
-      "drawImplied": 29.4,
-      "awayImplied": 48.8,
+      "match": "Paris Saint Germain vs Arsenal",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-05-30T16:00:00Z",
+      "homeTeam": "Paris Saint Germain",
+      "awayTeam": "Arsenal",
+      "homeOdds": 2.3,
+      "drawOdds": 3.3,
+      "awayOdds": 3,
+      "homeImplied": 43.5,
+      "drawImplied": 30.3,
+      "awayImplied": 33.3,
       "redditContext": [
         {
-          "title": "Post-Match Thread: VfL Wolfsburg 0-0 SC Paderborn | Bundesliga Promotion/Relegation Playoff",
-          "score": 42,
-          "url": "https://reddit.com/r/soccer/comments/1tjwv36/postmatch_thread_vfl_wolfsburg_00_sc_paderborn/"
+          "title": "[CIES] Fastest wide players in this season’s champions league competition",
+          "score": 373,
+          "url": "https://reddit.com/r/soccer/comments/1treq16/cies_fastest_wide_players_in_this_seasons/"
+        },
+        {
+          "title": "[L1+] Ligue 1’s attendance for the 2025/26 season.",
+          "score": 96,
+          "url": "https://reddit.com/r/soccer/comments/1toct46/l1_ligue_1s_attendance_for_the_202526_season/"
+        },
+        {
+          "title": "Arsenal’s Kai Havertz: ‘We are going on the pitch and we are going to beat PSG'.",
+          "score": 70,
+          "url": "https://reddit.com/r/soccer/comments/1tqkjqq/arsenals_kai_havertz_we_are_going_on_the_pitch/",
+          "topComment": "Few people can say they have scored a winning goal in a Champions League final. He might have done so in the blue of Chelsea, but Kai Havertz comes into this weekend’s final against Paris Saint-Germai"
+        },
+        {
+          "title": "Football gossip: Rogers, Diomande, Gordon, Grealish, El Mala",
+          "score": 22,
+          "url": "https://reddit.com/r/PremierLeague/comments/1tow6eu/football_gossip_rogers_diomande_gordon_grealish/",
+          "topComment": "Arsenal eye Morgan Rogers, Paris St-Germain to rival Liverpool for Yan Diomande, Roberto de Zerbi eyes raid on former club Brighton and Jack Grealish will get chance to revive Man City career."
+        },
+        {
+          "title": "UEFA Champions League Play-offs - Final",
+          "score": 1,
+          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1trtxz2/uefa_champions_league_playoffs_final/"
+        },
+        {
+          "title": "🔥 [Bet of the Day] PSG vs Arsenal | UEFA Champions League | 2026-05-30 16:00:00 | Analysis &amp; Prediction",
+          "score": 1,
+          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1trtng9/bet_of_the_day_psg_vs_arsenal_uefa_champions/"
         }
       ]
-    },
-    {
-      "match": "Notts County vs Salford City",
-      "league": "League Two - England",
-      "kickoff": "2026-05-25T14:00:00Z",
-      "homeTeam": "Notts County",
-      "awayTeam": "Salford City",
-      "homeOdds": 2.7,
-      "drawOdds": 3.2,
-      "awayOdds": 2.62,
-      "homeImplied": 37.0,
-      "drawImplied": 31.3,
-      "awayImplied": 38.2,
-      "redditContext": []
-    },
-    {
-      "match": "St Mirren vs Partick Thistle",
-      "league": "Premiership - Scotland",
-      "kickoff": "2026-05-25T19:00:00Z",
-      "homeTeam": "St Mirren",
-      "awayTeam": "Partick Thistle",
-      "homeOdds": 1.75,
-      "drawOdds": 3.7,
-      "awayOdds": 4.6,
-      "homeImplied": 57.1,
-      "drawImplied": 27.0,
-      "awayImplied": 21.7,
-      "redditContext": []
-    },
-    {
-      "match": "KFUM vs Rosenborg",
-      "league": "Eliteserien - Norway",
-      "kickoff": "2026-05-25T15:00:00Z",
-      "homeTeam": "KFUM",
-      "awayTeam": "Rosenborg",
-      "homeOdds": 2.2,
-      "drawOdds": 3.3,
-      "awayOdds": 2.75,
-      "homeImplied": 45.5,
-      "drawImplied": 30.3,
-      "awayImplied": 36.4,
-      "redditContext": []
-    },
-    {
-      "match": "IF Elfsborg vs BK Hacken",
-      "league": "Allsvenskan - Sweden",
-      "kickoff": "2026-05-25T17:00:00Z",
-      "homeTeam": "IF Elfsborg",
-      "awayTeam": "BK Hacken",
-      "homeOdds": 2.75,
-      "drawOdds": 3.2,
-      "awayOdds": 2.3,
-      "homeImplied": 36.4,
-      "drawImplied": 31.3,
-      "awayImplied": 43.5,
-      "redditContext": []
-    },
-    {
-      "match": "Derry City vs Shelbourne Dublin",
-      "league": "League of Ireland",
-      "kickoff": "2026-05-25T18:45:00Z",
-      "homeTeam": "Derry City",
-      "awayTeam": "Shelbourne Dublin",
-      "homeOdds": 2.4,
-      "drawOdds": 3.1,
-      "awayOdds": 2.62,
-      "homeImplied": 41.7,
-      "drawImplied": 32.3,
-      "awayImplied": 38.2,
-      "redditContext": []
     }
   ]
 }
