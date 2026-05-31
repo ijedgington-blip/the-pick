@@ -15,9 +15,9 @@
       "kelly_fraction": 0.023,
       "reasoning": "Arsenal enter the Champions League final with massive momentum after securing their first Premier League title in 22 years. They are unbeaten in 14 UCL matches this season (11W, 3D) and possess the tournament's best defense, conceding only 6 goals. While PSG are the defending champions, Ladbrokes' odds of 2.3 for a PSG win seem to overvalue them as 'Home' favorites, despite the match being played at the neutral Puskás Aréna in Budapest. Arsenal's tactical discipline and defensive solidity give them a significant edge over PSG's explosive but sometimes inconsistent attack. We estimate Arsenal's win probability at 42%, offering a substantial 9.7% edge at odds of 3.1.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": false,
