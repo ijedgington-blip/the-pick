@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-14",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Wolverhampton Wanderers vs Blackburn Rovers",
+      "league": "Championship",
+      "kickoff": "2026-08-14T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Wolves to win",
+      "odds": 1.55,
+      "implied_prob": 64.5,
+      "our_prob": 72.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.068,
+      "reasoning": "Wolverhampton Wanderers host Blackburn Rovers at Molineux in the Championship season opener. Wolves bring superior squad depth and tactical continuity into the match, while Blackburn face a challenging away test amid squad transitions. With home advantage at Molineux and clear quality across every line, Wolves' true win probability is estimated at 72.0%, offering a solid 7.5% edge over Ladbrokes' 1.55 (64.5% implied) price.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}

@@ -1,52 +1,19 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-08-14",
   "fixtures": [
     {
-      "match": "Paris Saint Germain vs Arsenal",
-      "league": "UEFA Champions League",
-      "kickoff": "2026-05-30T16:00:00Z",
-      "homeTeam": "Paris Saint Germain",
-      "awayTeam": "Arsenal",
-      "homeOdds": 2.3,
-      "drawOdds": 3.3,
-      "awayOdds": 3,
-      "homeImplied": 43.5,
-      "drawImplied": 30.3,
-      "awayImplied": 33.3,
-      "redditContext": [
-        {
-          "title": "[CIES] Fastest wide players in this season’s champions league competition",
-          "score": 373,
-          "url": "https://reddit.com/r/soccer/comments/1treq16/cies_fastest_wide_players_in_this_seasons/"
-        },
-        {
-          "title": "[L1+] Ligue 1’s attendance for the 2025/26 season.",
-          "score": 96,
-          "url": "https://reddit.com/r/soccer/comments/1toct46/l1_ligue_1s_attendance_for_the_202526_season/"
-        },
-        {
-          "title": "Arsenal’s Kai Havertz: ‘We are going on the pitch and we are going to beat PSG'.",
-          "score": 70,
-          "url": "https://reddit.com/r/soccer/comments/1tqkjqq/arsenals_kai_havertz_we_are_going_on_the_pitch/",
-          "topComment": "Few people can say they have scored a winning goal in a Champions League final. He might have done so in the blue of Chelsea, but Kai Havertz comes into this weekend’s final against Paris Saint-Germai"
-        },
-        {
-          "title": "Football gossip: Rogers, Diomande, Gordon, Grealish, El Mala",
-          "score": 22,
-          "url": "https://reddit.com/r/PremierLeague/comments/1tow6eu/football_gossip_rogers_diomande_gordon_grealish/",
-          "topComment": "Arsenal eye Morgan Rogers, Paris St-Germain to rival Liverpool for Yan Diomande, Roberto de Zerbi eyes raid on former club Brighton and Jack Grealish will get chance to revive Man City career."
-        },
-        {
-          "title": "UEFA Champions League Play-offs - Final",
-          "score": 1,
-          "url": "https://reddit.com/r/SportScoreLiveSports/comments/1trtxz2/uefa_champions_league_playoffs_final/"
-        },
-        {
-          "title": "🔥 [Bet of the Day] PSG vs Arsenal | UEFA Champions League | 2026-05-30 16:00:00 | Analysis &amp; Prediction",
-          "score": 1,
-          "url": "https://reddit.com/r/ProTipsterGlobal/comments/1trtng9/bet_of_the_day_psg_vs_arsenal_uefa_champions/"
-        }
-      ]
+      "match": "Wolverhampton Wanderers vs Blackburn Rovers",
+      "league": "Championship",
+      "kickoff": "2026-08-14T19:00:00Z",
+      "homeTeam": "Wolverhampton Wanderers",
+      "awayTeam": "Blackburn Rovers",
+      "homeOdds": 1.55,
+      "drawOdds": 4.2,
+      "awayOdds": 5.5,
+      "homeImplied": 64.5,
+      "drawImplied": 23.8,
+      "awayImplied": 18.2,
+      "redditContext": []
     }
   ]
 }
