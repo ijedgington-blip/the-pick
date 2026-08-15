@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-15",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Norwich City vs West Bromwich Albion",
+      "league": "Championship",
+      "kickoff": "2026-08-15T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Norwich City to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 60.5,
+      "edge": 9.2,
+      "kelly_fraction": 0.048,
+      "reasoning": "Norwich City kick off their campaign at Carrow Road, where their home form and attacking continuity provide a major edge. West Brom have undergone tactical and squad transitions over the summer and often struggle to generate attacking fluency away from home. Ladbrokes price Norwich at 1.95 (51.3% implied), but our model estimates a 60.5% true win probability, delivering a prime 9.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Sevilla vs Rayo Vallecano",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-15T19:30:00Z",
+      "pick": "Home",
+      "pick_label": "Sevilla to win",
+      "odds": 2.37,
+      "implied_prob": 42.2,
+      "our_prob": 50.5,
+      "edge": 8.3,
+      "kelly_fraction": 0.03,
+      "reasoning": "Sevilla open their La Liga campaign at the Ramón Sánchez-Pizjuán, where home support traditionally elevates their performance. Rayo Vallecano consistently struggle on the road against established top-tier sides and have had limited attacking reinforcements. At 2.37 (42.2% implied), Ladbrokes are undervaluing Sevilla's home superiority against our estimated 50.5% win likelihood, yielding an 8.3% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Bolton Wanderers vs Preston North End",
+      "league": "Championship",
+      "kickoff": "2026-08-15T11:30:00Z",
+      "pick": "Home",
+      "pick_label": "Bolton Wanderers to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 53.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.031,
+      "reasoning": "Bolton Wanderers carry strong home momentum into this Lancashire derby at the Toughsheet Community Stadium. Preston North End have historically struggled for goals in early-season away fixtures. With intense home backing and sharp pre-season conditioning, Bolton's true win probability of 53.0% provides a strong 7.5% edge over Ladbrokes' 2.20 (45.5% implied) line.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 10.17,
+  "acca_result": null,
+  "acca_return": null
+}
