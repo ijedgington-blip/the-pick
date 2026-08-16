@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-16",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Racing Club de Santander vs Villarreal",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-16T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Villarreal to win",
+      "odds": 2,
+      "implied_prob": 50,
+      "our_prob": 59.5,
+      "edge": 9.5,
+      "kelly_fraction": 0.048,
+      "reasoning": "Villarreal bring substantial quality and European pedigree into this fixture against Real Racing Club de Santander. While Racing Santander will rely on home enthusiasm at El Sardinero, Villarreal possess far superior attacking fluidity, positional control, and finishing efficiency. Ladbrokes price Villarreal at evens (2.00, 50.0% implied), but our model rates their true win probability at 59.5%, generating an outstanding 9.5% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Espanyol vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-16T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Espanyol to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 56.5,
+      "edge": 8.9,
+      "kelly_fraction": 0.04,
+      "reasoning": "Espanyol open at the RCDE Stadium, where their aggressive pressing and compact defensive shape make them difficult to break down. Levante have historically struggled away from home against well-organized sides and lack defensive cohesion in transition. Ladbrokes have Espanyol at 2.10 (47.6% implied), yet our model projects a 56.5% win likelihood, providing a strong 8.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Burnley vs West Ham United",
+      "league": "Championship",
+      "kickoff": "2026-08-16T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "West Ham United to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 51.5,
+      "edge": 8,
+      "kelly_fraction": 0.031,
+      "reasoning": "West Ham United possess clear individual quality and Premier League-caliber talent across their squad for this trip to Turf Moor. Burnley are disciplined at home but may find it difficult to withstand West Ham's counter-attacking pace and set-piece danger. At 2.30 (43.5% implied), Ladbrokes are underestimating West Ham's match-winning capability compared to our 51.5% true win estimate, yielding an 8.0% edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 9.66,
+  "acca_result": null,
+  "acca_return": null
+}
