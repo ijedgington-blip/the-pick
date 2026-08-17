@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-17",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Deportivo La Coruña vs Elche CF",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-17T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Deportivo La Coruña to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 52.5,
+      "edge": 9.0,
+      "kelly_fraction": 0.035,
+      "reasoning": "Deportivo La Coruña make their highly anticipated return to La Liga at the Estadio ABANCA-Riazor after an eight-year absence. Riazor will provide an electric atmosphere, and Deportivo showed encouraging organization during pre-season. Conversely, Elche have failed to win a season opener in their last 12 top-flight campaigns and are without key attacking options Grady Diangana and Yago Santiago. Ladbrokes offer Deportivo at 2.30 (43.5% implied), but our model assesses their true win probability at 52.5%, delivering a standout 9.0% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Cardiff City vs Wrexham AFC",
+      "league": "Championship",
+      "kickoff": "2026-08-17T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Cardiff City to win",
+      "odds": 2.45,
+      "implied_prob": 40.8,
+      "our_prob": 49.0,
+      "edge": 8.2,
+      "kelly_fraction": 0.028,
+      "reasoning": "Cardiff City host Wrexham at the Cardiff City Stadium in a highly charged Welsh derby to open the Championship season. While Wrexham enter with stability, navigating a ferocious Cardiff atmosphere on opening night will test their defensive discipline. Cardiff carry momentum from their promotion and a sharp 3-2 cup win over Swindon. Ladbrokes price Cardiff at 2.45 (40.8% implied), but our model projects a 49.0% true win likelihood, providing an 8.2% value edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.64,
+  "acca_result": null,
+  "acca_return": null
+}

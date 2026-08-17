@@ -15,9 +15,9 @@
       "kelly_fraction": 0.048,
       "reasoning": "Villarreal bring substantial quality and European pedigree into this fixture against Real Racing Club de Santander. While Racing Santander will rely on home enthusiasm at El Sardinero, Villarreal possess far superior attacking fluidity, positional control, and finishing efficiency. Ladbrokes price Villarreal at evens (2.00, 50.0% implied), but our model rates their true win probability at 59.5%, generating an outstanding 9.5% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.04,
       "reasoning": "Espanyol open at the RCDE Stadium, where their aggressive pressing and compact defensive shape make them difficult to break down. Levante have historically struggled away from home against well-organized sides and lack defensive cohesion in transition. Ladbrokes have Espanyol at 2.10 (47.6% implied), yet our model projects a 56.5% win likelihood, providing a strong 8.9% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 21,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.031,
       "reasoning": "West Ham United possess clear individual quality and Premier League-caliber talent across their squad for this trip to Turf Moor. Burnley are disciplined at home but may find it difficult to withstand West Ham's counter-attacking pace and set-piece danger. At 2.30 (43.5% implied), Ladbrokes are underestimating West Ham's match-winning capability compared to our 51.5% true win estimate, yielding an 8.0% edge.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 9.66,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
