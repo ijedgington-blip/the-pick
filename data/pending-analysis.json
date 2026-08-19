@@ -1,32 +1,18 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-19",
   "fixtures": [
     {
-      "match": "Cardiff City vs Wrexham AFC",
-      "league": "Championship",
-      "kickoff": "2026-08-17T19:00:00Z",
-      "homeTeam": "Cardiff City",
-      "awayTeam": "Wrexham AFC",
-      "homeOdds": 2.45,
-      "drawOdds": 3.4,
-      "awayOdds": 2.75,
-      "homeImplied": 40.8,
-      "drawImplied": 29.4,
-      "awayImplied": 36.4,
-      "redditContext": []
-    },
-    {
-      "match": "Deportivo La Coruña vs Elche CF",
+      "match": "Atlético Madrid vs Málaga",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-17T19:00:00Z",
-      "homeTeam": "Deportivo La Coruña",
-      "awayTeam": "Elche CF",
-      "homeOdds": 2.3,
-      "drawOdds": 3,
-      "awayOdds": 3.4,
-      "homeImplied": 43.5,
-      "drawImplied": 33.3,
-      "awayImplied": 29.4,
+      "kickoff": "2026-08-19T19:00:00Z",
+      "homeTeam": "Atlético Madrid",
+      "awayTeam": "Málaga",
+      "homeOdds": 1.33,
+      "drawOdds": 5.25,
+      "awayOdds": 8,
+      "homeImplied": 75.2,
+      "drawImplied": 19,
+      "awayImplied": 12.5,
       "redditContext": []
     }
   ]
