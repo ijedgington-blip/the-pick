@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "fixtures": [
     {
-      "match": "Atlético Madrid vs Málaga",
+      "match": "Rayo Vallecano vs Alavés",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-19T19:00:00Z",
-      "homeTeam": "Atlético Madrid",
-      "awayTeam": "Málaga",
-      "homeOdds": 1.33,
-      "drawOdds": 5.25,
-      "awayOdds": 8,
-      "homeImplied": 75.2,
-      "drawImplied": 19,
-      "awayImplied": 12.5,
+      "kickoff": "2026-08-20T19:00:00Z",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Alavés",
+      "homeOdds": 2.25,
+      "drawOdds": 3,
+      "awayOdds": 3.4,
+      "homeImplied": 44.4,
+      "drawImplied": 33.3,
+      "awayImplied": 29.4,
       "redditContext": []
     }
   ]
