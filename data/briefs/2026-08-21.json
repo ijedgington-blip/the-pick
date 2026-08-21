@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-21",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Betis vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-21T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 57,
+      "edge": 8.2,
+      "kelly_fraction": 0.039,
+      "reasoning": "Real Betis open their La Liga campaign at the Estadio de La Cartuja, where they boast an 11-game unbeaten home run in league competition. Coming off a strong 5th-place finish and Champions League qualification, Betis have retained core stability and added quality in midfield. Real Sociedad have had a quieter transfer window after a 10th-place finish and often face challenges in away openers. Ladbrokes price Real Betis at 2.05 (48.8% implied), but our model assesses their true win probability at 57.0%, delivering an 8.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}

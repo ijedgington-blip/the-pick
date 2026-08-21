@@ -15,9 +15,9 @@
       "kelly_fraction": 0.032,
       "reasoning": "Rayo Vallecano host Deportivo Alavés at the Campo de Fútbol de Vallecas for La Liga Matchday 2. Vallecas presents a distinct tactical advantage with its compact pitch dimensions and relentless home pressing style. Alavés traditionally experience difficulties creating high-quality chances in away fixtures against well-drilled mid-table sides. Ladbrokes price Rayo Vallecano at 2.25 (44.4% implied), but our model assesses their true win probability at 52.5%, delivering a strong 8.1% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": false,

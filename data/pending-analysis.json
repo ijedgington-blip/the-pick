@@ -1,17 +1,31 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "fixtures": [
     {
-      "match": "Rayo Vallecano vs Alavés",
+      "match": "Arsenal vs Coventry City",
+      "league": "EPL",
+      "kickoff": "2026-08-21T19:00:00Z",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Coventry City",
+      "homeOdds": 1.2,
+      "drawOdds": 7,
+      "awayOdds": 13,
+      "homeImplied": 83.3,
+      "drawImplied": 14.3,
+      "awayImplied": 7.7,
+      "redditContext": []
+    },
+    {
+      "match": "Real Betis vs Real Sociedad",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-20T19:00:00Z",
-      "homeTeam": "Rayo Vallecano",
-      "awayTeam": "Alavés",
-      "homeOdds": 2.25,
-      "drawOdds": 3,
+      "kickoff": "2026-08-21T19:00:00Z",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Real Sociedad",
+      "homeOdds": 2.05,
+      "drawOdds": 3.5,
       "awayOdds": 3.4,
-      "homeImplied": 44.4,
-      "drawImplied": 33.3,
+      "homeImplied": 48.8,
+      "drawImplied": 28.6,
       "awayImplied": 29.4,
       "redditContext": []
     }
