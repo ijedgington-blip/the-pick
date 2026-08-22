@@ -15,9 +15,9 @@
       "kelly_fraction": 0.039,
       "reasoning": "Real Betis open their La Liga campaign at the Estadio de La Cartuja, where they boast an 11-game unbeaten home run in league competition. Coming off a strong 5th-place finish and Champions League qualification, Betis have retained core stability and added quality in midfield. Real Sociedad have had a quieter transfer window after a 10th-place finish and often face challenges in away openers. Ladbrokes price Real Betis at 2.05 (48.8% implied), but our model assesses their true win probability at 57.0%, delivering an 8.2% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 20.50,
+      "settled": true
     }
   ],
   "acca_available": false,
