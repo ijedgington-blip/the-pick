@@ -26,11 +26,11 @@
       "kickoff": "2026-08-22T11:30:00Z",
       "pick": "Home",
       "pick_label": "Birmingham City to win",
-      "odds": 1.8,
-      "implied_prob": 55.6,
-      "our_prob": 63.0,
-      "edge": 7.4,
-      "kelly_fraction": 0.046,
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 65.0,
+      "edge": 7.9,
+      "kelly_fraction": 0.053,
       "reasoning": "Birmingham City showed defensive solidity in their opening 0-0 at Sheffield United and now return to St. Andrew's with superior attacking firepower in Demarai Gray and Paik Seung-ho. Bristol City looked toothless in a 2-0 defeat to Millwall and arrive depleted with key midfield anchor Adam Randell suspended and Cam Pring doubtful.",
       "confidence": "medium",
       "result": null,
@@ -57,7 +57,7 @@
     }
   ],
   "acca_available": true,
-  "acca_odds": 4.89,
+  "acca_odds": 4.75,
   "acca_result": null,
   "acca_return": null
 }
