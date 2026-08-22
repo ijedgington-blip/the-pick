@@ -246,8 +246,8 @@ Write data/briefs/${today}.json with this exact content:
   git push`
 
     spawnSync(
-      '/home/edge/.nvm/versions/node/v20.20.0/bin/gemini',
-      ['-p', settlePrompt, '--yolo'],
+      'agy',
+      ['-p', settlePrompt, '--dangerously-skip-permissions'],
       { stdio: 'inherit', cwd: process.cwd() }
     )
     return
@@ -283,7 +283,7 @@ Write data/briefs/${today}.json with this exact content:
     JSON.stringify(output, null, 2)
   )
   console.log(`Written: data/pending-analysis.json (${fixtures.length} fixtures)`)
-  console.log('Running Gemini CLI analysis...')
+  console.log('Running Antigravity CLI analysis...')
 
   const prompt = `## Step 1 — Settle yesterday's results
 
@@ -315,8 +315,8 @@ Write the result to data/briefs/${today}.json using the exact picks array format
   git push`
 
   const result = spawnSync(
-    '/home/edge/.nvm/versions/node/v20.20.0/bin/gemini',
-    ['-p', prompt, '--yolo'],
+    'agy',
+    ['-p', prompt, '--dangerously-skip-permissions'],
     { stdio: 'inherit', cwd: process.cwd() }
   )
 

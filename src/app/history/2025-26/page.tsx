@@ -1,7 +1,7 @@
-import { readCurrentSeasonBriefs, sortBriefsNewestFirst, computeSinglePotStats, computeAccaPotStats } from '@/lib/picks'
+import { readBriefsForSeason, sortBriefsNewestFirst, computeSinglePotStats, computeAccaPotStats } from '@/lib/picks'
 import type { DailyBrief, PotStats } from '@/types/pick'
 import Link from 'next/link'
-import SeasonTabs from '../components/SeasonTabs'
+import SeasonTabs from '../../components/SeasonTabs'
 
 function PotCard({ label, stats, subtitle }: { label: string; stats: PotStats; subtitle: string }) {
   return (
@@ -34,11 +34,11 @@ function PotCard({ label, stats, subtitle }: { label: string; stats: PotStats; s
   )
 }
 
-export default function HistoryPage() {
-  const currentBriefs = readCurrentSeasonBriefs()
-  const sorted = sortBriefsNewestFirst(currentBriefs)
-  const singleStats = computeSinglePotStats(currentBriefs)
-  const accaStats = computeAccaPotStats(currentBriefs)
+export default function Season202526ArchivePage() {
+  const archiveBriefs = readBriefsForSeason('2025-26')
+  const sorted = sortBriefsNewestFirst(archiveBriefs)
+  const singleStats = computeSinglePotStats(archiveBriefs)
+  const accaStats = computeAccaPotStats(archiveBriefs)
 
   const realBriefs = sorted.filter((b): b is DailyBrief => !('no_pick' in b && b.no_pick))
 
@@ -46,61 +46,50 @@ export default function HistoryPage() {
     <div className="max-w-4xl mx-auto px-6 py-16">
       <div className="mb-6 flex items-baseline justify-between">
         <div>
-          <h1 className="font-display text-3xl font-black tracking-tight text-white">History</h1>
-          <p className="font-mono text-xs text-neutral-500 mt-1">2026–27 Season (Current)</p>
+          <h1 className="font-display text-3xl font-black tracking-tight text-white">Season Archive</h1>
+          <p className="font-mono text-xs text-neutral-500 mt-1">2025–26 Season · 156 Briefs</p>
         </div>
-        <Link href="/" className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
-          ← Today
+        <Link href="/history" className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
+          ← Current Season
         </Link>
       </div>
 
-      <SeasonTabs activeSeasonId="2026-27" />
+      <SeasonTabs activeSeasonId="2025-26" />
 
-      {/* Season Reset Notice & Archive Link */}
-      <div className="rounded border border-accent/25 bg-surface-2 p-4 mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+      {/* Archive Header Banner */}
+      <div className="rounded border border-border bg-surface p-4 mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-3">
         <div>
-          <span className="font-mono text-xs text-accent uppercase tracking-widest font-bold">New Season Active</span>
+          <span className="font-mono text-xs text-neutral-400 uppercase tracking-widest font-bold">2025–26 Final Record</span>
           <p className="text-neutral-400 text-xs mt-0.5">
-            Picks stats have been reset for the 2026–27 campaign. All previous bets and pot performance are preserved in the archive.
+            Archived results from 17 March 2026 to 21 August 2026.
           </p>
         </div>
         <Link
-          href="/history/2025-26"
+          href="/history"
           className="font-mono text-xs text-accent hover:text-white transition-colors underline whitespace-nowrap"
         >
-          View 2025–26 Results (156 picks) →
+          ← Back to 2026–27 Current Season
         </Link>
       </div>
 
       {/* Dual pot tracker */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
         <PotCard
-          label="£10 Single Tracker"
+          label="£10 Single Tracker (Final)"
           subtitle="£10 on top pick (#1) each day"
           stats={singleStats}
         />
         <PotCard
-          label="£10 Acca Tracker"
+          label="£10 Acca Tracker (Final)"
           subtitle="£10 on all 3 as accumulator"
           stats={accaStats}
         />
       </div>
 
-      {/* History table or empty state */}
+      {/* History table */}
       {realBriefs.length === 0 ? (
-        <div className="rounded border border-border bg-surface p-10 text-center space-y-4">
-          <p className="font-mono text-white text-base">No picks recorded yet for the 2026–27 season.</p>
-          <p className="font-mono text-neutral-500 text-xs max-w-md mx-auto leading-relaxed">
-            The new season has just kicked off. As daily picks are published, their results and pot performance will be tracked here.
-          </p>
-          <div className="pt-2">
-            <Link
-              href="/history/2025-26"
-              className="inline-flex items-center gap-1.5 px-4 py-2 rounded border border-border bg-surface-2 font-mono text-xs text-neutral-300 hover:text-accent hover:border-accent/30 transition-colors uppercase tracking-widest"
-            >
-              Browse 2025–26 Season Archive →
-            </Link>
-          </div>
+        <div className="rounded border border-border bg-surface p-8 text-center">
+          <p className="font-mono text-neutral-500">No archived picks found.</p>
         </div>
       ) : (
         <div className="rounded border border-border overflow-hidden">

@@ -1,4 +1,13 @@
-import { computeSinglePotStats, computeAccaPotStats, sortBriefsNewestFirst } from '@/lib/picks'
+import {
+  computeSinglePotStats,
+  computeAccaPotStats,
+  sortBriefsNewestFirst,
+  getSeasonForDate,
+  readBriefsForSeason,
+  CURRENT_SEASON_ID,
+  PREVIOUS_SEASON_ID,
+  SEASONS,
+} from '@/lib/picks'
 import type { DailyBrief, NoPick } from '@/types/pick'
 
 const makePick = (rank: number, odds: number, result: 'win' | 'loss' | null = null) => ({
@@ -44,6 +53,29 @@ describe('sortBriefsNewestFirst', () => {
     expect(sorted[0].date).toBe('2026-03-11')
     expect(sorted[1].date).toBe('2026-03-09')
     expect(sorted).toHaveLength(2)
+  })
+})
+
+describe('getSeasonForDate', () => {
+  it('returns 2026-27 for dates on or after 2026-08-22', () => {
+    expect(getSeasonForDate('2026-08-22')).toBe('2026-27')
+    expect(getSeasonForDate('2026-08-23')).toBe('2026-27')
+    expect(getSeasonForDate('2026-09-01')).toBe('2026-27')
+  })
+
+  it('returns 2025-26 for dates before 2026-08-22', () => {
+    expect(getSeasonForDate('2026-08-21')).toBe('2025-26')
+    expect(getSeasonForDate('2026-03-17')).toBe('2025-26')
+    expect(getSeasonForDate('2026-05-15')).toBe('2025-26')
+  })
+})
+
+describe('Season definitions', () => {
+  it('defines current and previous season metadata', () => {
+    expect(CURRENT_SEASON_ID).toBe('2026-27')
+    expect(PREVIOUS_SEASON_ID).toBe('2025-26')
+    expect(SEASONS['2026-27'].isCurrent).toBe(true)
+    expect(SEASONS['2025-26'].isCurrent).toBe(false)
   })
 })
 
@@ -101,7 +133,6 @@ describe('computeAccaPotStats', () => {
   it('win: adds £10 * acca_odds profit', () => {
     const brief = makeBrief('2026-03-10', { acca_result: 'win', acca_return: 150, acca_odds: 15.0 })
     const stats = computeAccaPotStats([brief])
-    // pot = 10 + (15 - 1) * 10 = 150
     expect(stats.currentPot).toBe(150)
     expect(stats.wins).toBe(1)
   })

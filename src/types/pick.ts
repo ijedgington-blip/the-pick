@@ -43,3 +43,13 @@ export interface PotStats {
   winRate: number   // percentage
   roi: number       // percentage
 }
+
+export interface SeasonInfo {
+  id: string
+  name: string
+  label: string
+  startDate: string
+  endDate?: string
+  isCurrent?: boolean
+  description?: string
+}

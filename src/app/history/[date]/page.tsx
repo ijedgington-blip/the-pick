@@ -1,4 +1,4 @@
-import { readTodaysBrief, readAllBriefs } from '@/lib/picks'
+import { readTodaysBrief, readAllBriefs, getSeasonForDate, SEASONS } from '@/lib/picks'
 import type { Pick, DailyBrief } from '@/types/pick'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
@@ -98,16 +98,27 @@ export default function BriefPage({ params }: { params: { date: string } }) {
     weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
   })
 
+  const seasonId = getSeasonForDate(params.date)
+  const seasonInfo = SEASONS[seasonId]
+  const isPreviousSeason = seasonId === '2025-26'
+  const backHref = isPreviousSeason ? '/history/2025-26' : '/history'
+  const backLabel = isPreviousSeason ? '← 2025–26 Archive' : '← History'
+
   if ('no_pick' in brief && brief.no_pick) {
     return (
       <div className="max-w-2xl mx-auto px-6 py-16">
         <div className="mb-8 flex items-baseline justify-between">
           <div>
             <h1 className="font-display text-3xl font-black tracking-tight text-white">The Pick</h1>
-            <p className="font-mono text-sm text-neutral-500 mt-1">{formatted}</p>
+            <div className="flex items-center gap-2 mt-1">
+              <p className="font-mono text-sm text-neutral-500">{formatted}</p>
+              <span className="font-mono text-[10px] text-neutral-500 px-2 py-0.5 rounded border border-border bg-surface">
+                {seasonInfo?.label ?? seasonId}
+              </span>
+            </div>
           </div>
-          <Link href="/history" className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
-            ← History
+          <Link href={backHref} className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
+            {backLabel}
           </Link>
         </div>
         <div className="rounded border border-border bg-surface p-8 text-center">
@@ -125,10 +136,15 @@ export default function BriefPage({ params }: { params: { date: string } }) {
       <div className="mb-10 flex items-baseline justify-between">
         <div>
           <h1 className="font-display text-3xl font-black tracking-tight text-white">The Pick</h1>
-          <p className="font-mono text-sm text-neutral-500 mt-1">{formatted}</p>
+          <div className="flex items-center gap-2 mt-1">
+            <p className="font-mono text-sm text-neutral-500">{formatted}</p>
+            <span className="font-mono text-[10px] text-neutral-500 px-2 py-0.5 rounded border border-border bg-surface">
+              {seasonInfo?.label ?? seasonId}
+            </span>
+          </div>
         </div>
-        <Link href="/history" className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
-          ← History
+        <Link href={backHref} className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
+          {backLabel}
         </Link>
       </div>
 

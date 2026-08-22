@@ -124,9 +124,12 @@ export default function HomePage() {
         </div>
       )}
 
-      <div className="mt-10">
+      <div className="mt-10 flex items-center justify-between">
         <Link href="/history" className="font-mono text-xs text-neutral-500 hover:text-accent transition-colors uppercase tracking-widest">
           View history →
+        </Link>
+        <Link href="/history/2025-26" className="font-mono text-xs text-neutral-600 hover:text-neutral-400 transition-colors uppercase tracking-widest">
+          2025–26 Archive →
         </Link>
       </div>
     </div>
