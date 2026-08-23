@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-23",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Atlético Madrid vs Villarreal",
+      "league": "La Liga",
+      "kickoff": "2026-08-23T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 1.83,
+      "implied_prob": 54.6,
+      "our_prob": 64.0,
+      "edge": 9.4,
+      "kelly_fraction": 0.057,
+      "reasoning": "Atlético Madrid enter their home opener at the Riyadh Air Metropolitano in confident form following a comprehensive 2-0 Matchday 1 victory. Bolstered by marquee summer additions and Diego Simeone's structured system, Atlético are formidable hosts. Villarreal displayed clear defensive instability in a 2-2 opening draw at Racing Santander and travel without the suspended Alassane Diatta. Ladbrokes' 1.83 (54.6% implied) significantly undervalues Atlético's home superiority against our 64.0% assessment, generating an excellent 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Newcastle United vs Liverpool",
+      "league": "Premier League",
+      "kickoff": "2026-08-23T15:30:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 60.0,
+      "edge": 8.7,
+      "kelly_fraction": 0.046,
+      "reasoning": "Liverpool travel to St. James' Park carrying an overwhelming historical advantage, having gone unbeaten in their last 19 Premier League meetings against Newcastle. The Magpies enter under new head coach Matthias Jaissle following an unconvincing pre-season and are weakened by the absences of key starter Tino Livramento and midfield enforcer Joelinton. Liverpool's superior squad depth and tactical flexibility under Andoni Iraola make them strong favorites. At 1.95 (51.3% implied), our 60.0% true win projection offers an 8.7% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Brighton and Hove Albion vs Aston Villa",
+      "league": "Premier League",
+      "kickoff": "2026-08-23T13:00:00Z",
+      "pick": "Away",
+      "pick_label": "Aston Villa to win",
+      "odds": 3.2,
+      "implied_prob": 31.3,
+      "our_prob": 39.0,
+      "edge": 7.7,
+      "kelly_fraction": 0.018,
+      "reasoning": "Brighton are dealing with an early injury crisis, missing Kaoru Mitoma, Yankuba Minteh, Carlos Baleba, and Stefanos Tzimas, compounded by short turnaround fatigue from Thursday's European playoff in Norway. Aston Villa have dominated this matchup in recent years, winning 7 of the last 10 encounters. With Villa boasting superior attacking continuity against a depleted Seagulls lineup, Ladbrokes' generous price of 3.20 (31.3% implied) vs our 39.0% estimated probability yields a solid 7.7% edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.42,
+  "acca_result": null,
+  "acca_return": null
+}
