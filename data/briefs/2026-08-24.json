@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-24",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Fulham vs Chelsea",
+      "league": "Premier League",
+      "kickoff": "2026-08-24T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Chelsea to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.0,
+      "edge": 8.9,
+      "kelly_fraction": 0.052,
+      "reasoning": "Chelsea travel to Craven Cottage under Xabi Alonso with elite squad depth and momentum, featuring stars like Enzo Fernández, Reece James, and Morgan Rogers. Fulham face a defensive setback with key center-back Joachim Andersen serving the final game of a suspension and captain Tom Cairney out injured. Without Andersen anchoring the backline, Fulham will struggle against Chelsea's dynamic attack. Ladbrokes' 1.85 (54.1% implied) undervalues Chelsea against our 63.0% true win projection, offering a strong 8.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "CA Osasuna vs Levante",
+      "league": "La Liga",
+      "kickoff": "2026-08-24T17:30:00Z",
+      "pick": "Home",
+      "pick_label": "CA Osasuna to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 61.0,
+      "edge": 8.6,
+      "kelly_fraction": 0.047,
+      "reasoning": "Osasuna kick off their campaign at the fortress of Estadio El Sadar with a well-rested, near-full-strength squad under new boss Luis Miguel Ramis, reinforced by summer additions like Diego Rico and Jonathan Dubasin. Levante are reeling from a heavy 3-0 home defeat to Espanyol on Matchday 1 and remain depleted by injuries to Unai Elgezabal and Alejandro Primo, alongside registration delays for new recruits. With Osasuna holding a strong historical record at El Sadar, Ladbrokes' 1.91 (52.4% implied) yields an 8.6% value edge against our 61.0% estimate.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Málaga vs Deportivo La Coruña",
+      "league": "La Liga",
+      "kickoff": "2026-08-24T19:30:00Z",
+      "pick": "Away",
+      "pick_label": "Deportivo La Coruña to win",
+      "odds": 3.3,
+      "implied_prob": 30.3,
+      "our_prob": 38.0,
+      "edge": 7.7,
+      "kelly_fraction": 0.017,
+      "reasoning": "Málaga enter their home opener grappling with an acute injury crisis, missing starting midfielder Aarón Ochoa, forward Adrián Niño, and key defenders Diego Murillo and Fernando Calero, following a toothless 2-0 defeat to Atlético Madrid. Deportivo La Coruña, conversely, looked sharp in their 1-1 draw against Elche, where marquee signing Pierre-Emerick Aubameyang scored on debut. With Deportivo fielding an almost fully fit, experienced attacking core against a crippled Málaga defense, Ladbrokes' 3.30 price (30.3% implied) vs our 38.0% estimate presents a substantial 7.7% edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.66,
+  "acca_result": null,
+  "acca_return": null
+}
