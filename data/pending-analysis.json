@@ -1,46 +1,18 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "fixtures": [
     {
-      "match": "Fulham vs Chelsea",
-      "league": "EPL",
-      "kickoff": "2026-08-24T19:00:00Z",
-      "homeTeam": "Fulham",
-      "awayTeam": "Chelsea",
-      "homeOdds": 4,
-      "drawOdds": 3.6,
-      "awayOdds": 1.85,
-      "homeImplied": 25,
-      "drawImplied": 27.8,
-      "awayImplied": 54.1,
-      "redditContext": []
-    },
-    {
-      "match": "CA Osasuna vs Levante",
+      "match": "Valencia vs Real Betis",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-24T17:30:00Z",
-      "homeTeam": "CA Osasuna",
-      "awayTeam": "Levante",
-      "homeOdds": 1.91,
-      "drawOdds": 3.4,
-      "awayOdds": 4.2,
-      "homeImplied": 52.4,
-      "drawImplied": 29.4,
-      "awayImplied": 23.8,
-      "redditContext": []
-    },
-    {
-      "match": "Málaga vs Deportivo La Coruña",
-      "league": "La Liga - Spain",
-      "kickoff": "2026-08-24T19:30:00Z",
-      "homeTeam": "Málaga",
-      "awayTeam": "Deportivo La Coruña",
-      "homeOdds": 2.37,
-      "drawOdds": 3,
-      "awayOdds": 3.3,
-      "homeImplied": 42.2,
-      "drawImplied": 33.3,
-      "awayImplied": 30.3,
+      "kickoff": "2026-08-25T19:00:00Z",
+      "homeTeam": "Valencia",
+      "awayTeam": "Real Betis",
+      "homeOdds": 2.7,
+      "drawOdds": 3.2,
+      "awayOdds": 2.6,
+      "homeImplied": 37,
+      "drawImplied": 31.3,
+      "awayImplied": 38.5,
       "redditContext": []
     }
   ]
