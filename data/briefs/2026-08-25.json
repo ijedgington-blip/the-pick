@@ -15,9 +15,9 @@
       "kelly_fraction": 0.027,
       "reasoning": "Real Betis travel to Mestalla carrying strong momentum following a confident 1-0 opening-day victory over Real Sociedad. Manuel Pellegrini's side possess superior squad cohesion and attacking depth, bolstered by new arrival Troy Parrott, and enter unbeaten across their last three head-to-head encounters against Los Che. Valencia, meanwhile, were held to a stagnant 0-0 draw against Celta Vigo and are battling a severe injury crisis—missing Alberto Marí, José Copete, Justin De Haas, Luis Rioja, and long-term absentees Sergi Canós and Diego López. Ladbrokes' price of 2.60 (38.5% implied) significantly undervalues Real Betis against our 47.0% true win projection, delivering a substantial 8.5% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 26,
+      "settled": true
     }
   ],
   "acca_available": false,

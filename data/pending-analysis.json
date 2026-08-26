@@ -1,18 +1,18 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "fixtures": [
     {
-      "match": "Valencia vs Real Betis",
+      "match": "Real Madrid vs Real Sociedad",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-25T19:00:00Z",
-      "homeTeam": "Valencia",
-      "awayTeam": "Real Betis",
-      "homeOdds": 2.7,
-      "drawOdds": 3.2,
-      "awayOdds": 2.6,
-      "homeImplied": 37,
-      "drawImplied": 31.3,
-      "awayImplied": 38.5,
+      "kickoff": "2026-08-26T19:00:00Z",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Real Sociedad",
+      "homeOdds": 1.25,
+      "drawOdds": 6.5,
+      "awayOdds": 9.5,
+      "homeImplied": 80,
+      "drawImplied": 15.4,
+      "awayImplied": 10.5,
       "redditContext": []
     }
   ]

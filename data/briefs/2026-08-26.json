@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-26",
+  "no_pick": true,
+  "reason": "Only one fixture available today (Real Madrid vs Real Sociedad). The favorite (Real Madrid) has odds of 1.25, which is below our minimum threshold of 1.5. No positive value edge detected in Draw (odds 6.50, implied 15.4%) or Away (odds 9.50, implied 10.5%) outcomes.",
+  "picks": [],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
