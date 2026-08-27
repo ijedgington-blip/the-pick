@@ -1,18 +1,32 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "fixtures": [
     {
-      "match": "Real Madrid vs Real Sociedad",
+      "match": "Celta Vigo vs CA Osasuna",
       "league": "La Liga - Spain",
-      "kickoff": "2026-08-26T19:00:00Z",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Real Sociedad",
-      "homeOdds": 1.25,
-      "drawOdds": 6.5,
-      "awayOdds": 9.5,
-      "homeImplied": 80,
-      "drawImplied": 15.4,
-      "awayImplied": 10.5,
+      "kickoff": "2026-08-27T18:30:00Z",
+      "homeTeam": "Celta Vigo",
+      "awayTeam": "CA Osasuna",
+      "homeOdds": 2,
+      "drawOdds": 3.2,
+      "awayOdds": 3.9,
+      "homeImplied": 50,
+      "drawImplied": 31.3,
+      "awayImplied": 25.6,
+      "redditContext": []
+    },
+    {
+      "match": "Barcelona vs Athletic Bilbao",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-27T19:00:00Z",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Athletic Bilbao",
+      "homeOdds": 1.22,
+      "drawOdds": 7,
+      "awayOdds": 10,
+      "homeImplied": 82,
+      "drawImplied": 14.3,
+      "awayImplied": 10,
       "redditContext": []
     }
   ]

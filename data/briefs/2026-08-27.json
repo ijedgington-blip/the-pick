@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-27",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Celta Vigo vs CA Osasuna",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-27T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "Celta Vigo to win",
+      "odds": 2,
+      "implied_prob": 50,
+      "our_prob": 58.5,
+      "edge": 8.5,
+      "kelly_fraction": 0.043,
+      "reasoning": "Celta Vigo host Osasuna at the Abanca-Balaídos for their rescheduled La Liga fixture after a pitch-delay postponement. Following a resolute 0-0 opening-day draw away to Valencia, Claudio Giráldez's side return home where they boast strong attacking cohesion through Iago Aspas, Anastasios Douvikas, and Williot Swedberg. While Borja Iglesias is sidelined with a soleus muscle tear and Carles Pérez remains out, Osasuna travel under contested short-notice scheduling and are weakened by the absence of Valentin Rosier (hamstring) and a knee injury concern for winger Raúl Moro. Given Celta's distinct home superiority and Osasuna's historical away struggles at Balaídos, Ladbrokes' even-money price of 2.00 (50.0% implied) significantly underestimates Celta's 58.5% true win probability, presenting an attractive 8.5% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
