@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-28",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Racing Club de Santander vs Elche CF",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-28T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Racing Club de Santander to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 58.0,
+      "edge": 9.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "Racing Santander return to El Sardinero eager to secure their first La Liga win after demonstrating potent attacking chemistry in an energetic 2-2 home draw against Villarreal. With Sergio Canales, Asier Villalibre, and Iñigo Vicente spearheading a creative offensive setup, José Alberto López's side hold a decisive tactical edge over an Elche team under severe defensive strain. Martín Anselmi's visitors have conceded six goals in their opening two matches, including a 5-0 hammering by Barcelona, exposing vulnerability to direct attacking transitions. Ladbrokes' price of 2.05 (48.8% implied) undervalues Racing's home advantage against our 58.0% assessment, generating an excellent 9.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Crystal Palace vs Manchester City",
+      "league": "Premier League",
+      "kickoff": "2026-08-28T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Manchester City to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 68.5,
+      "edge": 8.6,
+      "kelly_fraction": 0.064,
+      "reasoning": "Manchester City travel to Selhurst Park aiming to consolidate their strong start following a 2-1 victory over Bournemouth. Enzo Maresca's side possess overwhelming quality across all phases, with Erling Haaland supported by Phil Foden, Antoine Semenyo, and Mateo Kovačić. Conversely, Crystal Palace enter in transition under Pierre Sage following an opening-day defeat to Everton and are hampered by key absences, with Ismaïla Sarr (groin) and Chadi Riad (knee) ruled out. City's structural dominance and midfield control should comfortably overcome Palace's depleted setup. At 1.67 (59.9% implied), our 68.5% win projection delivers a substantial 8.6% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Alavés vs Villarreal",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-08-28T19:30:00Z",
+      "pick": "Home",
+      "pick_label": "Alavés to win",
+      "odds": 3.0,
+      "implied_prob": 33.3,
+      "our_prob": 41.0,
+      "edge": 7.7,
+      "kelly_fraction": 0.019,
+      "reasoning": "Alavés head into Friday night at the Estadio de Mendizorroza in buoyant form after taking four points from their opening two matches (3-0 vs Getafe, 1-1 at Rayo Vallecano). Historically, Mendizorroza is a fortress against the Yellow Submarine, who have failed to win away at Alavés since January 2020. While Villarreal possess attacking firepower in Ayoze Pérez and Georges Mikautadze, Marcelino's side have shown severe defensive disorganization, conceding four goals in back-to-back 2-2 draws. With Alavés organized in a disciplined 3-5-2 and carrying momentum, Ladbrokes' generous 3.00 price (33.3% implied) vs our 41.0% true win projection offers a high-value 7.7% edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 10.27,
+  "acca_result": null,
+  "acca_return": null
+}
