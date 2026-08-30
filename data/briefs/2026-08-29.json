@@ -15,9 +15,9 @@
       "kelly_fraction": 0.036,
       "reasoning": "Real Betis enter Matchday 3 in imperious form under Manuel Pellegrini after securing back-to-back victories over Real Sociedad and Valencia. Los Verdiblancos boast immense midfield control, technical maturity, and attacking depth with new additions quickly settling into the system. Conversely, newly promoted Levante have endured a rough start to their top-flight return, suffering a heavy 3-0 home defeat on Matchday 1 and struggling with squad depth and defensive coherence. At 2.25 (44.4% implied), Ladbrokes significantly underestimate Betis against our 53.5% true win probability, delivering a prime 9.1% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.071,
       "reasoning": "Bayer Leverkusen kick off their Bundesliga season with a favorable opening clash against SV Elversberg, who are making their historic debut in the top flight. Even away from home, Leverkusen possess an immense advantage in technical quality, positional discipline, and tactical fluidity across all phases. Elversberg will bring enthusiasm, but the vast step up in tempo and quality against an established Champions League-caliber squad will be difficult to bridge. Ladbrokes price Leverkusen at 1.61 (62.1% implied), leaving an attractive 8.7% edge versus our 70.8% true win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.053,
       "reasoning": "Real Sociedad return to the Reale Arena determined to secure their first victory of the campaign in front of their home supporters. Under Imanol Alguacil, La Real are one of the most structurally sound and ball-dominant home sides in Spain, with exceptional counter-pressing and wing interplay. Espanyol struggle for consistency on the road against high-calibre Basque sides and lack the defensive stability to absorb sustained pressure over 90 minutes. Ladbrokes offer 1.80 (55.6% implied), which substantially undervalues Sociedad against our 64.0% assessment, providing a high-confidence 8.4% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 6.52,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

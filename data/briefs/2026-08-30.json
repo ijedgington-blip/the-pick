@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-30",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Chelsea vs Brighton and Hove Albion",
+      "league": "Premier League",
+      "kickoff": "2026-08-30T13:00:00Z",
+      "pick": "Home",
+      "pick_label": "Chelsea to win",
+      "odds": 1.83,
+      "implied_prob": 54.6,
+      "our_prob": 64.0,
+      "edge": 9.4,
+      "kelly_fraction": 0.057,
+      "reasoning": "Chelsea welcome Brighton to Stamford Bridge in command of formidable tactical depth and squad continuity. Under Enzo Maresca's progressive positional structure, the Blues have shown immense control through the middle third and ruthless finishing in wide rotations. Brighton travel while managing significant squad strain, compromised by key absences including Kaoru Mitoma and midfield fatigue following European fixtures. Ladbrokes price Chelsea at 1.83 (54.6% implied), significantly underestimating Chelsea's home dominance against our 64.0% assessment, delivering a standout 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "SC Freiburg vs Werder Bremen",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-08-30T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "SC Freiburg to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.0,
+      "edge": 8.9,
+      "kelly_fraction": 0.052,
+      "reasoning": "SC Freiburg begin their Bundesliga home campaign at the Europa-Park Stadion, where they consistently rank among Germany's most disciplined and structurally resilient outfits. Freiburg's aerial dominance, high counter-pressing, and set-piece efficiency pose serious problems for a Werder Bremen side that struggled with defensive transition vulnerability and conceded heavily on the road throughout pre-season. At 1.85 (54.1% implied), Ladbrokes give insufficient weight to Freiburg's home authority versus our 63.0% true win projection, creating a high-grade 8.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Augsburg vs FC Schalke 04",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-08-30T15:30:00Z",
+      "pick": "Home",
+      "pick_label": "Augsburg to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 55.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.037,
+      "reasoning": "Augsburg host newly promoted FC Schalke 04 at the WWK Arena with a clear tactical advantage in physicality, tempo, and defensive compactness. Jess Thorup's side are ruthless in duels and direct transitions, specifically targeting opponents adjusting to top-flight intensity. Schalke face an uphill battle to establish defensive coherence away from home in their opening Bundesliga fixtures against settled top-flight opposition. Ladbrokes' 2.15 price (46.5% implied) leaves substantial value against our 55.0% win probability, yielding an 8.5% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.28,
+  "acca_result": null,
+  "acca_return": null
+}
