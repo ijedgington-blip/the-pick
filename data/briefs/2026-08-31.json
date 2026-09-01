@@ -15,9 +15,9 @@
       "kelly_fraction": 0.093,
       "reasoning": "Arsenal travel to Villa Park aiming to maintain their flawless start to the season following their Community Shield triumph and an assertive 3-0 victory against Coventry. Mikel Arteta's side possess immense tactical structure, positional dominance, and defensive solidity. In contrast, Aston Villa enter in a turbulent transition phase following significant summer departures and an opening 4-0 thrashing at Brighton that highlighted major defensive vulnerabilities. Ladbrokes offer Arsenal at 1.50 (66.7% implied probability), which significantly undervalues the reigning champions against our 76.0% true win projection, yielding a top-rated 9.3% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 15.0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.039,
       "reasoning": "CA Osasuna host Getafe at the Estadio El Sadar, one of Spanish football's most demanding venues for visiting sides. Osasuna's aggressive high pressing, aerial prowess, and physical directness present an onerous challenge for José Bordalás' Getafe, who have consistently struggled for offensive fluency and chance creation away from home. Ladbrokes price Osasuna at 2.15 (46.5% implied), leaving an attractive 8.9% edge compared to our 55.4% true win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 21.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.003,
       "reasoning": "While Barcelona are heavy home favorites, Rayo Vallecano are renowned for employing an ultra-compact defensive low-block designed specifically to disrupt high-tempo possession systems. Historically, Rayo have caused tactical frustration for Barcelona in early-season fixtures, notably securing a goalless stalemate at Camp Nou in previous campaigns. With Barcelona priced prohibitively low at 1.12 (excluded by our minimum odds threshold), the match market heavily skews probability towards an outright home victory. Ladbrokes offer the draw at 9.50 (10.5% implied), providing an intriguing 5.5% edge against our 16.0% assessment.",
       "confidence": "low",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 30.64,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

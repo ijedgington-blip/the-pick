@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-01",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Sheffield United vs Bolton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-09-01T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Sheffield United to win",
+      "odds": 1.61,
+      "implied_prob": 62.1,
+      "our_prob": 71.5,
+      "edge": 9.4,
+      "kelly_fraction": 0.077,
+      "reasoning": "Sheffield United welcome Bolton Wanderers to Bramall Lane holding a distinct tactical and physical superiority. The Blades possess superior squad depth, relentless wide crossing, and seasoned Championship structure under high-pressure conditions. Bolton Wanderers face a significant step up in quality and defensive intensity on the road against one of the division's promotion front-runners. Ladbrokes price Sheffield United at 1.61 (62.1% implied probability), noticeably underestimating their home supremacy against our 71.5% true win projection, yielding a leading 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Swansea City vs Watford",
+      "league": "Championship",
+      "kickoff": "2026-09-01T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Swansea City to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.0,
+      "edge": 8.9,
+      "kelly_fraction": 0.052,
+      "reasoning": "Swansea City host Watford at the Swansea.com Stadium, where their structured possession framework and territorial dominance create sustained pressure on visiting defences. Watford continue to exhibit vulnerability in defensive transitions and inconsistency away from home, frequently conceding high-quality chances under sustained pressing. At 1.85 (54.1% implied), Ladbrokes fail to adequately price Swansea's home control against our 63.0% true win projection, establishing a robust 8.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "West Ham United vs Wolverhampton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-09-01T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "West Ham United to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 57.4,
+      "edge": 8.6,
+      "kelly_fraction": 0.041,
+      "reasoning": "West Ham United feature at home boasting exceptional physical presence, set-piece threat, and midfield control. Wolverhampton Wanderers travel during a challenging recalibration period, displaying defensive frailties on the road when tested by direct attacking transitions and aerial deliveries. Ladbrokes offer West Ham at 2.05 (48.8% implied), which provides substantial value compared to our 57.4% assessment, delivering an 8.6% positive edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.11,
+  "acca_result": null,
+  "acca_return": null
+}
