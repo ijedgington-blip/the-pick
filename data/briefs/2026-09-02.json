@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-02",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Queens Park Rangers vs Cardiff City",
+      "league": "Championship",
+      "kickoff": "2026-09-02T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Queens Park Rangers to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 61.8,
+      "edge": 9.4,
+      "kelly_fraction": 0.052,
+      "reasoning": "Queens Park Rangers host Cardiff City at MATRADE Loftus Road holding a significant tactical edge in midfield control, tempo setting, and chance creation. Martí Cifuentes' side maintain excellent structural discipline at home, utilizing aggressive counter-pressing and fluid wide rotations that disrupt rigid defensive setups. Cardiff City continue to grapple with offensive stagnation and vulnerability against sustained penalty-box entries when playing away from home. Ladbrokes price QPR at 1.91 (52.4% implied probability), noticeably underestimating their home authority against our 61.8% true win projection, yielding a division-leading 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "West Bromwich Albion vs Charlton Athletic",
+      "league": "Championship",
+      "kickoff": "2026-09-02T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "West Bromwich Albion to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 66.8,
+      "edge": 9.0,
+      "kelly_fraction": 0.062,
+      "reasoning": "West Bromwich Albion welcome Charlton Athletic to The Hawthorns equipped with superior squad depth, aerial dominance, and defensive cohesion. The Baggies excel at controlling the tempo on their home turf, generating heavy pressure through set-pieces and rapid transitions. Charlton face a demanding test in step-up quality and defensive workload on the road, where they frequently surrender high-danger chances when pressed in their defensive third. At 1.73 (57.8% implied), Ladbrokes give insufficient weight to West Brom's physical supremacy versus our 66.8% assessment, delivering a compelling 9.0% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Millwall vs Wrexham AFC",
+      "league": "Championship",
+      "kickoff": "2026-09-02T18:45:00Z",
+      "pick": "Home",
+      "pick_label": "Millwall to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 54.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.035,
+      "reasoning": "Millwall feature at The Den in what represents one of the most physically demanding atmospheres in the Championship. The Lions thrive on territorial directness, second-ball dominance, and relentless box deliveries that place immense strain on visiting backlines. Wrexham AFC face an arduous assignment adjusting to the intensity and aerial rigor of The Den under the floodlights, where their transitional vulnerabilities away from home are likely to be exploited. Ladbrokes offer Millwall at 2.20 (45.5% implied), creating standout value compared to our 54.0% true win projection, establishing an 8.5% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.27,
+  "acca_result": null,
+  "acca_return": null
+}
