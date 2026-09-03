@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-03",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Sociedad vs Celta Vigo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-03T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Sociedad to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.0,
+      "edge": 8.9,
+      "kelly_fraction": 0.052,
+      "reasoning": "Real Sociedad host Celta Vigo at the Reale Arena in a match brought forward ahead of European commitments. The hosts carry positive momentum following a 2-1 victory over Espanyol and have bolstered squad depth with new signings Mamadou Sarr and Héctor Fort joining the matchday squad alongside Take Kubo's creative presence. Conversely, Celta Vigo arrive enduring an early-season offensive slump, claiming only one point from their opening three matches while struggling for goals without talismanic striker Borja Iglesias (muscle injury). Given Celta's travel fatigue and persistent away struggles, Ladbrokes' odds of 1.85 (54.1% implied) understate Real Sociedad's 63.0% true win projection, providing a solid 8.9% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
