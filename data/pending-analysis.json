@@ -1,18 +1,46 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "fixtures": [
     {
-      "match": "Real Sociedad vs Celta Vigo",
+      "match": "Ipswich Town vs Liverpool",
+      "league": "EPL",
+      "kickoff": "2026-09-04T19:00:00Z",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Liverpool",
+      "homeOdds": 4.8,
+      "drawOdds": 4.6,
+      "awayOdds": 1.5,
+      "homeImplied": 20.8,
+      "drawImplied": 21.7,
+      "awayImplied": 66.7,
+      "redditContext": []
+    },
+    {
+      "match": "VfB Stuttgart vs 1. FC Köln",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-09-04T18:30:00Z",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "1. FC Köln",
+      "homeOdds": 1.48,
+      "drawOdds": 5,
+      "awayOdds": 5.5,
+      "homeImplied": 67.6,
+      "drawImplied": 20,
+      "awayImplied": 18.2,
+      "redditContext": []
+    },
+    {
+      "match": "Real Betis vs Real Madrid",
       "league": "La Liga - Spain",
-      "kickoff": "2026-09-03T19:00:00Z",
-      "homeTeam": "Real Sociedad",
-      "awayTeam": "Celta Vigo",
-      "homeOdds": 1.85,
-      "drawOdds": 3.6,
-      "awayOdds": 3.9,
-      "homeImplied": 54.1,
-      "drawImplied": 27.8,
-      "awayImplied": 25.6,
+      "kickoff": "2026-09-04T19:00:00Z",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Real Madrid",
+      "homeOdds": 5.5,
+      "drawOdds": 5,
+      "awayOdds": 1.48,
+      "homeImplied": 18.2,
+      "drawImplied": 20,
+      "awayImplied": 67.6,
       "redditContext": []
     }
   ]

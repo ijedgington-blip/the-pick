@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-04",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Ipswich Town vs Liverpool",
+      "league": "Premier League",
+      "kickoff": "2026-09-04T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 1.5,
+      "implied_prob": 66.7,
+      "our_prob": 76.0,
+      "edge": 9.3,
+      "kelly_fraction": 0.093,
+      "reasoning": "Liverpool travel to Portman Road looking to maintain their dominant start to the 2026/27 campaign under Arne Slot. Boasting an elite forward line and structural control in midfield, Liverpool present an overwhelming test for an Ipswich Town side that remains defensively vulnerable against top-tier transition attacks. While Portman Road will provide a spirited atmosphere for the Friday night fixture, the gulf in individual quality, squad depth, and tactical execution heavily favors the visitors. Ladbrokes' odds of 1.50 imply a 66.7% win probability, substantially lagging our 76.0% assessment and delivering a slate-leading 9.3% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Real Betis vs Real Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-04T19:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Match to end in a draw",
+      "odds": 5,
+      "implied_prob": 20.0,
+      "our_prob": 27.5,
+      "edge": 7.5,
+      "kelly_fraction": 0.009,
+      "reasoning": "Real Madrid visit Estadio La Cartuja confronting a severe injury crisis across their defensive spine and midfield, with Éder Militão, Ferland Mendy, Raúl Asencio, Aurélien Tchouaméni, and Rodrygo all unavailable. Real Betis under Manuel Pellegrini have proven an exceptionally stubborn opponent in Seville, avoiding defeat in each of their last four home head-to-head encounters against Los Blancos, including multiple low-scoring stalemates. With Real Madrid's outright away odds at 1.48 excluded under our minimum odds threshold, the match pricing excessively discounts a stalemate. Ladbrokes offer the draw at 5.00 (20.0% implied), presenting a standout 7.5% edge against our 27.5% true projection.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "VfB Stuttgart vs 1. FC Köln",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-09-04T18:30:00Z",
+      "pick": "Draw",
+      "pick_label": "Match to end in a draw",
+      "odds": 5,
+      "implied_prob": 20.0,
+      "our_prob": 26.5,
+      "edge": 6.5,
+      "kelly_fraction": 0.008,
+      "reasoning": "VfB Stuttgart host 1. FC Köln at the MHPArena seeking stability after a chastening 5-1 opening-round loss to Bayern Munich that exposed significant backline gaps and ongoing squad absences, including Tiago Tomás and Dan-Axel Zagadou. Köln arrive buoyed by a 3-2 comeback victory over Hoffenheim led by in-form striker Thijs Dallinga, but carry defensive vulnerabilities of their own without Timo Hübers. While Stuttgart are priced at a prohibitive 1.48 (excluded by our minimum odds criteria), their defensive fragility makes an outright home cruise far from guaranteed against a confident Köln side. Ladbrokes price the draw at 5.00 (20.0% implied), leaving an attractive 6.5% edge versus our 26.5% true probability estimate.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 37.5,
+  "acca_result": null,
+  "acca_return": null
+}
