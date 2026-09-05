@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-05",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Villarreal vs Deportivo La Coruña",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-05T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Villarreal to win",
+      "odds": 1.5,
+      "implied_prob": 66.7,
+      "our_prob": 76.1,
+      "edge": 9.4,
+      "kelly_fraction": 0.094,
+      "reasoning": "Villarreal welcome Deportivo La Coruña to the Estadio de la Cerámica enjoying a commanding advantage in squad continuity, tactical maturity, and top-flight pedigree. Marcelino's side are formidable at home, dictating tempo with rapid vertical transitions and suffocating opponents through disciplined midfield structure. Newly promoted Deportivo face a demanding away fixture as they adjust to the pace and technical rigor of the Primera División, burdened by defensive vulnerabilities against elite forward lines. Ladbrokes' price of 1.50 implies a 66.7% win probability, substantially lagging behind our 76.1% true projection and creating a slate-best 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Brentford vs Sunderland",
+      "league": "Premier League",
+      "kickoff": "2026-09-05T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Brentford to win",
+      "odds": 1.7,
+      "implied_prob": 58.8,
+      "our_prob": 67.9,
+      "edge": 9.1,
+      "kelly_fraction": 0.065,
+      "reasoning": "Brentford host Sunderland at the Gtech Community Stadium holding a decisive tactical edge in physical aerial duels, high pressing intensity, and set-piece efficiency. Thomas Frank's side have transformed their home ground into one of the league's most imposing venues for newly promoted clubs, who routinely struggle to absorb the Bees' direct box deliveries and second-ball dominance. Sunderland travel while confronting a severe step up in opposition quality, with their backline susceptible to aggressive counter-pressing. At 1.70 (58.8% implied), Ladbrokes fail to price in Brentford's pronounced home authority against our 67.9% true probability, yielding an exceptional 9.1% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Borussia Monchengladbach vs Elversberg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-09-05T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "Borussia Monchengladbach to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 62.8,
+      "edge": 8.7,
+      "kelly_fraction": 0.051,
+      "reasoning": "Borussia Mönchengladbach stage their Bundesliga home clash at Borussia-Park against top-flight newcomers SV Elversberg with commanding advantages in individual quality, positional structure, and tempo management. Gerardo Seoane's side generate consistent territorial dominance at home, attacking with pace through the half-spaces and utilizing set-piece routines to breach compact setups. Elversberg showed courage in their opening match against Leverkusen but face an uphill battle maintaining defensive cohesion in hostile away atmospheres against settled Bundesliga mainstays. Ladbrokes price Gladbach at 1.85 (54.1% implied), which substantially discounts the hosts compared to our 62.8% true win projection, securing an 8.7% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.72,
+  "acca_result": null,
+  "acca_return": null
+}
