@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-07",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Elche CF vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-07T19:30:00Z",
+      "pick": "Away",
+      "pick_label": "Real Sociedad to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 57.1,
+      "edge": 9.5,
+      "kelly_fraction": 0.043,
+      "reasoning": "Real Sociedad travel to the Estadio Martínez Valero enjoying substantial technical and structural superiority over an Elche CF side struggling severely in the top flight. Sitting 19th with just one point from three matches, Elche have already shipped nine goals as their overhauled backline struggles to cope with La Liga's tactical sharpness. Real Sociedad, coming off a sturdy clean sheet against Celta Vigo, feature elite midfield control and creative dynamism via Martín Zubimendi, Takefusa Kubo, and Mikel Oyarzabal that should relentlessly unlock Elche's vulnerable defensive structure. Historically, Real Sociedad have dominated this fixture, claiming victory in seven of the last eight meetings. Ladbrokes' price of 2.10 implies a 47.6% win probability, significantly trailing our 57.1% true projection and presenting a slate-best 9.5% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Getafe vs Celta Vigo",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-07T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Getafe to win",
+      "odds": 2.5,
+      "implied_prob": 40.0,
+      "our_prob": 49.1,
+      "edge": 9.1,
+      "kelly_fraction": 0.03,
+      "reasoning": "Getafe welcome Celta Vigo to the Coliseum where José Bordalás's physical, compact 4-4-2 setup reliably chokes opposition rhythm and limits clear-cut chances. Celta Vigo travel to Madrid in fragile attacking form, remaining winless through four league outings (two draws, two defeats) and generating minimal threat in the final third. The Coliseum has historically been a notoriously difficult venue for Celta, who frequently struggle against high-intensity pressing and second-ball battlegrounds. With Getafe holding home territory and structural stability in low-scoring affairs, Ladbrokes' 2.50 quote implies a 40.0% chance that undervalues the hosts against our 49.1% true probability estimate, delivering a strong 9.1% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.25,
+  "acca_result": null,
+  "acca_return": null
+}
