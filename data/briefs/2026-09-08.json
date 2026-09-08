@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-08",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "AEK Athens vs LASK",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-08T16:45:00Z",
+      "pick": "Home",
+      "pick_label": "AEK Athens to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 66.8,
+      "edge": 9.7,
+      "kelly_fraction": 0.065,
+      "reasoning": "AEK Athens host Austrian side LASK at the OPAP Arena in Athens, where the Greek side enjoy a formidable European home record backed by an intensely partisan atmosphere. AEK's high-octane pressing structure and vertical transition pace under Matías Almeyda routinely overwhelm traveling sides unaccustomed to the stifling tempo and environmental heat of Athens in early September. LASK arrive enduring defensive inconsistencies in domestic play and have struggled significantly on their European travels, demonstrating vulnerabilities against athletic, direct forward lines. With AEK boasting superior technical depth and commanding home dominance, Ladbrokes' price of 1.75 implies a 57.1% win probability that substantially trails our 66.8% projection, creating a slate-leading 9.7% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Borussia Dortmund vs Villarreal",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-08T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Borussia Dortmund to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 66.5,
+      "edge": 9.4,
+      "kelly_fraction": 0.063,
+      "reasoning": "Borussia Dortmund commence their European campaign under the lights at Signal Iduna Park, where their Champions League home record remains among the most formidable on the continent. Powered by the 81,000-strong Yellow Wall, BVB excel at imposing rapid, vertical transition play through Serhou Guirassy, Julian Brandt, and Karim Adeyemi. Villarreal face a grueling physical challenge arriving in Dortmund on just three days of rest following a taxing domestic outing on September 5. Marcelino's backline frequently struggles when isolated against elite pace in wide transition, and the quick turnaround compounds their defensive vulnerabilities away from home. At 1.75 (57.1% implied), Ladbrokes fail to adequately weight Dortmund's home supremacy and Villarreal's scheduling disadvantage against our 66.5% true win estimate, securing a standout 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Real Madrid vs Inter Milan",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-08T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Madrid to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 71.7,
+      "edge": 9.2,
+      "kelly_fraction": 0.077,
+      "reasoning": "Reigning European kings Real Madrid take center stage at the Santiago Bernabéu for a heavyweight European clash against Inter Milan. Under Carlo Ancelotti, Los Blancos possess unmatched pedigree and offensive firepower, spearheaded by Kylian Mbappé, Vinícius Júnior, and Jude Bellingham. While Simone Inzaghi's Inter are tactically disciplined in their 3-5-2 structure, traveling to the Bernabéu on opening Champions League matchdays represents European football's sternest test, where Madrid's relentless individual quality invariably breaks open low blocks in the final half-hour. Ladbrokes quote Madrid at 1.60 (62.5% implied), an attractive price that underestimates the Spanish giants' home dominance on continental nights versus our 71.7% true probability, locking in a 9.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.9,
+  "acca_result": null,
+  "acca_return": null
+}
