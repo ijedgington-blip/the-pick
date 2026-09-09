@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-09",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Napoli vs Arsenal",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 1.65,
+      "implied_prob": 60.6,
+      "our_prob": 70.2,
+      "edge": 9.6,
+      "kelly_fraction": 0.074,
+      "reasoning": "Reigning Premier League champions Arsenal travel to the Stadio Diego Armando Maradona in commanding form, bringing the continent's most disciplined defensive structure and suffocating territorial pressing under Mikel Arteta. The Gunners opened their domestic campaign with flawless consecutive clean sheets and boast an elite midfield axis orchestrated by Declan Rice and Martin Ødegaard that routinely starves opponents of possession. Napoli remain in tactical transition, exhibiting structural fragilities against rapid vertical attacks and elite pressing units. While Naples provides an intimidating atmosphere, Arsenal's tactical maturity, set-piece dominance, and defensive solidity make them overwhelming favorites. Ladbrokes price Arsenal at 1.65 (60.6% implied), lagging our 70.2% true projection and creating a slate-leading 9.6% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Liverpool vs Atlético Madrid",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Liverpool to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 67.2,
+      "edge": 9.4,
+      "kelly_fraction": 0.064,
+      "reasoning": "Liverpool take the European stage under the lights at Anfield for a classic Champions League showdown against Atlético Madrid. Arne Slot's Reds have displayed exceptional attacking cohesion and midfield control to open their campaign, utilizing rapid transitions and relentless wide overloads that stretch compact low blocks. Diego Simeone's Atlético Madrid, while stubborn, have consistently struggled on their travels against elite high-intensity English sides, often failing to maintain defensive shape when subjected to sustained wave-after-wave pressure at Anfield. With Liverpool's formidable European home pedigree and superior individual attacking talent, Ladbrokes' quote of 1.73 implies a 57.8% win probability that materially underestimates the hosts against our 67.2% true estimate, delivering a standout 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sporting Lisbon vs Galatasaray",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-09-09T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Sporting Lisbon to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 67.0,
+      "edge": 9.2,
+      "kelly_fraction": 0.063,
+      "reasoning": "Portuguese champions Sporting CP open their Champions League campaign at the Estádio José Alvalade where they hold a formidable continental home record. Sporting's fluid positional system, aggressive counter-pressing, and lethal finishing in the final third pose severe problems for visiting sides. Galatasaray travel to Lisbon carrying persistent defensive vulnerabilities on the road in Europe, having conceded heavily in away group-stage matches against tactically disciplined possession teams. Deprived of defensive cohesion when pinned deep outside Istanbul, the Turkish champions face a monumental challenge containing Sporting's relentless tempo. Ladbrokes price Sporting at 1.73 (57.8% implied), which significantly undervalues the Portuguese giants against our 67.0% true projection, securing a strong 9.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.94,
+  "acca_result": null,
+  "acca_return": null
+}
