@@ -15,9 +15,9 @@
       "kelly_fraction": 0.08,
       "reasoning": "West Ham United welcome Wrexham AFC to the London Stadium riding high on a three-match Championship winning streak that has propelled them to second in the table. The Hammers possess vastly superior individual quality, Premier League-caliber depth, and devastating physical power in transition that should thoroughly outclass Wrexham on their first-ever visit to Stratford. Wrexham have shown resilience with four draws in six matches, but their defensive organization frequently creaks against top-tier positional pressure away from home. Ladbrokes price the Hammers at 1.60 (62.5% implied), lagging our 72.1% true projection and creating a slate-leading 9.6% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.036,
       "reasoning": "Union Berlin host newly-promoted FC Schalke 04 at the Stadion An der Alten Försterei on Matchday 3 of the Bundesliga season. In front of an intense home backing, Union's aggressive aerial presence, organized set pieces, and suffocating pressing create a notoriously hostile test for traveling sides. Schalke are still adapting to top-flight pace and defensive structure following promotion, displaying chronic vulnerabilities in defending second balls and wide deliveries. At 2.30, Ladbrokes heavily underestimate the home fortress factor (43.5% implied) compared to our 52.9% true win estimate, locking in a strong 9.4% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.048,
       "reasoning": "Sevilla clash with Valencia under the lights at the Ramón Sánchez-Pizjuán on Matchday 5 of La Liga. Sevilla have established strong early-season rhythm, dominating territorial possession and generating sustained box pressure at home. Valencia travel to Andalusia in disjointed form, remaining winless through the opening month and struggling to muster offensive threat on their travels. With Sevilla commanding superior midfield control and home territory, Ladbrokes' price of 1.95 (51.3% implied) represents generous value against our 60.5% true projection, securing a solid 9.2% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 19.5,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 7.18,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

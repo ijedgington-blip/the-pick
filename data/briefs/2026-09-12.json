@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-12",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Sunderland vs Arsenal",
+      "league": "Premier League",
+      "kickoff": "2026-09-12T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 1.57,
+      "implied_prob": 63.7,
+      "our_prob": 73.3,
+      "edge": 9.6,
+      "kelly_fraction": 0.084,
+      "reasoning": "Arsenal travel to the Stadium of Light carrying immense momentum following consecutive domestic victories and an impressive midweek European triumph at Napoli. Mikel Arteta's side boast the Premier League's most suffocating defensive structure and high-pressing organization, orchestrated by Declan Rice and Martin Ødegaard. Sunderland have struggled to bridge the technical gulf against top-flight heavyweights, regularly conceding sustained high-value territorial control and struggling to withstand relentless box deliveries. With Arsenal's superior squad depth, set-piece dominance, and ruthless defensive stability, Ladbrokes' price of 1.57 (63.7% implied) substantially lags our 73.3% true win projection, yielding a slate-leading 9.6% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Augsburg vs Bayer Leverkusen",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-09-12T13:30:00Z",
+      "pick": "Away",
+      "pick_label": "Bayer Leverkusen to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.5,
+      "edge": 9.4,
+      "kelly_fraction": 0.055,
+      "reasoning": "Bayer Leverkusen travel to the WWK Arena looking to impose their signature fluid positional dominance and relentless transitional speed over Augsburg. While Augsburg opened their campaign competitively, they continue to battle significant personnel absences and chronic structural deficiencies when defending counter-attacks and rapid wide overloads. Leverkusen possess overwhelming technical quality across the pitch, sharp attacking combinations, and devastating counter-pressing that should pin Augsburg inside their own third for extended spells. At 1.85, Ladbrokes heavily underestimate the visitors' qualitative dominance (54.1% implied) compared to our 63.5% true win estimate, securing an attractive 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Southampton vs Bristol City",
+      "league": "Championship",
+      "kickoff": "2026-09-12T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 69.1,
+      "edge": 9.2,
+      "kelly_fraction": 0.069,
+      "reasoning": "Southampton welcome Bristol City to St Mary's Stadium aiming to assert their technical and tactical authority in the Championship promotion race. The Saints hold a significant advantage in possession retention, chance creation, and squad depth, establishing a formidable home presence with sustained territorial pressure. Bristol City have frequently looked disjointed on their travels against possession-heavy sides, failing to create consistent threat on the break while leaving gaps between their defensive and midfield lines. Ladbrokes price Southampton at 1.67 (59.9% implied), an undervaluation of the hosts' home pedigree and baseline quality against our 69.1% projection, cementing a strong 9.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.85,
+  "acca_result": null,
+  "acca_return": null
+}
