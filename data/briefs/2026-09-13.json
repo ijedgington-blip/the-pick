@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-13",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Celta Vigo vs Málaga",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-13T12:00:00Z",
+      "pick": "Home",
+      "pick_label": "Celta Vigo to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 67.4,
+      "edge": 9.6,
+      "kelly_fraction": 0.066,
+      "reasoning": "Celta Vigo welcome Málaga to Abanca-Balaídos looking to assert their dominance and cement their strong home form in La Liga. Under Claudio Giráldez, Celta have developed an expansive, fluid positional structure with high territorial control, dangerous wide rotations through Iago Aspas and Jonathan Bamba, and sustained pressure in the final third. Málaga face an uphill task on their travels against top-tier opposition, struggling for offensive fluency and frequently conceding high-probability transitions when pinned deep into their defensive block. With Celta holding significant technical superiority and a dominant home baseline, Ladbrokes' quote of 1.73 (57.8% implied) considerably undervalues the hosts against our 67.4% true probability, offering a slate-leading 9.6% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Coventry City vs Brighton and Hove Albion",
+      "league": "Premier League",
+      "kickoff": "2026-09-13T13:00:00Z",
+      "pick": "Away",
+      "pick_label": "Brighton and Hove Albion to win",
+      "odds": 1.91,
+      "implied_prob": 52.4,
+      "our_prob": 61.8,
+      "edge": 9.4,
+      "kelly_fraction": 0.052,
+      "reasoning": "Brighton and Hove Albion travel to the Coventry Building Society Arena to face newly promoted Coventry City in Premier League action. Fabian Hürzeler's Seagulls have showcased lethal transition speed, disciplined pressing triggers, and elite technical ball-retention spearheaded by Carlos Baleba, Kaoru Mitoma, and João Pedro. While Coventry bring commendable spirit in front of their home support, they face an immense qualitative and tactical step up against top-flight opposition, prone to leaving exploitable central spaces when defending sustained phases of possession. At 1.91, Ladbrokes understate the visitors' tactical and qualitative superiority (52.4% implied) relative to our 61.8% win projection, locking in a prime 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sheffield United vs Wolverhampton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-09-13T11:00:00Z",
+      "pick": "Away",
+      "pick_label": "Wolverhampton Wanderers to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 60.5,
+      "edge": 9.2,
+      "kelly_fraction": 0.048,
+      "reasoning": "Wolverhampton Wanderers journey to Bramall Lane to face Sheffield United in a marquee Championship encounter. Wolves boast Premier League-caliber individual quality, explosive transitional pace, and robust defensive organization that create an imposing hurdle for any side in the division. Sheffield United continue their structural rebuild, enduring defensive lapses against athletic forward lines and showing vulnerability when forced to defend quick counter-attacks. With Wolves wielding superior squad depth, athletic prowess, and decisive quality in transition, Ladbrokes' price of 1.95 (51.3% implied) represents outstanding value against our 60.5% true win estimate, securing a strong 9.2% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.44,
+  "acca_result": null,
+  "acca_return": null
+}
