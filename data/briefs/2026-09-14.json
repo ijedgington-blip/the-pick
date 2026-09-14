@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-14",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Villarreal vs Real Betis",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-14T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Real Betis to win",
+      "odds": 3.4,
+      "implied_prob": 29.4,
+      "our_prob": 38.9,
+      "edge": 9.5,
+      "kelly_fraction": 0.02,
+      "reasoning": "Real Betis travel to the Estadio de la Cerámica enjoying their finest start to a La Liga campaign since 2011/12, having collected nine points from their opening four league fixtures alongside statement victories against Real Madrid (1-0) and Lille (3-2 in Europe). Manuel Pellegrini's side possess supreme tactical coherence, an unblemished injury report, and high-functioning attacking fluidity orchestrating through Isco, Pablo Fornals, Antony, and in-form marksman Troy Parrott. In contrast, Villarreal are mired in early-season turmoil under new head coach Iñigo Pérez, remaining winless across all competitions (two draws, three defeats) while leaking an alarming average of two goals per game. Despite Betis carrying superior form, cohesion, and defensive stability, Ladbrokes have set the visitors as heavy 3.40 underdogs (29.4% implied), offering immense discrepancy against our 38.9% true win evaluation and yielding a slate-best 9.5% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Leeds United vs Newcastle United",
+      "league": "Premier League",
+      "kickoff": "2026-09-14T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Leeds United to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 54.8,
+      "edge": 9.3,
+      "kelly_fraction": 0.039,
+      "reasoning": "Leeds United host Newcastle United under the Elland Road floodlights in prime position to capitalize on their formidable home environment. Daniel Farke's men boast remarkable defensive compactness, currently riding an impressive 12-match unbeaten streak in the Premier League and entering with full momentum behind former Magpie Sean Longstaff in midfield. Newcastle United, managed by Matthias Jaissle, have shown vulnerability on their travels and face key defensive disruption with starting full-back Amar Dedić sidelined with a hamstring issue. While both sides enter on identical 1W-2D records, Elland Road represents one of the most hostile venues in English football, and Leeds' structural discipline should stifle Newcastle's transitional threat. Ladbrokes price Leeds at 2.20 (45.5% implied), underestimating the hosts' home superiority and tactical edge against our 54.8% true win projection, securing a strong 9.3% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.48,
+  "acca_result": null,
+  "acca_return": null
+}
