@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-16",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Levante vs Athletic Bilbao",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-16T19:30:00Z",
+      "pick": "Away",
+      "pick_label": "Athletic Bilbao to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 56.1,
+      "edge": 9.6,
+      "kelly_fraction": 0.042,
+      "reasoning": "Athletic Club travel to the Estadi Ciutat de València seeking to maintain their historic dominance over Levante. Ernesto Valverde's side have displayed formidable tactical pedigree and defensive resilience, having recently claimed impressive victories over Atletico Madrid (3-0) and Celta Vigo. The Lions boast immense transitional firepower through Nico and Iñaki Williams, supported by the creative orchestrations of Oihan Sancet. Levante, under Luís Castro, are reeling from a 4-2 defeat to Barcelona and have struggled for structural stability, conceding heavily against direct, high-pressing outfits. Crucially, Levante have not defeated Athletic Bilbao in 11 consecutive competitive meetings dating back to December 2018, with Athletic winning their last three head-to-head encounters. Ladbrokes price Athletic Bilbao at 2.15 (46.5% implied), lagging our 56.1% true probability and presenting a slate-leading 9.6% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Deportivo La Coruña vs Sevilla",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-16T17:00:00Z",
+      "pick": "Home",
+      "pick_label": "Deportivo La Coruña to win",
+      "odds": 2.5,
+      "implied_prob": 40.0,
+      "our_prob": 49.4,
+      "edge": 9.4,
+      "kelly_fraction": 0.031,
+      "reasoning": "Deportivo La Coruña host Sevilla at the Estadio Abanca-Riazor in high spirits following an impressive unbeaten start to their return campaign in La Liga. Under Antonio Hidalgo, Dépor have recaptured their formidable home fortress mentality, buoyed by the marquee veteran leadership and clinical finishing of Pierre-Emerick Aubameyang, as evidenced by their early-season statement victory over Villarreal. In contrast, Sevilla continue to struggle for away consistency and defensive solidity, frequently leaving exploitable transitional channels when pressured high up the pitch. With the vibrant Riazor atmosphere fueling a highly motivated Deportivo side operating at peak momentum, Ladbrokes' quote of 2.50 implies only a 40.0% win probability, substantially undervaluing the hosts against our 49.4% true evaluation to deliver a 9.4% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Atlético Madrid vs CA Osasuna",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-16T17:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 4.8,
+      "implied_prob": 20.8,
+      "our_prob": 29.8,
+      "edge": 9.0,
+      "kelly_fraction": 0.012,
+      "reasoning": "Atlético Madrid host Osasuna at the Riyadh Air Metropolitano in a classic midweek sandwich fixture ahead of the high-stakes Madrid Derby against Real Madrid in four days. Diego Simeone is expected to rotate key personnel and manage minutes, conditions that historically result in lower-intensity, low-event encounters against compact opponents. Osasuna arrive with acute motivation under Luis Miguel Ramis to halt a two-match losing streak, and are expected to deploy a deep, rigid low block to frustrate Atlético's rotated attacking unit and protect a point. Given Osasuna's defensive blueprint to slow the game down and Atlético's anticipated tactical conservatism ahead of the derby, the likelihood of a low-scoring stalemate is significantly heightened. Ladbrokes' quote of 4.80 implies just a 20.8% draw probability, creating an attractive 9.0% value edge against our 29.8% true projection.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 25.8,
+  "acca_result": null,
+  "acca_return": null
+}
