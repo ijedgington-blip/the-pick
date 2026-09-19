@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-19",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Athletic Bilbao vs Alavés",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-19T14:15:00Z",
+      "pick": "Home",
+      "pick_label": "Athletic Bilbao to win",
+      "odds": 1.61,
+      "implied_prob": 62.1,
+      "our_prob": 71.8,
+      "edge": 9.7,
+      "kelly_fraction": 0.08,
+      "reasoning": "Athletic Club welcome Basque rivals Deportivo Alavés to San Mamés seeking to reaffirm their dominance in one of Spanish football's most lopsided regional derbies. Under Ernesto Valverde, the Lions have established an intimidating fortress at home, powered by the electric transitional pace and crossing accuracy of Nico Williams and Iñaki Williams alongside the midfield orchestration and box-crashing threat of Oihan Sancet. Defensively, Dani Vivian leads an exceptionally disciplined backline that surrenders few clear-cut chances on home soil. Alavés arrive with significant tactical limitations on their travels, having repeatedly struggled for midfield retention and attacking penetration against aggressive high-pressing teams. Athletic have won five of the last six competitive encounters between the sides in Bilbao without conceding a single goal. Ladbrokes price Athletic Club at 1.61 (62.1% implied), which substantially underestimates their home superiority and qualitative advantage against our 71.8% true win projection, locking in an outstanding slate-leading 9.7% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Newcastle United vs Hull City",
+      "league": "Premier League",
+      "kickoff": "2026-09-19T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Newcastle United to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.0,
+      "edge": 9.5,
+      "kelly_fraction": 0.079,
+      "reasoning": "Newcastle United host newly promoted Hull City at St James' Park eager to assert their top-flight authority in front of a fervent home crowd. The Magpies possess overwhelming athletic and tactical superiority across all phases of play, driven by the intense counter-pressing and box penetration of Anthony Gordon, Alexander Isak, and midfield general Bruno Guimarães. Hull City have endured an arduous opening to their Premier League campaign, battling structural vulnerabilities in transition and struggling to defend sustained dead-ball pressure against physical opposition. The tactical disparity between Newcastle's high-intensity transitional assault and Hull's fragile defensive unit is acute, particularly at St James' Park where Newcastle consistently overwhelm bottom-half visitors. Ladbrokes' quote of 1.60 implies a 62.5% win probability, offering immense value against our 72.0% true projection and securing a prime 9.5% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Celta Vigo vs Real Racing Club de Santander",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-19T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Celta Vigo to win",
+      "odds": 1.8,
+      "implied_prob": 55.6,
+      "our_prob": 64.9,
+      "edge": 9.3,
+      "kelly_fraction": 0.058,
+      "reasoning": "Celta Vigo welcome newly promoted Real Racing Club de Santander to the Abanca-Balaídos in La Liga action. Under Claudio Giráldez, Celta have developed one of Spain's most fluid and coherent possession-based systems, generating high-volume attacking overloads through veteran talisman Iago Aspas, Jonathan Bamba, and dynamic wing-back Hugo Álvarez. Racing Santander step into Balaídos facing a steep learning curve in the top division, often lacking the technical composure under pressure to break free from sustained territorial pin-downs. Celta's domestic home baseline has been remarkably resilient, particularly against newly promoted opposition where their midfield control dictates tempo from the opening whistle. At 1.80, Ladbrokes imply just a 55.6% home victory probability, substantially underestimating Celta's systemic superiority against our 64.9% true evaluation to capture an excellent 9.3% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.64,
+  "acca_result": null,
+  "acca_return": null
+}
