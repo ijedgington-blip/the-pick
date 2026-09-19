@@ -15,9 +15,9 @@
       "kelly_fraction": 0.074,
       "reasoning": "Real Betis welcome Getafe to the Estadio Benito Villamarín enjoying a sensational start to the 2026/27 campaign, having amassed 12 points from their opening five La Liga fixtures. Manuel Pellegrini's side have transformed their home ground into an unbreachable fortress, remaining unbeaten at the Villamarín throughout 2026 and riding a five-match home winning streak in league action with high-functioning attacking chemistry across Troy Parrott, Antony, and Isco. Conversely, José Bordalás's Getafe arrive in disarray, languishing in the bottom half with just five points and failing to score in either of their previous two away defeats. With Getafe depleted in defensive depth and lacking the offensive punch to trouble Betis's disciplined backline, Ladbrokes' quote of 1.65 (60.6% implied) significantly undervalues the hosts against our 70.2% true evaluation, securing an outstanding slate-leading 9.6% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.5,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,13 +33,13 @@
       "kelly_fraction": 0.017,
       "reasoning": "Málaga host Villarreal at La Rosaleda in a high-tension Matchday 6 clash between two sides desperate to claim their first league victories of the season. Málaga (17th, 3D 2L) have struggled for attacking firepower, registering just two goals in five matches, but have compensated with stubborn defensive resilience at home where they have conceded just once. Meanwhile, Villarreal (18th, 2D 3L) remain in deep crisis under Iñigo Pérez, winless across all competitions and plagued by severe travel vulnerabilities. Ladbrokes have priced Villarreal as clear 1.95 favorites (51.3% implied), heavily overrating a winless visiting side low on confidence against a compact home defense. With both teams heavily constrained in the final third and anxious to avoid another damaging defeat, the probability of a low-scoring stalemate is vastly heightened. Ladbrokes' quote of 3.70 implies only 27.0% for the draw, creating an exceptional 9.3% value edge against our 36.3% true projection.",
       "confidence": "medium",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 6.11,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
