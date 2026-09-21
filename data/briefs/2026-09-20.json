@@ -1,0 +1,63 @@
+{
+  "date": "2026-09-20",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Leeds United vs Crystal Palace",
+      "league": "Premier League",
+      "kickoff": "2026-09-20T13:00:00Z",
+      "pick": "Home",
+      "pick_label": "Leeds United to win",
+      "odds": 1.7,
+      "implied_prob": 58.8,
+      "our_prob": 68.5,
+      "edge": 9.7,
+      "kelly_fraction": 0.069,
+      "reasoning": "Leeds United host Crystal Palace at Elland Road looking to cement their remarkable early-season form in the Premier League. Daniel Farke's side have been one of the top flight's standout performers, sitting third in the table following four matches and riding a 12-match domestic unbeaten streak at Elland Road, fresh from an impressive 2-1 victory over Newcastle. Leeds' fluid midfield transitions, anchored by Sean Longstaff and Ethan Ampadu, consistently pin opposition deep, creating high-percentage box overloads for Georginio Rutter and Wilfried Gnonto. In contrast, Oliver Glasner's Crystal Palace arrive in 16th place, plagued by acute attacking inertia and vulnerable defensive transitions on their travels. Elland Road remains one of English football's most hostile and intense atmospheres, where Leeds routinely overwhelm bottom-half visitors. Ladbrokes price Leeds at 1.70 (58.8% implied), which significantly undervalues the hosts against our 68.5% true win projection, securing an exceptional slate-leading 9.7% value edge.",
+      "confidence": "high",
+      "result": "loss",
+      "return": 0,
+      "settled": true
+    },
+    {
+      "rank": 2,
+      "match": "Bournemouth vs Liverpool",
+      "league": "Premier League",
+      "kickoff": "2026-09-20T13:00:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 55.0,
+      "edge": 9.5,
+      "kelly_fraction": 0.04,
+      "reasoning": "Liverpool travel to the Vitality Stadium to face AFC Bournemouth in an emotionally charged encounter that marks manager Andoni Iraola's first return to his former club since his summer switch to Merseyside. The Reds enter the fixture unbeaten in their opening four Premier League matches, boasting overwhelming qualitative and tactical superiority across all phases, spearheaded by Florian Wirtz, Dominik Szoboszlai, and Mohamed Salah. Bournemouth, now under Marco Rose, are enduring a difficult transitional spell and remain winless in the league, consistently struggling to manage defensive transitions and protect leads in the second half. While early-season draws have inflated Liverpool's price on the market, the vast disparity in squad depth, finishing pedigree, and tactical familiarity under Iraola gives the visitors a decisive upper hand. Ladbrokes' quote of 2.20 implies just a 45.5% win probability for an unbeaten Liverpool side, presenting massive value against our 55.0% true evaluation to capture a standout 9.5% edge.",
+      "confidence": "high",
+      "result": "win",
+      "return": 22,
+      "settled": true
+    },
+    {
+      "rank": 3,
+      "match": "Deportivo La Coruña vs Real Betis",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-09-20T16:30:00Z",
+      "pick": "Away",
+      "pick_label": "Real Betis to win",
+      "odds": 2,
+      "implied_prob": 50.0,
+      "our_prob": 59.3,
+      "edge": 9.3,
+      "kelly_fraction": 0.047,
+      "reasoning": "Real Betis journey to the Estadio Abanca-Riazor to take on newly promoted Deportivo La Coruña in La Liga Matchday 7 action. Manuel Pellegrini's side have made an outstanding start to their 2026/27 campaign, collecting 15 points and establishing themselves in the upper echelon of the table on the back of consecutive statement victories against Villarreal (3-1 away) and Getafe. Los Verdiblancos possess exceptional attacking fluidity and creative synergy between Isco, Antony, and in-form striker Troy Parrott, routinely unlocking compact opposition with rapid combination play. Deportivo, despite the passionate home backing at Riazor, are experiencing a harsh re-acclimatization to top-flight intensity, evidenced by their midweek home defeat to Sevilla where their defensive structure was repeatedly unpicked in transition. Ladbrokes price Betis at even money (2.00, 50.0% implied), heavily underrating the visitors' qualitative superiority and momentum against our 59.3% true probability to deliver a prime 9.3% value edge.",
+      "confidence": "high",
+      "result": "loss",
+      "return": 0,
+      "settled": true
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.48,
+  "acca_result": "loss",
+  "acca_return": 0
+}
