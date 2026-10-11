@@ -15,9 +15,9 @@
       "kelly_fraction": 0.065,
       "reasoning": "Chelsea welcome AFC Bournemouth to Stamford Bridge seeking to establish early-season momentum in the Premier League. The Blues possess significant qualitative depth across all departments, orchestrating relentless central territory control through Enzo Fernández and Moisés Caicedo, with Cole Palmer consistently creating high-xG box entries for a dynamic forward line. Bournemouth have continued to struggle with defensive structure away from home, conceding frequently in transition and looking vulnerable against direct, high-pressing attacks. Stamford Bridge remains a challenging ground for bottom-half traveling sides, where Chelsea's superior athletic baseline and rotational options reliably overwhelm opponents in the latter stages. Ladbrokes price Chelsea at 1.75 (57.1% implied), which heavily undervalues the hosts' baseline superiority against our 66.8% true win projection, yielding a slate-leading 9.7% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 17.5,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.078,
       "reasoning": "VfB Stuttgart travel to the Home Deluxe Arena to face SC Paderborn in a classic Bundesliga clash highlighting substantial tactical and quality disparities. Sebastian Hoeneß's Stuttgart outfit remain one of German football's most coherent attacking units, executing rapid transitional counter-pressing, dominant half-space possession, and clinical finishing. Paderborn's defensive structure regularly struggles against elite top-tier positional play, leaving glaring central gaps that high-caliber opponents exploit with regularity. With Stuttgart possessing clear technical and physical advantages across the pitch, their likelihood of claiming all three points on the road is far greater than market pricing reflects. Ladbrokes quote Stuttgart at 1.61 (62.1% implied), presenting substantial value against our 71.6% true projection to secure a standout 9.5% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.1,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.056,
       "reasoning": "Atlético Madrid visit Mendizorrotza to lock horns with Deportivo Alavés in La Liga Matchday action. Diego Simeone's squad maintain an exceptionally disciplined defensive shape while boasting formidable offensive firepower through Antoine Griezmann and Julián Alvarez, providing clinical transitional efficiency. Alavés, while resilient at home, suffer from chronic limitations in chance creation and struggle when forced to chase matches against elite low-to-mid block structures. Historically and tactically, Atlético have demonstrated ruthless efficiency against bottom-half sides that fail to pose sustained vertical threats. At 1.83 (54.6% implied), Ladbrokes give Alavés too much credit on home soil, significantly underrating Atlético Madrid's tactical supremacy against our 63.9% true assessment, securing a prime 9.3% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.3,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 5.16,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "win",
+  "acca_return": 51.6
 }
