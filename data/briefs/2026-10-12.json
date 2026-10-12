@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-12",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Coventry City vs Newcastle United",
+      "league": "Premier League",
+      "kickoff": "2026-10-12T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Newcastle United to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 55.2,
+      "edge": 9.7,
+      "kelly_fraction": 0.04,
+      "reasoning": "Newcastle United make the trip to the Coventry Building Society Arena to face Coventry City in Monday night Premier League action. Eddie Howe's side hold a decisive athletic, structural, and technical advantage across every position, boasting proven top-tier quality through the midfield dynamism of Bruno Guimarães and Sandro Tonali, alongside the lethal transitional pace and finishing of Alexander Isak and Anthony Gordon. While Coventry will bring tremendous intensity and passionate home backing, Frank Lampard's side continue to exhibit structural vulnerabilities against elite, high-pressing outfits, frequently struggling to manage defensive transitions and protect the half-spaces when pinned deep in their defensive third. At 2.20 (45.5% implied), Ladbrokes price Newcastle as surprisingly generous road favourites against our 55.2% true win assessment, unlocking an exceptional slate-leading 9.7% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Levante vs Sevilla",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-12T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Sevilla to win",
+      "odds": 2.7,
+      "implied_prob": 37.0,
+      "our_prob": 46.5,
+      "edge": 9.5,
+      "kelly_fraction": 0.028,
+      "reasoning": "Sevilla travel to the Estadi Ciutat de València to take on Levante in a Monday evening La Liga encounter. Sevilla enter this fixture positioned in 5th place in the table, demonstrating tactical maturity, resolute defensive organization, and clinical box penetration. In stark contrast, Levante have endured an arduous campaign entrenched in the relegation zone, plagued by defensive lapses against high-quality opposition and an inability to convert territory into consistent high-probability scoring opportunities. Despite the significant disparity in league form, squad depth, and pedigree between upper-table Sevilla and struggling Levante, Ladbrokes have priced both sides dead even at 2.70 (37.0% implied). This presents substantial market inefficiency against our 46.5% true away win evaluation, offering an outstanding 9.5% edge on Sevilla claiming all three points.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.94,
+  "acca_result": null,
+  "acca_return": null
+}
