@@ -15,9 +15,9 @@
       "kelly_fraction": 0.08,
       "reasoning": "Burnley welcome Charlton Athletic to Turf Moor in Championship Tuesday evening action. The Clarets maintain one of the most formidable home foundations in the division, establishing commanding territorial control through suffocating counter-pressing, positional discipline, and incisive combination play in the final third. Charlton arrive facing a severe structural challenge away from home, where their transitional defensive block has consistently struggled to absorb sustained box pressure against high-caliber possession sides. With Burnley holding a decisive qualitative edge across midfield and defensive stability to neutralize Charlton's isolated counter-attacks, the hosts are exceptionally well-positioned to secure all three points. Ladbrokes price Burnley at 1.61 (62.1% implied), which significantly undervalues their home dominance against our 71.8% true win projection, yielding a slate-leading 9.7% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.079,
       "reasoning": "RB Leipzig host PSV Eindhoven at the Red Bull Arena in a high-octane UEFA Champions League clash. Leipzig's high-tempo transitional system, aggressive central pressing traps, and vertical dynamism in wide areas make them especially lethal on European nights in front of their home supporters. PSV, while dominant domestically, have repeatedly demonstrated structural vulnerabilities when traveling against elite continental opposition that can bypass their press and attack open space at pace. Leipzig possess both the athletic superiority and clinical finishing depth to exploit PSV's expansive defensive structure over 90 minutes. Ladbrokes quote Leipzig at 1.60 (62.5% implied), failing to adequately reflect the German outfit's home European pedigree compared to our 72.0% true win projection, unlocking an outstanding 9.5% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.051,
       "reasoning": "Atlético Madrid welcome Manchester United to the Riyadh Air Metropolitano for a marquee UEFA Champions League encounter. Diego Simeone's men are notoriously stubborn and ruthless on home soil in continental competition, deploying a disciplined, suffocating defensive structure coupled with the clinical attacking sharpness of Antoine Griezmann and Julián Alvarez. Manchester United continue to show defensive fragility and structural disconnection in away European fixtures, frequently conceding high-probability transitions when forced to break down resolute mid-to-low blocks. With Atlético commanding the tactical tempo and possessing clear defensive solidity to nullify United's forward line, the hosts should be clear favorites. Ladbrokes price Atlético Madrid generously at 1.91 (52.4% implied), which substantially discounts their home European dominance against our 61.7% true probability assessment, securing a compelling 9.3% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 19.1,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 4.92,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
