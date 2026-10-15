@@ -15,9 +15,9 @@
       "kelly_fraction": 0.072,
       "reasoning": "Aston Villa welcome Turkish giants Fenerbahce to Villa Park in UEFA Champions League action under the lights. Under Unai Emery, Villa have developed into an exceptionally formidable European outfit, utilizing disciplined central midfield control through Youri Tielemans and Boubacar Kamara alongside the devastating transitional pace and finishing of Ollie Watkins and Morgan Rogers. Villa Park on European nights provides an electric, suffocating atmosphere where the hosts regularly dismantle continental visitors with relentless high pressing and territorial pinning. Fenerbahce, while possessing individual flair, face severe structural vulnerabilities when traveling away to top-tier Premier League opposition, frequently struggling to absorb sustained box entries and transition defense over 90 minutes. Ladbrokes quote Aston Villa at 1.67 (59.9% implied), heavily underestimating their home European dominance against our 69.6% true probability projection, yielding an outstanding slate-leading 9.7% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.7,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.073,
       "reasoning": "Queens Park Rangers host Derby County at Loftus Road in Wednesday evening Championship action. QPR have established impressive home cohesion and defensive solidity in W12, creating consistent goal threats through aggressive counter-pressing, dynamic wide overloads, and high-tempo territorial dominance. In contrast, Derby County continue to endure acute difficulties away from Pride Park, suffering from a fragile defensive transition phase and an inability to retain possession under sustained pressure against high-pressing midfield blocks. With QPR enjoying clear tactical superiority across midfield and decisive defensive stability to stifle Derby's isolated counter-attacking transitions, the home side are strongly favoured to take all three points. At 1.65 (60.6% implied), Ladbrokes fail to adequately price QPR's home supremacy against our 70.1% true projection, capturing a standout 9.5% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.055,
       "reasoning": "Real Madrid travel to the Stadio Olimpico to face AS Roma in a blockbuster UEFA Champions League encounter. Los Blancos remain the gold standard of European competition, possessing devastating offensive firepower in Kylian Mbappé, Vinícius Júnior, and Jude Bellingham capable of exploiting the slightest positional lapse. While Roma will look to harness passionate home support in the Italian capital, the Giallorossi have demonstrated notable defensive vulnerabilities and structural fragmentation when attempting to withstand elite vertical transitions and dynamic half-space overloads. Real Madrid's tactical pedigree, transitional ruthlessness, and Champions League experience provide them with a decisive edge across every phase of the pitch. Ladbrokes offer Real Madrid at 1.85 (54.1% implied), which substantially discounts the Spanish champions' continental superiority against our 63.4% true win assessment, securing a compelling 9.3% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.5,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 5.1,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "win",
+  "acca_return": 51
 }
