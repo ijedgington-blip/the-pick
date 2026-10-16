@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-16",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Eintracht Frankfurt vs 1. FC Köln",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-16T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "Eintracht Frankfurt to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 63.9,
+      "edge": 9.8,
+      "kelly_fraction": 0.058,
+      "reasoning": "Eintracht Frankfurt host 1. FC Köln under the Friday night lights at Deutsche Bank Park in Bundesliga action. Frankfurt have turned their home ground into a high-intensity fortress, combining relentless wide overloads, rapid vertical transitions, and clinical penalty-box movement to consistently overwhelm visiting backlines. Köln have struggled significantly on the road against top-half opposition, frequently conceding high-danger chances when stretched horizontally and lacking the offensive composure needed to punish hosts on the counter. Ladbrokes price Eintracht Frankfurt at 1.85 (54.1% implied), which underestimates their commanding home advantage and superior squad depth against our 63.9% true win probability, generating a slate-leading 9.8% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Deportivo La Coruña vs Levante",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-16T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Deportivo La Coruña to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 58.2,
+      "edge": 9.4,
+      "kelly_fraction": 0.045,
+      "reasoning": "Deportivo La Coruña welcome Levante to the Estadio Abanca-Riazor for a pivotal Friday night clash in Spain. At Riazor, Deportivo boast exceptional defensive organization and territorial control, routinely pinning opponents back through technical midfield progression and incisive wing play led by Yeremay Hernández. Levante's away form remains a persistent vulnerability, characterized by passive midfield pressing and defensive lapses when defending sustained second-phase deliveries into the box. With Ladbrokes offering odds of 2.05 (48.8% implied) on the hosts, the market undervalues Deportivo's strong home metrics compared to our 58.2% true probability estimate, delivering a compelling 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Burnley vs Wolverhampton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-10-16T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Wolverhampton Wanderers to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 54.6,
+      "edge": 9.1,
+      "kelly_fraction": 0.038,
+      "reasoning": "Wolverhampton Wanderers travel to Turf Moor to take on Burnley in a high-profile Friday night showdown. Wolves possess superior individual quality and athletic dynamism across the pitch, particularly in central midfield and attacking transition where their pace and direct ball-carrying regularly carve open structured Championship defences. Burnley have shown vulnerability when forced to defend high up the pitch against elite counter-attacking units, often leaving exploitable spaces behind their full-backs. Ladbrokes price Wolves at 2.20 (45.5% implied), underestimating the visitors' superior firepower and tactical matchup advantage against our 54.6% true probability projection, yielding a strong 9.1% value edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 8.34,
+  "acca_result": null,
+  "acca_return": null
+}
