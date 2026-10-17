@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-17",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Fulham vs Hull City",
+      "league": "EPL",
+      "kickoff": "2026-10-17T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "Fulham to win",
+      "odds": 1.61,
+      "implied_prob": 62.1,
+      "our_prob": 72.2,
+      "edge": 10.1,
+      "kelly_fraction": 0.083,
+      "reasoning": "Fulham welcome newly promoted Hull City to Craven Cottage with a pronounced tactical and qualitative edge across every department. Marco Silva's side excel at home against lower-table opposition, utilizing aggressive full-back overlaps, sustained midfield control, and high-volume penalty-box entries to wear down deep defensive blocks. Hull City have struggled mightily on their travels in the top flight, conceding high-danger chances when forced to defend wide overloads and lacking the transitional outlet needed to relieve sustained pressure. Ladbrokes price Fulham at 1.61 (62.1% implied), which significantly underestimates their home dominance against our 72.2% true win probability, yielding a slate-leading 10.1% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Union Berlin vs Borussia Dortmund",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-17T13:30:00Z",
+      "pick": "Away",
+      "pick_label": "Borussia Dortmund to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.2,
+      "edge": 9.7,
+      "kelly_fraction": 0.081,
+      "reasoning": "Borussia Dortmund travel to the Stadion An der Alten Försterei in strong domestic rhythm, boasting superior technical quality and incisive attacking movement through the half-spaces. Dortmund's fluid front line and progressive central midfield have consistently dismantled low-to-mid blocks by drawing markers out of position and exploiting second-phase runs into the box. Union Berlin have struggled to replicate their historic defensive resilience against elite Bundesliga attacks, frequently suffering lapses in lateral coverage when pinned back for extended stretches. At 1.60 (62.5% implied), Ladbrokes undervalue Dortmund's attacking firepower and structural superiority compared to our 72.2% true win projection, providing a compelling 9.7% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Espanyol vs Atlético Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-17T12:00:00Z",
+      "pick": "Away",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 69.3,
+      "edge": 9.4,
+      "kelly_fraction": 0.07,
+      "reasoning": "Atlético Madrid head to the RCDE Stadium to face Espanyol in an early Saturday La Liga fixture where Diego Simeone's side hold a clear class and structural advantage. Atlético combine elite defensive compactness with lethal clinical efficiency in the final third, regularly suffocating hosts who struggle to build through organized mid-blocks before striking decisively through Julian Alvarez and Antoine Griezmann. Espanyol lack the creative incision to break down La Liga's premier defensive units and remain vulnerable when transitioning back into shape after turnovers. Ladbrokes offer 1.67 (59.9% implied) on the visitors, leaving strong value against our 69.3% true win estimate for a 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.3,
+  "acca_result": null,
+  "acca_return": null
+}
