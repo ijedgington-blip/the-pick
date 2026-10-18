@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-18",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Nottingham Forest vs Arsenal",
+      "league": "EPL",
+      "kickoff": "2026-10-18T15:30:00Z",
+      "pick": "Away",
+      "pick_label": "Arsenal to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.7,
+      "edge": 10.2,
+      "kelly_fraction": 0.085,
+      "reasoning": "Arsenal travel to the City Ground with a commanding tactical and structural advantage over Nottingham Forest. Mikel Arteta's side boast the Premier League's benchmark out-of-possession rest defence and set-piece dominance, routinely suffocating counter-attacking hosts before breaking down low blocks through Bukayo Saka and Martin Ødegaard in the right half-space. Forest rely heavily on transitional moments that Arsenal's physical midfield pivot consistently neutralizes. Ladbrokes price Arsenal at 1.60 (62.5% implied), significantly underestimating their away consistency against our 72.7% true win projection to produce a slate-leading 10.2% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Bayer Leverkusen vs SC Freiburg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-18T13:30:00Z",
+      "pick": "Home",
+      "pick_label": "Bayer Leverkusen to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.2,
+      "edge": 9.7,
+      "kelly_fraction": 0.081,
+      "reasoning": "Bayer Leverkusen welcome SC Freiburg to the BayArena, where die Werkself continue to operate at an elite domestic standard. Leverkusen's intricate central combinations, aggressive wing-back overloads, and relentless pressing traps consistently pin visiting Bundesliga sides inside their own defensive third for extended stretches. Freiburg have struggled on their travels against top-four opposition, conceding high-quality chances when forced to defend rapid switches of play and half-space cutbacks. At 1.60 (62.5% implied), Ladbrokes undervalue Leverkusen's home superiority relative to our 72.2% true win probability, offering a strong 9.7% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "CA Osasuna vs Real Racing Club de Santander",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-18T12:00:00Z",
+      "pick": "Home",
+      "pick_label": "CA Osasuna to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 60.6,
+      "edge": 9.3,
+      "kelly_fraction": 0.049,
+      "reasoning": "CA Osasuna host promoted Real Racing Club de Santander at El Sadar, one of La Liga's most unforgiving venues for visiting sides. Osasuna thrive at home through high-intensity pressing, relentless wide deliveries into Ante Budimir, and physical dominance on second balls. Racing Santander face a steep step up in top-flight physicality on the road and remain vulnerable when defending sustained aerial bombardment and aggressive counter-pressing in midfield. Ladbrokes offer a generous 1.95 (51.3% implied) on the hosts, leaving substantial value against our 60.6% true win estimate for a 9.3% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.99,
+  "acca_result": null,
+  "acca_return": null
+}
