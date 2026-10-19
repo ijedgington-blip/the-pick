@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-19",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Tottenham Hotspur vs Coventry City",
+      "league": "EPL",
+      "kickoff": "2026-10-19T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Tottenham Hotspur to win",
+      "odds": 1.53,
+      "implied_prob": 65.4,
+      "our_prob": 75.2,
+      "edge": 9.8,
+      "kelly_fraction": 0.092,
+      "reasoning": "Tottenham Hotspur host promoted Coventry City under the Monday night lights in North London with a decisive qualitative and structural advantage. Coming off a resilient late point away at Old Trafford and boosted by Dejan Kulusevski's return to the matchday squad alongside Dominic Solanke leading the line, Roberto De Zerbi's side possess the technical superiority and penalty-box volume to overwhelm Coventry's defensive block at the Tottenham Hotspur Stadium. Ladbrokes price Spurs at 1.53 (65.4% implied), undervaluing their underlying attacking metrics and home dominance against our 75.2% true win estimate to yield a slate-leading 9.8% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Getafe vs Rayo Vallecano",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-19T19:00:00Z",
+      "pick": "Away",
+      "pick_label": "Rayo Vallecano to win",
+      "odds": 2.6,
+      "implied_prob": 38.5,
+      "our_prob": 47.9,
+      "edge": 9.4,
+      "kelly_fraction": 0.029,
+      "reasoning": "Rayo Vallecano make the short trip across Madrid to the Coliseum with an extraordinary 11-match unbeaten streak against Getafe across all competitions and a clear attacking edge. Getafe have managed a league-low four goals through eight La Liga fixtures, remain without long-term absentees Christantus Uche and Zaid Romero, and enter this derby after taxing midweek UEFA Conference League exertions. Rayo's superior firepower (11 league goals scored) and fresh legs position them well to punish a blunt hosts' attack, making Ladbrokes' 2.60 (38.5% implied) price stand out against our 47.9% true away win probability for a 9.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 3.98,
+  "acca_result": null,
+  "acca_return": null
+}
