@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-20",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Napoli vs Bodø/Glimt",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-10-20T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Napoli to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 68.0,
+      "edge": 10.9,
+      "kelly_fraction": 0.073,
+      "reasoning": "Napoli welcome Bodø/Glimt to the Stadio Diego Armando Maradona with a pronounced qualitative and environmental edge. While the Norwegian champions routinely punch above their weight on their fast artificial pitch inside the Arctic Circle, their underlying defensive metrics drop noticeably on natural grass away from home against elite five-league opposition. Napoli's relentless half-space combinations, physical midfield control, and superior penalty-box efficiency should consistently break down the visitors' high line. Ladbrokes price the hosts at a generous 1.75 (57.1% implied), leaving substantial value against our 68.0% true win projection for a slate-leading 10.9% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Porto vs PSV Eindhoven",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-10-20T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Porto to win",
+      "odds": 1.55,
+      "implied_prob": 64.5,
+      "our_prob": 74.4,
+      "edge": 9.9,
+      "kelly_fraction": 0.09,
+      "reasoning": "Porto host PSV Eindhoven at the Estádio do Dragão, where the Portuguese giants maintain a formidable European pedigree built on compact rest defence and incisive vertical transitions. PSV's expansive, high-line approach dominates domestically in the Eredivisie but frequently leaves vulnerable space behind their advancing full-backs when facing Champions League-calibre counter-pressing. Porto's tactical discipline out of possession and clinical wide overloads give them a decisive structural advantage at home, making Ladbrokes' 1.55 (64.5% implied) price stand out against our 74.4% true win estimate for a 9.9% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Fenerbahce vs Slavia Praha",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-10-20T16:45:00Z",
+      "pick": "Home",
+      "pick_label": "Fenerbahce to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 72.1,
+      "edge": 9.6,
+      "kelly_fraction": 0.08,
+      "reasoning": "Fenerbahce welcome Slavia Praha to a cauldron-like Şükrü Saracoğlu Stadium in the early Champions League kickoff slot. Backed by one of Europe's most hostile home atmospheres and superior individual attacking quality in the final third, Fenerbahce consistently generate high expected-goals volume on home turf while pinning visiting sides deep. Slavia Praha bring an energetic man-marking press, but their defensive block is prone to conceding high-value set-piece and cutback opportunities when stretched horizontally on the road. At 1.60 (62.5% implied), Ladbrokes underestimate Fenerbahce's home dominance relative to our 72.1% true win probability, yielding a 9.6% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.34,
+  "acca_result": null,
+  "acca_return": null
+}
