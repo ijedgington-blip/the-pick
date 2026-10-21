@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-21",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Real Betis vs Feyenoord",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-10-21T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Real Betis to win",
+      "odds": 1.61,
+      "implied_prob": 62.1,
+      "our_prob": 72.5,
+      "edge": 10.4,
+      "kelly_fraction": 0.085,
+      "reasoning": "Real Betis host Feyenoord in Seville holding a clear tactical and structural edge at the Benito Villamarín. Betis combine composed midfield control with sharp half-space progression that routinely pulls visiting defensive blocks out of shape on home turf. While Feyenoord play on the front foot domestically in the Eredivisie, their aggressive full-back positioning leaves exploitable channels in defensive transition against technical La Liga opposition. Ladbrokes price the hosts at 1.61 (62.1% implied), offering strong value against our 72.5% true win estimate for a slate-leading 10.4% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Club Brugge vs RC Lens",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-10-21T19:00:00Z",
+      "pick": "Home",
+      "pick_label": "Club Brugge to win",
+      "odds": 1.85,
+      "implied_prob": 54.1,
+      "our_prob": 64.0,
+      "edge": 9.9,
+      "kelly_fraction": 0.058,
+      "reasoning": "Club Brugge welcome RC Lens to the Jan Breydel Stadium with seasoned Champions League pedigree and formidable home metrics. Brugge excel at compact mid-block organisation coupled with rapid vertical combinations through the inside channels, consistently generating high-quality penalty-box entries in front of their home support. Lens rely heavily on wing-back intensity and physical duels, but their away output drops when forced to break down disciplined European hosts. At 1.85 (54.1% implied), Ladbrokes undervalue Club Brugge relative to our 64.0% true win projection, yielding a 9.9% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Levante vs Athletic Bilbao",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-10-21T18:00:00Z",
+      "pick": "Away",
+      "pick_label": "Athletic Bilbao to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 56.0,
+      "edge": 9.5,
+      "kelly_fraction": 0.041,
+      "reasoning": "Athletic Bilbao travel to the Ciutat de València boasting superior squad depth, relentless high-pressing intensity, and one of La Liga's stingiest defensive units. Bilbao's direct wide overloads and transitional speed consistently punish sides that struggle to retain possession under pressure. Levante have shown vulnerability defending crosses and second balls in their own box against top-half opposition. Ladbrokes' 2.15 away price (46.5% implied) significantly underestimates Bilbao's qualitative superiority compared to our 56.0% true win probability, creating a 9.5% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.4,
+  "acca_result": null,
+  "acca_return": null
+}
