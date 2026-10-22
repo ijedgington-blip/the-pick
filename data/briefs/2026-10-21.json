@@ -15,9 +15,9 @@
       "kelly_fraction": 0.085,
       "reasoning": "Real Betis host Feyenoord in Seville holding a clear tactical and structural edge at the Benito Villamarín. Betis combine composed midfield control with sharp half-space progression that routinely pulls visiting defensive blocks out of shape on home turf. While Feyenoord play on the front foot domestically in the Eredivisie, their aggressive full-back positioning leaves exploitable channels in defensive transition against technical La Liga opposition. Ladbrokes price the hosts at 1.61 (62.1% implied), offering strong value against our 72.5% true win estimate for a slate-leading 10.4% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.1,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.058,
       "reasoning": "Club Brugge welcome RC Lens to the Jan Breydel Stadium with seasoned Champions League pedigree and formidable home metrics. Brugge excel at compact mid-block organisation coupled with rapid vertical combinations through the inside channels, consistently generating high-quality penalty-box entries in front of their home support. Lens rely heavily on wing-back intensity and physical duels, but their away output drops when forced to break down disciplined European hosts. At 1.85 (54.1% implied), Ladbrokes undervalue Club Brugge relative to our 64.0% true win projection, yielding a 9.9% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.041,
       "reasoning": "Athletic Bilbao travel to the Ciutat de València boasting superior squad depth, relentless high-pressing intensity, and one of La Liga's stingiest defensive units. Bilbao's direct wide overloads and transitional speed consistently punish sides that struggle to retain possession under pressure. Levante have shown vulnerability defending crosses and second balls in their own box against top-half opposition. Ladbrokes' 2.15 away price (46.5% implied) significantly underestimates Bilbao's qualitative superiority compared to our 56.0% true win probability, creating a 9.5% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 6.4,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
