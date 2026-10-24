@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-24",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Borussia Dortmund vs Eintracht Frankfurt",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-24T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Borussia Dortmund to win",
+      "odds": 1.5,
+      "implied_prob": 66.7,
+      "our_prob": 77.2,
+      "edge": 10.5,
+      "kelly_fraction": 0.105,
+      "reasoning": "Borussia Dortmund return to Signal Iduna Park where their attacking fluency, aggressive counter-pressing, and relentless half-space progression make them one of Europe's most formidable home sides. Against an expansive Eintracht Frankfurt outfit that struggles to maintain defensive compactness when defending wide overloads on the road, Dortmund's clinical penalty-box volume gives them a decisive tactical edge. Ladbrokes price the hosts right at our 1.50 threshold (66.7% implied), significantly underestimating their home dominance relative to our 77.2% true win probability for a slate-leading 10.5% value edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "West Ham United vs Southampton",
+      "league": "Championship",
+      "kickoff": "2026-10-24T14:00:00Z",
+      "pick": "Home",
+      "pick_label": "West Ham United to win",
+      "odds": 1.65,
+      "implied_prob": 60.6,
+      "our_prob": 70.6,
+      "edge": 10.0,
+      "kelly_fraction": 0.077,
+      "reasoning": "West Ham United welcome Southampton to the London Stadium boasting premier-tier squad depth, physical dominance on set pieces, and superior transitional firepower. While Southampton attempt to build methodically from the back, their high turnover rate under aggressive pressing has repeatedly left their backline exposed against elite Championship attacks. Ladbrokes' 1.65 home price (60.6% implied) fails to capture West Ham's structural and qualitative superiority on home turf compared to our 70.6% true win projection, yielding a clean 10.0% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Aston Villa vs Manchester City",
+      "league": "EPL",
+      "kickoff": "2026-10-24T11:30:00Z",
+      "pick": "Away",
+      "pick_label": "Manchester City to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 69.5,
+      "edge": 9.6,
+      "kelly_fraction": 0.072,
+      "reasoning": "Manchester City travel to Villa Park in the early Premier League kickoff slot holding a pronounced advantage in midfield control, positional rest defence, and sustained final-third pressure. Aston Villa's high defensive line is particularly vulnerable to City's timed third-man runs and vertical balls into space when possession turns over in the middle third. At 1.67 (59.9% implied), Ladbrokes offer strong value on the reigning heavyweights relative to our 69.5% true win estimate, providing a compelling 9.6% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.13,
+  "acca_result": null,
+  "acca_return": null
+}
