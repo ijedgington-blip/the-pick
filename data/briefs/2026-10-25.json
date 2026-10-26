@@ -15,9 +15,9 @@
       "kelly_fraction": 0.098,
       "reasoning": "Bayern Munich travel to the Europa-Park Stadion holding an overwhelming advantage in attacking efficiency, positional dominance, and final-third chance creation. While SC Freiburg remain disciplined in their mid-block organisation at home, they have repeatedly struggled to contain Bayern's dynamic half-space overloads and rapid switches of play. Ladbrokes price the Bavarian visitors right near our value floor at 1.53 (65.4% implied), leaving a generous 10.4% edge against our 75.8% true win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 15.3,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.093,
       "reasoning": "Athletic Bilbao at San Mamés represent one of La Liga's toughest assignments, combining relentless high pressing with direct wide progression and elite set-piece delivery. Getafe's ultra-compact low block and physical disruption tactics often falter on the road when forced to defend sustained wide crosses and second-ball phases for ninety minutes. At 1.53 (65.4% implied), Ladbrokes underestimate the Basque side's formidable home metrics relative to our 75.3% true win probability, yielding a strong 9.9% edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 15.3,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.043,
       "reasoning": "Liverpool welcome Brighton to Anfield in a fixture where the hosts' vertical transition speed and aggressive counter-pressing directly exploit Brighton's high-risk build-up structure. Although the Seagulls are capable of playing through initial pressure, their high defensive line leaves significant space in behind for Liverpool's wide forwards to attack at pace. Ladbrokes' 2.10 price (47.6% implied) significantly undervalues Anfield home advantage here compared to our 57.0% true win estimate, providing a compelling 9.4% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 21,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 4.92,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "win",
+  "acca_return": 49.2
 }
