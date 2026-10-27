@@ -15,9 +15,9 @@
       "kelly_fraction": 0.056,
       "reasoning": "Sevilla host CA Osasuna at the Estadio Ramón Sánchez-Pizjuán sitting 6th in La Liga on 14 points—their strongest start to a league campaign since 2021/22. While recent fixtures against title heavyweights Barcelona, Atlético Madrid, and Real Madrid skewed their short-term results, Luis García Plaza's side remain formidable on home turf against mid-table opposition and are boosted by Giorgi Kochorashvili's return to full midfield fitness. Conversely, Osasuna continue to exhibit severe defensive fragility away from El Sadar, conceding 18 goals across their opening nine league matches (2.0 per game). Ladbrokes' 1.85 price (54.1% implied) undervalues Sevilla's home territorial dominance and attacking output against a leaky visiting backline relative to our 63.6% true win probability, providing a strong 9.5% value edge.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 18.5,
+      "settled": true
     }
   ],
   "acca_available": false,
