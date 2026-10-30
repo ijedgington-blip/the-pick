@@ -1,18 +1,46 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-30",
   "fixtures": [
     {
-      "match": "Sevilla vs CA Osasuna",
+      "match": "Sheffield United vs Wrexham AFC",
+      "league": "Championship",
+      "kickoff": "2026-10-30T20:00:00Z",
+      "homeTeam": "Sheffield United",
+      "awayTeam": "Wrexham AFC",
+      "homeOdds": 2.3,
+      "drawOdds": 3.3,
+      "awayOdds": 3,
+      "homeImplied": 43.5,
+      "drawImplied": 30.3,
+      "awayImplied": 33.3,
+      "redditContext": []
+    },
+    {
+      "match": "Elversberg vs FSV Mainz 05",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-30T19:30:00Z",
+      "homeTeam": "Elversberg",
+      "awayTeam": "FSV Mainz 05",
+      "homeOdds": 3.1,
+      "drawOdds": 3.75,
+      "awayOdds": 2.1,
+      "homeImplied": 32.3,
+      "drawImplied": 26.7,
+      "awayImplied": 47.6,
+      "redditContext": []
+    },
+    {
+      "match": "Villarreal vs Espanyol",
       "league": "La Liga - Spain",
-      "kickoff": "2026-10-26T20:00:00Z",
-      "homeTeam": "Sevilla",
-      "awayTeam": "CA Osasuna",
-      "homeOdds": 1.85,
-      "drawOdds": 3.4,
-      "awayOdds": 4.33,
-      "homeImplied": 54.1,
-      "drawImplied": 29.4,
-      "awayImplied": 23.1,
+      "kickoff": "2026-10-30T20:00:00Z",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Espanyol",
+      "homeOdds": 1.4,
+      "drawOdds": 5,
+      "awayOdds": 6.5,
+      "homeImplied": 71.4,
+      "drawImplied": 20,
+      "awayImplied": 15.4,
       "redditContext": []
     }
   ]

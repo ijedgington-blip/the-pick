@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-30",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Elversberg vs FSV Mainz 05",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-10-30T19:30:00Z",
+      "pick": "Away",
+      "pick_label": "FSV Mainz 05 to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 58.2,
+      "edge": 10.6,
+      "kelly_fraction": 0.048,
+      "reasoning": "FSV Mainz 05 travel to the Ursapharm-Arena an der Kaiserlinde boasting a spotless 100% away record in the Bundesliga this term and superior top-flight tactical pedigree. While newly-promoted Elversberg sit level on 10 points in mid-table, they enter following a draining midweek DFB-Pokal defeat to Darmstadt and have lost both previous competitive meetings against Mainz. Ladbrokes' 2.10 price (47.6% implied) underestimates the visitors' road efficiency and transitional threat against our 58.2% true win projection, yielding a strong 10.6% edge.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Sheffield United vs Wrexham AFC",
+      "league": "Championship",
+      "kickoff": "2026-10-30T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Sheffield United to win",
+      "odds": 2.3,
+      "implied_prob": 43.5,
+      "our_prob": 53.5,
+      "edge": 10.0,
+      "kelly_fraction": 0.038,
+      "reasoning": "Sheffield United host a depleted Wrexham side at Bramall Lane where Chris Wilder's men have lost just one of their last four Championship outings, spearheaded by in-form striker Patrick Bamford (3 goals in his last 4 games). Conversely, Wrexham arrive winless in four consecutive away league fixtures following a 2-0 defeat at Blackburn Rovers and are missing key starters Josh Windass, Nathan Broadhead, and Max Cleworth through injury. At 2.30 (43.5% implied), Ladbrokes offer a 10.0% value edge against our 53.5% true win estimate.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.83,
+  "acca_result": null,
+  "acca_return": null
+}
