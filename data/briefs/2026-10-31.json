@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-31",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Burnley vs Portsmouth",
+      "league": "Championship",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Portsmouth to win",
+      "odds": 3.1,
+      "implied_prob": 32.3,
+      "our_prob": 44.5,
+      "edge": 12.2,
+      "kelly_fraction": 0.029,
+      "reasoning": "Portsmouth travel to Turf Moor in stellar Championship form, taking 10 points from their last four league fixtures (W3 D1) to climb to 11th on 18 points. Conversely, 22nd-placed Burnley have won just once in 12 league matches (conceding 25 goals), arrive off a heavy 4-1 thrashing at Lincoln City, and are severely depleted by injuries to Zeki Amdouni, Jacob Bruun Larsen, Jamie Vardy, Anel Ahmedhodzic, and Hannibal Mejbri. Ladbrokes' 3.10 price (32.3% implied) heavily overrates Burnley's name value against our 44.5% true away win estimate.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Bournemouth vs Leeds United",
+      "league": "Premier League",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Bournemouth to win",
+      "odds": 2.1,
+      "implied_prob": 47.6,
+      "our_prob": 59.0,
+      "edge": 11.4,
+      "kelly_fraction": 0.052,
+      "reasoning": "Marco Rose's Bournemouth enter on a blistering five-match winning streak across all competitions, having dismantled AC Milan (3-0), Manchester United (3-0), and Aston Villa (3-0) behind the clinical form of Marcus Tavernier and Evanilson. They host a Leeds United side that is winless in four consecutive Premier League matches (D3 L1) and coming off a flat 0-0 stalemate against bottom-club Sunderland. At 2.10 (47.6% implied), Ladbrokes lag behind Bournemouth's surging trajectory compared to our 59.0% true win projection.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Southampton vs Queens Park Rangers",
+      "league": "Championship",
+      "kickoff": "2026-10-31T15:00:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 62.0,
+      "edge": 10.7,
+      "kelly_fraction": 0.056,
+      "reasoning": "Southampton boast an unbeaten home league record at St. Mary's this season (W5 D1) and enter off an impressive 3-2 away triumph over promotion rivals West Ham United. The Saints have won each of their last four head-to-head meetings against a QPR side missing key starters Ilias Chair, Nicolas Madsen, Tariq Lamptey, and Amadou Mbengue. Ladbrokes' 1.95 price (51.3% implied) underestimates Southampton's home dominance and H2H superiority against our 62.0% true probability.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 12.69,
+  "acca_result": null,
+  "acca_return": null
+}
