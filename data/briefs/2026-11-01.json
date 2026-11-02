@@ -15,9 +15,9 @@
       "kelly_fraction": 0.043,
       "reasoning": "Sevilla sit comfortably in 6th place on 17 points and arrive following a composed 2-0 victory over Osasuna, showcasing strong defensive discipline in closing out matches. Conversely, José Bordalás's Getafe are reeling from a heavy 4-0 thrashing at Athletic Club and have managed just one win in their last five outings (W1 D1 L3), conceding nine goals across that span. Ladbrokes' 2.37 price (42.2% implied) significantly undervalues Sevilla's superior form and defensive structure against our 54.0% true away win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.037,
       "reasoning": "1. FC Köln dismantled Union Berlin 5-0 in the DFB-Pokal just days ago, highlighting a massive gulf in current confidence and attacking fluency. While 12th-placed Köln ride high on momentum from their dynamic young attack, Union Berlin sit 17th in the Bundesliga relegation zone with only 6 points from 7 matches. At 2.50 (40.0% implied), Ladbrokes fail to fully adjust for Köln's midweek psychological and tactical demolition of this exact opponent compared to our 51.0% true win estimate.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.04,
       "reasoning": "Elche have proven resilient on home soil this campaign, recently holding Villarreal to a draw, and face a crisis-hit Valencia side languishing in 19th place inside the La Liga relegation zone. With Los Che struggling chronically at both ends of the pitch and winless away from home, Ladbrokes' 2.30 odds (43.5% implied) give too much respect to Valencia's historical reputation against our 53.8% true home win probability.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 13.63,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
