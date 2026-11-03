@@ -15,9 +15,9 @@
       "kelly_fraction": 0.048,
       "reasoning": "Deportivo La Coruña welcome a travel-sick CA Osasuna side that has lost four consecutive away La Liga fixtures while shipping an alarming average of four goals per game on the road (20 conceded overall). By contrast, Dépor have kept matches tight at the Estadio ABANCA-Riazor—conceding just once per home outing—and boast five consecutive top-flight home clean sheets against the Navarrese visitors. Ladbrokes' 2.15 price (46.5% implied) undervalues Deportivo's home resilience and Osasuna's away defensive collapse against our 57.5% true win estimate.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 21.5,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,13 +33,13 @@
       "kelly_fraction": 0.047,
       "reasoning": "Newcastle United return to St. James' Park with rested first-choice starters Yoane Wissa and Joelinton restored to the XI, seeking immediate retribution after a rotated cup lineup fell to Everton midweek. David Moyes's Toffees have lost back-to-back Premier League matches against Chelsea and Arsenal and travel north dealing with Jack Grealish's disciplinary omission alongside a concussion doubt over key centre-back Jarrad Branthwaite. At 2.10 (47.6% implied), Ladbrokes overreact to the midweek cup result compared to our 58.0% true home win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 4.52,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
