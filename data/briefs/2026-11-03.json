@@ -15,9 +15,9 @@
       "kelly_fraction": 0.057,
       "reasoning": "Preston North End sit rock bottom of the Championship in 24th place with just 5 points from 13 matches, entering on a six-game winless run following a 2-0 defeat at Stoke City while missing key injured regulars Lewis Gibson, Harry Clarke, Liam Gibbs, and Ali McCann. By contrast, Chris Wilder's 10th-placed Sheffield United have collected 10 points from their last five outings and conceded only one goal across a three-match unbeaten league run. Ladbrokes' 2.05 price (48.8% implied) significantly undervalues the Blades against our 60.8% true away win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 20.5,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.052,
       "reasoning": "Derby County languish 23rd in the Championship relegation zone on 7 points, winless across their last nine league games and still searching for their first home victory at Pride Park after shipping three goals in the opening 17 minutes of Saturday's 4-1 thrashing at Millwall. Norwich City arrive buoyed by a dramatic 3-2 victory over Watford under Philippe Clement and boast three wins from their last five head-to-head meetings with the Rams. At 2.05 (48.8% implied), Ladbrokes underestimate the Canaries against a fragile Derby backline compared to our 59.8% true win estimate.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 20.5,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.052,
       "reasoning": "Julien Stéphan's Queens Park Rangers sit 9th on 20 points after losing just two of their last nine Championship fixtures, spearheaded in attack by prolific striker Richard Kone at Loftus Road. Meanwhile, 22nd-placed Burnley remain mired in the relegation zone on just 9 points from 13 games and are still adjusting to newly appointed head coach Fabio Celestini following a goalless draw with Portsmouth. Ladbrokes' 2.00 odds (50.0% implied) underprice QPR's superior form and home advantage against our 60.4% true win probability.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 8.41,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }

@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-04",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Wrexham AFC vs Middlesbrough",
+      "league": "Championship",
+      "kickoff": "2026-11-04T19:45:00Z",
+      "pick": "Away",
+      "pick_label": "Middlesbrough to win",
+      "odds": 1.73,
+      "implied_prob": 57.8,
+      "our_prob": 69.0,
+      "edge": 11.2,
+      "kelly_fraction": 0.077,
+      "reasoning": "Championship leaders Middlesbrough enter on an 11-match unbeaten league run with 30 goals scored across 13 games, fresh off a 3-0 rout of Charlton Athletic powered by a second consecutive brace from striker Will Lankshear and having already defeated Wrexham in the Carabao Cup this season. By contrast, 18th-placed Wrexham have won just three of 13 league fixtures, suffered back-to-back defeats without scoring, and lost striker Sam Smith to a long-term knee injury alongside attacking doubts Callum O'Hare, Josh Windass, and Nathan Broadhead. Ladbrokes' 1.73 price (57.8% implied) significantly undervalues Boro against our 69.0% true win projection.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Bristol City vs Wolverhampton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-11-04T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Wolverhampton Wanderers to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 56.5,
+      "edge": 11.0,
+      "kelly_fraction": 0.046,
+      "reasoning": "Third-placed Wolverhampton Wanderers have surged into automatic promotion contention with 10 points from their last four matches, arriving off a dominant 3-0 victory over Cardiff City with Fer López and Adam Armstrong in fine scoring touch. Meanwhile, 14th-placed Bristol City have lost four of their six home fixtures at Ashton Gate while managing just three home league goals all season, and striker Lorent Tolaj remains hampered by a hip injury. At 2.20 (45.5% implied), Ladbrokes underprice Wolves' superior firepower against our 56.5% true away win estimate.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "RC Lens vs Como",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-11-04T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Como to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 61.7,
+      "edge": 10.4,
+      "kelly_fraction": 0.055,
+      "reasoning": "Cesc Fàbregas's Como have won five consecutive matches across all competitions and sit 9th in the Champions League league phase after statement 4-1 victories over RB Leipzig and Manchester United, with rested playmaker Martin Baturina returning alongside Nico Paz and Anastasios Douvikas. Conversely, 27th-placed RC Lens have suffered back-to-back Champions League defeats without scoring against Sporting CP (0-2) and Club Brugge (0-3), enter off a 1-0 domestic loss to Lille, and remain without injured forwards Odsonne Edouard and Abdallah Sima. Ladbrokes' 1.95 odds (51.3% implied) underestimate Como's momentum against our 61.7% true win probability.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 7.42,
+  "acca_result": null,
+  "acca_return": null
+}
