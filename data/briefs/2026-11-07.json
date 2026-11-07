@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-07",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Preston North End vs Southampton",
+      "league": "Championship",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Southampton to win",
+      "odds": 1.53,
+      "implied_prob": 65.4,
+      "our_prob": 78.0,
+      "edge": 12.6,
+      "kelly_fraction": 0.119,
+      "reasoning": "Preston North End sit bottom of the Championship in 24th with just 5 points from 14 matches and the division's worst defensive record (30 goals conceded), suffering their 11th league defeat in midweek while missing injured regulars Johnny Kenny, Harry Clarke, Ali McCann, Liam Gibbs, and Lewis Gibson alongside suspended midfielder Leo Leroy. Conversely, 7th-placed Southampton (24 points) enter on a six-match unbeaten run across all competitions and welcome winger Leo Scienza back to fitness. Ladbrokes' 1.53 price (65.4% implied) significantly undervalues the Saints against our 78.0% true win probability.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Charlton Athletic vs Sheffield United",
+      "league": "Championship",
+      "kickoff": "2026-11-07T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Sheffield United to win",
+      "odds": 2.0,
+      "implied_prob": 50.0,
+      "our_prob": 62.0,
+      "edge": 12.0,
+      "kelly_fraction": 0.06,
+      "reasoning": "Charlton Athletic have slumped to 21st in the Championship on an 11-match winless league run and a four-game losing streak following a 1-0 midweek home loss to Bolton Wanderers, compounded by the absences of Kayne Ramsay, Rob Apter, and Collins Sichenje. Meanwhile, 9th-placed Sheffield United (22 points) arrive with strong momentum after back-to-back victories and are bolstered by the return of Kalvin Phillips from an ankle issue and Liam Kitching from suspension. At 2.00 (50.0% implied), Ladbrokes leave substantial value on an away win compared to our 62.0% projection.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Nottingham Forest vs Manchester City",
+      "league": "EPL",
+      "kickoff": "2026-11-07T17:30:00Z",
+      "pick": "Away",
+      "pick_label": "Manchester City to win",
+      "odds": 1.75,
+      "implied_prob": 57.1,
+      "our_prob": 68.5,
+      "edge": 11.4,
+      "kelly_fraction": 0.076,
+      "reasoning": "Second-placed Manchester City (21 points from 9 matches) come off a 3-2 midweek Champions League victory over RB Leipzig with Premier League top scorer Erling Haaland leading the attack. They visit a 19th-placed Nottingham Forest side stuck in the relegation zone on 6 points with just one win all season (D1 L4 in their last five), who remain winless and scoreless at the City Ground in the league this term and are missing injured duo Nicolo Savona and Igor Jesus. Ladbrokes' 1.75 odds (57.1% implied) underprice the visitors against our 68.5% true win estimate.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 5.36,
+  "acca_result": null,
+  "acca_return": null
+}

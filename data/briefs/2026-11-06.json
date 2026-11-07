@@ -15,9 +15,9 @@
       "kelly_fraction": 0.04,
       "reasoning": "Derby County sit 23rd in the Championship on an 11-match winless streak after consecutive 4-1 and 4-0 thrashings against Millwall and Norwich City, compounded by a defensive injury crisis missing Eiran Cashin, Sondre Langås, Craig Forsyth, and Charlie Taylor while top scorer Sammie Szmodics is a major knee doubt. Conversely, 17th-placed Bolton Wanderers sit 10 points clear of the Rams and have collected 7 points from their last 9 available on the road following a 1-0 away victory at Charlton Athletic. Ladbrokes' 2.50 price (40.0% implied) significantly undervalues Bolton against our 52.0% true away win projection.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     },
     {
       "rank": 2,
@@ -33,9 +33,9 @@
       "kelly_fraction": 0.083,
       "reasoning": "Seventh-placed Everton enter on a high after back-to-back cup and league victories over Newcastle United and boast an eight-match unbeaten run in Friday night home fixtures. Newly-promoted Coventry City sit 16th having shipped 16 goals across nine matches and travel to Merseyside without injured regulars Haji Wright, Aurele Amenda, Josh Eccles, and Luke Woolfenden, while Bobby Thomas and Frank Onyeka face late fitness tests. At 1.67 (59.9% implied), Ladbrokes underprice David Moyes's in-form hosts against our 71.0% true win probability.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "win",
+      "return": 16.7,
+      "settled": true
     },
     {
       "rank": 3,
@@ -51,13 +51,13 @@
       "kelly_fraction": 0.061,
       "reasoning": "Sixth-placed Sevilla have won three of their five home fixtures at the Estadio Ramón Sánchez-Pizjuán this campaign and welcome back midfielder Youssouf Fofana against an Alavés side in freefall. The visitors arrive on a seven-match winless run (D2 L5), reeling from a 6-1 demolition at Barcelona, and remain winless on the road all season (D2 L3) with 17 goals conceded in 11 outings. Ladbrokes' 1.85 odds (54.1% implied) leave strong value on a home victory compared to our 64.5% true win estimate.",
       "confidence": "high",
-      "result": null,
-      "return": null,
-      "settled": false
+      "result": "loss",
+      "return": 0,
+      "settled": true
     }
   ],
   "acca_available": true,
   "acca_odds": 7.72,
-  "acca_result": null,
-  "acca_return": null
+  "acca_result": "loss",
+  "acca_return": 0
 }
