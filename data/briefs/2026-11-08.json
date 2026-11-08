@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-08",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Sunderland vs Chelsea",
+      "league": "EPL",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "pick": "Away",
+      "pick_label": "Chelsea to win",
+      "odds": 1.95,
+      "implied_prob": 51.3,
+      "our_prob": 64.0,
+      "edge": 12.7,
+      "kelly_fraction": 0.067,
+      "reasoning": "Sunderland sit rock bottom of the Premier League in 20th place with just 5 points from 9 matches, struggling with Thursday-Sunday Europa League fatigue and missing suspended center-back Omar Alderete alongside injured defenders Daniel Ballard and Romaine Mundle. Meanwhile, 4th-placed Chelsea (16 points) arrive well-rested off a convincing 2-0 victory over Manchester United. Ladbrokes' 1.95 price (51.3% implied) significantly undervalues the Blues against our 64.0% estimated win probability.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Crystal Palace vs Liverpool",
+      "league": "EPL",
+      "kickoff": "2026-11-08T14:00:00Z",
+      "pick": "Away",
+      "pick_label": "Liverpool to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 74.0,
+      "edge": 11.5,
+      "kelly_fraction": 0.096,
+      "reasoning": "19th-placed Crystal Palace (7 points from 9 games) have lost three consecutive Premier League matches without scoring a goal, face a quick turnaround from Thursday's grueling Europa League draw against Hoffenheim, and are without suspended top striker Jean-Philippe Mateta as well as injured regulars Ismaïla Sarr, Chadi Riad, and Takehiro Tomiyasu. Against a depleted and fatigued Palace backline, 5th-placed Liverpool (15 points) hold a clear rest and quality advantage that puts their true win probability at 74.0% versus Ladbrokes' 62.5% implied odds.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "TSG Hoffenheim vs FC Schalke 04",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-11-08T18:30:00Z",
+      "pick": "Home",
+      "pick_label": "TSG Hoffenheim to win",
+      "odds": 1.6,
+      "implied_prob": 62.5,
+      "our_prob": 73.0,
+      "edge": 10.5,
+      "kelly_fraction": 0.088,
+      "reasoning": "Newly promoted Schalke 04 sit 17th in the Bundesliga relegation zone (6 points from 8 games), winless in their last six outings across all competitions and scoreless in four straight matches while owning the division's worst attack (4 goals scored). Hoffenheim (12th, 9 points, 14 goals scored including a 3-0 dismantling of Bayer Leverkusen) have won the last four head-to-head meetings against Schalke by an aggregate scoreline of 14-3. Ladbrokes' 1.60 odds (62.5% implied) leave a 10.5% edge against our 73.0% home win projection.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 4.99,
+  "acca_result": null,
+  "acca_return": null
+}
