@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-20",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Athletic Bilbao vs Espanyol",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-11-20T20:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 4.4,
+      "implied_prob": 22.7,
+      "our_prob": 27.5,
+      "edge": 4.8,
+      "kelly_fraction": 0.007,
+      "reasoning": "On a thin two-match Friday slate where both heavy home favourites fall below our 1.50 minimum odds threshold (Bayern Munich at 1.09 and Athletic Bilbao at 1.48), the draw at San Mamés is the lone positive-value play. Ladbrokes' 1.48 quote on Athletic (67.6% implied) overstates the hosts relative to their 2026–27 return of 4W 4D 3L (36.4% draws overall, 3W 2D 1L at home) and persistent finishing wastefulness (16 of 26 big chances missed, including a 1–1 stalemate at Osasuna despite generating 2.28 xG). Meanwhile, Espanyol have tightened considerably since appointing Eder Sarabia on 28 October, posting consecutive clean sheets in a 1–0 away win at Villarreal and a 0–0 draw against Deportivo La Coruña, and completed the 2025–26 league double over Athletic (including a 2–1 win at San Mamés). With pre-match models rating Athletic closer to 55–58% and 1–1 tied as the joint-most-likely scoreline, our 27.5% draw estimate yields a +4.8% edge against Ladbrokes' 22.7% implied probability.",
+      "confidence": "low",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": false,
+  "acca_odds": null,
+  "acca_result": null,
+  "acca_return": null
+}
