@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-21",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Swansea City vs West Bromwich Albion",
+      "league": "Championship",
+      "kickoff": "2026-11-21T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "West Bromwich Albion to win",
+      "odds": 2.7,
+      "implied_prob": 37.0,
+      "our_prob": 47.0,
+      "edge": 10.0,
+      "kelly_fraction": 0.029,
+      "reasoning": "Ladbrokes still price Swansea as slight home favourites despite a turbulent week in which head coach Vitor Matos departed for Strasbourg, leaving interim boss Ashley Williams in charge of a side that has lost four of its last five Championship games (L-L-W-L-L). Swansea are also missing key midfielders Goncalo Franco (hamstring) and Marko Stamenic (suspended), plus Cameron Burgess. Fifth-placed West Brom (28 pts, +8 GD) arrive on a six-match unbeaten run capped by a 3-0 win over Millwall with a settled, healthy squad. At 2.70 (37.0% implied), the market over-weights Swansea's historical home H2H and under-prices the stark form and stability gap.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Elversberg vs SC Freiburg",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-11-21T14:30:00Z",
+      "pick": "Away",
+      "pick_label": "SC Freiburg to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 58.0,
+      "edge": 9.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "SC Freiburg sit 3rd in the Bundesliga (6W 1D 2L, 20 GF 10 GA, +10 GD) — their joint-best start in club history — and travel near full strength after back-to-back league wins, having scored in 12 consecutive top-flight matches. Newly promoted Elversberg have made a lively start in 7th, but their momentum has faded with three defeats in their last four games and 18 goals conceded (the worst defensive record in the top half), alongside injuries to Luis Seifert, Mickelson, and Pinckert. Pricing a clinical, defensively disciplined top-three side at 2.05 (48.8% implied) offers clear value.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Sevilla vs Real Betis",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-11-21T17:30:00Z",
+      "pick": "Away",
+      "pick_label": "Real Betis to win",
+      "odds": 2.4,
+      "implied_prob": 41.7,
+      "our_prob": 50.5,
+      "edge": 8.8,
+      "kelly_fraction": 0.031,
+      "reasoning": "Real Betis enter the Seville derby 4th in La Liga (26 pts, 8W 2D 2L, +5 GD), eight points clear of their rivals on a W-W-W-D-W run and unbeaten in their last three meetings against Sevilla. Manuel Pellegrini has a healthy, settled squad led by Isco and Antony, whereas Sevilla (6th, -2 GD) have won just once in their last six league outings and are stretched by absences including Jose Angel Carmona, Alfon Gonzalez, Miguel Sierra, and Peque, with Marcao doubtful. Derby-tax pricing at 2.40 (41.7% implied) understates Betis's form and fitness advantage.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 13.28,
+  "acca_result": null,
+  "acca_return": null
+}
