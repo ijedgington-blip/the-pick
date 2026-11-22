@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-22",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Burnley vs Blackburn Rovers",
+      "league": "Championship",
+      "kickoff": "2026-11-22T12:00:00Z",
+      "pick": "Away",
+      "pick_label": "Blackburn Rovers to win",
+      "odds": 3.7,
+      "implied_prob": 27.0,
+      "our_prob": 38.0,
+      "edge": 11.0,
+      "kelly_fraction": 0.02,
+      "reasoning": "Ladbrokes still price Burnley as odds-on-adjacent 1.91 favourites on reputation and historical H2H despite the Clarets sitting 22nd in the Championship relegation zone with just one win in 15 league matches (1W 7D 7L, -9 GD) and winless in six (L-D-D-L-L). Blackburn Rovers arrive 11 points clear in 13th (21 pts, 6W 3D 6L, -1 GD) with a settled squad. Even allowing for East Lancashire derby intensity at Turf Moor, pricing Blackburn at 3.70 (27.0% implied) against a side losing nearly half its games is a clear market lag.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Real Racing Club de Santander vs Real Sociedad",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-11-22T15:15:00Z",
+      "pick": "Away",
+      "pick_label": "Real Sociedad to win",
+      "odds": 2.05,
+      "implied_prob": 48.8,
+      "our_prob": 58.0,
+      "edge": 9.2,
+      "kelly_fraction": 0.044,
+      "reasoning": "Real Sociedad sit 5th in La Liga (22 pts, 7W 1D 4L) on a strong W-W-W-L-W run and have won three of their last four away league fixtures, boosted by Mama Sarr's return to fitness. Newly promoted Racing Santander (12th, 14 pts) have shown spirit at El Sardinero, but their defence has leaked 30 goals in 12 matches (2.5 per game). Against a tactically disciplined European contender in sharp away form, 2.05 (48.8% implied) under-prices La Real.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Liverpool vs Manchester United",
+      "league": "EPL",
+      "kickoff": "2026-11-22T16:30:00Z",
+      "pick": "Home",
+      "pick_label": "Liverpool to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 67.0,
+      "edge": 7.1,
+      "kelly_fraction": 0.053,
+      "reasoning": "Liverpool (5th, 18 pts, +4 GD) welcome Virgil van Dijk, Ryan Gravenberch, and Jeremie Frimpong back to fitness at Anfield after a 3-1 win at Crystal Palace. Manchester United languish in 19th place (8 pts, 1W 5D 4L, 19 goals conceded) and are winless in eight Premier League outings while missing Benjamin Sesko, Manuel Ugarte, and Carlos Baleba. Even factoring in a potential new-manager bounce on Mauricio Pochettino's debut, 1.67 (59.9% implied) leaves solid value on Liverpool at home.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 12.67,
+  "acca_result": null,
+  "acca_return": null
+}
