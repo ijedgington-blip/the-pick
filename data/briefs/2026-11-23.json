@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-23",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Brentford vs Everton",
+      "league": "EPL",
+      "kickoff": "2026-11-23T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Everton to win",
+      "odds": 3.1,
+      "implied_prob": 32.3,
+      "our_prob": 39.0,
+      "edge": 6.7,
+      "kelly_fraction": 0.016,
+      "reasoning": "Everton arrive in 6th (16 pts) on a three-match winning streak across all competitions with a healthy squad and Thierno Barry in sharp goalscoring form. Brentford (8th, 14 pts, L-D-L-W-L) are normally tough at the Gtech Community Stadium, but they are severely depleted: star striker Igor Thiago is suspended following his red card at Brighton, and captain Nathan Collins, Aaron Hickey, and Rico Henry are all sidelined. Ladbrokes' 3.10 (32.3% implied) under-prices the in-form visitors against a weakened Bees XI.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Levante vs Elche CF",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-11-23T20:00:00Z",
+      "pick": "Draw",
+      "pick_label": "Draw",
+      "odds": 3.6,
+      "implied_prob": 27.8,
+      "our_prob": 33.0,
+      "edge": 5.2,
+      "kelly_fraction": 0.01,
+      "reasoning": "This Valencian relegation six-pointer pits 18th-placed Levante (11 pts) against 19th-placed Elche (10 pts). Ladbrokes lean on Levante's home H2H record at 2.15, but Luís Castro's side have managed just one win in their last nine league games and recently ground out a 0-0 draw at Celta Vigo. Elche have gone two league games without scoring but welcome back Thomas Lemar and Gonzalo Villar to stiffen midfield. In a tense, low-margin battle where neither side can afford to lose, 3.60 (27.8% implied) offers clear value on the draw.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.16,
+  "acca_result": null,
+  "acca_return": null
+}
