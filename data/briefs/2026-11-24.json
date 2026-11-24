@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-24",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Feyenoord vs Porto",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-11-24T20:00:00Z",
+      "pick": "Away",
+      "pick_label": "Porto to win",
+      "odds": 2.2,
+      "implied_prob": 45.5,
+      "our_prob": 54.0,
+      "edge": 8.5,
+      "kelly_fraction": 0.035,
+      "reasoning": "Feyenoord arrive in a severe six-match winless slump across all competitions (L-L-L-D-D-L), including a weekend defeat to Excelsior, and have leaked 11 goals in four Champions League games (2.75 per match) with Jeremiah St. Juste sidelined and Tsuyoshi Watanabe doubtful. Francesco Farioli's Porto are flying on a six-game unbeaten run (five wins, one draw) featuring a 4-1 thrashing of Napoli in Europe, with Samu Aghehowa and Gabriel Veiga leading a healthy squad. Ladbrokes' 2.20 (45.5% implied) over-weights De Kuip home advantage against a far sharper Porto side.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Sheffield United vs Southampton",
+      "league": "Championship",
+      "kickoff": "2026-11-24T19:45:00Z",
+      "pick": "Away",
+      "pick_label": "Southampton to win",
+      "odds": 2.6,
+      "implied_prob": 38.5,
+      "our_prob": 46.0,
+      "edge": 7.5,
+      "kelly_fraction": 0.023,
+      "reasoning": "Ladbrokes price this Championship clash as an even coin flip at 2.60 apiece, overlooking major personnel swings and H2H dominance. Sheffield United lose in-form forward Ben Brereton (ineligible against his parent club after scoring twice vs Watford) and starting centre-back Japhet Tanganga (suspended). Meanwhile, 6th-placed Southampton have won five and drawn two of their last eight, just beat Derby 2-0 with striker Cyle Larin returning to net his 8th league goal, and have won six straight meetings against the Blades.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Norwich City vs Queens Park Rangers",
+      "league": "Championship",
+      "kickoff": "2026-11-24T19:45:00Z",
+      "pick": "Home",
+      "pick_label": "Norwich City to win",
+      "odds": 2.0,
+      "implied_prob": 50.0,
+      "our_prob": 56.5,
+      "edge": 6.5,
+      "kelly_fraction": 0.033,
+      "reasoning": "Philippe Clement's Norwich are the Championship's most prolific side right now, riding a five-match winning streak while averaging over three goals per game, spearheaded by Paris Maghoma (five goals in five outings). QPR sit 7th and are unbeaten in three, keeping the Canaries at a generous evens (2.00, 50.0% implied), but Norwich are unbeaten in their last 11 home meetings with QPR at Carrow Road and carry superior attacking firepower.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 11.44,
+  "acca_result": null,
+  "acca_return": null
+}
