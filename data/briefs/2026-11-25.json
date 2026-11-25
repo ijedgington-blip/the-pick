@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-25",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Sporting Lisbon vs Manchester United",
+      "league": "UEFA Champions League",
+      "kickoff": "2026-11-25T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Sporting Lisbon to win",
+      "odds": 2.6,
+      "implied_prob": 38.5,
+      "our_prob": 48.5,
+      "edge": 10.0,
+      "kelly_fraction": 0.031,
+      "reasoning": "Sporting CP arrive on a five-match winning streak across all competitions and sit 10th in the Champions League table with 9 points (3W-1L), firing under new boss Paulo Fonseca with Luis Suárez and Fotis Ioannidis leading the line at Estádio José Alvalade. Manchester United (17th in UCL, hovering near the Premier League relegation zone) are reeling from a 4-0 thrashing at Anfield in Mauricio Pochettino's debut and travel without suspended Matheus Cunha plus injured Marcus Rashford, Manuel Ugarte, Carlos Baleba, and Benjamin Šeško. Ladbrokes still pricing Sporting as home underdogs at 2.60 (38.5% implied) offers standout value.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Stoke City vs Millwall",
+      "league": "Championship",
+      "kickoff": "2026-11-25T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Stoke City to win",
+      "odds": 2.15,
+      "implied_prob": 46.5,
+      "our_prob": 55.5,
+      "edge": 9.0,
+      "kelly_fraction": 0.039,
+      "reasoning": "Mark Robins' Stoke City sit 2nd in the Championship (level on points with leaders Middlesbrough) on a five-game unbeaten run featuring four straight wins and three consecutive home clean sheets, including a gritty 1-0 victory over 4th-placed Birmingham. Millwall have slumped to 16th with three successive defeats and five losses in eight away trips, and arrive depleted with Zak Sturge suspended and Ryan Leonard, Tristan Crama, Filip Marschall, and Mathis Servais sidelined. At 2.15 (46.5% implied), Ladbrokes over-weight Millwall's historical H2H record against a far stronger Stoke side.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Burnley vs Birmingham City",
+      "league": "Championship",
+      "kickoff": "2026-11-25T19:45:00Z",
+      "pick": "Away",
+      "pick_label": "Birmingham City to win",
+      "odds": 2.45,
+      "implied_prob": 40.8,
+      "our_prob": 48.5,
+      "edge": 7.7,
+      "kelly_fraction": 0.027,
+      "reasoning": "Burnley are mired in the relegation zone in 22nd (11 points from 16 games), hold the joint-worst defensive record in the Championship (33 conceded), and are still searching for their first home league win at Turf Moor since October 2025. Worse still, the Clarets lose both Connor Roberts and Josh Laurent to suspension alongside injured Armando Broja, Mike Trésor, Jacob Bruun Larsen, and Hannibal Mejbri. Fourth-placed Birmingham City (29 points) have stumbled on their last two road trips and miss suspended Christoph Klarer, but 2.45 (40.8% implied) underrates the gulf in quality against a depleted bottom-three host.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 13.7,
+  "acca_result": null,
+  "acca_return": null
+}
