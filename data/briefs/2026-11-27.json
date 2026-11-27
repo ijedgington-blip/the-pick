@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-27",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Werder Bremen vs Borussia Monchengladbach",
+      "league": "Bundesliga - Germany",
+      "kickoff": "2026-11-27T19:30:00Z",
+      "pick": "Home",
+      "pick_label": "Werder Bremen to win",
+      "odds": 1.67,
+      "implied_prob": 59.9,
+      "our_prob": 68.0,
+      "edge": 8.1,
+      "kelly_fraction": 0.06,
+      "reasoning": "Sixth-placed Werder Bremen have won three of their last four Bundesliga matches, including a 4-0 rout of Hamburg, with clean sheets in two of their last three. Bottom-placed Gladbach sit on just four points from ten games (W1 D1 L8), have conceded a joint-league-high 26 goals, and have won only one of their last 16 away league matches while conceding 2+ in each of their last six on the road. Ladbrokes' 1.67 price leans too heavily on historical H2H.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Nottingham Forest vs Chelsea",
+      "league": "EPL",
+      "kickoff": "2026-11-27T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Nottingham Forest to win",
+      "odds": 2.4,
+      "implied_prob": 41.7,
+      "our_prob": 48.0,
+      "edge": 6.3,
+      "kelly_fraction": 0.023,
+      "reasoning": "Chelsea arrive in a severe slump under Xabi Alonso, losing four of their last five league games including a 4-1 home defeat to Leeds United, and have conceded 20 goals in 11 matches. They are further weakened by injuries to Reece James, Jorrel Hato, Maxence Lacroix, and Joao Pedro. Forest have already beaten Man City 3-1 at the City Ground this month, beat Chelsea 3-1 in their last meeting, and welcome back Xaver Schlager and Callum Hudson-Odoi.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Southampton vs Middlesbrough",
+      "league": "Championship",
+      "kickoff": "2026-11-27T20:00:00Z",
+      "pick": "Home",
+      "pick_label": "Southampton to win",
+      "odds": 3.0,
+      "implied_prob": 33.3,
+      "our_prob": 38.5,
+      "edge": 5.2,
+      "kelly_fraction": 0.013,
+      "reasoning": "League leaders Middlesbrough are priced as clear away favourites at 2.20, leaving generous value on Southampton at 3.00. Saints remain unbeaten at St Mary's in the Championship this season, sit firmly in the play-off mix, and are unbeaten in their last six home league meetings with Boro (3W, 3D), including a 2-1 win in last season's fixture. With Cyle Larin and Finn Azaz in strong form, Ladbrokes are underpricing Southampton's home edge.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 12.02,
+  "acca_result": null,
+  "acca_return": null
+}
