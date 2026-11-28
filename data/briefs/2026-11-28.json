@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-28",
+  "picks": [
+    {
+      "rank": 1,
+      "match": "Lincoln City vs Wolverhampton Wanderers",
+      "league": "Championship",
+      "kickoff": "2026-11-28T12:30:00Z",
+      "pick": "Away",
+      "pick_label": "Wolverhampton Wanderers to win",
+      "odds": 1.53,
+      "implied_prob": 65.4,
+      "our_prob": 73.5,
+      "edge": 8.1,
+      "kelly_fraction": 0.076,
+      "reasoning": "Lincoln City are in freefall with five straight Championship defeats and eight losses in their last ten, culminating in a 4-0 loss at Charlton that saw joint head coaches Chris Cohen and Tom Shaw dismissed. The Imps have not kept a clean sheet in ten games and are missing Tendayi Darikwa, Conor McGrandles, and Mason Melia. Fourth-placed Wolves (34 pts, +12 GD) arrive off a 3-0 midweek win over Derby and average over 18 shots per game, making 1.53 strong value.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 2,
+      "match": "Elche CF vs Atlético Madrid",
+      "league": "La Liga - Spain",
+      "kickoff": "2026-11-28T17:30:00Z",
+      "pick": "Away",
+      "pick_label": "Atlético Madrid to win",
+      "odds": 1.5,
+      "implied_prob": 66.7,
+      "our_prob": 74.5,
+      "edge": 7.8,
+      "kelly_fraction": 0.078,
+      "reasoning": "Nineteenth-placed Elche hold the worst home record in La Liga with just 1 point from 18 at the Martínez Valero (0W 1D 5L, 4 goals scored, 14 conceded) and are missing Thomas Lemar, Rubén Sánchez, and Marc Aguado. Third-placed Atlético Madrid (31 pts, +16 GD) share the division's best away record (18 pts) and arrive off consecutive clean-sheet wins over Getafe (3-0) and Viking FK (2-0). Ladbrokes' 1.50 overweights last season's shock H2H result.",
+      "confidence": "high",
+      "result": null,
+      "return": null,
+      "settled": false
+    },
+    {
+      "rank": 3,
+      "match": "Manchester United vs Brentford",
+      "league": "EPL",
+      "kickoff": "2026-11-28T15:00:00Z",
+      "pick": "Away",
+      "pick_label": "Brentford to win",
+      "odds": 2.9,
+      "implied_prob": 34.5,
+      "our_prob": 41.5,
+      "edge": 7.0,
+      "kelly_fraction": 0.018,
+      "reasoning": "Manchester United sit 19th in the Premier League with just one win in 11 games (-9 GD), have gone 13 matches without a clean sheet, and Mauricio Pochettino remains winless after a 4-0 loss at Liverpool. Captain Bruno Fernandes is a major doubt with illness, joining Ugarte, Sesko, Baleba, and Rashford on the sidelines. Sixth-placed Brentford (+9 GD) arrive off a 4-0 rout of Everton, and 2.90 heavily underprices them due to badge reputation and historical Old Trafford H2H.",
+      "confidence": "medium",
+      "result": null,
+      "return": null,
+      "settled": false
+    }
+  ],
+  "acca_available": true,
+  "acca_odds": 6.66,
+  "acca_result": null,
+  "acca_return": null
+}
